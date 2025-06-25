@@ -1,6 +1,7 @@
 <script lang="ts">
   import { forEachChild } from "typescript";
   import { Suspense, onMounted } from 'vue'
+  import { compressToEncodedURIComponent, decompressFromEncodedURIComponent } from 'lz-string'
   import "leaflet/dist/leaflet.css";
   import {
     LMap,
@@ -26,66 +27,16 @@
 
   let current_map = new Map();
 
-  //圧縮関係
-  // https://numb86-tech.hatenablog.com/entry/2023/01/22/171246 からコピペ
-  //TODO：クラスに分ける
-
-  function arrayBufferToBinaryString(arrayBuffer) {
-    const bytes = new Uint8Array(arrayBuffer);
-
-    let binaryString = "";
-    for (let i = 0; i < bytes.byteLength; i++) {
-      binaryString += String.fromCharCode(bytes[i]);
-    }
-    return binaryString;
-  };
-
-  async function compress(target) {
-    const blob = new Blob([target]);
-    const stream = blob.stream();
-    const compressedStream = stream.pipeThrough(
-      new CompressionStream("deflate-raw")
-    );
-
-    const buf = await new Response(compressedStream).arrayBuffer();
-
-    const binaryString = arrayBufferToBinaryString(buf);
-    const encodedByBase64 = btoa(binaryString);
-    return encodedByBase64;
-  };
-
-  function binaryStringToBytes(str) {
-    const bytes = new Uint8Array(str.length);
-    for (let i = 0; i < str.length; i++) {
-      bytes[i] = str.charCodeAt(i);
-    }
-    return bytes;
-  };
-
-  async function decompress(target) {
-    const decodedByBase64 = atob(target);
-    const bytes = binaryStringToBytes(decodedByBase64);
-
-    const stream = new Blob([bytes]).stream();
-
-    const decompressedStream = stream.pipeThrough(
-      new DecompressionStream("deflate-raw")
-    );
-
-    return await new Response(decompressedStream).text();
-  };
-  //圧縮関係終わり
-
-  async function serialize(pins) {
+function serialize(pins) {
     let s = "";
     for (let pin of pins) {
       s += pin.name + "=" + pin.status + ":";
     }
-    return compress(s);
+    return compressToEncodedURIComponent(s);
   }
 
-  async function deserialize(compressedStr) {
-    let s = await decompress(compressedStr);
+function deserialize(compressedStr) {
+    let s = decompressFromEncodedURIComponent(compressedStr);
     let tokens = s.split(":");
     let result = {};
     for (let token of tokens) {
@@ -135,7 +86,7 @@
   }
 
   async function clickCopyStateButton() {
-    let str = encodeURIComponent(await serialize(pins));
+    let str = serialize(pins);
     const oldurl = new URLSearchParams(window.location.search);
     let newurl = window.location.host + "?region=" + current_map.region + "&state="+ current_map.state + "&city=" + current_map.city + "&status=" + str;
     navigator.clipboard.writeText(newurl);
