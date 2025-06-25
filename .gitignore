@@ -31,3 +31,4 @@ coverage
 *.tsbuildinfo
 /obj
 /package-lock.json
+/*.user
