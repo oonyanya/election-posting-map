@@ -1,0 +1,3017 @@
+[
+  {
+    "featureid": "10303899",
+    "dispname": "岩槻区第１投票区１－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.683125489479,
+        35.9451201433687
+      ]
+    }
+  },
+  {
+    "featureid": "10303900",
+    "dispname": "岩槻区第１投票区１－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.683556626797,
+        35.9470232117307
+      ]
+    }
+  },
+  {
+    "featureid": "10303901",
+    "dispname": "岩槻区第１投票区１－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.682357387361,
+        35.9472529006811
+      ]
+    }
+  },
+  {
+    "featureid": "10303902",
+    "dispname": "岩槻区第１投票区１－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.683343515172,
+        35.9492276907803
+      ]
+    }
+  },
+  {
+    "featureid": "10303903",
+    "dispname": "岩槻区第１投票区１－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.683378242412,
+        35.9481551506719
+      ]
+    }
+  },
+  {
+    "featureid": "10303904",
+    "dispname": "岩槻区第２投票区２－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.686278121637,
+        35.951690692308
+      ]
+    }
+  },
+  {
+    "featureid": "10303905",
+    "dispname": "岩槻区第２投票区２－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.684989190942,
+        35.9489278803461
+      ]
+    }
+  },
+  {
+    "featureid": "10303906",
+    "dispname": "岩槻区第２投票区２－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.692405013273,
+        35.9500981810983
+      ]
+    }
+  },
+  {
+    "featureid": "10303907",
+    "dispname": "岩槻区第１２投票区１２－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.735727813466,
+        35.9348226388394
+      ]
+    }
+  },
+  {
+    "featureid": "10303908",
+    "dispname": "岩槻区第１２投票区１２－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.741919969799,
+        35.9303841188408
+      ]
+    }
+  },
+  {
+    "featureid": "10303909",
+    "dispname": "岩槻区第１３投票区１３－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.693097930985,
+        35.9287709494471
+      ]
+    }
+  },
+  {
+    "featureid": "10303910",
+    "dispname": "岩槻区第１３投票区１３－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.700131739705,
+        35.9384096140305
+      ]
+    }
+  },
+  {
+    "featureid": "10303911",
+    "dispname": "岩槻区第１３投票区１３－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.7108145729,
+        35.9341262316097
+      ]
+    }
+  },
+  {
+    "featureid": "10303912",
+    "dispname": "岩槻区第１４投票区１４－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.683820650289,
+        35.9433227650925
+      ]
+    }
+  },
+  {
+    "featureid": "10303913",
+    "dispname": "岩槻区第１４投票区１４－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.692065129793,
+        35.9390217706118
+      ]
+    }
+  },
+  {
+    "featureid": "10303914",
+    "dispname": "岩槻区第１４投票区１４－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.69550553861,
+        35.942674362012
+      ]
+    }
+  },
+  {
+    "featureid": "10303915",
+    "dispname": "岩槻区第１４投票区１４－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.693341580195,
+        35.9423113251311
+      ]
+    }
+  },
+  {
+    "featureid": "10303916",
+    "dispname": "岩槻区第１５投票区１５－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.720208349597,
+        35.9251237339926
+      ]
+    }
+  },
+  {
+    "featureid": "10303917",
+    "dispname": "岩槻区第１５投票区１５－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.71676194608,
+        35.9231078468519
+      ]
+    }
+  },
+  {
+    "featureid": "10303918",
+    "dispname": "岩槻区第１５投票区１５－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.726894968488,
+        35.9254576635518
+      ]
+    }
+  },
+  {
+    "featureid": "10303919",
+    "dispname": "岩槻区第１５投票区１５－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.726566132586,
+        35.9151844011653
+      ]
+    }
+  },
+  {
+    "featureid": "10303920",
+    "dispname": "岩槻区第１５投票区１５－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.72043280164,
+        35.9185392414679
+      ]
+    }
+  },
+  {
+    "featureid": "10303921",
+    "dispname": "岩槻区第１５投票区１５－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.715981925485,
+        35.9160621591709
+      ]
+    }
+  },
+  {
+    "featureid": "10303922",
+    "dispname": "岩槻区第１６投票区１６－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.721923933642,
+        35.9384410106068
+      ]
+    }
+  },
+  {
+    "featureid": "10303923",
+    "dispname": "岩槻区第１６投票区１６－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.725129367975,
+        35.9349484834397
+      ]
+    }
+  },
+  {
+    "featureid": "10303924",
+    "dispname": "岩槻区第１６投票区１６－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.712757209117,
+        35.9361449312077
+      ]
+    }
+  },
+  {
+    "featureid": "10303925",
+    "dispname": "岩槻区第１６投票区１６－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.718049382383,
+        35.9335588874399
+      ]
+    }
+  },
+  {
+    "featureid": "10303926",
+    "dispname": "岩槻区第１６投票区１６－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.721512977105,
+        35.9318971302037
+      ]
+    }
+  },
+  {
+    "featureid": "10303927",
+    "dispname": "岩槻区第１７投票区１７－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.726344453662,
+        35.9168036343574
+      ]
+    }
+  },
+  {
+    "featureid": "10303928",
+    "dispname": "岩槻区第２８投票区２８－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.737893903141,
+        35.8943835805062
+      ]
+    }
+  },
+  {
+    "featureid": "10303929",
+    "dispname": "岩槻区第２８投票区２８－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.747169881721,
+        35.8849080438568
+      ]
+    }
+  },
+  {
+    "featureid": "10303930",
+    "dispname": "岩槻区第１８投票区１８－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.734579895331,
+        35.9288102545251
+      ]
+    }
+  },
+  {
+    "featureid": "10303931",
+    "dispname": "岩槻区第１８投票区１８－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.741934173337,
+        35.925072115169
+      ]
+    }
+  },
+  {
+    "featureid": "10303932",
+    "dispname": "岩槻区第１８投票区１８－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.738144671017,
+        35.9233555525441
+      ]
+    }
+  },
+  {
+    "featureid": "10303933",
+    "dispname": "岩槻区第１８投票区１８－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.738353459552,
+        35.9154638932892
+      ]
+    }
+  },
+  {
+    "featureid": "10303934",
+    "dispname": "岩槻区第１９投票区１９－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.696825640351,
+        35.9971669852092
+      ]
+    }
+  },
+  {
+    "featureid": "10303935",
+    "dispname": "岩槻区第１９投票区１９－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.692798198454,
+        35.9779435632208
+      ]
+    }
+  },
+  {
+    "featureid": "10303936",
+    "dispname": "岩槻区第１９投票区１９－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.699365225589,
+        35.9875649759273
+      ]
+    }
+  },
+  {
+    "featureid": "10303937",
+    "dispname": "岩槻区第１９投票区１９－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.695493452791,
+        35.9799355562704
+      ]
+    }
+  },
+  {
+    "featureid": "10303938",
+    "dispname": "岩槻区第１９投票区１９－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.70084438624,
+        35.9779833625009
+      ]
+    }
+  },
+  {
+    "featureid": "10303939",
+    "dispname": "岩槻区第２０投票区２０－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.700768859195,
+        35.9742764826673
+      ]
+    }
+  },
+  {
+    "featureid": "10303940",
+    "dispname": "岩槻区第２０投票区２０－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.71406919762,
+        35.980336448729
+      ]
+    }
+  },
+  {
+    "featureid": "10303941",
+    "dispname": "岩槻区第２０投票区２０－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.712855039568,
+        35.9777044440836
+      ]
+    }
+  },
+  {
+    "featureid": "10303942",
+    "dispname": "岩槻区第２０投票区２０－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.713378365103,
+        35.9785578036204
+      ]
+    }
+  },
+  {
+    "featureid": "10303943",
+    "dispname": "岩槻区第２１投票区２１－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.719970567294,
+        35.9721286474459
+      ]
+    }
+  },
+  {
+    "featureid": "10303944",
+    "dispname": "岩槻区第２１投票区２１－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.718562961254,
+        35.9712628460934
+      ]
+    }
+  },
+  {
+    "featureid": "10303945",
+    "dispname": "岩槻区第２１投票区２１－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.71492253757,
+        35.9701523884687
+      ]
+    }
+  },
+  {
+    "featureid": "10303946",
+    "dispname": "岩槻区第２１投票区２１－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.721102212644,
+        35.9697074829858
+      ]
+    }
+  },
+  {
+    "featureid": "10303947",
+    "dispname": "岩槻区第２１投票区２１－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.720117723173,
+        35.9690886077385
+      ]
+    }
+  },
+  {
+    "featureid": "10303948",
+    "dispname": "岩槻区第２２投票区２２－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.723604209004,
+        35.982822031311
+      ]
+    }
+  },
+  {
+    "featureid": "10303949",
+    "dispname": "岩槻区第２２投票区２２－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.72536919758,
+        35.981791704257
+      ]
+    }
+  },
+  {
+    "featureid": "10303950",
+    "dispname": "岩槻区第２２投票区２２－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.725125363262,
+        35.9797435810944
+      ]
+    }
+  },
+  {
+    "featureid": "10303951",
+    "dispname": "岩槻区第２２投票区２２－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.723496590771,
+        35.9778954632467
+      ]
+    }
+  },
+  {
+    "featureid": "10303952",
+    "dispname": "岩槻区第２２投票区２２－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.72283084146,
+        35.9759638493042
+      ]
+    }
+  },
+  {
+    "featureid": "10303953",
+    "dispname": "岩槻区第２２投票区２２－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.723012723354,
+        35.9742706032341
+      ]
+    }
+  },
+  {
+    "featureid": "10303954",
+    "dispname": "岩槻区第２３投票区２３－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.700556558647,
+        35.9718670904303
+      ]
+    }
+  },
+  {
+    "featureid": "10303955",
+    "dispname": "岩槻区第２３投票区２３－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.704379763892,
+        35.9684411672186
+      ]
+    }
+  },
+  {
+    "featureid": "10303956",
+    "dispname": "岩槻区第２３投票区２３－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.706368063849,
+        35.9699919488905
+      ]
+    }
+  },
+  {
+    "featureid": "10303957",
+    "dispname": "岩槻区第２３投票区２３－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.708494819552,
+        35.9697826386179
+      ]
+    }
+  },
+  {
+    "featureid": "10303958",
+    "dispname": "岩槻区第２３投票区２３－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.70935804201,
+        35.9691211476999
+      ]
+    }
+  },
+  {
+    "featureid": "10303959",
+    "dispname": "岩槻区第２３投票区２３－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.705919230021,
+        35.9683345621573
+      ]
+    }
+  },
+  {
+    "featureid": "10303960",
+    "dispname": "岩槻区第２３投票区２３－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.708038835296,
+        35.9682726194075
+      ]
+    }
+  },
+  {
+    "featureid": "10303961",
+    "dispname": "岩槻区第２４投票区２４－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.700668739458,
+        35.9693671120538
+      ]
+    }
+  },
+  {
+    "featureid": "10303962",
+    "dispname": "岩槻区第２４投票区２４－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.703876008685,
+        35.9656836422682
+      ]
+    }
+  },
+  {
+    "featureid": "10303963",
+    "dispname": "岩槻区第２４投票区２４－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.710684161561,
+        35.962865578866
+      ]
+    }
+  },
+  {
+    "featureid": "10303964",
+    "dispname": "岩槻区第２４投票区２４－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.705616199229,
+        35.9648273520859
+      ]
+    }
+  },
+  {
+    "featureid": "10303965",
+    "dispname": "岩槻区第２４投票区２４－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.707376992145,
+        35.9640294642327
+      ]
+    }
+  },
+  {
+    "featureid": "10303966",
+    "dispname": "岩槻区第２４投票区２４－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.711958272177,
+        35.9635108736829
+      ]
+    }
+  },
+  {
+    "featureid": "10303967",
+    "dispname": "岩槻区第２６投票区２６－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.695161705483,
+        35.9692857267564
+      ]
+    }
+  },
+  {
+    "featureid": "10303968",
+    "dispname": "岩槻区第２６投票区２６－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.683065773629,
+        35.9689846575535
+      ]
+    }
+  },
+  {
+    "featureid": "10303969",
+    "dispname": "岩槻区第２６投票区２６－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.6930693094,
+        35.9625940920563
+      ]
+    }
+  },
+  {
+    "featureid": "10303970",
+    "dispname": "岩槻区第２６投票区２６－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.689838904036,
+        35.9648853257083
+      ]
+    }
+  },
+  {
+    "featureid": "10303971",
+    "dispname": "岩槻区第２７投票区２７－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.676773362904,
+        35.9670914862759
+      ]
+    }
+  },
+  {
+    "featureid": "10303972",
+    "dispname": "岩槻区第２７投票区２７－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.676514657299,
+        35.9644742327367
+      ]
+    }
+  },
+  {
+    "featureid": "10303973",
+    "dispname": "岩槻区第２５投票区２５－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.716155929088,
+        35.9616129712137
+      ]
+    }
+  },
+  {
+    "featureid": "10303974",
+    "dispname": "岩槻区第２５投票区２５－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.713678183779,
+        35.9633670362509
+      ]
+    }
+  },
+  {
+    "featureid": "10303975",
+    "dispname": "岩槻区第２５投票区２５－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.712348807568,
+        35.960422954301
+      ]
+    }
+  },
+  {
+    "featureid": "10303976",
+    "dispname": "岩槻区第２５投票区２５－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.71716179291,
+        35.9551227535757
+      ]
+    }
+  },
+  {
+    "featureid": "10303977",
+    "dispname": "岩槻区第２５投票区２５－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.719105797678,
+        35.9587379606911
+      ]
+    }
+  },
+  {
+    "featureid": "10303978",
+    "dispname": "岩槻区第１１投票区１１－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.720574487295,
+        35.9482209142595
+      ]
+    }
+  },
+  {
+    "featureid": "10303979",
+    "dispname": "岩槻区第１１投票区１１－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.730462621223,
+        35.9417696811646
+      ]
+    }
+  },
+  {
+    "featureid": "10303980",
+    "dispname": "岩槻区第３投票区３－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.695119910877,
+        35.9526118136756
+      ]
+    }
+  },
+  {
+    "featureid": "10303981",
+    "dispname": "岩槻区第３投票区３－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.687544434347,
+        35.9574600270363
+      ]
+    }
+  },
+  {
+    "featureid": "10303982",
+    "dispname": "岩槻区第３投票区３－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.691458974446,
+        35.9554523197276
+      ]
+    }
+  },
+  {
+    "featureid": "10303983",
+    "dispname": "岩槻区第３投票区３－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.69149637625,
+        35.9549323867749
+      ]
+    }
+  },
+  {
+    "featureid": "10303984",
+    "dispname": "岩槻区第４投票区４－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.691016375247,
+        35.9604878834523
+      ]
+    }
+  },
+  {
+    "featureid": "10303985",
+    "dispname": "岩槻区第４投票区４－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.691529451862,
+        35.9594375410814
+      ]
+    }
+  },
+  {
+    "featureid": "10303986",
+    "dispname": "岩槻区第４投票区４－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.695211982438,
+        35.9535947300666
+      ]
+    }
+  },
+  {
+    "featureid": "10303987",
+    "dispname": "岩槻区第４投票区４－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.696653478707,
+        35.955178845328
+      ]
+    }
+  },
+  {
+    "featureid": "10303988",
+    "dispname": "岩槻区第４投票区４－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.698072131099,
+        35.9577109356123
+      ]
+    }
+  },
+  {
+    "featureid": "10303989",
+    "dispname": "岩槻区第４投票区４－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.69563742445,
+        35.9571201395748
+      ]
+    }
+  },
+  {
+    "featureid": "10303990",
+    "dispname": "岩槻区第６投票区６－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.696106519728,
+        35.9471589038614
+      ]
+    }
+  },
+  {
+    "featureid": "10303991",
+    "dispname": "岩槻区第６投票区６－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.697869338471,
+        35.9471430599281
+      ]
+    }
+  },
+  {
+    "featureid": "10303992",
+    "dispname": "岩槻区第６投票区６－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.693902110494,
+        35.9494962183044
+      ]
+    }
+  },
+  {
+    "featureid": "10303993",
+    "dispname": "岩槻区第８投票区８－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.697712105118,
+        35.9448388994232
+      ]
+    }
+  },
+  {
+    "featureid": "10303994",
+    "dispname": "岩槻区第７投票区７－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.711678674843,
+        35.9527293367537
+      ]
+    }
+  },
+  {
+    "featureid": "10303995",
+    "dispname": "岩槻区第９投票区９－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.712388425872,
+        35.9489067895321
+      ]
+    }
+  },
+  {
+    "featureid": "10303996",
+    "dispname": "岩槻区第１０投票区１０－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.71256535578,
+        35.9445263172545
+      ]
+    }
+  },
+  {
+    "featureid": "10303997",
+    "dispname": "岩槻区第１０投票区１０－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.712901874772,
+        35.9449645222541
+      ]
+    }
+  },
+  {
+    "featureid": "10303998",
+    "dispname": "岩槻区第５投票区５－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.698690032365,
+        35.9603467567643
+      ]
+    }
+  },
+  {
+    "featureid": "10303999",
+    "dispname": "岩槻区第５投票区５－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.702871960508,
+        35.9573851907936
+      ]
+    }
+  },
+  {
+    "featureid": "10304000",
+    "dispname": "岩槻区第５投票区５－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.705809936243,
+        35.9597653345186
+      ]
+    }
+  },
+  {
+    "featureid": "10304001",
+    "dispname": "岩槻区第６投票区６－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.691135578697,
+        35.9476708423356
+      ]
+    }
+  },
+  {
+    "featureid": "10304002",
+    "dispname": "岩槻区第２投票区２－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.68282614407,
+        35.9529292573761
+      ]
+    }
+  },
+  {
+    "featureid": "10304003",
+    "dispname": "岩槻区第２投票区２－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.686262933116,
+        35.9530671851092
+      ]
+    }
+  },
+  {
+    "featureid": "10304004",
+    "dispname": "岩槻区第５投票区５－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.695094950156,
+        35.9644557030781
+      ]
+    }
+  },
+  {
+    "featureid": "10304005",
+    "dispname": "岩槻区第５投票区５－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.699463264844,
+        35.9647777428635
+      ]
+    }
+  },
+  {
+    "featureid": "10304006",
+    "dispname": "岩槻区第５投票区５－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.694787292539,
+        35.9678145984505
+      ]
+    }
+  },
+  {
+    "featureid": "10304007",
+    "dispname": "岩槻区第５投票区５－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.698916965781,
+        35.9587806812181
+      ]
+    }
+  },
+  {
+    "featureid": "10304008",
+    "dispname": "岩槻区第３投票区３－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.693377001646,
+        35.9539662056413
+      ]
+    }
+  },
+  {
+    "featureid": "10304009",
+    "dispname": "岩槻区第６投票区６－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.697979473768,
+        35.9535389359994
+      ]
+    }
+  },
+  {
+    "featureid": "10304010",
+    "dispname": "岩槻区第６投票区６－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.701143516418,
+        35.9502737878057
+      ]
+    }
+  },
+  {
+    "featureid": "10304011",
+    "dispname": "岩槻区第７投票区７－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.704929220974,
+        35.9570322855732
+      ]
+    }
+  },
+  {
+    "featureid": "10304012",
+    "dispname": "岩槻区第６投票区６－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.699323370904,
+        35.9534093906402
+      ]
+    }
+  },
+  {
+    "featureid": "10304013",
+    "dispname": "岩槻区第７投票区７－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.701514105534,
+        35.9546022033474
+      ]
+    }
+  },
+  {
+    "featureid": "10304014",
+    "dispname": "岩槻区第７投票区７－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.705820714867,
+        35.9567151567987
+      ]
+    }
+  },
+  {
+    "featureid": "10304015",
+    "dispname": "岩槻区第７投票区７－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.710063388476,
+        35.9563866381965
+      ]
+    }
+  },
+  {
+    "featureid": "10304016",
+    "dispname": "岩槻区第７投票区７－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.710986839922,
+        35.9556006319814
+      ]
+    }
+  },
+  {
+    "featureid": "10304017",
+    "dispname": "岩槻区第７投票区７－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.705523611945,
+        35.9537551436105
+      ]
+    }
+  },
+  {
+    "featureid": "10304018",
+    "dispname": "岩槻区第８投票区８－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.69935150407,
+        35.9427871465966
+      ]
+    }
+  },
+  {
+    "featureid": "10304019",
+    "dispname": "岩槻区第８投票区８－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.698438715934,
+        35.9427974810757
+      ]
+    }
+  },
+  {
+    "featureid": "10304020",
+    "dispname": "岩槻区第８投票区８－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.704350517643,
+        35.9489931509899
+      ]
+    }
+  },
+  {
+    "featureid": "10304021",
+    "dispname": "岩槻区第８投票区８－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.704685831001,
+        35.9500219292984
+      ]
+    }
+  },
+  {
+    "featureid": "10304022",
+    "dispname": "岩槻区第８投票区８－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.70948419808,
+        35.9509571496732
+      ]
+    }
+  },
+  {
+    "featureid": "10304023",
+    "dispname": "岩槻区第９投票区９－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.70919897145,
+        35.9452201531785
+      ]
+    }
+  },
+  {
+    "featureid": "10304024",
+    "dispname": "岩槻区第９投票区９－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.706401452614,
+        35.9462174349302
+      ]
+    }
+  },
+  {
+    "featureid": "10304025",
+    "dispname": "岩槻区第９投票区９－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.708102487994,
+        35.9471274030792
+      ]
+    }
+  },
+  {
+    "featureid": "10304026",
+    "dispname": "岩槻区第９投票区９－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.706726908983,
+        35.9473893289912
+      ]
+    }
+  },
+  {
+    "featureid": "10304027",
+    "dispname": "岩槻区第９投票区９－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.703047516317,
+        35.944518797493
+      ]
+    }
+  },
+  {
+    "featureid": "10304028",
+    "dispname": "岩槻区第１０投票区１０－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.702462946341,
+        35.9411483524353
+      ]
+    }
+  },
+  {
+    "featureid": "10304029",
+    "dispname": "岩槻区第１０投票区１０－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.704464540044,
+        35.9421919169214
+      ]
+    }
+  },
+  {
+    "featureid": "10304030",
+    "dispname": "岩槻区第１０投票区１０－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.708712161781,
+        35.9419623259803
+      ]
+    }
+  },
+  {
+    "featureid": "10304031",
+    "dispname": "岩槻区第１０投票区１０－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.709105953165,
+        35.9418337535529
+      ]
+    }
+  },
+  {
+    "featureid": "10304032",
+    "dispname": "岩槻区第１０投票区１０－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.71065146198,
+        35.943503347861
+      ]
+    }
+  },
+  {
+    "featureid": "10304033",
+    "dispname": "岩槻区第１１投票区１１－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.729915433033,
+        35.9513636143946
+      ]
+    }
+  },
+  {
+    "featureid": "10304034",
+    "dispname": "岩槻区第１１投票区１１－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.726747331623,
+        35.9445510147559
+      ]
+    }
+  },
+  {
+    "featureid": "10304035",
+    "dispname": "岩槻区第１１投票区１１－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.727049001755,
+        35.9475638026872
+      ]
+    }
+  },
+  {
+    "featureid": "10304036",
+    "dispname": "岩槻区第１２投票区１２－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.740102643298,
+        35.94335614861
+      ]
+    }
+  },
+  {
+    "featureid": "10304037",
+    "dispname": "岩槻区第１２投票区１２－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.737548917041,
+        35.936145009538
+      ]
+    }
+  },
+  {
+    "featureid": "10304038",
+    "dispname": "岩槻区第１２投票区１２－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.737681863787,
+        35.931863060562
+      ]
+    }
+  },
+  {
+    "featureid": "10304039",
+    "dispname": "岩槻区第１２投票区１２－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.73829289753,
+        35.9298729498604
+      ]
+    }
+  },
+  {
+    "featureid": "10304040",
+    "dispname": "岩槻区第１１投票区１１－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.739402354596,
+        35.9460670792915
+      ]
+    }
+  },
+  {
+    "featureid": "10304041",
+    "dispname": "岩槻区第１２投票区１２－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.739262563761,
+        35.9393460964382
+      ]
+    }
+  },
+  {
+    "featureid": "10304042",
+    "dispname": "岩槻区第１３投票区１３－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.702461815254,
+        35.9359851585371
+      ]
+    }
+  },
+  {
+    "featureid": "10304043",
+    "dispname": "岩槻区第１３投票区１３－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.702068217805,
+        35.9336611825011
+      ]
+    }
+  },
+  {
+    "featureid": "10304044",
+    "dispname": "岩槻区第１３投票区１３－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.704051545908,
+        35.9304205173511
+      ]
+    }
+  },
+  {
+    "featureid": "10304045",
+    "dispname": "岩槻区第１３投票区１３－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.714350185944,
+        35.9280083802166
+      ]
+    }
+  },
+  {
+    "featureid": "10304046",
+    "dispname": "岩槻区第１３投票区１３－８",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.703040990874,
+        35.9338401653827
+      ]
+    }
+  },
+  {
+    "featureid": "10304047",
+    "dispname": "岩槻区第１４投票区１４－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.68900063005,
+        35.9433606519371
+      ]
+    }
+  },
+  {
+    "featureid": "10304048",
+    "dispname": "岩槻区第１４投票区１４－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.688231759243,
+        35.932062605131
+      ]
+    }
+  },
+  {
+    "featureid": "10304049",
+    "dispname": "岩槻区第１５投票区１５－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.711799655521,
+        35.9194709063223
+      ]
+    }
+  },
+  {
+    "featureid": "10304050",
+    "dispname": "岩槻区第１６投票区１６－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.720772631547,
+        35.9456002990359
+      ]
+    }
+  },
+  {
+    "featureid": "10304051",
+    "dispname": "岩槻区第１６投票区１６－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.726190096253,
+        35.9299535230193
+      ]
+    }
+  },
+  {
+    "featureid": "10304052",
+    "dispname": "岩槻区第２８投票区２８－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.741483270836,
+        35.8883478525053
+      ]
+    }
+  },
+  {
+    "featureid": "10304053",
+    "dispname": "岩槻区第１７投票区１７－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.732508625254,
+        35.9019374470314
+      ]
+    }
+  },
+  {
+    "featureid": "10304054",
+    "dispname": "岩槻区第２８投票区２８－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.741722059672,
+        35.896730133772
+      ]
+    }
+  },
+  {
+    "featureid": "10304055",
+    "dispname": "岩槻区第１８投票区１８－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.740151884017,
+        35.9250119781
+      ]
+    }
+  },
+  {
+    "featureid": "10304056",
+    "dispname": "岩槻区第１８投票区１８－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.740525591778,
+        35.9229882297209
+      ]
+    }
+  },
+  {
+    "featureid": "10304057",
+    "dispname": "岩槻区第１８投票区１８－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.750441516621,
+        35.9107146901827
+      ]
+    }
+  },
+  {
+    "featureid": "10304058",
+    "dispname": "岩槻区第１９投票区１９－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.703928724929,
+        35.9852170752904
+      ]
+    }
+  },
+  {
+    "featureid": "10304059",
+    "dispname": "岩槻区第１９投票区１９－８",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.710791331241,
+        35.9887174568209
+      ]
+    }
+  },
+  {
+    "featureid": "10304060",
+    "dispname": "岩槻区第２０投票区２０－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.696759375953,
+        35.9776320421078
+      ]
+    }
+  },
+  {
+    "featureid": "10304061",
+    "dispname": "岩槻区第２０投票区２０－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.708456474834,
+        35.9816676755079
+      ]
+    }
+  },
+  {
+    "featureid": "10304062",
+    "dispname": "岩槻区第２０投票区２０－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.711053326672,
+        35.9712961686471
+      ]
+    }
+  },
+  {
+    "featureid": "10304063",
+    "dispname": "岩槻区第２１投票区２１－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.717243326616,
+        35.9744015310533
+      ]
+    }
+  },
+  {
+    "featureid": "10304064",
+    "dispname": "岩槻区第２１投票区２１－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.719749005976,
+        35.9728394050651
+      ]
+    }
+  },
+  {
+    "featureid": "10304065",
+    "dispname": "岩槻区第２２投票区２２－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.723902914282,
+        35.9756284565512
+      ]
+    }
+  },
+  {
+    "featureid": "10304066",
+    "dispname": "岩槻区第２４投票区２４－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.701548492062,
+        35.9680024795459
+      ]
+    }
+  },
+  {
+    "featureid": "10304067",
+    "dispname": "岩槻区第２５投票区２５－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.716828951294,
+        35.950775855152
+      ]
+    }
+  },
+  {
+    "featureid": "10304068",
+    "dispname": "岩槻区第２５投票区２５－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.714771833594,
+        35.9557766748417
+      ]
+    }
+  },
+  {
+    "featureid": "10304069",
+    "dispname": "岩槻区第２６投票区２６－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.685411564916,
+        35.9631767099217
+      ]
+    }
+  },
+  {
+    "featureid": "10304070",
+    "dispname": "岩槻区第２７投票区２７－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.667766636249,
+        35.9662773964305
+      ]
+    }
+  },
+  {
+    "featureid": "10304071",
+    "dispname": "岩槻区第２７投票区２７－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.668318529582,
+        35.9666130900006
+      ]
+    }
+  },
+  {
+    "featureid": "10304072",
+    "dispname": "岩槻区第２７投票区２７－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.672276921206,
+        35.9665677230412
+      ]
+    }
+  },
+  {
+    "featureid": "10304073",
+    "dispname": "岩槻区第２７投票区２７－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.672362518567,
+        35.9672217511991
+      ]
+    }
+  },
+  {
+    "featureid": "10304074",
+    "dispname": "岩槻区第２７投票区２７－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.672314224336,
+        35.9677992571941
+      ]
+    }
+  },
+  {
+    "featureid": "10304075",
+    "dispname": "岩槻区第１１投票区１１－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.730633942942,
+        35.9478791447157
+      ]
+    }
+  },
+  {
+    "featureid": "10304076",
+    "dispname": "岩槻区第１４投票区１４－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.685523160474,
+        35.9446372121376
+      ]
+    }
+  },
+  {
+    "featureid": "10304077",
+    "dispname": "岩槻区第１７投票区１７－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.732772765547,
+        35.9113689038554
+      ]
+    }
+  },
+  {
+    "featureid": "10304078",
+    "dispname": "岩槻区第１投票区１－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.682709261741,
+        35.9504984935768
+      ]
+    }
+  },
+  {
+    "featureid": "10304079",
+    "dispname": "岩槻区第２投票区２－８",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.683601868195,
+        35.952243323957
+      ]
+    }
+  },
+  {
+    "featureid": "10304080",
+    "dispname": "岩槻区第８投票区８－４",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.703311194877,
+        35.9482501441479
+      ]
+    }
+  },
+  {
+    "featureid": "10304081",
+    "dispname": "岩槻区第１投票区１－１",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.683464674976,
+        35.9447658033657
+      ]
+    }
+  },
+  {
+    "featureid": "10304082",
+    "dispname": "岩槻区第２投票区２－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.688249736451,
+        35.9529104283105
+      ]
+    }
+  },
+  {
+    "featureid": "10304083",
+    "dispname": "岩槻区第２８投票区２８－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.738015148486,
+        35.8979375669259
+      ]
+    }
+  },
+  {
+    "featureid": "10304084",
+    "dispname": "岩槻区第１９投票区１９－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.701900249359,
+        35.9900369592702
+      ]
+    }
+  },
+  {
+    "featureid": "10304085",
+    "dispname": "岩槻区第３投票区３－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.688606382651,
+        35.9552656734599
+      ]
+    }
+  },
+  {
+    "featureid": "10304086",
+    "dispname": "岩槻区第２投票区２－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.690710382734,
+        35.9532756220819
+      ]
+    }
+  },
+  {
+    "featureid": "10304087",
+    "dispname": "岩槻区第４投票区４－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.694812392101,
+        35.9613156889428
+      ]
+    }
+  },
+  {
+    "featureid": "10304088",
+    "dispname": "岩槻区第５投票区５－８",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.702978177036,
+        35.9616957332047
+      ]
+    }
+  },
+  {
+    "featureid": "10304089",
+    "dispname": "岩槻区第９投票区９－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.708384488022,
+        35.9452221923658
+      ]
+    }
+  },
+  {
+    "featureid": "10304090",
+    "dispname": "岩槻区第２６投票区２６－３",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.681450969743,
+        35.956474257585
+      ]
+    }
+  },
+  {
+    "featureid": "10304091",
+    "dispname": "岩槻区第１７投票区１７－５",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.735880515786,
+        35.8998794104387
+      ]
+    }
+  },
+  {
+    "featureid": "10304092",
+    "dispname": "岩槻区第２５投票区２５－８",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.712625478347,
+        35.9579775656132
+      ]
+    }
+  },
+  {
+    "featureid": "10304093",
+    "dispname": "岩槻区第２６投票区２６－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.693232024801,
+        35.9611724359245
+      ]
+    }
+  },
+  {
+    "featureid": "10304094",
+    "dispname": "岩槻区第３投票区３－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.68654398438,
+        35.9576022992197
+      ]
+    }
+  },
+  {
+    "featureid": "10304095",
+    "dispname": "岩槻区第１７投票区１７－２",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.72670652788,
+        35.9039467458978
+      ]
+    }
+  },
+  {
+    "featureid": "10304096",
+    "dispname": "岩槻区第１７投票区１７－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.729535388372,
+        35.9007732692208
+      ]
+    }
+  },
+  {
+    "featureid": "10304097",
+    "dispname": "岩槻区第１７投票区１７－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.728194198572,
+        35.9060156362139
+      ]
+    }
+  },
+  {
+    "featureid": "10304098",
+    "dispname": "岩槻区第２８投票区２８－６",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.742076916084,
+        35.8953437837034
+      ]
+    }
+  },
+  {
+    "featureid": "10304099",
+    "dispname": "岩槻区第２８投票区２８－７",
+    "typename": "21420(th_134)",
+    "attributes": [],
+    "image": "sw-61-000000-593.gif",
+    "size": 15,
+    "geom": {
+      "type": "Point",
+      "coordinates": [
+        139.742577054894,
+        35.8934088066042
+      ]
+    }
+  }
+]
