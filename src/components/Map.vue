@@ -30,6 +30,7 @@
     region: String;
     state: String;
     city: String;
+    type: String;
   }
   let current_map = new Map();
 
@@ -53,23 +54,10 @@
   }
 
   async function fetchBoardPinsFromJson(region, state, city, status) {
-    if (region != null) {
-      current_map.region = region;
-    } else {
-      current_map.region = "japan";
-    }
-
-    if (state != null) {
-      current_map.state = state;
-    } else {
-      current_map.state = "saitama";
-    }
-
-    if (city != null) {
-      current_map.city = city;
-    } else {
-      current_map.city = "test";
-    }
+    current_map.region = region;
+    current_map.state = state;
+    current_map.city = city;
+    current_map.type = "json";
 
     let status_list = null;
     if (status != null) {
@@ -91,11 +79,44 @@
     });
   }
 
+  async function fetchBoardPinsFromKml(region, state, city, status) {
+    current_map.region = region;
+    current_map.state = state;
+    current_map.city = city;
+    current_map.type = "kml";
+
+    let status_list = null;
+    if (status != null) {
+      status_list = await deserialize(status);
+    }
+
+    let response = await fetch(`../data/${current_map.region}/${current_map.state}/${current_map.city}.kml`);
+    const text = await response.text();
+    const parser = new DOMParser();
+    const data = parser.parseFromString(text, "text/xml");
+    const Placemarks = data.querySelectorAll("Placemark");
+    const items = [];
+    Placemarks.forEach((v) => {
+      let pin = new Pin();
+      pin.name = v.querySelector("name").textContent;
+      let coordinatesText = v.querySelector("coordinates").textContent;
+      let coordinates = coordinatesText.split(",");
+      pin.long = coordinates[0];
+      pin.lat = coordinates[1];
+      if (status_list)
+        pin.status = status_list[pin.name];
+      else
+        pin.status = false;
+      items.push(pin);
+    });
+    return items;
+  }
+
   async function clickCopyStateButton() {
     if (pins.value == null)
       return;
     let str = serialize(pins.value);
-    let newurl = "region=" + current_map.region + "&state=" + current_map.state + "&city=" + current_map.city + "&status=" + str;
+    let newurl = "region=" + current_map.region + "&state=" + current_map.state + "&city=" + current_map.city + "&type=" + current_map.type + "&status=" + str;
     navigator.clipboard.writeText(newurl);
   }
 
@@ -112,18 +133,23 @@
 
   async function loadBorardPin(uri_param) {
     const url = new URLSearchParams(uri_param);
-    let region, state, city, status;
+    let region, state, city, status, type;
     if (url.has("region"))
       region = url.get("region");
     if (url.has("state"))
       state = url.get("state");
     if (url.has("city"))
       city = url.get("city");
+    if (url.has("type"))
+      type = url.get("type");
     if (url.has("status"))
       status = url.get("status");
-    if (region != null && state != null && city != null)
+    if (region != null && state != null && city != null && type != null)
     {
-      pins.value = await fetchBoardPinsFromJson(region, state, city, status);
+      if(type == "json")
+        pins.value = await fetchBoardPinsFromJson(region, state, city, status);
+      else if(type == "kml")
+        pins.value = await fetchBoardPinsFromKml(region, state, city, status);
     }
   }
 
