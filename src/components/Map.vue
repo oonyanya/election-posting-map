@@ -107,9 +107,14 @@
       let coordinatesselector = v.querySelector("coordinates");
       let coordinatesText = "";
       if (coordinatesselector != null)
+      {
         coordinatesText = coordinatesselector.textContent;
+      }
       else
-        throw new Error("must be have coordinates in " + nameselector.textContent);
+      {
+        console.log("must be have coordinates in " + nameselector.textContent);
+        return;
+      }
       let coordinates = coordinatesText.split(",");
       pin.long = Number(coordinates[0]);
       pin.lat = Number(coordinates[1]);
