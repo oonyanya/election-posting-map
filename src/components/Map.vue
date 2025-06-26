@@ -99,11 +99,20 @@
     const items = [];
     Placemarks.forEach((v) => {
       let pin = new Pin();
-      pin.name = v.querySelector("name").textContent;
-      let coordinatesText = v.querySelector("coordinates").textContent;
+      let nameselector = v.querySelector("name");
+      if (nameselector != null)
+        pin.name = nameselector.textContent;
+      else
+        pin.name = "";
+      let coordinatesselector = v.querySelector("coordinates");
+      let coordinatesText = "";
+      if (coordinatesselector != null)
+        coordinatesText = coordinatesselector.textContent;
+      else
+        throw new Error("must be have coordinates in " + nameselector.textContent);
       let coordinates = coordinatesText.split(",");
-      pin.long = coordinates[0];
-      pin.lat = coordinates[1];
+      pin.long = Number(coordinates[0]);
+      pin.lat = Number(coordinates[1]);
       if (status_list)
         pin.status = status_list[pin.name];
       else
