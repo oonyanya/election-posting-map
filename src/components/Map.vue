@@ -17,6 +17,7 @@
   const showModal = ref(false);
   const user_input_for_state = ref("")
   const pins = ref(null);
+  const statusMessage = ref("");
 
     class Pin {
     name: String;
@@ -146,10 +147,15 @@
       status = url.get("status");
     if (region != null && state != null && city != null && type != null)
     {
-      if(type == "json")
-        pins.value = await fetchBoardPinsFromJson(region, state, city, status);
-      else if(type == "kml")
-        pins.value = await fetchBoardPinsFromKml(region, state, city, status);
+      try {
+        if (type == "json")
+          pins.value = await fetchBoardPinsFromJson(region, state, city, status);
+        else if (type == "kml")
+          pins.value = await fetchBoardPinsFromKml(region, state, city, status);
+        statusMessage.value = "success";
+      } catch (error) {
+        statusMessage.value = error;
+      }
     }
   }
 
@@ -175,7 +181,7 @@
       LControl,
     },
     setup() {
-      return { showModal, user_input_for_state, pins };
+      return { showModal, user_input_for_state, pins, statusMessage };
     },
     data() {
       return {
@@ -213,6 +219,9 @@
           <a :href='"https://www.google.com/maps/search/" +pin.lat +","+pin.long' target="_blank" rel="noopener noreferrer">({{pin.lat}}, {{pin.long}})</a>
         </l-tooltip>
       </l-circle-marker>
+      <l-control class="leaflet-control" position="bottomleft">
+        {{statusMessage}}
+      </l-control>
       <l-control class="leaflet-control leaflet-demo-control" position="bottomleft" @click="clickCopyStateButton">
         コピーする
       </l-control>
