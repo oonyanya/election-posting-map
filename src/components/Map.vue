@@ -92,6 +92,8 @@
   }
 
   async function clickCopyStateButton() {
+    if (pins.value == null)
+      return;
     let str = serialize(pins.value);
     let newurl = "region=" + current_map.region + "&state=" + current_map.state + "&city=" + current_map.city + "&status=" + str;
     navigator.clipboard.writeText(newurl);
