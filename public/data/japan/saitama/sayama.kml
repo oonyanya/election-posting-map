@@ -1,0 +1,5031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>狭山市ポスター掲示場設置場所一覧</name>
+    <description/>
+    <Style id="icon-1899-0097A7-labelson">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-097138-labelson">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-labelson">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-labelson">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-795548-labelson">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-labelson">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-817717-labelson">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-labelson">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-A52714-labelson">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-labelson">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-labelson">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-labelson">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-E65100-labelson">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-labelson">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-labelson">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-labelson">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>【13狭山市】設置場所一覧表.xlsx</name>
+      <Placemark>
+        <name>入間第二用水</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山31番地2南側]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山31番地2南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4167874,35.8679688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峰公園東側</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山１８８５番地１<br>]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山１８８５番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4192342,35.8644147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峰公民館内</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山９番８号<br>]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山９番８号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4186475,35.8646537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>粕谷自動車北側畑</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山５６５番地６]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山５６５番地６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4198913,35.8668078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道126号と交差する西武新宿線北側</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山２0番<br>]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山２0番
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4241013,35.8669645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>グリューネンラオム狭山６号棟東側</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山１９番１６号<br>]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山１９番１６号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4219243,35.8678582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峰公園西側</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山１８８５番地１<br>]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山１８８５番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4188694,35.8642516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民会館入口交差点、南東側歩道植込</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川２丁目３２番７号<br>]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川２丁目３２番７号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4080578,35.8633264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>菅一自治会館南側</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川２丁目２３番３２号<br>]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川２丁目２３番３２号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4084032,35.8606621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民会館西側</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川２丁目３３番１号<br>]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川２丁目３３番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4092032,35.8620729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川東小学校西側</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川２丁目７番２３号]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川２丁目７番２３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4129993,35.8598724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央図書館南側</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川２丁目２番２５号<br>]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川２丁目２番２５号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4113297,35.8583269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山市中央公共駐車場北側</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川３丁目３５３３番地２<br>]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川３丁目３５３３番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.408468,35.8584448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川幼稚園</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川２丁目７番４１号<br>]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川２丁目７番４１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4145001,35.8595262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川第３子供広場</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川３丁目４４６５番地<br>]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川３丁目４４６５番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4045721,35.8547546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コミュニティセンター前</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川４丁目１６番４号<br>]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川４丁目１６番４号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.402639,35.8537554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川第１子供広場</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川３丁目３８９７番地<br>]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川３丁目３８９７番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4075641,35.8559666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央児童館東側</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川４丁目１４番８号<br>]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川４丁目１４番８号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4017414,35.8517248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下諏訪自治会館広場</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川３丁目３５番９号<br>]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川３丁目３５番９号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.402896,35.8571798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲荷山公園踏切前植込</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市稲荷山１丁目３８番地１<br>]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市稲荷山１丁目３８番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3982927,35.845426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲荷山公園駅ロータリー内</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市稲荷山１丁目７番地<br>]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市稲荷山１丁目７番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3989297,35.8451039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営住宅鵜ノ木団地南東側斜向い</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市鵜ノ木４７９５番地３<br>]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市鵜ノ木４７９５番地３
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.39247,35.8518724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川中学校正門東側</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市鵜ノ木６番４６号<br>]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市鵜ノ木６番４６号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3938187,35.8527271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鵜ノ木浄水場正面入口左側</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市鵜ノ木５番３号<br>]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市鵜ノ木５番３号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3981567,35.8541594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間川小学校西側</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市鵜ノ木５番９号]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市鵜ノ木５番９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3961219,35.8545122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鵜ノ木児童遊園地</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市鵜ノ木４６２１番地５２<br>]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市鵜ノ木４６２１番地５２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3976453,35.8525594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鵜ノ木第２児童公園</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市鵜ノ木４７２１番地２１<br>]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市鵜ノ木４７２１番地２１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3946452,35.8513941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鵜ノ木台団地</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市鵜ノ木７番１０号<br>]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市鵜ノ木７番１０号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3958153,35.8518219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所庁舎南側入口右側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１丁目２３番５号<br>]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１丁目２３番５号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4133825,35.852037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所庁舎東側入口左側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１丁目２３番５号<br>]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１丁目２３番５号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4129479,35.8527239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所庁舎北玄関前</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１丁目２３番５号<br>]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１丁目２３番５号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4118992,35.8534207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所庁舎正面入口右側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１丁目２３番５号<br>]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１丁目２３番５号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4119341,35.8521804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見集会所駐車場南側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市富士見１丁目１番１８号<br>]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市富士見１丁目１番１８号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4135349,35.8544976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所北側上諏訪線交差点脇緑地</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１丁目３４７５番地６<br>]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１丁目３４７５番地６
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4106362,35.8555113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所庁舎北西側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１丁目２３番５号<br>]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１丁目２３番５号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4109524,35.8531892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見１丁目公園入口右側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県狭山市富士見１丁目２９８０番地１<br>]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市富士見１丁目２９８０番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4173088,35.8535408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山市駅東口ロータリー内</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市祇園２８０２番地１<br>]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市祇園２８０２番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4136503,35.8565341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祇園公園南側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市祇園７番<br>]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市祇園７番
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.415791,35.8567576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山市駅東口ドラッグストアセキ狭山支店南側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市祇園２６番３５号<br>]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市祇園２６番３５号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4150495,35.8573615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山市駅東口自転車駐車場北側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市祇園７番１号<br>]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市祇園７番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4153102,35.8567966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央中学校西側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１７５４番地５<br>]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１７５４番地５
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4179734,35.8603825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央中学校正門左側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１７５２番地１<br>]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１７５２番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4200469,35.8603925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祇園保育所東側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市祇園１４番３号<br>]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市祇園１４番３号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4190091,35.8574296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平野公園</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市中央２丁目１９４番地４]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市中央２丁目１９４番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4284827,35.8578598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沢自治会集会所前</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市沢１１１９番地７<br>]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市沢１１１９番地７
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4291773,35.8650396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下向沢公園</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市中央２丁目４５番<br>]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市中央２丁目４５番
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4297315,35.8595323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新狭山小学校正門右側</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１１０８番地<br>]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１１０８番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4317103,35.8646449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新狭山小学校正門左側</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１１０８番地<br>]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１１０８番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4310773,35.8649666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中向沢公園（通称三角公園）</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市中央２丁目１１８３番地３９<br>]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市中央２丁目１１８３番地３９
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4274446,35.8582489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央ふれあい緑地</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市中央２丁目１２９３番地３<br>]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市中央２丁目１２９３番地３
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4260821,35.8589749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コーセー正門南側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市富士見２丁目２０番１号<br>]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市富士見２丁目２０番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4220781,35.8439721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山工業高校北側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市富士見２丁目５番１号<br>]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市富士見２丁目５番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4205904,35.8491653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山工業高校東側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市富士見２丁目５番１号<br>]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市富士見２丁目５番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4214219,35.8492436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見１丁目第３号公園</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市富士見１丁目６４７２番地１０<br>]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市富士見１丁目６４７２番地１０
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4159302,35.8493428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山工業高校正門左側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市富士見２丁目５番１号<br>]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市富士見２丁目５番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4194639,35.8480782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見２丁目２号児童遊園地</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市富士見２丁目６１７６番地<br>]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市富士見２丁目６１７６番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4219278,35.8466387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山本製作所南側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市富士見２丁目１５番２号<br>]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市富士見２丁目１５番２号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4253788,35.8465555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コーセー北側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県狭山市富士見２丁目２０番１号<br>]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市富士見２丁目２０番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4190391,35.8465659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見小学校東側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市中央４丁目１７番１号<br>]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市中央４丁目１７番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.424858,35.8513319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上窪公園</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１５００番地３７]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１５００番地３７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4257471,35.853201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見小学校正門手前右側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市中央４丁目１６番１６号<br>]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市中央４丁目１６番１６号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4236775,35.8502445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見小学校南側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市中央４丁目１７番１号<br>]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市中央４丁目１７番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4251263,35.8501971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営中平野団地北側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１４６５番地２<br>]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１４６５番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4270408,35.8528855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下平野児童公園南側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１４１７番地５<br>]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１４１７番地５
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4319353,35.8489947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下平野ふれあい緑地南東側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市入間川１４１６番地１<br>]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市入間川１４１６番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.431025,35.8504781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台ハイツ中央公園北側</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市中央３丁目１３５４番地２２<br>]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市中央３丁目１３５４番地２２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4269833,35.8544768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>３街区４号棟西側</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台３丁目２３番地１<br>]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台３丁目２３番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4298107,35.8572207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台交番隣公園西側</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台３丁目２３番地１<br>]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台３丁目２３番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4309748,35.8586598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武狭山台ハイツＨ棟東側植込</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市中央３丁目１３５４番地１８<br>]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市中央３丁目１３５４番地１８
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4291183,35.8543899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台公民館南側</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台３丁目７番地１<br>]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台３丁目７番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4295475,35.8554634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>保健センター南側植込</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台３丁目２４番地<br>]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台３丁目２４番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4312807,35.8552665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台８号公園東側</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台３丁目２２番地<br>]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台３丁目２２番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4323294,35.8529392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山元気プラザ東側</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台１丁目２１番地<br>]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台１丁目２１番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.436126,35.8625079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山元気プラザ西側</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台１丁目２１番地<br>]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台１丁目２１番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4345757,35.8617993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台２号公園南側</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台１丁目１５番地<br>]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台１丁目１５番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4327048,35.8597114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１街区西側狭山台１丁目バス停</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台１丁目３１番地１<br>]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台１丁目３１番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4349671,35.8606961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>２街区公園西側</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台２丁目１番地１<br>]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台２丁目１番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4318606,35.8585705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>２街区側狭山台２丁目バス停</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台２丁目１番地１<br>]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台２丁目１番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4350068,35.8592249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台二交差点歩道橋東側下</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台２丁目１番地２<br>]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台２丁目１番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4337123,35.8565675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台中学校正門側</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台４丁目２６番地]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台４丁目２６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4342133,35.8537218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台５号公園南側</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台２丁目１９番地<br>]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台２丁目１９番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4360479,35.8568564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>５街区側ショッピングセンター前バス停</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台３丁目２６番地４<br>]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台３丁目２６番地４
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4326466,35.8557751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台小学校正門側</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台４丁目２５番地<br>]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台４丁目２５番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4336286,35.8533827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台小学校運動場西側</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台４丁目２５番地<br>]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台４丁目２５番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4336125,35.8516522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台６号公園北側</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台４丁目４０番地<br>]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台４丁目４０番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4360385,35.8510728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山台７号公園東側</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市狭山台４丁目１５番地<br>]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市狭山台４丁目１５番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4340711,35.8498923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御狩場小学校体育館入口</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽７５５番地４<br>]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽７５５番地４
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4280512,35.8463435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間野歩道橋東駐車場東側</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽９２５番地２<br>]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽９２５番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4247835,35.8409191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御狩場小学校西側</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽７５５番地４<br>]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽７５５番地４
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4271768,35.8453608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御狩場小学校北側</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽７５５番地４<br>]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽７５５番地４
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4276543,35.8460696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三芳野児童公園</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽５８６番地３]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽５８６番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4365188,35.8457575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北入曽公園南側</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽８９３番地２<br>]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽８９３番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4264384,35.839484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水押第２児童公園東側</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽５４１番地１３<br>]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽５４１番地１３
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4342631,35.8450456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御狩場児童公園南側</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽８４３番地４<br>]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽８４３番地４
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4276621,35.8410034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北入曽中原公園</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽３８０番地４４<br>]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽３８０番地４４
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4295204,35.840932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入曽地域交流センター西側</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽４２８番地３]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽４２８番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4312778,35.8325855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間野神社東側畑</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽５３１番地２<br>]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽５３１番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4274854,35.8363555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入曽郵便局西側畑</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野４７６番地２<br>]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野４７６番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4307215,35.8304581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ますだや酒店東道路南側</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野２１０番地１<br>]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野２１０番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.436801,35.8367875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入曽駅旧東口改札付近</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽５６７番地<br>]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽５６７番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4275405,35.8324661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入曽診療所入口駐車場</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽４１９番地９<br>]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽４１９番地９
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4308672,35.8345304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入曽地域交流センター掲示板脇</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽４２８番地３<br>]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽４２８番地３
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4317083,35.8324235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間野小学校南側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽９８０番地<br>]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽９８０番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.422864,35.8401565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北上自治会集会所東側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽１３２１番地<br>]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽１３２１番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4238553,35.8374149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北の前児童公園南側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽７０３番地１<br>]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽７０３番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4206618,35.8337439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入曽第７区自治会館西側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽８７９番地１２<br>]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽８７９番地１２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4232679,35.8334422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間野中学校南西側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽１０２８番地１<br>]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽１０２８番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4204712,35.8382956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>老人福祉センター不老荘歩道側植込</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽７３７番地１<br>]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽７３７番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4179296,35.8340589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山モータースクール南側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽９１４番地２<br>]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽９１４番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4210728,35.8310196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上水野児童広場</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野１１７５番地１<br>]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野１１７５番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4171575,35.8277721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あきくさ保育園北側水路</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野１２４６番地２]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野１２４６番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4194218,35.8212029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三商自治会館入口</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野１１７９番地２<br>]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野１１７９番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4202865,35.8223325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本堀バス停南駐車場北側</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野１１０６番地１<br>]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野１１０６番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4211443,35.8226232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新水野公園東側</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野１２２２番地３<br>]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野１２２２番地３
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4208271,35.8202253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三商児童遊園地</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野１３１９番地<br>]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野１３１９番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4174944,35.820819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新水野公園南側</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野１２２２番地３<br>]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野１２２２番地３
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4208163,35.8200415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水野公民館東側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野８９１番地４]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野８９１番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4250224,35.8227108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南小学校東側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野８１５番地１<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野８１５番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4236583,35.82868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入曽駅南側踏切西側Ｔ字路</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野５７４番地１<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野５７４番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4274897,35.8310424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>若葉台児童園南側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野７０９番地３７<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野７０９番地３７
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4278092,35.8224691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水野保育所南側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野8８１５番地１<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野8８１５番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4237144,35.8270429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>月見野公園東側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野４９５番地５６<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野４９５番地５６
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4325486,35.8260624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水野交差点東側駐車場西側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野５６７番地１<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野５６７番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4288596,35.828627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>若葉台児童公園西側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野７６６番地２<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野７６６番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4258468,35.8240588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フラワーヒル東公園東側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野６０６番地１０７<br>]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野６０６番地１０７
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4490619,35.8306489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>特別養護老人ホーム福寿の里入口</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽１５０２番地１<br>]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽１５０２番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4419582,35.8301213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フラワーヒル西公園南側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽１５０８番地１３６<br>]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽１５０８番地１３６
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4451305,35.8288516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みよし団地児童遊園地南側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野１８８番地２<br>]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野１８８番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4415865,35.8320618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東急台自治会集会所東側緑地</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野２１８番地１７<br>]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野２１８番地１７
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4411847,35.8314149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東急４条通り入曽運動広場北側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市大字北入曽１４４７番地２<br>]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字北入曽１４４７番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4367509,35.8272661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東急３条通り狭山児童遊園地北側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野３８４番地４６<br>]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野３８４番地４６
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4366692,35.8281467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山王保育所東側</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽３０番地１]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽３０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4426729,35.8435373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山王中学校駐輪場前</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽１５７番地<br>]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽１５７番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4416199,35.8443312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山王小学校西側入口向い畑</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽２５０番地１<br>]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽２５０番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4369911,35.8408629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山王小学校正門西側</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽５５番地<br>]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽５５番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4383822,35.8401922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山王小学校正門東側</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市大字南入曽５５番地<br>]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字南入曽５５番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4388422,35.8404858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堀兼神社</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市大字堀兼２２２０番地１<br>]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字堀兼２２２０番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4478753,35.8416957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下水野子供遊園地</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市大字水野１５６番地４<br>]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字水野１５６番地４
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4369174,35.838481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新狭山ハイツ５号棟東側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市大字青柳１７７８番地１<br>]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字青柳１７７８番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.443709,35.8638221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新狭山ハイツ３号公園</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市大字青柳６３番地１８<br>]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字青柳６３番地１８
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4456338,35.8649412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛宕神社入口東側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市大字中新田１４３番地<br>]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字中新田１４３番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4597361,35.8680057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堀兼小学校東側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字堀兼１２３４番地]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字堀兼１２３４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4457737,35.8605358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>農村環境改善センター</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市大字堀兼３６０番地]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字堀兼３６０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4499267,35.8593506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堀兼中学校北側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市大字堀兼１２３７番地<br>]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字堀兼１２３７番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4433838,35.8611674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上赤坂交差点南側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市大字上赤坂２９２番地<br>]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字上赤坂２９２番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4582628,35.8545605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堀兼・上赤坂公園西側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県狭山市大字堀兼２４８４番地３<br>]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字堀兼２４８４番地３
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4535824,35.8451367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>老人福祉センター寿荘浄化設備</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市大字加佐志５１３番地２<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字加佐志５１３番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4418306,35.8638275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つつじ苑北公園</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市大字青柳１２４番地８８]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字青柳１２４番地８８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4485941,35.868452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つつじ苑南公園</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市大字青柳１２４番地１３２]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字青柳１２４番地１３２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.449152,35.8677304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭台公園</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字青柳１６１５番地１]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字青柳１６１５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.456133,35.8831958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭山博愛</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市大字青柳４２８番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字青柳４２８番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4456579,35.8699894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青柳氷川神社（青柳バス停脇）</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市大字青柳４７５番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字青柳４７５番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4473166,35.8705518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青新集会所西側畑</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市大字青柳６１５番地２<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字青柳６１５番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4480213,35.8710428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新狭山駅南口ロータリー内</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市新狭山３丁目１番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市新狭山３丁目１番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.433839,35.8737035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三ツ木公園東側</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市新狭山３丁目３番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市新狭山３丁目３番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.436481,35.8750923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東三ツ木自治会館</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市大字東三ツ木８番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字東三ツ木８番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4342187,35.8715291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東三ツ木バス停付近信号北側</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字東三ツ木３３９番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字東三ツ木３３９番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.433225,35.8709255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武新狭山団地内江丸橋公園</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市大字東三ツ木１０２番地１２１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字東三ツ木１０２番地１２１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4405893,35.8702306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下ノ沢公園</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市大字東三ツ木６２番地１９<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字東三ツ木６２番地１９
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4364364,35.871088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武新狭山団地内むかい公園</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市大字東三ツ木１０２番地１１９<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字東三ツ木１０２番地１１９
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4382933,35.8706262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三ツ木公園北側</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県狭山市新狭山３丁目３番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市新狭山３丁目３番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4356763,35.874838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武鉄道社宅Ａ３号棟</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市新狭山２丁目４番地４<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市新狭山２丁目４番地４
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4321564,35.8767337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新狭山２丁目２号公園南側</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市新狭山２丁目４番地４８<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市新狭山２丁目４番地４８
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4332612,35.8765112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中原公園北西側</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市新狭山２丁目１３番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市新狭山２丁目１３番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4307677,35.8749625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新狭山公民館北側</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市新狭山２丁目１７番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市新狭山２丁目１７番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4300792,35.8736241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第１２自転車駐車場</name>
+        <address>埼玉県狭山市新狭山１丁目１番地１５</address>
+        <description><![CDATA[投票区: 23<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市新狭山１丁目１番地１５]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市新狭山１丁目１番地１５</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>中原公園南東側</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市新狭山２丁目１３番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市新狭山２丁目１３番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.430639,35.8742931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新狭山駅北口</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市新狭山３丁目１２番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市新狭山３丁目１２番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4331044,35.8739239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥富小学校西側（奥富ふれあい館前）</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市大字下奥富１０１９番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字下奥富１０１９番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4223439,35.8780739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>至聖病院南側</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市大字下奥富１２２１番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字下奥富１２２１番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4289459,35.8819711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥富小学校正門脇</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市大字下奥富１０１９番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字下奥富１０１９番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4240015,35.8778913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土地改良記念公園南側水路</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字下奥富１１４０番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字下奥富１１４０番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4246843,35.8805977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩田商店北側交差点</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市大字上奥富３４４番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字上奥富３４４番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4192123,35.8711259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>梅宮神社東側水田脇</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市大字上奥富５８７番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字上奥富５８７番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4200522,35.873701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥富神社前</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市大字下奥富４８６番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字下奥富４８６番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4278033,35.8773058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンパーク奥富東側</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県狭山市大字下奥富２５５２番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字下奥富２５５２番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4178255,35.879452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川原公園</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原４３３８番地]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原４３３８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4078987,35.875336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上宿バス停</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原１６９９番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原１６９９番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4039037,35.8848503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第一区自治会館東側</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原２３３５番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原２３３５番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.411398,35.8880618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武柏原ニュータウンバス停</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原３４８４番地１４<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原３４８４番地１４
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4153246,35.889296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柏原第３区児童公園</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原１５７０番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原１５７０番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4042697,35.8821601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂間東公園</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原３１６１番地９<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原３１６１番地９
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4107232,35.881564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浄化センター信号機交差点</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原３４６７番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原３４６７番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4150837,35.8869103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柏原中学校正門南側</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原３１１６番地１５<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原３１１６番地１５
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4085108,35.8782273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>都市緑化植物園・緑の相談所東側</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原６２２番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原６２２番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3974846,35.8857309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柏原白鬚神社入口</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原１１５３番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原１１５３番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4044931,35.8773866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柏原小学校西側</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原１１４１番地]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原１１４１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4057527,35.8781737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小山台保育園斜向いゴミ集積場付近</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原９５４番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原９５４番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4014851,35.8760132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥州道交差点柏団地前</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原９９番地２<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原９９番地２
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3980481,35.8674339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柏原保育所南側</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原１１４１番地]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原１１４１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4057635,35.8769827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西宿田第２児童公園</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原２８７８番地３９<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原２８７８番地３９
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4006015,35.865007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河川敷中央公園北側</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市柏原２９１０番地<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市柏原２９１０番地
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4041973,35.864725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営広瀬団地北側</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬３丁目３番７号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬３丁目３番７号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3908036,35.8609717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日生第４公園（今宿遺跡横）</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬台１丁目５２１番地９０<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬台１丁目５２１番地９０
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3950618,35.8680059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵野学院大学駐車場</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬台２丁目１６番地１７<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬台２丁目１６番地１７
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3872593,35.8674794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つつじ野団地１－２２号棟西側</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市つつじ野１７５８番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市つつじ野１７５８番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3917009,35.861763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬小学校東側</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬東４丁目４番１号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬東４丁目４番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3956253,35.864129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬小学校正門</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬東４丁目４番１号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬東４丁目４番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3954054,35.8630726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬小学校西側</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬東４丁目４番１号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬東４丁目４番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3938926,35.8629161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬分署南側</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬２丁目１８４２番地７<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬２丁目１８４２番地７
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3929465,35.8598585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬公民館北側</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬東３丁目３４番１号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬東３丁目３４番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3964198,35.862543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西中学校裏門</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬東３丁目２３番１号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬東３丁目２３番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3958808,35.861253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西中学校正門</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬東３丁目２３番１号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬東３丁目２３番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3966559,35.860277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上広瀬地区子供広場</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬東３丁目２５０番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬東３丁目２５０番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.397427,35.8628771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬保育所東側</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬２丁目２番１３号]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬２丁目２番１３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3935486,35.8590933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬東２丁目公園東側</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬東２丁目２０２９番地９<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬東２丁目２０２９番地９
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3970061,35.8585959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水富公民館西側</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市根岸２丁目１７番１３号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市根岸２丁目１７番１３号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3821412,35.8576234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水富小学校正門脇</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市根岸２丁目２２番１号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市根岸２丁目２２番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3825505,35.8581029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水富幼稚園入口脇</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市根岸２丁目２２番１号]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市根岸２丁目２２番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3832559,35.8583594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営水富団地北側</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬２丁目２９番２号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬２丁目２９番２号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3876564,35.8578298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬神社入口</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬２丁目１４番２２号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬２丁目１４番２２号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3897803,35.8586332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下田第１児童遊園地</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市根岸１丁目２０９番地８１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市根岸１丁目２０９番地８１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3828709,35.8540928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬河川敷公園北側</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市広瀬１丁目３６番３号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市広瀬１丁目３６番３号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3860608,35.8535875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋谷設備工業向い</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県狭山市大字笹井２５９２番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字笹井２５９２番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3674919,35.8484354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹井白鬚神社</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県狭山市大字笹井１９６２番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字笹井１９６２番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3722361,35.8515577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹井バス停付近信号脇</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県狭山市笹井１丁目１８０７番地１<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市笹井１丁目１８０７番地１
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3737808,35.8507861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹井小学校正門南側</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県狭山市大字笹井１７００番地]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市大字笹井１７００番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3703146,35.8531109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹井向田公園</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県狭山市笹井１丁目２１３番地２２]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市笹井１丁目２１３番地２２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3807137,35.8539862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>グリーンハイツすべり台公園</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県狭山市笹井１丁目２１３番地９<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市笹井１丁目２１３番地９
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3801638,35.8530036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹井保育所南側</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県狭山市笹井２丁目１７番１号<br>]]></description>
+        <styleUrl>#icon-1899-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県狭山市笹井２丁目１７番１号
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3790533,35.8568932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

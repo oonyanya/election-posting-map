@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>美里町選挙ポスター掲示場</name>
+    <description/>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>一覧CSV.csv</name>
+      <Placemark>
+        <name>上川輪集会所前のフェンス</name>
+        <address>阿那志1402先</address>
+        <description><![CDATA[投票区: 1<br>設置番号: 1<br>ポスター掲示場の設置場所: 阿那志1402先]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>阿那志1402先</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南阿那志集会所前の駐車場</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 2<br>ポスター掲示場の設置場所: 阿那志1170-2]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>阿那志1170-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1863512,36.1867625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅南側の路肩（横手）</name>
+        <address>阿那志687-1</address>
+        <description><![CDATA[投票区: 1<br>設置番号: 3<br>ポスター掲示場の設置場所: 阿那志687-1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>阿那志687-1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>宅東側塀</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 4<br>ポスター掲示場の設置場所: 阿那志103８-１]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>阿那志103８-１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1836118,36.1933467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ミムリンパーク（旧 農村公園）東塀</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 5<br>ポスター掲示場の設置場所: 阿那志554-1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>阿那志554-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1834792,36.1966219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧埼玉ひびきの農協東児玉支店前の塀</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 6<br>ポスター掲示場の設置場所: 美里町根木34-4]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町根木34-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.179223,36.1959845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松澤工務店西の雑種地（吉田美好氏 雑種地）</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 7<br>ポスター掲示場の設置場所: 阿那志2７６−８]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>阿那志2７６−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1839925,36.2037894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>消防第一分団車庫の西側空地（芝原）</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 1<br>ポスター掲示場の設置場所: 美里町関45-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町関45-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1864659,36.1935402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅裏塀（関）</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 2<br>ポスター掲示場の設置場所: 関445-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>関445-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.19149,36.1933338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関集会所東の敷地（木と木の間）</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 3<br>ポスター掲示場の設置場所: 美里町関362-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町関362-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1944277,36.1936581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>倉柱集会所</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 4<br>ポスター掲示場の設置場所: 美里町関1112]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町関1112</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2014095,36.190173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川輪集会所フェンス</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 5<br>ポスター掲示場の設置場所: 関1883-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>関1883-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2043273,36.1886222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>町田建設作業場西（町道西側）路肩（大関）</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 6<br>ポスター掲示場の設置場所: 美里町関235先]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町関235先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1933673,36.1987485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小茂田リサイクルセンター東側　砂利敷</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 1<br>ポスター掲示場の設置場所: 小茂田267-1]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小茂田267-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1872055,36.2040324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅南　路肩（用水路敷）</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 2<br>ポスター掲示場の設置場所: 小茂田775-2南]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小茂田775-2南</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1886186,36.20624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅西側塀</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 3<br>ポスター掲示場の設置場所: 小茂田890-1]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小茂田890-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.18656,36.2086289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅前塀</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 4<br>ポスター掲示場の設置場所: 小茂田342-1]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小茂田342-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1856998,36.2055023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勝輪寺前</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 5<br>ポスター掲示場の設置場所: 小茂田350]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小茂田350</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1848001,36.2059831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅南側塀</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 1<br>ポスター掲示場の設置場所: 下児玉1138-4]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>下児玉1138-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.180405,36.2050755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅西塀</name>
+        <address>下児玉984-2</address>
+        <description><![CDATA[投票区: 4<br>設置番号: 2<br>ポスター掲示場の設置場所: 下児玉984-2]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>下児玉984-2</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>下児玉公会堂北側塀の東</name>
+        <address>下児玉6８6</address>
+        <description><![CDATA[投票区: 4<br>設置番号: 3<br>ポスター掲示場の設置場所: 下児玉6８6]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>下児玉6８6</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>宅北西畑（川原崎）</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 4<br>ポスター掲示場の設置場所: 下児玉536-5]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>下児玉536-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1685873,36.203748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅前の町有地（熊谷）</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 5<br>ポスター掲示場の設置場所: 下児玉231先]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>下児玉231先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1654287,36.1997009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅北</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 1<br>ポスター掲示場の設置場所: 美里町北十条606先]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町北十条606先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1691226,36.1996466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第２分団小屋前の敷地</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 2<br>ポスター掲示場の設置場所: 北十条702-8]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>北十条702-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1689324,36.1981429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福島輪店前</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 3<br>ポスター掲示場の設置場所: 美里町南十条401-1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町南十条401-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1711818,36.1955682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清水組北側塀</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 4<br>ポスター掲示場の設置場所: 南十条464-1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>南十条464-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1689236,36.1954695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南十条火の見西　宅前</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 5<br>ポスター掲示場の設置場所: 美里町北十条899-1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町北十条899-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1662312,36.1958457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅前塀</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 1<br>ポスター掲示場の設置場所: 沼上314-1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>沼上314-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1612154,36.1905995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅前塀</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 2<br>ポスター掲示場の設置場所: 沼上691]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>沼上691</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1634245,36.188489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅東のフェンス</name>
+        <address>沼上290-1</address>
+        <description><![CDATA[投票区: 6<br>設置番号: 3<br>ポスター掲示場の設置場所: 沼上290-1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>沼上290-1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>沼上集会所西側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 4<br>ポスター掲示場の設置場所: 美里町沼上283先]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町沼上283先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1578049,36.1890211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅西塀</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 5<br>ポスター掲示場の設置場所: 美里町沼上299-1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町沼上299-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1589333,36.189121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広木新田集会所</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 1<br>ポスター掲示場の設置場所: 広木521-1]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>広木521-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1576586,36.1818545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅前塀</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 2<br>ポスター掲示場の設置場所: 広木65]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>広木65</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1584522,36.1733904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅西側</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 3<br>ポスター掲示場の設置場所: 広木1440]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>広木1440</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1565101,36.168806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>枌木集会所</name>
+        <address>広木1640</address>
+        <description><![CDATA[投票区: 7<br>設置番号: 4<br>ポスター掲示場の設置場所: 広木1640]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>広木1640</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>飯野家電宅東塀</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 5<br>ポスター掲示場の設置場所: 広木2905]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>広木2905</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1593775,36.1727201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅前塀</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 6<br>ポスター掲示場の設置場所: 広木136]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>広木136</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1621925,36.1731292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀬戸池埋立地跡南側の町道フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 1<br>ポスター掲示場の設置場所: 駒衣479先]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>駒衣479先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.166456,36.1722769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅前歩道フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 2<br>ポスター掲示場の設置場所: 駒衣1675-1先]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>駒衣1675-1先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1712975,36.1814803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅北側塀</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 3<br>ポスター掲示場の設置場所: 駒衣418]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>駒衣418</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1699076,36.1718679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松久小学校東側フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 4<br>ポスター掲示場の設置場所: 駒衣341-2]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>駒衣341-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1709528,36.1706502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧埼玉ひびきの農協松久支店北側塀</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 5<br>ポスター掲示場の設置場所: 木部122-2]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>木部122-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1726582,36.1712623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木部新井商店東の歩道用フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 6<br>ポスター掲示場の設置場所: 美里町木部227-1先]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町木部227-1先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1764923,36.1735251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>こまきべだいクリーンセンター東側フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 7<br>ポスター掲示場の設置場所: 美里町木部237-2]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町木部237-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1767971,36.1759428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅前塀</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 1<br>ポスター掲示場の設置場所: 古郡624-1]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>古郡624-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1830425,36.1813683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅裏塀</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 2<br>ポスター掲示場の設置場所: 古郡383]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>古郡383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1870862,36.1795599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>農協営農センター北のフェンス</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 3<br>ポスター掲示場の設置場所: 古郡496-1先]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>古郡496-1先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1843042,36.1769791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅北側塀</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 4<br>ポスター掲示場の設置場所: 甘粕275]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>甘粕275</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1804023,36.1718429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>甘粕集会所</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 5<br>ポスター掲示場の設置場所: 甘粕237]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>甘粕237</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1825901,36.1697247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堀口鉢店前路肩（県道西側）</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 6<br>ポスター掲示場の設置場所: 美里町甘粕740-2先]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町甘粕740-2先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1841901,36.1656898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅東側畑</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 7<br>ポスター掲示場の設置場所: 美里町中里103先]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町中里103先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1789638,36.1636493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅東塀</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 8<br>ポスター掲示場の設置場所: 美里町中里5]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町中里5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.178644,36.1606118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧埼玉ひびきの農協大沢支店前塀</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 1<br>ポスター掲示場の設置場所: 美里町猪俣450-1]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町猪俣450-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1831209,36.1589141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅南側塀（野中）</name>
+        <address>猪俣467-1</address>
+        <description><![CDATA[投票区: 10<br>設置番号: 2<br>ポスター掲示場の設置場所: 猪俣467-1]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>猪俣467-1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>小栗児童センター東フェンス</name>
+        <address>猪俣1165-1</address>
+        <description><![CDATA[投票区: 10<br>設置番号: 3<br>ポスター掲示場の設置場所: 猪俣1165-1]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>猪俣1165-1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>旧 上田商店　道東の字有地（猪俣）</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 4<br>ポスター掲示場の設置場所: 猪俣2235-1]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>猪俣2235-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1877224,36.1493479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>猪俣中央会館東側フェンス（猪俣）</name>
+        <address>猪俣2408</address>
+        <description><![CDATA[投票区: 10<br>設置番号: 5<br>ポスター掲示場の設置場所: 猪俣2408]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>猪俣2408</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>宅植木置場西フェンス（湯脇）</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 6<br>ポスター掲示場の設置場所: 美里町猪俣3182-1]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町猪俣3182-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1776104,36.1512712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大沢小学校運動場東フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 7<br>ポスター掲示場の設置場所: 猪俣3019]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>猪俣3019</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1803739,36.1555343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>湯本公園北側フェンス（湯本）</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 8<br>ポスター掲示場の設置場所: 美里町白石2292-6]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町白石2292-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1754761,36.154299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅前塀（大仏）</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 1<br>ポスター掲示場の設置場所: 白石1176]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>白石1176</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1704929,36.1643075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大仏農村婦人センター</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 2<br>ポスター掲示場の設置場所: 白石911]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>白石911</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1674973,36.1667802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅西側塀（大仏）</name>
+        <address>美里町白石868-2</address>
+        <description><![CDATA[投票区: 11<br>設置番号: 3<br>ポスター掲示場の設置場所: 美里町白石868-2]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町白石868-2</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>白石公民館</name>
+        <address>美里町白石202-1</address>
+        <description><![CDATA[投票区: 11<br>設置番号: 4<br>ポスター掲示場の設置場所: 美里町白石202-1]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町白石202-1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>どんぐり公園南フェンス</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 5<br>ポスター掲示場の設置場所: 美里町白石355-1]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美里町白石355-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1631809,36.1598386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宅東路肩（防災無線放送塔下）</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 6<br>ポスター掲示場の設置場所: 円良田172]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>円良田172</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.165168,36.1434388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>円良田農民センター北杏畑</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 7<br>ポスター掲示場の設置場所: 円良田344-1]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>円良田344-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1673243,36.1398139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

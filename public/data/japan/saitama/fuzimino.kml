@@ -1,0 +1,4170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ふじみ野市ポスター掲示場</name>
+    <description/>
+    <Style id="icon-1500-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>掲示場(1～20).csv</name>
+      <Placemark>
+        <name>福岡小学校正門隣</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市西原２丁目６番地]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市西原２丁目６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5279248,35.8740567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡小学校東側（入口南側）</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市西原２丁目６番地]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市西原２丁目６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.528354,35.8748956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上福岡歴史民俗資料館</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市長宮１丁目２番地]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市長宮１丁目２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5281602,35.8756514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（有)吉野水道工業所北側畑</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市滝１丁目６番地]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市滝１丁目６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5283882,35.8796169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸文酒店東側畑</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市築地２丁目１番地]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市築地２丁目１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5290414,35.8735362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝・長宮公園南西側</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市滝２丁目２番地]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市滝２丁目２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5277672,35.87781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝保育所北側</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市長宮２丁目１番]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市長宮２丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5287684,35.8769469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上野台小学校正門隣</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市福岡１丁目２番]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市福岡１丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5205563,35.8790443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清見第１公園（北側）</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市清見１丁目７番地]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市清見１丁目７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.518816,35.8818525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清見第２公園（南側）</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市清見４丁目２番地]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市清見４丁目２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5207298,35.8842972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元福岡集会所</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市元福岡２丁目１６番]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市元福岡２丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5155576,35.8855852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>防衛庁第１公園</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市元福岡３丁目７番]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市元福岡３丁目７番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5170008,35.8863481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葦原中学校南側</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市川崎３１０番地]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市川崎３１０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5164844,35.887373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葦原中学校正門左側</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市川崎３１０番地]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市川崎３１０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5176163,35.8878554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>３号棟と６号棟の間</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市上野台１丁目１番]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上野台１丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5180058,35.877893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>９号棟北側立体駐車場北側</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市上野台１丁目２番]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上野台１丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5177535,35.8774477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ﾌｧﾐﾘｰﾏｰﾄ南側上野台団地バス停付近</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市上野台１丁目５番（福岡中央公園内）]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上野台１丁目５番（福岡中央公園内）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5168107,35.8765457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１１号棟南側歩道沿い</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市上野台１丁目５番（福岡中央公園内）]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上野台１丁目５番（福岡中央公園内）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5175241,35.8763153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１４号棟と１７号棟の間の駐車場前</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市上野台１丁目３番地]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上野台１丁目３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5186569,35.8757628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡中央公園（第一生命北側）</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市上野台１丁目５番（福岡中央公園内）]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上野台１丁目５番（福岡中央公園内）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5167516,35.8750374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１９号棟西側歩道出入口</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市上野台１丁目５番（福岡中央公園内）]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上野台１丁目５番（福岡中央公園内）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5179157,35.8747374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡中学校(グラウンド側)</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市上野台３丁目３番]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上野台３丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5231667,35.8759742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡中央公園（ニューフジ北側）</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市上野台３丁目２番]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上野台３丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.520168,35.8734368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見台第１公園</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市富士見台６７１番]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市富士見台６７１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.523678,35.8725702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見台第２公園</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市富士見台６７１番]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市富士見台６７１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5224227,35.8723441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>官舎公園北側植え込み</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市福岡中央２丁目３番]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市福岡中央２丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5174226,35.8724666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡中学校(上福岡図書館側)</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市上野台３丁目３番]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上野台３丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5223298,35.8746789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見台公園</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市富士見台４番]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市富士見台４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5217444,35.872151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元町西公園南側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市駒林元町３丁目７番]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市駒林元町３丁目７番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5227665,35.8655116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元町東公園西側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市駒林元町１丁目６番]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市駒林元町１丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5264728,35.8668364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駒西小学校東側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市駒西３丁目６番]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市駒西３丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5238225,35.8679519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鈴木公園</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市新駒林１丁目３番]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市新駒林１丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5250575,35.8692234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上福岡ゲートボール場</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市駒西２丁目９番]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市駒西２丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5209371,35.8667722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新駒林公園東側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市新駒林４丁目３番]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市新駒林４丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5301475,35.8701214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駒林会館入口フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市駒林８５９番地]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市駒林８５９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5336533,35.8691544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上福岡２丁目集会所</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市上福岡２丁目４番]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡２丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5164513,35.8735583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SOMPOケアラヴィーレ上福岡北側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市上福岡２丁目６番]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡２丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5158811,35.8752388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上福岡３丁目集会所</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市上福岡３丁目１５番]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡３丁目１５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5165522,35.8697831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上福岡３丁目公園南側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市上福岡３丁目１０番]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡３丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5161663,35.870607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上福岡３丁目公園東側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市上福岡３丁目１０番]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡３丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5163165,35.8707287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉縣信用金庫上福岡支店東側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市上福岡２丁目３番]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡２丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.516563,35.8730956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SOMPOケアラヴィーレ上福岡西側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市上福岡２丁目６番]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡２丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5156665,35.8751258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>プレイロット(公園)</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市霞ケ丘３丁目１番]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市霞ケ丘３丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5084035,35.8762815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西中央公園（南側）</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市霞ケ丘２丁目５番]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市霞ケ丘２丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5078599,35.8736254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>３１棟西側植え込み</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市霞ケ丘３丁目３番]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市霞ケ丘３丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5073403,35.8755708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西中央公園（介護予防センター前）</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市霞ケ丘１丁目１番]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市霞ケ丘１丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5088025,35.8737995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>５棟南側歩道脇（西口自転車駐車場前北側）</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市霞ケ丘１丁目３番]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市霞ケ丘１丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5092078,35.8738874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西中央公園（北側）</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市霞ケ丘２丁目５番]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市霞ケ丘２丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5080879,35.8743296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１４棟前</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市霞ケ丘１丁目４番]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市霞ケ丘１丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5105429,35.875013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西小学校正門隣</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市西２丁目１０番]]></description>
+        <styleUrl>#icon-1500-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市西２丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.505797,35.8715839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西小学校北側（西放課後児童クラブ跡地）</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市西２丁目１０番]]></description>
+        <styleUrl>#icon-1500-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市西２丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5053893,35.8726011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西公園西側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市西１丁目１３番]]></description>
+        <styleUrl>#icon-1500-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市西１丁目１３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5075976,35.8677389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五丁目公園</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市上福岡５丁目１０番]]></description>
+        <styleUrl>#icon-1500-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡５丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5091112,35.8676542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>エクセルハイム横歩道</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市西１丁目４番]]></description>
+        <styleUrl>#icon-1500-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市西１丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.507182,35.8702641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道路予定地</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市上福岡６丁目１番]]></description>
+        <styleUrl>#icon-1500-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡６丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5113722,35.8727185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>介護予防センター東側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市霞ケ丘１丁目５番]]></description>
+        <styleUrl>#icon-1500-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市霞ケ丘１丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5093012,35.8734459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三澤木材（株） 　東側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市鶴ヶ舞２丁目３番１５号]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市鶴ヶ舞２丁目３番１５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5110064,35.8671281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南台公園</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市南台２丁目１１番]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市南台２丁目１１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5130489,35.8646785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉並クローバー公園南側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市上福岡４丁目１４番]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡４丁目１４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5140941,35.8679006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(株）関島光学目盛工業所</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市南台２丁目５番]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市南台２丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5159497,35.868271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南台２丁目集会所向い線路敷フェンス　</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市南台２丁目５番]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市南台２丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5168804,35.867845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡江川緑道（緑化学株式会社北側）</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市南台２丁目６番]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市南台２丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5170339,35.8669731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有山人形店駐車場</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市上福岡４丁目３番]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡４丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5138555,35.8702224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上福岡駅東口　ロータリー前</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市上福岡１丁目7番]]></description>
+        <styleUrl>#icon-1500-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡１丁目7番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5118882,35.8741645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧西友新上福岡店南側塀</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市上福岡１丁目８番]]></description>
+        <styleUrl>#icon-1500-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡１丁目８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5114153,35.874871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北野さくら公園(東側)</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市北野１丁目６番]]></description>
+        <styleUrl>#icon-1500-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市北野１丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5116215,35.8778543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上福岡駅踏切脇駐車場</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市上福岡１丁目２番]]></description>
+        <styleUrl>#icon-1500-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡１丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5135251,35.8723137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上福岡東口　ロータリー歩道橋下</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市上福岡１丁目６番]]></description>
+        <styleUrl>#icon-1500-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡１丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.512385,35.8740598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜通り線道路脇歩道(ｴﾝｾﾞﾙ美容室付近)</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市上福岡１丁目１３番]]></description>
+        <styleUrl>#icon-1500-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市上福岡１丁目１３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5148535,35.8759615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北野さくら公園(北側)</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市北野１丁目６番]]></description>
+        <styleUrl>#icon-1500-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市北野１丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5114821,35.8778499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふじみ野ステラ・イースト</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市福岡１丁目１番]]></description>
+        <styleUrl>#icon-1500-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市福岡１丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5205067,35.8799319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大原公園南側</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市大原１丁目１２番]]></description>
+        <styleUrl>#icon-1500-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大原１丁目１２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5156681,35.8777636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所第４庁舎南側</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市福岡１丁目１番]]></description>
+        <styleUrl>#icon-1500-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市福岡１丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5192997,35.8785758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所本庁舎前</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市福岡１丁目１番]]></description>
+        <styleUrl>#icon-1500-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市福岡１丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5192139,35.879306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所附属棟東側フェンス</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市福岡１丁目１番]]></description>
+        <styleUrl>#icon-1500-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市福岡１丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5205872,35.8793147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畑</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市北野２丁目２番]]></description>
+        <styleUrl>#icon-1500-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市北野２丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5127481,35.8785687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北野２丁目公園(ｹﾞ-ﾄﾎﾞ-ﾙ 場)</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市北野２丁目９番]]></description>
+        <styleUrl>#icon-1500-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市北野２丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5146944,35.8808998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>亀久保小学校東側</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市ふじみ野２丁目２２番１号]]></description>
+        <styleUrl>#icon-1500-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市ふじみ野２丁目２２番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5170405,35.8638841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東久保中央公園</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市ふじみ野１丁目３番]]></description>
+        <styleUrl>#icon-1500-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市ふじみ野１丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.514292,35.8586297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>イオン北側（亀久保勝瀬通り線）</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市ふじみ野１丁目２番]]></description>
+        <styleUrl>#icon-1500-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市ふじみ野１丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5134018,35.8609337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸山自治会集会所　南東側</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市丸山６番]]></description>
+        <styleUrl>#icon-1500-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市丸山６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.518285,35.8650165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡江川緑道（ライオンズマンション上福岡南側）</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市丸山３番]]></description>
+        <styleUrl>#icon-1500-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市丸山３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5160859,35.8662474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東久保区画整理記念公園</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市ふじみ野２丁目２２番]]></description>
+        <styleUrl>#icon-1500-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市ふじみ野２丁目２２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.516319,35.8626233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>江川会館</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市東久保１丁目２３番１２号]]></description>
+        <styleUrl>#icon-1500-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市東久保１丁目２３番１２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.514542,35.8653687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>うねやま公園</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 8<br>ポスター掲示場の設置場所: ふじみ野市ふじみ野２丁目１６番]]></description>
+        <styleUrl>#icon-1500-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市ふじみ野２丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5140467,35.8627029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南台あすなろ公園東側フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市南台１丁目９番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市南台１丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.520639,35.8691543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡江川緑道（イニシアふじみ野前）</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市新田１丁目1番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市新田１丁目1番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.521454,35.8683325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新田保育所</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市新田１丁目４番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市新田１丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5226301,35.8704578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南台1丁目公園</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市南台１丁目１３番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市南台１丁目１３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5178032,35.8673404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芝生公園</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市新田１丁目５番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市新田１丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5233883,35.8707801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南台あすなろ公園南側フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市南台１丁目９番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市南台１丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5205532,35.8688891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡江川緑道（アクティ上福岡前）</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市新田２丁目３番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市新田２丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52618,35.8707081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花の木中学校正門側</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市中福岡２１３番地]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市中福岡２１３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5343738,35.8764578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さぎの森小学校正門脇</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市駒林２８番地]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市駒林２８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5399593,35.8701974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>早船酒店西側梅畑</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市福岡４９８番地]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市福岡４９８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5438315,35.8783759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝ゲートボール場</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市中丸２丁目３番地]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市中丸２丁目３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5300157,35.8786085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福岡江川緑道（サニーハイツ前）</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市池上１番地]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市池上１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5323899,35.8707508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三社公園</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市谷田２丁目１番地]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市谷田２丁目１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5376622,35.8725307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水天宮公園西側</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市水宮１番]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市水宮１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5345455,35.8720141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>織部塚斜向い畑</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市大井１０２３番地]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井１０２３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.514511,35.847688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西ノ原中央公園北側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市うれし野１丁目５番]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市うれし野１丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5195465,35.8556778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井小学校東側（防災倉庫付近）</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市苗間３７番地]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間３７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.515338,35.8546796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井中学校東側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市苗間２４番地１]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間２４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5127319,35.8530147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井中学校南側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市苗間２４番地１]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間２４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5121472,35.8523494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>風の里園庭西側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市大井１１２５番地４]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井１１２５番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5134344,35.8512793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤土原公園</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市亀久保６６９番地]]></description>
+        <styleUrl>#icon-1500-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保６６９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5090179,35.8527794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井浄水場前</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市大井武蔵野１２５９番地]]></description>
+        <styleUrl>#icon-1500-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井武蔵野１２５９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4985045,35.8557222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西原小学校南側</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市大井武蔵野１３２２番地４]]></description>
+        <styleUrl>#icon-1500-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井武蔵野１３２２番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5000512,35.8505741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンファーマ製造株式会社</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市亀久保１１３０番地]]></description>
+        <styleUrl>#icon-1500-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保１１３０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5050481,35.8546961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>亀久保第３ミニ緑地</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市桜ヶ丘３丁目１０番]]></description>
+        <styleUrl>#icon-1500-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市桜ヶ丘３丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5057708,35.8516086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KPSプロダクツ</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市亀久保１１４１番地]]></description>
+        <styleUrl>#icon-1500-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保１１４１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5041396,35.851809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畑</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市大井武蔵野１３０２番地５]]></description>
+        <styleUrl>#icon-1500-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井武蔵野１３０２番地５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4969921,35.8524638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西原第２子ども広場</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市大井武蔵野１３４７番地４２]]></description>
+        <styleUrl>#icon-1500-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井武蔵野１３４７番地４２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5022654,35.8496821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>苗間一丁目調整池</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市苗間１丁目５番]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間１丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5227564,35.8581977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>うれし野公園</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市うれし野２丁目１０番２]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市うれし野２丁目１０番２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5230835,35.8562848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市沢公園</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市市沢２丁目５番５]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市市沢２丁目５番５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5241638,35.8537877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井保育所入口</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市市沢２丁目５番１号]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市市沢２丁目５番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5230012,35.853489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井・苗間区画整理記念公園</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市うれし野二丁目１０番４号]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市うれし野二丁目１０番４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5254204,35.857745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井陸橋下自転車駐車場（リズムタワーⅠ北側）</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市うれし野２丁目]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市うれし野２丁目</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5247253,35.8583858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふじみ野市苗間第１駐車場東側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市苗間１丁目３番]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間１丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5214673,35.8580742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ケ岡調整池</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市鶴ヶ岡２丁目１８番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市鶴ヶ岡２丁目１８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5043537,35.8677053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七彩公園</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市鶴ヶ岡４丁目１９番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市鶴ヶ岡４丁目１９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5020027,35.8676171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ岡中央公園北側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市鶴ヶ岡２丁目５番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市鶴ヶ岡２丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5061756,35.8654601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ丘小学校体育館西側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市鶴ヶ岡１丁目３番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市鶴ヶ岡１丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5049693,35.8633512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ岡三丁目公園南側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市鶴ヶ岡３丁目１０番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市鶴ヶ岡３丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.50416,35.8693921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あかまつ公園東側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市鶴ヶ岡１丁目２０番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市鶴ヶ岡１丁目２０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5034794,35.8661308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ビバホーム西側カーブミラーNo７３裏　市緑道</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市西鶴ヶ岡１丁目３番]]></description>
+        <styleUrl>#icon-1500-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市西鶴ヶ岡１丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5007001,35.8632549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三保野会館</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市苗間５８５番地]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間５８５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5346852,35.862847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みほの公園南側</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市苗間７２２番地１]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間７２２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5322841,35.8600538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前の舗道上の花壇</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市苗間２９２番地]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間２９２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5280124,35.8603425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗林（（株）フジミノ建設来客駐車場北側）</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市苗間３２９番地１]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間３２９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5304042,35.8617469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安藤工務店専用駐車場前の舗道上の植え込み</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市苗間４４４番地]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間４４４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5291081,35.8567565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>苗間みほの公園</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市苗間５６９番地１]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間５６９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5313273,35.8616107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みほの公園北側</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市苗間７２２番地１]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市苗間７２２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5327669,35.860619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>亀居ゲートボール場前</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市亀久保１２１６番地１]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保１２１６番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5020105,35.8568082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>文京学院大学　西側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市亀久保１１９６番地]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保１１９６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5011161,35.8547671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>文京学院大学　東側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市亀久保１１９６番地]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保１１９６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.503573,35.8564432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>亀久保西公園南側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市大井中央３丁目２５番]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井中央３丁目２５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5055083,35.8604332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧大井図書館</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市大井中央２丁目１９番５号]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井中央２丁目１９番５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5052473,35.8572148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ丘小学校入口交差点、南西角の駐車場</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市大井中央4丁目２０番]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井中央4丁目２０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5058469,35.8626137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>亀久保西公園北側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市大井中央３丁目２５番]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井中央３丁目２５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5057041,35.8609245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>掲示場(21～24).csv</name>
+      <Placemark>
+        <name>日本住宅パネル工業協同組合南側フェンス</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市亀久保２１８６番地]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保２１８６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4797722,35.8522806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三ケ島緑地</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市亀久保１８０７番地１]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保１８０７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4919647,35.8561532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井武蔵野調整池２号基東側</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市大井武蔵野４０４番地１０]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井武蔵野４０４番地１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4913584,35.855491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三角公園北側（亀久保西会館わき）</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市亀久保１８１４番地]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保１８１４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4935708,35.8576116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井武蔵野調整池１号基北側</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市大井武蔵野７０２番地１]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井武蔵野７０２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4945097,35.8535832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スポーツセンター多目的グラウンド北側</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市大井武蔵野１３８５番地１]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井武蔵野１３８５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4883469,35.8450351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>総合体育館入口（グラウンド・ゴルフ場前）</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市大井武蔵野１３９２番地１]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井武蔵野１３９２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4874892,35.8433731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>緑ケ丘緑地</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市緑ヶ丘２丁目２１番]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市緑ヶ丘２丁目２１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4984347,35.8604546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）日清製粉グループ（ピアシティふじみ野側）</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市鶴ヶ岡５丁目３番１]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市鶴ヶ岡５丁目３番１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.498288,35.8641725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西鶴ヶ岡公園</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市西鶴ヶ岡２丁目１２番]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市西鶴ヶ岡２丁目１２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4975666,35.8632345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ライトハウス南側</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市西鶴ヶ岡２丁目１０番１号]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市西鶴ヶ岡２丁目１０番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4985698,35.8624833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）日清製粉グループ（ホンダ学園側）</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市鶴ヶ岡５丁目３番１]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市鶴ヶ岡５丁目３番１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4991785,35.8653463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三角会館</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市亀久保１７８３番地３]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保１７８３番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4939936,35.8609625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京電力（株）亀久保変電所東側畑</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市緑ヶ丘１丁目８番]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市緑ヶ丘１丁目８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4990083,35.8580653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市亀久保４丁目１２番１２号]]></description>
+        <styleUrl>#icon-1500-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保４丁目１２番１２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5125484,35.8579732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大井総合支所南側</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市大井中央１丁目１番１]]></description>
+        <styleUrl>#icon-1500-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井中央１丁目１番１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5082799,35.8578768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>亀久保中央公園東側</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市亀久保１丁目２番]]></description>
+        <styleUrl>#icon-1500-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保１丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5099303,35.8584991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ひばり台子ども広場</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市桜ヶ丘１丁目４番]]></description>
+        <styleUrl>#icon-1500-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市桜ヶ丘１丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5078002,35.8547137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民憩の森レクリエーション広場南側</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市大井中央１丁目１８番]]></description>
+        <styleUrl>#icon-1500-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井中央１丁目１８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5062489,35.8553793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遊水池南側（(公社)シルバー人材センター事務所北）</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市亀久保３丁目４番]]></description>
+        <styleUrl>#icon-1500-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保３丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5089207,35.8612149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市亀久保３丁目１番２２号]]></description>
+        <styleUrl>#icon-1500-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市亀久保３丁目１番２２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5103661,35.8597435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸康園製茶工場北側畑（市道沿い）</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 1<br>ポスター掲示場の設置場所: ふじみ野市大井６０１番地２]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井６０１番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5273882,35.8508899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東台小学校北側</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 2<br>ポスター掲示場の設置場所: ふじみ野市大井７１０番地１]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井７１０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5228761,35.8490492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東原親水公園北東角（北向き）</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 3<br>ポスター掲示場の設置場所: ふじみ野市大井２丁目１３番]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井２丁目１３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5226998,35.8513008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遊水池北側（ライオンズマンションふじみ野東側）</name>
+        <address>ふじみ野市市沢３丁目３番</address>
+        <description><![CDATA[投票区: 24<br>設置番号: 4<br>ポスター掲示場の設置場所: ふじみ野市市沢３丁目３番]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市市沢３丁目３番</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>東原小学校北側</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 5<br>ポスター掲示場の設置場所: ふじみ野市大井２丁目９番１号]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井２丁目９番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.520731,35.8526827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東原小学校南側</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 6<br>ポスター掲示場の設置場所: ふじみ野市大井２丁目９番１号]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井２丁目９番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5219219,35.8515848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東原小学校西側</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 7<br>ポスター掲示場の設置場所: ふじみ野市大井２丁目９番１号]]></description>
+        <styleUrl>#icon-1500-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>ふじみ野市大井２丁目９番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5202348,35.8517478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

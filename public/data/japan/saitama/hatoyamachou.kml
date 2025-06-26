@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>鳩山町ポスター掲示場設置場所一覧</name>
+    <description/>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>【50鳩山町】設置場所一覧表-2.csv</name>
+      <Placemark>
+        <name> 旧公民館亀井分館</name>
+        <address>埼玉県比企郡鳩山町大字泉井５２９番地１</address>
+        <description><![CDATA[投票区: 1<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字泉井５２９番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字泉井５２９番地１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name> 商店脇</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町 大字泉井６１１番地２]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町 大字泉井６１１番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3170843,35.9937102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 亀井運動場駐車場</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字泉井８３１番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字泉井８３１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3266347,35.990748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> バス停脇</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字大橋２１６番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字大橋２１６番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3333222,35.993634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 交差点</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町 大字泉井９８０番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町 大字泉井９８０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3320531,35.9888643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 神社前</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字大橋６１８番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字大橋６１８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3357309,35.9912728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 病院駐車場入口</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町 大字大橋１０４２番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町 大字大橋１０４２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3419493,35.9909557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 民家前</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字奥田５６番地]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字奥田５６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3336387,36.0006806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 公会堂脇</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町 大字奥田２０３番２]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町 大字奥田２０３番２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3365677,36.0017612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 亀井農村センター入口</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字須江１９０番地１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字須江１９０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3293972,35.9994411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> バス停脇</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字須江２５８番地１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字須江２５８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3242581,36.0005087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 民家脇</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字竹本９２４番地]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字竹本９２４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3157373,36.0028841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 民家裏</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字竹本２１２番地１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字竹本２１２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.307637,36.0012654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 民家前</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字高野倉１６６番地]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字高野倉１６６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3004701,35.9916028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 神社前</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字熊井９９７番地１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字熊井９９７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3081735,35.9861538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 上熊井農産物直売所前</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字熊井１１８５番地１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字熊井１１８５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.311446,35.9861875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 椎ノ木坂通り</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字熊井１７３２番地]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字熊井１７３２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.319986,35.9836145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 民家脇</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字熊井２３３番地]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字熊井２３３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3256776,35.9865228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 鳩山町中央庭球場脇</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字熊井１９番地１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字熊井１９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3321257,35.9851511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 鳩山中学校前</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字熊井２０２４番地１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字熊井２０２４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3325977,35.9842977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 神社鳥居前</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字大豆戸３６５番地１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字大豆戸３６５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3273117,35.9773142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 鳩山町保健センター前</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字大豆戸１８３番地１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字大豆戸１８３番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3345171,35.97972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 民家脇</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字小用３５番地１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字小用３５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3382928,35.9709354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 民家脇</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字小用１２２５番地４]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字小用１２２５番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3369916,35.9672437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 今宿コミュニティセンター入口</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字赤沼２６０１番地]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字赤沼２６０１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3413953,35.9704744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 県道岩殿・岩井線亀甲橋入口</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字赤沼３２２番地１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字赤沼３２２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3467063,35.9727292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 下水中継ポンプ場脇</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字赤沼１０２番地４]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字赤沼１０２番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3472204,35.9705471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 石坂集会所前</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字石坂１４２９番地３]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字石坂１４２９番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3521292,35.97679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 寺前</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字石坂１２４８番地１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字石坂１２４８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3559792,35.9778816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 公民館石坂分館入口</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字石坂８７５番地１９]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字石坂８７５番地１９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3647184,35.9826214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 農協直売所前</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町大字石坂９７８番地６]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町大字石坂９７８番地６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3650987,35.9787434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 鳩ヶ丘四丁目アスレチック公園</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町鳩ヶ丘四丁目１０番]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町鳩ヶ丘四丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3601022,35.9807805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 鳩ヶ丘三丁目しぜん公園</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町鳩ヶ丘三丁目１４番]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町鳩ヶ丘三丁目１４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3619523,35.9821659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 楓ヶ丘四丁目ダイヤモンド公園</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町楓ヶ丘四丁目１８番]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町楓ヶ丘四丁目１８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3602321,35.9848777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 楓ヶ丘四丁目パンダ公園</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町楓ヶ丘四丁目５番]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町楓ヶ丘四丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.359439,35.9874794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 事務所前</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町楓ヶ丘一丁目２３番]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町楓ヶ丘一丁目２３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.359221,35.9848471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 山村学園鳩山総合センター脇</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町鳩ヶ丘一丁目１９番]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町鳩ヶ丘一丁目１９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3569108,35.9834436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 鳩ヶ丘五丁目民家脇</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町鳩ヶ丘五丁目１０番]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町鳩ヶ丘五丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3539511,35.9825385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 鳩ヶ丘二丁目しばふ公園</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町鳩ヶ丘二丁目１５番]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町鳩ヶ丘二丁目１５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3586163,35.9826809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 楓ヶ丘一丁目オレンジ公園</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町楓ヶ丘一丁目１０番]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町楓ヶ丘一丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3579979,35.9870601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 鳩ヶ丘一丁目鳩っこ公園</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町鳩ヶ丘一丁目１６番]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町鳩ヶ丘一丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3552162,35.9837018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 鳩山小学校体育館側入口</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町鳩ヶ丘一丁目１６番]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町鳩ヶ丘一丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3543418,35.9850127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 旧ＪＡＸＡ鳩山宿舎入口</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町松ヶ丘一丁目１番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町松ヶ丘一丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3553871,35.9866585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 楓ヶ丘二丁目ジャンボ公園</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町楓ヶ丘二丁目３１番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町楓ヶ丘二丁目３１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3581933,35.9882743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 松ヶ丘四丁目民家裏</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町松ヶ丘四丁目５番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町松ヶ丘四丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3512703,35.9885413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 楓ヶ丘三丁目民家脇</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町楓ヶ丘三丁目１７番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町楓ヶ丘三丁目１７番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3571177,35.9907088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 松ヶ丘二丁目てつぼう公園</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町松ヶ丘二丁目１３番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町松ヶ丘二丁目１３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3534507,35.9902073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 多世代交流活動センター入口</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町松ヶ丘四丁目１番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町松ヶ丘四丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3524614,35.9912751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> バス停脇</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡鳩山町松ヶ丘三丁目１６番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡鳩山町松ヶ丘三丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3555979,35.993729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

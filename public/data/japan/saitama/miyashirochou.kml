@@ -1,0 +1,2020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>宮代選挙ポスター掲示場設置場所</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ポスター掲示場設置場所.csv</name>
+      <Placemark>
+        <name>福祉交流館すてっぷ宮代</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 宮代町字西原２７８]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字西原２７８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7267192,36.0095564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮代第一中継ポンプ場正門脇</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 宮代町字山崎５５０−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字山崎５５０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7267648,36.0151984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新しい村</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 宮代町字山崎７７７−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字山崎７７７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7194938,36.0176136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西原団地集会所</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 宮代町字西原５０５−５]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字西原５０５−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7144548,36.0134584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中集会所</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 宮代町字中１０９]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字中１０９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7243693,36.0058184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>はらっパーク宮代</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 宮代町字金原２９５]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字金原２９５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7178884,36.0050825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いきがい活動センター</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 宮代町字山崎１２]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字山崎１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7207166,36.0120176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫宮神社南側交差点付近（民家南側）</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 宮代町字姫宮１９０−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字姫宮１９０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7342943,36.0084474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫宮保育園</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 宮代町字東６６８]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字東６６８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7335222,36.003597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中寺集会所</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 宮代町字東１２２−１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字東１２２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7287904,36.0027885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東集会所</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 宮代町字東４１１−４]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字東４１１−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7322216,36.0017176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ひめみや音楽院前</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 宮代町東姫宮１−６８８−２２２]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町東姫宮１−６８８−２２２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7356693,36.0056768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫宮駅西口ロータリー</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 宮代町東姫宮１−１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町東姫宮１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.738601,36.0039648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>にじ広場</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 宮代町東姫宮２−９０４−１４０]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町東姫宮２−９０４−１４０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7386244,35.9998877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫宮南団地集会所西側フェンス</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 宮代町東姫宮２−１１−２４]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町東姫宮２−１１−２４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7373562,35.9992904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川端公民館脇</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 宮代町字川端６４７−３]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字川端６４７−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7436124,36.0068511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サーパス宮代北側</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 宮代町字川端３０４−４]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字川端３０４−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7388131,36.0069598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姫宮駅東口</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 宮代町川端１−３３２−２３]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町川端１−３３２−２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7391466,36.0041618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川端４交差点西側押しボタン信号付近（民家脇）</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 宮代町川端４−２−１０]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町川端４−２−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7409948,36.0018434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川端広場</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 宮代町川端３−４]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町川端３−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7412944,36.0037796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内野集会所</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 宮代町字宮東３７３−２]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字宮東３７３−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7458911,36.0141296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮東テニスコート</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 宮代町字宮東８６３]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字宮東８６３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7480546,36.0097802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東小学校正門</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 宮代町百間５−８−４８]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町百間５−８−４８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7316521,36.0223453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東小学校プール前</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 宮代町字中島２１６]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字中島２１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7338318,36.0219199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>若宮集会所付近</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 宮代町字中島３８６−１]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字中島３８６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7395208,36.0184733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤羽医院前</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 宮代町百間２−２]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町百間２−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7261223,36.0264264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐藤質店前</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 宮代町百間２−６]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町百間２−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7288544,36.0260829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>百間公民館</name>
+        <address>宮代町百間５−１−２９</address>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 宮代町百間５−１−２９]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町百間５−１−２９</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>中須集会所</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 宮代町字中島９４]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字中島９４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7356231,36.0169936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>百間中学校正門</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 宮代町宮代３−７−３８]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町宮代３−７−３８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7272763,36.0192948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南彩農協宮代支店</name>
+        <address>宮代町宮代３−７９０−１</address>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 宮代町宮代３−７９０−１]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町宮代３−７９０−１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>道佛南公園</name>
+        <address>宮代町字道佛２−１２</address>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 宮代町字道佛２−１２]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字道佛２−１２</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>東小学校分教場跡</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 宮代町宮代２−１−３３]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町宮代２−１−３３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.729689,36.0208018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>地下道入口</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 宮代町宮代１−７]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町宮代１−７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7308201,36.0224159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>きりかぶ公園</name>
+        <address>宮代町字道佛１−６</address>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 宮代町字道佛１−６]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字道佛１−６</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>道佛集会所</name>
+        <address>宮代町字宮代２−８−６</address>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 宮代町字宮代２−８−６]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字宮代２−８−６</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>進修館脇（東武動物公園駅前通り）</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 宮代町笠原１−１−１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町笠原１−１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7241129,36.022561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮代町役場前</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 宮代町笠原１−４−１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町笠原１−４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7223244,36.0227468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新道集会所</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 宮代町中央２−９−３]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町中央２−９−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7270493,36.0232721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>町立図書館駐車場前</name>
+        <address>宮代町字百間１１３２−１</address>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 宮代町字百間１１３２−１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字百間１１３２−１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>東武動物公園駅西口ロータリー</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 宮代町中央１−７０１−４]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町中央１−７０１−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7255012,36.0244872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>辰新田集会所</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 宮代町本田４−３９６−１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町本田４−３９６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7206947,36.0241393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みやしろ保育園前</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 宮代町字百間１０９２−１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町字百間１０９２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7203162,36.021237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>学園台集会所</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 宮代町学園台２−８６２−２０８]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町学園台２−８６２−２０８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.713726,36.0297228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須賀集会所</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 宮代町大字須賀１１２５−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字須賀１１２５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7094485,36.0314201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>学園台宮前幼児公園（東武伊勢崎線脇）</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 宮代町学園台１−８]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町学園台１−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7168877,36.0297807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>学園台けやき公園（日本工業大学学友館裏）</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 宮代町学園台２−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町学園台２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7162983,36.0284803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>学園台あおぎり公園（学園台３丁目内）</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 宮代町学園台３−８]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町学園台３−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7166598,36.0261359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国納保育園</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 宮代町大字国納１０２−１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字国納１０２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6984658,36.0384985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>番屋橋脇</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 宮代町大字国納１８４−３]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字国納１８４−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6966885,36.0402621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>農業集落排水処理施設南側(中須用水沿い）</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 宮代町大字西粂原５６５−４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字西粂原５６５−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6951036,36.0323547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高野川児童公園</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 宮代町大字須賀２２６８−３]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字須賀２２６８−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7079244,36.0391717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須賀上集会所前</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 宮代町大字須賀１１９６−４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字須賀１１９６−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7073081,36.0351339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東粂原グランド西側</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 宮代町大字東粂原３３６−３]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字東粂原３３６−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7005915,36.0326792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鷲宮神社前</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 宮代町大字西粂原６６０−３]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字西粂原６６０−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6882727,36.0362164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和戸公民館</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 宮代町和戸２−５−１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町和戸２−５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6992309,36.0425526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道春日部久喜線・和戸交差点</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 宮代町和戸２−１３３−２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町和戸２−１３３−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6994682,36.0429658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和戸駅第１駐輪場</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 宮代町和戸１−５]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町和戸１−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7017635,36.0407003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>万願寺橋北側古利根川右岸（民家前）</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 宮代町和戸５−８−６]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町和戸５−８−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7063189,36.0407918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和戸駅入口交差点北側古利根川右岸（民家前）</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 宮代町和戸４−１４−１８]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町和戸４−１４−１８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7041261,36.0420471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和戸駅前</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 宮代町和戸１−１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町和戸１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7008249,36.0401065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>和戸児童公園（和戸宿集会所前）</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 宮代町和戸３−１０]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町和戸３−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.702084,36.0431292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮代台集会所</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 宮代町大字西粂原１２０１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字西粂原１２０１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6894454,36.0415829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮代台遊水池</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 宮代町宮代台３−３９７−７４]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町宮代台３−３９７−７４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6915855,36.0444511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>リビングセンターよしおか前</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 宮代町大字国納３０８−６]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字国納３０８−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6954727,36.0413999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元三島医院前</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 宮代町宮代台１−４]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町宮代台１−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.696179,36.0424405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮代台三丁目中央公園北側</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 宮代町宮代台３−３]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町宮代台３−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6923943,36.042875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮代台三丁目中央公園入口脇</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 宮代町宮代台３−３]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町宮代台３−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6923407,36.0425041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南遊水池公園（バックネット付近）</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 宮代町宮代台２−１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町宮代台２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6930827,36.041452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖の山集会所</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 宮代町大字和戸９４４−３]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字和戸９４４−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6936094,36.0485053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八河内集会所東側（民家脇ガードレール）</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 宮代町大字国納８１８−２]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字国納８１８−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6887515,36.0560475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桃山台中央公園北側</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 宮代町大字和戸２１０３−１９６]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字和戸２１０３−１９６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6983152,36.0526366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桃山台団地入口</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 宮代町大字国納９６１−２]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字国納９６１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6963342,36.0512422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桃山台団地調整池</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 宮代町大字和戸２１０３−３９５]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字和戸２１０３−３９５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6992835,36.0519698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>総合運動公園入口</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 宮代町大字和戸１８３４]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字和戸１８３４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6956239,36.0526941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沖野山公園</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 宮代町大字和戸１０１８−２８]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字和戸１０１８−２８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6920526,36.050587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>防火水槽埋設地前（民家付近）</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 宮代町大字須賀１７１３−３]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字須賀１７１３−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7202308,36.0291596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久喜地区消防組合宮代消防署</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 宮代町大字須賀６５１−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>宮代町大字須賀６５１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7108208,36.0292729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

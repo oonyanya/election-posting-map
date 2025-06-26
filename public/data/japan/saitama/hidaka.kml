@@ -1,0 +1,3443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>日高市選挙運動用ポスター掲示場</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>一覧表.csv</name>
+      <Placemark>
+        <name>武蔵横手駅東側</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字横手７０６番地２先]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字横手７０６番地２先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2813842,35.8849413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>祥雲橋</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字横手１５番地２先]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字横手１５番地２先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2957435,35.8790673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瀧不動北交差点付近</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字台３５０番地４先]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字台３５０番地４先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3073034,35.8785692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗駅東踏切</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字台２９１番地２先]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字台２９１番地２先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3056718,35.8817935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗本郷交差点北東</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字高麗本郷１９２番地７]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高麗本郷１９２番地７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3095296,35.8860828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿台橋交差点西側から秩父方面100m</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字台６１番地１先]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字台６１番地１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3057104,35.8854528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道299号線久保交差点から秩父方向へ200m</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字高麗本郷６９８番地１]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高麗本郷６９８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2984052,35.8838271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道15号線「阿里山カフェ前信号」北方向20ｍ</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県日高市大字高麗本郷１９６番地１先]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高麗本郷１９６番地１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3078579,35.8865292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧高麗小学校東側 </name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字梅原５番地１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字梅原５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3149359,35.8857671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＪＡいるま野旧高麗支店前</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字梅原４７番地１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字梅原４７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3166709,35.8861119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡村記念クリニック向側</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字栗坪１０５番地１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字栗坪１０５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3182249,35.8875151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>諏訪大明神前</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字栗坪２３９番地１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字栗坪２３９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3194601,35.8874256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>比留間病院入口</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字栗坪２７４番地３]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字栗坪２７４番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3206527,35.8883748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗学童保育室フェンス西側</name>
+        <address>埼玉県日高市大字梅原２９４番地２</address>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字梅原２９４番地２]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字梅原２９４番地２</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>獅子岩橋南側フェンス</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字栗坪３５５番地２]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字栗坪３５５番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.323575,35.8922208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下高岡公会堂南側</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県日高市大字高岡１２１番地先]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高岡１２１番地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3192448,35.8934562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>消防団第２分団詰所</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字野々宮１５番地１０]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字野々宮１５番地１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3280557,35.8947474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗神社前</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字新堀８２２番地４]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字新堀８２２番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3244512,35.8973421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清水塗装店西側</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字新堀３６３番地３]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字新堀３６３番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3296943,35.9003468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲野辺神社</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字新堀５９２番地]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字新堀５９２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3282545,35.9051246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市総合福祉センター西側三角地</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字楡木１９３番地]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字楡木１９３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3282838,35.889149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＪＡいるま野あぐれっしゅ日高中央駐車場北側</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字猿田６０番地１先]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字猿田６０番地１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3311541,35.8900759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かに沢の広場南側フェンス</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字猿田２０２番地２]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字猿田２０２番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3341837,35.8883777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田波目交差点南側</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字田波目７７３番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字田波目７７３番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3462077,35.9209594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ハート薬局南側</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字北平沢５１２番地３先]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字北平沢５１２番地３先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3262904,35.9153798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北平沢交差点西側Ｙ字路付近南</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字北平沢７６９番地３]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字北平沢７６９番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3271333,35.9129946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちびっ子広場南側</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字南平沢１２７６番地先]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字南平沢１２７６番地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3360527,35.9158801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南平沢交差点北側</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字南平沢６２０番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字南平沢６２０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3326909,35.910926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内田貴金属工芸前</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字南平沢２０３番地２]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字南平沢２０３番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3341054,35.9050267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日高市文化体育館</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字南平沢１０１０番地]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字南平沢１０１０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3382749,35.9083109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所内駐車場西側</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県日高市大字南平沢１０２０番地]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字南平沢１０２０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3387532,35.907511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川駅前広場</name>
+        <address>埼玉県日高市高麗川一丁目１５番地</address>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市高麗川一丁目１５番地]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市高麗川一丁目１５番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高麗川駅線路西側フェンス</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市高麗川一丁目５番地３４先]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市高麗川一丁目５番地３４先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3371331,35.8977604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かにや高麗川店北側</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市高麗川一丁目１３番地７]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市高麗川一丁目１３番地７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3347776,35.9003947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小僧寿し西側</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市高麗川二丁目２８番地９]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市高麗川二丁目２８番地９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3344869,35.8949312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道262号線上鹿山交差点から狭山方面200ｍ</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字上鹿山３５０番地３]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字上鹿山３５０番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3412845,35.8888652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川２丁目西公園入口フェンス</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市高麗川二丁目２４番地]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市高麗川二丁目２４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3358851,35.8933087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯能寄居線道路用地</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字上鹿山５０７番地２]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字上鹿山５０７番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3380457,35.8853804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新宿区公会堂</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字原宿７０４番地２]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字原宿７０４番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3486793,35.9112587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>原宿区公会堂</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字原宿１７４番地３５]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字原宿１７４番地３５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3441406,35.9037409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コーポ山岸駐車場東側</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字原宿３５７番地１]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字原宿３５７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3426701,35.90063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川中学校東側</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字原宿１５３番地１]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字原宿１５３番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3416828,35.9025377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上ノ台公園</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字原宿２５１番地]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字原宿２５１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3372116,35.8983717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下鹿山区公会堂前</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字下鹿山354番地８５先]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字下鹿山354番地８５先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3541964,35.8960889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧　ＫＯスポーツ店東側</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字鹿山５７５番地１]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字鹿山５７５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3505285,35.9010856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヤオコー高麗川店西側100ｍ</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字鹿山３１８番地９]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字鹿山３１８番地９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3407506,35.8952582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>明婦地蔵公園わき緑地</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字鹿山２５５番地４]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字鹿山２５５番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3450707,35.8970955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>生涯学習センター南側</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字鹿山３００番地６]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字鹿山３００番地６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3416262,35.8967662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>生涯学習センター北側</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字鹿山３７０番地２０先]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字鹿山３７０番地２０先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3417817,35.8978698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駒井建設（株）資材置場北側</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字鹿山４２７番地１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字鹿山４２７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3458502,35.9003593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鹿山児童公園</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字鹿山７５番地２]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字鹿山７５番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3479482,35.8984957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営日高鹿山団地</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字下鹿山６１番地１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字下鹿山６１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3494932,35.8982507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駒寺集落センター</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字駒寺野新田１２８番地１]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字駒寺野新田１２８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3605667,35.9189083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭ヶ丘公会堂</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字旭ヶ丘５０９番地２]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字旭ヶ丘５０９番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3639503,35.9126098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県立日高高等学校</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字旭ヶ丘８０６番地]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字旭ヶ丘８０６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3679442,35.9074667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高萩北公民館</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字旭ヶ丘９９７番地２]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字旭ヶ丘９９７番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3727011,35.9099381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ベイシア電器西側</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字森戸新田８８番地１]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字森戸新田８８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3706123,35.9160616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>相原中央公園</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩１７００番地４２]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩１７００番地４２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3760134,35.9052526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（有）コイズミ・エネオス石油給油所西側</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字森戸新田７８番地１先]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字森戸新田７８番地１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3768413,35.9144303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有限会社サンメタル北東</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県日高市大字森戸新田８番地２]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字森戸新田８番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3715499,35.9222843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>別所公会堂前</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２８６番地２]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２８６番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3665463,35.9036346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵高萩駅北臨時（第１）自転車駐車場</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大武蔵高萩1丁目1番地1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大武蔵高萩1丁目1番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3714738,35.9021506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵高萩駅西側駐車場</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩６２４番地１先]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩６２４番地１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3711478,35.901497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧国道407号線有限会社水村商店北側</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２５番地]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3748596,35.9039957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高萩第三区公会堂    　</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩４６０番地]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩４６０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3692014,35.9008955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>女影時計台</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字女影３８０番地]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字女影３８０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3658541,35.8970828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十一屋東側畑            　</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字女影１８４１番地１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字女影１８４１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.363762,35.8996944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高萩小学校北側</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩７９４番地１]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩７９４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.373139,35.8980414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高萩交差点東側</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩１２３番地先]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩１２３番地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3762296,35.9017181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天神公園フェンス</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩７０１番地３７]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩７０１番地３７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3713715,35.8967255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上之條公会堂東側</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字女影６２６番地１]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字女影６２６番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.363073,35.8915453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>姥田公会堂東側</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字女影１２９６番地１]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字女影１２９６番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3556524,35.8886511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>向郷公会堂</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字中沢６２５番地]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字中沢６２５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3627533,35.8833755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日高総合公園駐車場側フェンス</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩１５００番地]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩１５００番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3810789,35.8992417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高萩橋</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩１1５４番地付近]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩１1５４番地付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3760227,35.9012258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道407号線大谷沢交差点西側</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字大谷沢２５５番地２]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字大谷沢２５５番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3771603,35.8830423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>農村広場東側</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字大谷沢３７３番地１]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字大谷沢３７３番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3825259,35.8867772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田木区公会堂</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字田木１０４番地４]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字田木１０４番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3778823,35.8766339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高富集落センター</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字高富３７番地１]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高富３７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3859351,35.876786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬引沢公会堂</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字馬引沢１９４番地１]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字馬引沢１９４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3711631,35.8742853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＪＡいるま野高萩南農産物直売所北側</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字中沢１９１番地１]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字中沢１９１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3774584,35.8803383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>正法寺敷地東側フェンス付近</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字中沢124番地]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字中沢124番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.373677,35.8854762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下大谷沢公会堂東側100ｍ総合公園通り沿い</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県日高市大字下大谷沢３９９番地１]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字下大谷沢３９９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3911959,35.8952454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>セイムス日高高萩店東側</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２３０６番地７先]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２３０６番地７先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3734545,35.9081498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道407号バイパス交差点</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２２３５番地３]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２２３５番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.375789,35.9073185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六ツ塚公園</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２６３１番地４１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２６３１番地４１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3782284,35.9093289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）丸美屋ﾌｰｽﾞ包装事業部西側</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２３０５番地１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２３０５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.37552,35.9098512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲荷久保甲稲荷神社前道路東へ100ｍ</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２６３６番地]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２６３６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.378018,35.9110224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ちびっこ広場</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２６４５番地８]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２６４５番地８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3812748,35.9121153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日高団地ロータリー</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市高萩東二丁目１２７番地１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市高萩東二丁目１２７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3826223,35.9106623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木原ピアノ教室東側</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２２４４番地]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２２４４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.377283,35.9068731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中北谷公園</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２１６８番地６３]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２１６８番地６３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3821912,35.907956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日高台区公会堂</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２１６９番地３]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２１６９番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3818016,35.9074182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かどっこ公園西側遊水池</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２０９６番地２５]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２０９６番地２５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3862191,35.9074032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かどっこ公園</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２０９６番地２５]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２０９６番地２５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3869997,35.9073641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下高萩区ごみ集積場付近</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩２０３４番地]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩２０３４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3915325,35.9076486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浄化センター入口</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字高萩１８５１番地３]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高萩１８５１番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3856031,35.9040654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>こま川団地第二折返し場ﾌｪﾝｽ</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字下鹿山４９４番地５]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字下鹿山４９４番地５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3515472,35.8923241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野口駐車場前</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字中鹿山５３７番地５]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字中鹿山５３７番地５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3484258,35.8904456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高根小中学校</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字中鹿山５２３番地３]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字中鹿山５２３番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3471014,35.8870725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高根公園</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字下鹿山５３０番地７]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字下鹿山５３０番地７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3497524,35.8864234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>こま川団地1街区４号棟西側</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字中鹿山４５２番地４]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字中鹿山４５２番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3447724,35.8876649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高根の池公園南側</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字下鹿山５１４番地１４]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字下鹿山５１４番地１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3498669,35.8899184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>こま川団地内商店駐車場入口</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字下鹿山５２７番地]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字下鹿山５２７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3481738,35.8879778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有限会社ホットハーツ西の水路前</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市大字中鹿山２２１番地1]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字中鹿山２２１番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3455934,35.8917841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大字中鹿山243番地東側</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市大字中鹿山２６５番地１先]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字中鹿山２６５番地１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3463069,35.8939148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>プラスワン前法面</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市大字下鹿山４９８番地１先]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字下鹿山４９８番地１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3525226,35.8930093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗川南公民館フェンス</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市大字中鹿山８１番地１]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字中鹿山８１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3431168,35.8930067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛宕公園東側フェンス</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市大字中鹿山５３３番地５先]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字中鹿山５３３番地５先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3449178,35.8888883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>こま川団地2街区10号棟北側</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市大字下鹿山４９４番地５]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字下鹿山４９４番地５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3489025,35.892146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大字中鹿山471番地44西側</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市大字中鹿山４７１番地４４先]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字中鹿山４７１番地４４先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3443464,35.8853063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入口公園</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台一丁目２６４番１２号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台一丁目２６４番１２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2996947,35.8808299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>こま武蔵台自治会館南側フェンス</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台一丁目４７番１号先]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台一丁目４７番１号先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2988815,35.8796857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中の田公園 </name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台一丁目２１４番２９号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台一丁目２１４番２９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3020751,35.8786251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高麗駅前</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台一丁目２２０番５号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台一丁目２２０番５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3041095,35.8812355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>こま武蔵台ショッピングセンター北側</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台一丁目３４４番４号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台一丁目３４４番４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.302114,35.8803475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第一遊水池</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台一丁目３１１番８号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台一丁目３１１番８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3006227,35.8796998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中の田公園 </name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台一丁目２１４番２９号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台一丁目２１４番２９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3037461,35.8784458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三王塚公園</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台三丁目３８９番２９号]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台三丁目３８９番２９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3013826,35.8756671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>七曲り公園</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台三丁目３１１番３１０号]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台三丁目３１１番３１０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3007014,35.8760844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩の本公園</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台二丁目５６８番８６号]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台二丁目５６８番８６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3032638,35.8763579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大寉巣公園</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台五丁目５３５番１８２号]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台五丁目５３５番１８２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3043635,35.8718401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵台減圧場</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台五丁目３９３番１２２号]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台五丁目３９３番１２２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3027488,35.8726964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤坂公園</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台四丁目４００番１９号]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台四丁目４００番１９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3006044,35.8741637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>榎田緑地</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市武蔵台七丁目１０５番地１０]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市武蔵台七丁目１０５番地１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2972326,35.8769338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横手台自治会館南駐車場</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県日高市横手一丁目１６番地２先]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市横手一丁目１６番地２先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2891815,35.8725559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>なかよし公園</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県日高市横手二丁目１番地２０]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市横手二丁目１番地２０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2855606,35.8711046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国際興業バス折返し場　　　</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県日高市横手二丁目１６番地４]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市横手二丁目１６番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2841766,35.8725347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バスケット公園</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県日高市横手二丁目１６番地１７]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市横手二丁目１６番地１７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.285228,35.8744169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横手台グラウンド</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県日高市横手一丁目１０００番地３]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市横手一丁目１０００番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2900559,35.8709779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峯両谷公園</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県日高市横手一丁目１５番地９]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市横手一丁目１５番地９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2894283,35.8738599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>どかん公園前道路東方向120ｍ</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県日高市横手一丁目３６番地５]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市横手一丁目３６番地５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.287717,35.8768853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>巾着田駐車場</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県日高市大字高麗本郷239番地8]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県日高市大字高麗本郷239番地8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3112113,35.8859719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

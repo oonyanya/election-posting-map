@@ -1,0 +1,6180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>入間市ポスター掲示場設置場所</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>入間市ポスター掲示場設置場所.csv</name>
+      <Placemark>
+        <name>業務スーパー入間店フェンス</name>
+        <description><![CDATA[投票区: 1<br>掲示場番号: 1<br>設置場所住所: 扇町屋５−６−２９<br>経度: 139.379123<br>緯度: 35.82742669]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇町屋５−６−２９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.379123</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82742669</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.379123,35.82742669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊岡保育所正門前空地</name>
+        <description><![CDATA[投票区: 1<br>掲示場番号: 2<br>設置場所住所: 扇町屋１−７−１７<br>経度: 139.3858538<br>緯度: 35.83035651]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇町屋１−７−１７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3858538</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83035651</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3858538,35.83035651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>扇町屋地区センター北側入口脇</name>
+        <description><![CDATA[投票区: 1<br>掲示場番号: 3<br>設置場所住所: 扇町屋１−９−３４<br>経度: 139.3855237<br>緯度: 35.8319822]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇町屋１−９−３４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3855237</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8319822</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3855237,35.8319822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側駐車場</name>
+        <description><![CDATA[投票区: 1<br>掲示場番号: 4<br>設置場所住所: 扇町屋４−１−４４<br>経度: 139.3836066<br>緯度: 35.8309047]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇町屋４−１−４４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3836066</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8309047</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3836066,35.8309047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>扇町屋第1区自治会館向側グランメール前</name>
+        <description><![CDATA[投票区: 1<br>掲示場番号: 5<br>設置場所住所: 扇町屋５−４−２９<br>経度: 139.3818947<br>緯度: 35.82756557]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇町屋５−４−２９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3818947</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82756557</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3818947,35.82756557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民会館北側契約駐車場</name>
+        <description><![CDATA[投票区: 1<br>掲示場番号: 6<br>設置場所住所: 扇町屋１−１１<br>経度: 139.3882471<br>緯度: 35.8321943608591]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇町屋１−１１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3882471</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8321943608591</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3882471,35.8321943608591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民会館入口東脇</name>
+        <description><![CDATA[投票区: 1<br>掲示場番号: 7<br>設置場所住所: 豊岡３−１０−１０<br>経度: 139.389329<br>緯度: 35.8323884]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>豊岡３−１０−１０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.389329</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8323884</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.389329,35.8323884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間市役所西側案内板脇</name>
+        <description><![CDATA[投票区: 2<br>掲示場番号: 1<br>設置場所住所: 豊岡１−１６−１<br>経度: 139.390063<br>緯度: 35.8352841]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>豊岡１−１６−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.390063</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8352841</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.390063,35.8352841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ファミリーマート入間豊岡店駐車場前（市道歩道内）</name>
+        <description><![CDATA[投票区: 2<br>掲示場番号: 2<br>設置場所住所: 豊岡１−４−１２<br>経度: 139.3903441<br>緯度: 35.83892911]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>豊岡１−４−１２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3903441</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83892911</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3903441,35.83892911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊岡配水場駐車場入口脇フェンス</name>
+        <description><![CDATA[投票区: 2<br>掲示場番号: 3<br>設置場所住所: 入間市向陽台１−１−８<br>経度: 139.3950611<br>緯度: 35.8360048]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>入間市向陽台１−１−８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3950611</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8360048</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3950611,35.8360048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かにや入間市中央店脇（市道歩道内）</name>
+        <description><![CDATA[投票区: 2<br>掲示場番号: 4<br>設置場所住所: 豊岡５−１−１７<br>経度: 139.3935368<br>緯度: 35.83670214]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>豊岡５−１−１７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3935368</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83670214</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3935368,35.83670214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸広百貨店向側故きを温ねる公園</name>
+        <description><![CDATA[投票区: 2<br>掲示場番号: 5<br>設置場所住所: 豊岡１−１０２８<br>経度: 139.3877396<br>緯度: 35.83827165]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>豊岡１−１０２８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3877396</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83827165</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3877396,35.83827165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>タイムズ24入間第８駐車場（入間市駅前交差点）</name>
+        <description><![CDATA[投票区: 2<br>掲示場番号: 6<br>設置場所住所: 河原町１<br>経度: 139.3893662<br>緯度: 35.84060425]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>河原町１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3893662</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84060425</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3893662,35.84060425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間駅前プラザ１５号棟西側</name>
+        <description><![CDATA[投票区: 2<br>掲示場番号: 7<br>設置場所住所: 向陽台１−１−１７<br>経度: 139.3909536<br>緯度: 35.84005803]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>向陽台１−１−１７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3909536</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84005803</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3909536,35.84005803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊岡小学校（正門東側フェンス）</name>
+        <description><![CDATA[投票区: 2<br>掲示場番号: 8<br>設置場所住所: 向陽台１−１−１４<br>経度: 139.3928754<br>緯度: 35.83833001]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>向陽台１−１−１４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3928754</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83833001</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3928754,35.83833001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河原町子供広場（国道16号線側）</name>
+        <description><![CDATA[投票区: 3<br>掲示場番号: 1<br>設置場所住所: 河原町１２２１−３０<br>経度: 139.388094<br>緯度: 35.84441671]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>河原町１２２１−３０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.388094</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84441671</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.388094,35.84441671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒須第二子供広場（東側フェンス）</name>
+        <description><![CDATA[投票区: 3<br>掲示場番号: 2<br>設置場所住所: 黒須２−１１９０<br>経度: 139.3846012<br>緯度: 35.84592135]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>黒須２−１１９０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3846012</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84592135</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3846012,35.84592135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒須地区センター入口脇</name>
+        <description><![CDATA[投票区: 3<br>掲示場番号: 3<br>設置場所住所: 黒須２−３−１３<br>経度: 139.3845872<br>緯度: 35.84472477]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>黒須２−３−１３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3845872</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84472477</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3845872,35.84472477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間市駅北口ロータリー東側</name>
+        <description><![CDATA[投票区: 3<br>掲示場番号: 4<br>設置場所住所: 河原町２３８−４<br>経度: 139.3892574<br>緯度: 35.842273]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>河原町２３８−４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3892574</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.842273</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3892574,35.842273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒須団地１号棟西側空地</name>
+        <description><![CDATA[投票区: 3<br>掲示場番号: 5<br>設置場所住所: 黒須１−１２<br>経度: 139.39022<br>緯度: 35.84556702]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>黒須１−１２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.39022</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84556702</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.39022,35.84556702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊岡保育園駐車場</name>
+        <description><![CDATA[投票区: 3<br>掲示場番号: 6<br>設置場所住所: 黒須２−３−２<br>経度: 139.3834537<br>緯度: 35.84549118]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>黒須２−３−２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3834537</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84549118</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3834537,35.84549118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武線ガード北側道路フェンス</name>
+        <description><![CDATA[投票区: 3<br>掲示場番号: 7<br>設置場所住所: 鍵山１−１−３<br>経度: 139.3847087<br>緯度: 35.84231189]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>鍵山１−１−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3847087</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84231189</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3847087,35.84231189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根古稲荷前</name>
+        <description><![CDATA[投票区: 4<br>掲示場番号: 1<br>設置場所住所: 春日町１−１１−２２<br>経度: 139.3786699<br>緯度: 35.84767131]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>春日町１−１１−２２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3786699</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84767131</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3786699,35.84767131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹ケ谷広場（民家道向い）</name>
+        <description><![CDATA[投票区: 4<br>掲示場番号: 2<br>設置場所住所: 鍵山２−１５<br>経度: 139.3756202<br>緯度: 35.84690374]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>鍵山２−１５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3756202</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84690374</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3756202,35.84690374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間ラジエーターフェンス</name>
+        <description><![CDATA[投票区: 4<br>掲示場番号: 3<br>設置場所住所: 鍵山２−１２−４１<br>経度: 139.3777427<br>緯度: 35.84308449]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>鍵山２−１２−４１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3777427</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84308449</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3777427,35.84308449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮前フラワーパーク</name>
+        <description><![CDATA[投票区: 4<br>掲示場番号: 4<br>設置場所住所: 宮前町８４３−１<br>経度: 139.3792775<br>緯度: 35.84498086]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮前町８４３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3792775</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84498086</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3792775,35.84498086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鍵山浄水場入口右</name>
+        <description><![CDATA[投票区: 4<br>掲示場番号: 5<br>設置場所住所: 鍵山３−９６４−６<br>経度: 139.3749527<br>緯度: 35.84290038]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>鍵山３−９６４−６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3749527</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84290038</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3749527,35.84290038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関根工業所（株）駐車場</name>
+        <description><![CDATA[投票区: 4<br>掲示場番号: 6<br>設置場所住所: 牛沢町６−１０<br>経度: 139.3727718<br>緯度: 35.84028942]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>牛沢町６−１０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3727718</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84028942</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3727718,35.84028942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>繁田醤油（株）第一工場西側フェンス</name>
+        <description><![CDATA[投票区: 4<br>掲示場番号: 7<br>設置場所住所: 宮前町１−１０<br>経度: 139.3821423<br>緯度: 35.8456485]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮前町１−１０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3821423</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8456485</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3821423,35.8456485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高倉寺西側のり面植込み</name>
+        <description><![CDATA[投票区: 5<br>掲示場番号: 1<br>設置場所住所: 高倉３−１１１−１<br>経度: 139.3776566<br>緯度: 35.83974471]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>高倉３−１１１−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3776566</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83974471</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3776566,35.83974471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南側茶畑</name>
+        <description><![CDATA[投票区: 5<br>掲示場番号: 2<br>設置場所住所: 高倉２−７<br>経度: 139.3829248<br>緯度: 35.84161795]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>高倉２−７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3829248</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84161795</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3829248,35.84161795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側畑</name>
+        <description><![CDATA[投票区: 5<br>掲示場番号: 3<br>設置場所住所: 高倉３−１−３<br>経度: 139.3801903<br>緯度: 35.83971598]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>高倉３−１−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3801903</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83971598</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3801903,35.83971598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道16号地下歩道上フェンス</name>
+        <description><![CDATA[投票区: 5<br>掲示場番号: 4<br>設置場所住所: 高倉４－８<br>経度: 139.381781<br>緯度: 35.8378166]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>高倉４－８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.381781</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8378166</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.381781,35.8378166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高倉小学校正門脇</name>
+        <description><![CDATA[投票区: 5<br>掲示場番号: 5<br>設置場所住所: 高倉４−１４−７<br>経度: 139.3791851<br>緯度: 35.83473003]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>高倉４−１４−７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3791851</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83473003</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3791851,35.83473003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 5<br>掲示場番号: 6<br>設置場所住所: 高倉４−１０−１７<br>経度: 139.3800218<br>緯度: 35.83796449]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>高倉４−１０−１７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3800218</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83796449</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3800218,35.83796449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヴァンベール入間脇道路敷</name>
+        <description><![CDATA[投票区: 5<br>掲示場番号: 7<br>設置場所住所: 高倉２−３−１８<br>経度: 139.3831754<br>緯度: 35.84013168]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>高倉２−３−１８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3831754</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84013168</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3831754,35.84013168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間東町団地第１駐車場</name>
+        <description><![CDATA[投票区: 6<br>掲示場番号: 1<br>設置場所住所: 東町５−９<br>経度: 139.4090587<br>緯度: 35.83108287]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東町５−９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4090587</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83108287</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4090587,35.83108287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>チクタク公園脇遊水地北側</name>
+        <description><![CDATA[投票区: 6<br>掲示場番号: 2<br>設置場所住所: 東町６－４<br>経度: 139.403869261281<br>緯度: 35.8287310894494]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東町６－４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.403869261281</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8287310894494</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.403869261281,35.8287310894494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>彩の森入間公園入口（交差点植込み）</name>
+        <description><![CDATA[投票区: 6<br>掲示場番号: 3<br>設置場所住所: 向陽台２<br>経度: 139.3981613<br>緯度: 35.8339834]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>向陽台２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3981613</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8339834</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3981613,35.8339834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊岡中学校（交差点側フェンス）</name>
+        <description><![CDATA[投票区: 6<br>掲示場番号: 4<br>設置場所住所: 向陽台２−１−２０<br>経度: 139.3965788<br>緯度: 35.83492407]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>向陽台２−１−２０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3965788</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83492407</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3965788,35.83492407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見公園駐車場前（歩道植込み）</name>
+        <description><![CDATA[投票区: 6<br>掲示場番号: 5<br>設置場所住所: 東町１−１６<br>経度: 139.3965546<br>緯度: 35.83050178]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東町１−１６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3965546</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83050178</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3965546,35.83050178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東町地区センター南側畑</name>
+        <description><![CDATA[投票区: 6<br>掲示場番号: 6<br>設置場所住所: 東町３−１−１４<br>経度: 139.3999292<br>緯度: 35.83074271]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東町３−１−１４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3999292</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83074271</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3999292,35.83074271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>おおぎデイサービスセンター給水槽前</name>
+        <description><![CDATA[投票区: 6<br>掲示場番号: 7<br>設置場所住所: 東町４−１−８<br>経度: 139.4035158<br>緯度: 35.83270699]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東町４−１−８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4035158</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83270699</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4035158,35.83270699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いるま保育園駐車場</name>
+        <description><![CDATA[投票区: 6<br>掲示場番号: 8<br>設置場所住所: 東町４−１−２４<br>経度: 139.4046852<br>緯度: 35.83394488]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東町４−１−２４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4046852</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83394488</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4046852,35.83394488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤沢北学童保育室入口脇</name>
+        <description><![CDATA[投票区: 7<br>掲示場番号: 1<br>設置場所住所: 東町７−１０−２０<br>経度: 139.4009861<br>緯度: 35.82923114]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東町７−１０−２０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4009861</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82923114</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4009861,35.82923114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第一生命入間台団地遊水池（西側フェンス）</name>
+        <description><![CDATA[投票区: 7<br>掲示場番号: 2<br>設置場所住所: 東町７−４<br>経度: 139.4008194<br>緯度: 35.82680255]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東町７−４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4008194</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82680255</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4008194,35.82680255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間法要殿駐車場植込</name>
+        <description><![CDATA[投票区: 7<br>掲示場番号: 3<br>設置場所住所: 下藤沢１６７<br>経度: 139.4065777<br>緯度: 35.82830697]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢１６７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4065777</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82830697</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4065777,35.82830697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>オフ・ハウス向側道路敷</name>
+        <description><![CDATA[投票区: 7<br>掲示場番号: 4<br>設置場所住所: 下藤沢１６７−１<br>経度: 139.4073546<br>緯度: 35.82842352]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢１６７−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4073546</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82842352</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4073546,35.82842352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>向原第二公園東側</name>
+        <description><![CDATA[投票区: 7<br>掲示場番号: 5<br>設置場所住所: 久保稲荷２−３−１<br>経度: 139.3973319<br>緯度: 35.82701528]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>久保稲荷２−３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3973319</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82701528</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3973319,35.82701528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤沢中学校体育館北側入口脇</name>
+        <description><![CDATA[投票区: 7<br>掲示場番号: 6<br>設置場所住所: 下藤沢１２６３−１<br>経度: 139.399386<br>緯度: 35.82581717]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢１２６３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.399386</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82581717</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.399386,35.82581717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤沢中学校正門通り南端フェンス</name>
+        <description><![CDATA[投票区: 7<br>掲示場番号: 7<br>設置場所住所: 下藤沢１２６３−１<br>経度: 139.4012079<br>緯度: 35.82532237]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢１２６３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4012079</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82532237</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4012079,35.82532237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東隣空地フェンス</name>
+        <description><![CDATA[投票区: 7<br>掲示場番号: 8<br>設置場所住所: 下藤沢１０４７−９<br>経度: 139.4065748<br>緯度: 35.82496636]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢１０４７−９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4065748</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82496636</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4065748,35.82496636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１６区集会所福寿会館前</name>
+        <description><![CDATA[投票区: 8<br>掲示場番号: 1<br>設置場所住所: 小谷田１−７−５２<br>経度: 139.3811074<br>緯度: 35.8217253]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１−７−５２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3811074</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8217253</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3811074,35.8217253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小谷田１丁目多目的広場</name>
+        <description><![CDATA[投票区: 8<br>掲示場番号: 2<br>設置場所住所: 小谷田１−９３０−１<br>経度: 139.3832506<br>緯度: 35.8207896]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１−９３０−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3832506</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8207896</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3832506,35.8207896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒井工業所駐車場資材置き場</name>
+        <description><![CDATA[投票区: 8<br>掲示場番号: 3<br>設置場所住所: 扇台６－３－２０<br>経度: 139.3815407<br>緯度: 35.8252161]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇台６－３－２０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3815407</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8252161</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3815407,35.8252161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古新田第2公園南側フェンス</name>
+        <description><![CDATA[投票区: 8<br>掲示場番号: 4<br>設置場所住所: 小谷田１丁目924<br>経度: 139.3831369<br>緯度: 35.8204579]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１丁目924</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3831369</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8204579</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3831369,35.8204579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵カントリー西武バス停隣（植込）</name>
+        <description><![CDATA[投票区: 8<br>掲示場番号: 5<br>設置場所住所: 小谷田９６１<br>経度: 139.3764901<br>緯度: 35.81948265]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田９６１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3764901</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81948265</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3764901,35.81948265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小谷田１丁目公園</name>
+        <description><![CDATA[投票区: 8<br>掲示場番号: 6<br>設置場所住所: 小谷田１−８９５−６<br>経度: 139.3850591<br>緯度: 35.82207811]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１−８９５−６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3850591</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82207811</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3850591,35.82207811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>めぐみ幼稚園東側山林（国道４６３側道沿い）</name>
+        <description><![CDATA[投票区: 8<br>掲示場番号: 7<br>設置場所住所: 小谷田１−１７<br>経度: 139.381811<br>緯度: 35.82230931]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１−１７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.381811</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82230931</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.381811,35.82230931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>焼肉きんぐ駐車場西側畑</name>
+        <description><![CDATA[投票区: 9<br>掲示場番号: 1<br>設置場所住所: 小谷田６４３−１<br>経度: 139.3758039<br>緯度: 35.81997015]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田６４３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3758039</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81997015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3758039,35.81997015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前県道南側</name>
+        <description><![CDATA[投票区: 9<br>掲示場番号: 2<br>設置場所住所: 小谷田２０５<br>経度: 139.3714144<br>緯度: 35.8257242]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田２０５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3714144</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8257242</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3714144,35.8257242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東金子中学校校門脇プール前フェンス</name>
+        <description><![CDATA[投票区: 9<br>掲示場番号: 3<br>設置場所住所: 小谷田４５１−１<br>経度: 139.371214<br>緯度: 35.82330107]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田４５１−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.371214</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82330107</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.371214,35.82330107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>文化村処理場跡公園</name>
+        <description><![CDATA[投票区: 9<br>掲示場番号: 4<br>設置場所住所: 小谷田３−１１２４−７３<br>経度: 139.3762782<br>緯度: 35.8291769]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田３−１１２４−７３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3762782</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8291769</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3762782,35.8291769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東金子地区センター北側歩道フェンス</name>
+        <description><![CDATA[投票区: 9<br>掲示場番号: 5<br>設置場所住所: 小谷田２２−２<br>経度: 139.3671924<br>緯度: 35.82661487]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田２２−２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3671924</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82661487</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3671924,35.82661487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ドラッグエース小谷田店向側</name>
+        <description><![CDATA[投票区: 9<br>掲示場番号: 6<br>設置場所住所: 小谷田１３８０−２<br>経度: 139.3688408<br>緯度: 35.82864251]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１３８０−２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3688408</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82864251</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3688408,35.82864251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小谷田２丁目公園西側</name>
+        <description><![CDATA[投票区: 9<br>掲示場番号: 7<br>設置場所住所: 小谷田２−１<br>経度: 139.3786303<br>緯度: 35.82648518]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田２−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3786303</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82648518</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3786303,35.82648518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>司エステート管理建物北側</name>
+        <description><![CDATA[投票区: 9<br>掲示場番号: 8<br>設置場所住所: 小谷田３−５<br>経度: 139.3731198<br>緯度: 35.82747145]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田３−５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3731198</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82747145</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3731198,35.82747145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八津池公園北側電話ボックス脇</name>
+        <description><![CDATA[投票区: 10<br>掲示場番号: 1<br>設置場所住所: 小谷田１５１８−１<br>経度: 139.3646424<br>緯度: 35.83160176]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１５１８−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3646424</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83160176</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3646424,35.83160176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ガーデンハイツ入間内公園</name>
+        <description><![CDATA[投票区: 10<br>掲示場番号: 2<br>設置場所住所: 小谷田１６６６−４<br>経度: 139.3651263<br>緯度: 35.83283172]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１６６６−４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3651263</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83283172</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3651263,35.83283172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八津池公園南側八津池会館脇</name>
+        <description><![CDATA[投票区: 10<br>掲示場番号: 3<br>設置場所住所: 小谷田１５２７−１<br>経度: 139.3652265<br>緯度: 35.8310914]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１５２７−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3652265</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8310914</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3652265,35.8310914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＪＡいるま野サービス跡地駐車場脇フェンス</name>
+        <description><![CDATA[投票区: 10<br>掲示場番号: 4<br>設置場所住所: 小谷田１５１８<br>経度: 139.3625877<br>緯度: 35.83161626]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１５１８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3625877</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83161626</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3625877,35.83161626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東金子小学校北門脇</name>
+        <description><![CDATA[投票区: 10<br>掲示場番号: 5<br>設置場所住所: 小谷田１５２４<br>経度: 139.3658429<br>緯度: 35.82978685]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１５２４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3658429</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82978685</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3658429,35.82978685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八津池東公園（南側フェンス）</name>
+        <description><![CDATA[投票区: 10<br>掲示場番号: 6<br>設置場所住所: 上小谷田３−１５３９−１<br>経度: 139.367503<br>緯度: 35.83099321]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上小谷田３−１５３９−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.367503</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83099321</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.367503,35.83099321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武配水池南側フェンス</name>
+        <description><![CDATA[投票区: 10<br>掲示場番号: 7<br>設置場所住所: 小谷田１７１２−２<br>経度: 139.362178254757<br>緯度: 35.8330117332195]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>小谷田１７１２−２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.362178254757</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8330117332195</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.362178254757,35.8330117332195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新久小学校正面脇フェンス</name>
+        <description><![CDATA[投票区: 11<br>掲示場番号: 1<br>設置場所住所: 新久５００<br>経度: 139.3639464<br>緯度: 35.82056889]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新久５００</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3639464</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82056889</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3639464,35.82056889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間台第１公園南側のり面</name>
+        <description><![CDATA[投票区: 11<br>掲示場番号: 2<br>設置場所住所: 新久８９５−８１<br>経度: 139.3590735<br>緯度: 35.82812102]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新久８９５−８１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3590735</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82812102</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3590735,35.82812102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間台遺跡公園（かま跡公園）（東屋の道路側）</name>
+        <description><![CDATA[投票区: 11<br>掲示場番号: 3<br>設置場所住所: 新久８７０−６<br>経度: 139.3606746<br>緯度: 35.82643732]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新久８７０−６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3606746</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82643732</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3606746,35.82643732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間台団地遊水池</name>
+        <description><![CDATA[投票区: 11<br>掲示場番号: 4<br>設置場所住所: 新久８１９−４<br>経度: 139.3558118<br>緯度: 35.82410278]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新久８１９−４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3558118</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82410278</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3558118,35.82410278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金子豆腐店裏一方通行民家単管パイプ</name>
+        <description><![CDATA[投票区: 11<br>掲示場番号: 5<br>設置場所住所: 新久６０９−１０<br>経度: 139.3627653<br>緯度: 35.82309253]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新久６０９−１０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3627653</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82309253</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3627653,35.82309253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霞川清水橋川上側欄干</name>
+        <description><![CDATA[投票区: 11<br>掲示場番号: 6<br>設置場所住所: 新久４８３−４<br>経度: 139.3636682<br>緯度: 35.82201107]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新久４８３−４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3636682</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82201107</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3636682,35.82201107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>防衛庁団地遊水池</name>
+        <description><![CDATA[投票区: 11<br>掲示場番号: 7<br>設置場所住所: 新久９２８−２１<br>経度: 139.3615851<br>緯度: 35.82919561]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新久９２８−２１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3615851</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82919561</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3615851,35.82919561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仏子団地１２号棟前</name>
+        <description><![CDATA[投票区: 12<br>掲示場番号: 1<br>設置場所住所: 仏子９９７−５<br>経度: 139.3636521<br>緯度: 35.83811795]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子９９７−５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3636521</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83811795</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3636521,35.83811795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>図書館西武分館脇（北側フェンス）</name>
+        <description><![CDATA[投票区: 12<br>掲示場番号: 2<br>設置場所住所: 仏子１０８４−１２<br>経度: 139.3613892<br>緯度: 35.84009091]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子１０８４−１２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3613892</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84009091</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3613892,35.84009091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仏子下河原公園</name>
+        <description><![CDATA[投票区: 12<br>掲示場番号: 3<br>設置場所住所: 仏子１７０５−５<br>経度: 139.3685918<br>緯度: 35.84049416]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子１７０５−５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3685918</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84049416</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3685918,35.84049416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武中学校正門脇</name>
+        <description><![CDATA[投票区: 12<br>掲示場番号: 4<br>設置場所住所: 仏子９６０−１<br>経度: 139.3602756<br>緯度: 35.83655441]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子９６０−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3602756</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83655441</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3602756,35.83655441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本羽毛（株）西側月極駐車場</name>
+        <description><![CDATA[投票区: 12<br>掲示場番号: 5<br>設置場所住所: 仏子８３２−１<br>経度: 139.356244<br>緯度: 35.83695309]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子８３２−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.356244</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83695309</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.356244,35.83695309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側空地</name>
+        <description><![CDATA[投票区: 12<br>掲示場番号: 6<br>設置場所住所: 仏子１４９５−４７<br>経度: 139.3590812<br>緯度: 35.83613171]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子１４９５−４７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3590812</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83613171</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3590812,35.83613171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仏子団地９号棟西側臨時駐車場</name>
+        <description><![CDATA[投票区: 12<br>掲示場番号: 7<br>設置場所住所: 仏子９７７−２<br>経度: 139.3631655<br>緯度: 35.83898472]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子９７７−２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3631655</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83898472</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3631655,35.83898472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ルフランパナハイツ駐車場脇フェンス</name>
+        <description><![CDATA[投票区: 13<br>掲示場番号: 1<br>設置場所住所: 野田２１３−１<br>経度: 139.3470189<br>緯度: 35.8419974]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田２１３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3470189</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8419974</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3470189,35.8419974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元加治団地管理事務所前</name>
+        <description><![CDATA[投票区: 13<br>掲示場番号: 2<br>設置場所住所: 野田３５９−１<br>経度: 139.3495979<br>緯度: 35.84134984]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田３５９−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3495979</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84134984</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3495979,35.84134984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野田モール南面スロープ前</name>
+        <description><![CDATA[投票区: 13<br>掲示場番号: 3<br>設置場所住所: 野田８９４−１<br>経度: 139.3618497<br>緯度: 35.84387946]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田８９４−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3618497</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84387946</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3618497,35.84387946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンボウ仏子東側駐車場</name>
+        <description><![CDATA[投票区: 13<br>掲示場番号: 4<br>設置場所住所: 野田１４４９<br>経度: 139.3515049<br>緯度: 35.84566702]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田１４４９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3515049</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84566702</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3515049,35.84566702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＮＴＴ入間西武電話交換センター前</name>
+        <description><![CDATA[投票区: 13<br>掲示場番号: 5<br>設置場所住所: 野田６４３−４<br>経度: 139.3562692<br>緯度: 35.84591136]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田６４３−４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3562692</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84591136</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3562692,35.84591136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武地区センター入口脇</name>
+        <description><![CDATA[投票区: 13<br>掲示場番号: 6<br>設置場所住所: 野田４９６<br>経度: 139.3537057<br>緯度: 35.84143728]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田４９６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3537057</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84143728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3537057,35.84143728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白髭神社前</name>
+        <description><![CDATA[投票区: 13<br>掲示場番号: 7<br>設置場所住所: 野田５６３−２<br>経度: 139.3495861<br>緯度: 35.84330006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田５６３−２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3495861</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84330006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3495861,35.84330006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武中央保育所駐車場フェンス</name>
+        <description><![CDATA[投票区: 13<br>掲示場番号: 8<br>設置場所住所: 野田５１９<br>経度: 139.3552182<br>緯度: 35.84165062]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田５１９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3552182</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84165062</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3552182,35.84165062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家向側茶畑</name>
+        <description><![CDATA[投票区: 14<br>掲示場番号: 1<br>設置場所住所: 根岸２６３−１<br>経度: 139.3582032<br>緯度: 35.82035986]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>根岸２６３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3582032</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82035986</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3582032,35.82035986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大澤工務店向側（狭山ゴルフクラブ用地）</name>
+        <description><![CDATA[投票区: 14<br>掲示場番号: 2<br>設置場所住所: 狭山台１８９−３<br>経度: 139.3543024<br>緯度: 35.80754701]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>狭山台１８９−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3543024</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.80754701</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3543024,35.80754701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>セブンイレブン中神店南側畑</name>
+        <description><![CDATA[投票区: 14<br>掲示場番号: 3<br>設置場所住所: 中神５１１<br>経度: 139.3531463<br>緯度: 35.82048623]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>中神５１１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3531463</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82048623</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3531463,35.82048623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山畑土木向側畑</name>
+        <description><![CDATA[投票区: 14<br>掲示場番号: 4<br>設置場所住所: 花ノ木２−１<br>経度: 139.3503007<br>緯度: 35.82048948]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>花ノ木２−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3503007</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82048948</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3503007,35.82048948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金子第二保育所入口脇</name>
+        <description><![CDATA[投票区: 14<br>掲示場番号: 5<br>設置場所住所: 花ノ木１４２<br>経度: 139.3481598<br>緯度: 35.81904096]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>花ノ木１４２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3481598</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81904096</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3481598,35.81904096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 14<br>掲示場番号: 6<br>設置場所住所: 中神５６３−１<br>経度: 139.3546928<br>緯度: 35.82026932]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>中神５６３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3546928</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82026932</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3546928,35.82026932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みつぎ台公園</name>
+        <description><![CDATA[投票区: 15<br>掲示場番号: 1<br>設置場所住所: 三ツ木台２２２<br>経度: 139.3368998<br>緯度: 35.81376327]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>三ツ木台２２２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3368998</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81376327</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3368998,35.81376327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家向側</name>
+        <description><![CDATA[投票区: 15<br>掲示場番号: 2<br>設置場所住所: 上谷ケ貫５７７−３<br>経度: 139.3421795<br>緯度: 35.81759763]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上谷ケ貫５７７−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3421795</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81759763</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3421795,35.81759763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈲青木モータース資材置き場前</name>
+        <description><![CDATA[投票区: 15<br>掲示場番号: 3<br>設置場所住所: 寺竹１１７６<br>経度: 139.3421088<br>緯度: 35.80089716]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>寺竹１１７６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3421088</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.80089716</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3421088,35.80089716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＮＴＴ入間金子電話交換センター西側フェンス</name>
+        <description><![CDATA[投票区: 15<br>掲示場番号: 4<br>設置場所住所: 西三ツ木１６３<br>経度: 139.3332501<br>緯度: 35.8158539]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>西三ツ木１６３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3332501</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8158539</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3332501,35.8158539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金子小学校西門脇</name>
+        <description><![CDATA[投票区: 15<br>掲示場番号: 5<br>設置場所住所: 西三ツ木１５０<br>経度: 139.3334349<br>緯度: 35.8150536]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>西三ツ木１５０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3334349</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8150536</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3334349,35.8150536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金子地区センター入口脇</name>
+        <description><![CDATA[投票区: 15<br>掲示場番号: 6<br>設置場所住所: 寺竹５３５−１<br>経度: 139.3339243<br>緯度: 35.81245977]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>寺竹５３５−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3339243</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81245977</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3339243,35.81245977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>セイムス東側空地</name>
+        <description><![CDATA[投票区: 15<br>掲示場番号: 7<br>設置場所住所: 寺竹６９５−３<br>経度: 139.3283385<br>緯度: 35.81513708]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>寺竹６９５−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3283385</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81513708</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3283385,35.81513708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 15<br>掲示場番号: 8<br>設置場所住所: 寺竹６３５<br>経度: 139.3300696<br>緯度: 35.81481535]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>寺竹６３５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3300696</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81481535</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3300696,35.81481535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さくら接骨院西側空地</name>
+        <description><![CDATA[投票区: 16<br>掲示場番号: 1<br>設置場所住所: 南峯４１０−１<br>経度: 139.3273288<br>緯度: 35.81228685]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>南峯４１０−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3273288</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81228685</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3273288,35.81228685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木蓮寺公会堂前</name>
+        <description><![CDATA[投票区: 16<br>掲示場番号: 2<br>設置場所住所: 木蓮寺８７３−３<br>経度: 139.3185285<br>緯度: 35.81425835]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>木蓮寺８７３−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3185285</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81425835</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3185285,35.81425835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 16<br>掲示場番号: 3<br>設置場所住所: 南峯２−２<br>経度: 139.324951<br>緯度: 35.8138136]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>南峯２−２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.324951</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8138136</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.324951,35.8138136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南峯公園</name>
+        <description><![CDATA[投票区: 16<br>掲示場番号: 4<br>設置場所住所: 南峯３０３<br>経度: 139.3240016<br>緯度: 35.81150891]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>南峯３０３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3240016</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81150891</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3240016,35.81150891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桂公会堂入口脇</name>
+        <description><![CDATA[投票区: 16<br>掲示場番号: 5<br>設置場所住所: 木蓮寺１０３９−１<br>経度: 139.3327923<br>緯度: 35.79467496]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>木蓮寺１０３９−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3327923</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79467496</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3327923,35.79467496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木蓮寺公園脇植込</name>
+        <description><![CDATA[投票区: 16<br>掲示場番号: 6<br>設置場所住所: 木蓮寺７２１−１<br>経度: 139.320686<br>緯度: 35.81216068]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>木蓮寺７２１−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.320686</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81216068</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.320686,35.81216068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金子駅自転車置場</name>
+        <description><![CDATA[投票区: 16<br>掲示場番号: 7<br>設置場所住所: 南峯４０６−１９<br>経度: 139.328577<br>緯度: 35.81133217]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>南峯４０６−１９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.328577</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81133217</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.328577,35.81133217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 17<br>掲示場番号: 1<br>設置場所住所: 駒形富士山６２４<br>経度: 139.3649872<br>緯度: 35.79739716]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>駒形富士山６２４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3649872</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79739716</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3649872,35.79739716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二本木スポーツ広場西側畑</name>
+        <description><![CDATA[投票区: 17<br>掲示場番号: 2<br>設置場所住所: 二本木２８８２<br>経度: 139.3640748<br>緯度: 35.79851465]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>二本木２８８２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3640748</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79851465</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3640748,35.79851465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 17<br>掲示場番号: 3<br>設置場所住所: 二本木１０８８<br>経度: 139.3585396<br>緯度: 35.79465094]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>二本木１０８８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3585396</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79465094</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3585396,35.79465094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寿昌寺墓地南側畑</name>
+        <description><![CDATA[投票区: 17<br>掲示場番号: 4<br>設置場所住所: 二本木９５６−１<br>経度: 139.3613861<br>緯度: 35.79386784]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>二本木９５６−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3613861</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79386784</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3613861,35.79386784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二本木分館フェンス</name>
+        <description><![CDATA[投票区: 17<br>掲示場番号: 5<br>設置場所住所: 二本木２５６−１<br>経度: 139.3588747<br>緯度: 35.80015723]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>二本木２５６−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3588747</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.80015723</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3588747,35.80015723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二本木老人憩いの家前</name>
+        <description><![CDATA[投票区: 17<br>掲示場番号: 6<br>設置場所住所: 二本木１１０２−８<br>経度: 139.3605691<br>緯度: 35.79591631]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>二本木１１０２−８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3605691</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79591631</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3605691,35.79591631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>博物館正面入口脇</name>
+        <description><![CDATA[投票区: 17<br>掲示場番号: 7<br>設置場所住所: 二本木１０３−１<br>経度: 139.3658403<br>緯度: 35.80239393]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>二本木１０３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3658403</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.80239393</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3658403,35.80239393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮寺保育所入口脇</name>
+        <description><![CDATA[投票区: 18<br>掲示場番号: 1<br>設置場所住所: 宮寺５９５−１<br>経度: 139.3774109<br>緯度: 35.79222387]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺５９５−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3774109</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79222387</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3774109,35.79222387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家向側畑</name>
+        <description><![CDATA[投票区: 18<br>掲示場番号: 2<br>設置場所住所: 宮寺１９０６−１<br>経度: 139.3733708<br>緯度: 35.79090829]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺１９０６−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3733708</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79090829</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3733708,35.79090829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢萩荘公園</name>
+        <description><![CDATA[投票区: 18<br>掲示場番号: 3<br>設置場所住所: 宮寺５３３<br>経度: 139.3819697<br>緯度: 35.79157182]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺５３３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3819697</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79157182</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3819697,35.79157182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三ヶ島製材裏側茶畑</name>
+        <description><![CDATA[投票区: 18<br>掲示場番号: 4<br>設置場所住所: 宮寺４８４−１<br>経度: 139.3839994<br>緯度: 35.7928706]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺４８４−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3839994</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.7928706</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3839994,35.7928706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南側畑</name>
+        <description><![CDATA[投票区: 18<br>掲示場番号: 5<br>設置場所住所: 宮寺１４２−１<br>経度: 139.3840495<br>緯度: 35.79502388]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺１４２−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3840495</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79502388</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3840495,35.79502388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧野村商店ななめ北向側畑（丁字路北）</name>
+        <description><![CDATA[投票区: 18<br>掲示場番号: 6<br>設置場所住所: 宮寺２５５１−１<br>経度: 139.3786175<br>緯度: 35.79986058]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺２５５１−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3786175</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79986058</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3786175,35.79986058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮寺・二本木地区センター入口脇</name>
+        <description><![CDATA[投票区: 18<br>掲示場番号: 7<br>設置場所住所: 宮寺２４０５−１<br>経度: 139.3765585<br>緯度: 35.79473539]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺２４０５−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3765585</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79473539</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3765585,35.79473539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 18<br>掲示場番号: 8<br>設置場所住所: 宮寺２２９２<br>経度: 139.3689683<br>緯度: 35.79557161]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺２２９２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3689683</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.79557161</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3689683,35.79557161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵中学校西門脇　</name>
+        <description><![CDATA[投票区: 19<br>掲示場番号: 1<br>設置場所住所: 宮寺３１９３<br>経度: 139.3737078<br>緯度: 35.80945926]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺３１９３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3737078</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.80945926</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3737078,35.80945926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵中学校東門脇（正門）</name>
+        <description><![CDATA[投票区: 19<br>掲示場番号: 2<br>設置場所住所: 宮寺３１９３<br>経度: 139.3751365<br>緯度: 35.80996608]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺３１９３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3751365</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.80996608</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3751365,35.80996608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>縄竹長生会老人憩いの家前</name>
+        <description><![CDATA[投票区: 19<br>掲示場番号: 3<br>設置場所住所: 宮寺４１０２−３４<br>経度: 139.3727116<br>緯度: 35.80496563]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺４１０２−３４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3727116</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.80496563</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3727116,35.80496563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>博物館（アリット）東門フェンス</name>
+        <description><![CDATA[投票区: 19<br>掲示場番号: 4<br>設置場所住所: 宮寺２１８１−１<br>経度: 139.3680628<br>緯度: 35.80050184]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺２１８１−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3680628</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.80050184</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3680628,35.80050184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵台西公園北側フェンス</name>
+        <description><![CDATA[投票区: 19<br>掲示場番号: 5<br>設置場所住所: 宮寺２９２５−１７６<br>経度: 139.3728467<br>緯度: 35.802444]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>宮寺２９２５−１７６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3728467</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.802444</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3728467,35.802444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間市総合クリーンセンター管理棟前フェンス</name>
+        <description><![CDATA[投票区: 19<br>掲示場番号: 6<br>設置場所住所: 新久１２７－１<br>経度: 139.3672518<br>緯度: 35.8163054]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新久１２７－１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3672518</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8163054</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3672518,35.8163054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>学校給食センター入口脇</name>
+        <description><![CDATA[投票区: 19<br>掲示場番号: 7<br>設置場所住所: 新久１２９<br>経度: 139.3705649<br>緯度: 35.81786687]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新久１２９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3705649</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81786687</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3705649,35.81786687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>消防団第５分団第１部消防車庫横
+</name>
+        <description><![CDATA[投票区: 20<br>掲示場番号: 1<br>設置場所住所: 上藤沢８７６−１<br>経度: 139.3913609<br>緯度: 35.81027582]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢８７６−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3913609</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81027582</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3913609,35.81027582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見橋北側栗林</name>
+        <description><![CDATA[投票区: 20<br>掲示場番号: 2<br>設置場所住所: 上藤沢１９５−１<br>経度: 139.3934917<br>緯度: 35.80989043]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢１９５−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3934917</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.80989043</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3934917,35.80989043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神明神社前</name>
+        <description><![CDATA[投票区: 20<br>掲示場番号: 3<br>設置場所住所: 上藤沢６４２−１<br>経度: 139.3947826<br>緯度: 35.81284479]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢６４２−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3947826</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81284479</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3947826,35.81284479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>健康福祉センター入口植込</name>
+        <description><![CDATA[投票区: 20<br>掲示場番号: 4<br>設置場所住所: 上藤沢７３０−１<br>経度: 139.3908807<br>緯度: 35.81455431]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢７３０−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3908807</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81455431</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3908807,35.81455431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 20<br>掲示場番号: 5<br>設置場所住所: 上藤沢２６３−３<br>経度: 139.397339<br>緯度: 35.81357742]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢２６３−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.397339</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81357742</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.397339,35.81357742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）サイキョウ（西側フェンス）</name>
+        <description><![CDATA[投票区: 20<br>掲示場番号: 6<br>設置場所住所: 上藤沢６３７−１<br>経度: 139.3928329<br>緯度: 35.81347987]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢６３７−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3928329</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81347987</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3928329,35.81347987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上藤沢中学校第二グラウンド</name>
+        <description><![CDATA[投票区: 20<br>掲示場番号: 7<br>設置場所住所: 上藤沢１４６−２<br>経度: 139.3955198<br>緯度: 35.81084987]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢１４６−２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3955198</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81084987</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3955198,35.81084987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤沢地区センター入口脇</name>
+        <description><![CDATA[投票区: 21<br>掲示場番号: 1<br>設置場所住所: 下藤沢５−１７−１<br>経度: 139.4027221<br>緯度: 35.81801002]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢５−１７−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4027221</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81801002</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4027221,35.81801002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 21<br>掲示場番号: 2<br>設置場所住所: 下藤沢７２３−１<br>経度: 139.405621<br>緯度: 35.82147815]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢７２３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.405621</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82147815</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.405621,35.82147815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵藤沢駅前交番奥マンション隣接公園</name>
+        <description><![CDATA[投票区: 21<br>掲示場番号: 3<br>設置場所住所: 下藤沢１−１０<br>経度: 139.4111748<br>緯度: 35.82130625]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢１−１０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4111748</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82130625</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4111748,35.82130625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>セブンイレブン上藤沢店斜め向側歩道単管パイプ</name>
+        <description><![CDATA[投票区: 21<br>掲示場番号: 4<br>設置場所住所: 下藤沢１０６８−５<br>経度: 139.4009184<br>緯度: 35.82131035]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢１０６８−５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4009184</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82131035</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4009184,35.82131035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下藤沢つきじ公園</name>
+        <description><![CDATA[投票区: 21<br>掲示場番号: 5<br>設置場所住所: 下藤沢５０１−１０<br>経度: 139.4119343<br>緯度: 35.82260234]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢５０１−１０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4119343</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82260234</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4119343,35.82260234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前（アリスどうぶつクリニック向かい）</name>
+        <description><![CDATA[投票区: 21<br>掲示場番号: 6<br>設置場所住所: 下藤沢７０３<br>経度: 139.4070596<br>緯度: 35.82253107]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢７０３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4070596</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82253107</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4070596,35.82253107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>糠屋園茶工場前</name>
+        <description><![CDATA[投票区: 21<br>掲示場番号: 8<br>設置場所住所: 下藤沢９６１<br>経度: 139.4003523<br>緯度: 35.81498652]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢９６１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4003523</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81498652</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4003523,35.81498652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側歩道</name>
+        <description><![CDATA[投票区: 22<br>掲示場番号: 1<br>設置場所住所: 下藤沢１２０−４<br>経度: 139.4129651<br>緯度: 35.81706382]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢１２０−４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4129651</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81706382</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4129651,35.81706382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵藤沢第1自転車駐車場単管パイプ</name>
+        <description><![CDATA[投票区: 22<br>掲示場番号: 2<br>設置場所住所: 下藤沢３−７<br>経度: 139.4123171<br>緯度: 35.81928111]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢３−７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4123171</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81928111</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4123171,35.81928111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小宮山医院南側空地</name>
+        <description><![CDATA[投票区: 22<br>掲示場番号: 3<br>設置場所住所: 東藤沢３−７２−３<br>経度: 139.4155531<br>緯度: 35.81816008]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢３−７２−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4155531</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81816008</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4155531,35.81816008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東藤沢地区センター東側</name>
+        <description><![CDATA[投票区: 22<br>掲示場番号: 4<br>設置場所住所: 東藤沢３−１９−１９<br>経度: 139.414544<br>緯度: 35.81670316]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢３−１９−１９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.414544</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81670316</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.414544,35.81670316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵藤沢駅東口フェンス</name>
+        <description><![CDATA[投票区: 22<br>掲示場番号: 5<br>設置場所住所: 東藤沢３−４<br>経度: 139.4129267<br>緯度: 35.82067356]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢３−４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4129267</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82067356</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4129267,35.82067356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東藤沢公園</name>
+        <description><![CDATA[投票区: 22<br>掲示場番号: 6<br>設置場所住所: 東藤沢５−９６−５０<br>経度: 139.4145923<br>緯度: 35.81460207]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢５−９６−５０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4145923</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81460207</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4145923,35.81460207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>マレ・リジュール前水路敷</name>
+        <description><![CDATA[投票区: 22<br>掲示場番号: 7<br>設置場所住所: 東藤沢６−２３−１１<br>経度: 139.4131787<br>緯度: 35.81511428]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢６−２３−１１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4131787</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81511428</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4131787,35.81511428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤沢保育所門脇植込み</name>
+        <description><![CDATA[投票区: 23<br>掲示場番号: 1<br>設置場所住所: 東藤沢８−１２−２７<br>経度: 139.4052038<br>緯度: 35.81414874]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢８−１２−２７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4052038</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81414874</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4052038,35.81414874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>角栄１５区公園東側水路敷</name>
+        <description><![CDATA[投票区: 23<br>掲示場番号: 2<br>設置場所住所: 東藤沢７−２３<br>経度: 139.4094847<br>緯度: 35.81367381]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢７−２３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4094847</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81367381</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4094847,35.81367381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤沢東小学校南門脇</name>
+        <description><![CDATA[投票区: 23<br>掲示場番号: 3<br>設置場所住所: 東藤沢７−９−１<br>経度: 139.4102649<br>緯度: 35.814979]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢７−９−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4102649</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.814979</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4102649,35.814979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤沢東小学校北門脇</name>
+        <description><![CDATA[投票区: 23<br>掲示場番号: 4<br>設置場所住所: 東藤沢７−９−１<br>経度: 139.4089885<br>緯度: 35.81567868]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢７−９−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4089885</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81567868</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4089885,35.81567868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南側畑</name>
+        <description><![CDATA[投票区: 23<br>掲示場番号: 5<br>設置場所住所: 東藤沢８−１４−９<br>経度: 139.4049992<br>緯度: 35.8128467]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢８−１４−９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4049992</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8128467</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4049992,35.8128467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営みどり団地玄関看板脇植込み</name>
+        <description><![CDATA[投票区: 23<br>掲示場番号: 6<br>設置場所住所: 下藤沢５−１８−１２<br>経度: 139.4068687<br>緯度: 35.81373216]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢５−１８−１２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4068687</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81373216</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4068687,35.81373216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>メゾン・ブランセ・プルミエール東側水路敷</name>
+        <description><![CDATA[投票区: 23<br>掲示場番号: 7<br>設置場所住所: 東藤沢６−１７−４０<br>経度: 139.4114481<br>緯度: 35.81540679]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢６−１７−４０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4114481</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81540679</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4114481,35.81540679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霧公園北側</name>
+        <description><![CDATA[投票区: 24<br>掲示場番号: 1<br>設置場所住所: 春日町２−５１３−４<br>経度: 139.3881154<br>緯度: 35.8499129]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>春日町２−５１３−４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3881154</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8499129</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3881154,35.8499129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蓮華院東側水路敷</name>
+        <description><![CDATA[投票区: 24<br>掲示場番号: 2<br>設置場所住所: 春日町２−９−１<br>経度: 139.3884465<br>緯度: 35.84819688]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>春日町２−９−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3884465</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84819688</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3884465,35.84819688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>居酒屋めんぽぽ東側緑地帯（朝霧公園３号）</name>
+        <description><![CDATA[投票区: 24<br>掲示場番号: 3<br>設置場所住所: 春日町２−１３<br>経度: 139.3854719<br>緯度: 35.84931476]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>春日町２−１３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3854719</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84931476</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3854719,35.84931476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家駐車場脇</name>
+        <description><![CDATA[投票区: 24<br>掲示場番号: 4<br>設置場所住所: 春日町２−８−６<br>経度: 139.3865998<br>緯度: 35.84806497]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>春日町２−８−６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3865998</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84806497</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3865998,35.84806497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒須小学校正門脇</name>
+        <description><![CDATA[投票区: 24<br>掲示場番号: 5<br>設置場所住所: 春日町２−１４−６０<br>経度: 139.387304<br>緯度: 35.84982857]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>春日町２−１４−６０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.387304</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84982857</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.387304,35.84982857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒須小学校（西側フェンス）</name>
+        <description><![CDATA[投票区: 24<br>掲示場番号: 6<br>設置場所住所: 春日町２−１４−６０<br>経度: 139.3861548<br>緯度: 35.84969924]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>春日町２−１４−６０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3861548</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84969924</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3861548,35.84969924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>黒須小学校（東側フェンス）</name>
+        <description><![CDATA[投票区: 24<br>掲示場番号: 7<br>設置場所住所: 春日町２−１４−６０<br>経度: 139.3874222<br>緯度: 35.85023123]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>春日町２−１４−６０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3874222</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.85023123</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3874222,35.85023123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＬＯＧＥＭＥＮＴ北側水路の橋</name>
+        <description><![CDATA[投票区: 25<br>掲示場番号: 1<br>設置場所住所: 東藤沢２−３−２５<br>経度: 139.415483<br>緯度: 35.82150044]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢２−３−２５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.415483</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82150044</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.415483,35.82150044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ベルシャトウ武蔵藤沢北側水路の橋</name>
+        <description><![CDATA[投票区: 25<br>掲示場番号: 2<br>設置場所住所: 東藤沢２−３−２５<br>経度: 139.4151211<br>緯度: 35.82297739]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢２−３−２５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4151211</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82297739</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4151211,35.82297739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営入間下藤沢団地３号棟脇</name>
+        <description><![CDATA[投票区: 25<br>掲示場番号: 3<br>設置場所住所: 下藤沢５９４−３<br>経度: 139.4125733<br>緯度: 35.82733888]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢５９４−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4125733</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82733888</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4125733,35.82733888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下山団地遊水地</name>
+        <description><![CDATA[投票区: 25<br>掲示場番号: 4<br>設置場所住所: 東藤沢１−２１<br>経度: 139.4141677<br>緯度: 35.8253784]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢１−２１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4141677</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8253784</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4141677,35.8253784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>建武橋南側のり面</name>
+        <description><![CDATA[投票区: 25<br>掲示場番号: 5<br>設置場所住所: 東藤沢３−１<br>経度: 139.413045<br>緯度: 35.82264454]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>東藤沢３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.413045</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82264454</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.413045,35.82264454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>霜原ゴルフガーデン南側フェンス前</name>
+        <description><![CDATA[投票区: 25<br>掲示場番号: 6<br>設置場所住所: 下藤沢６０６−１<br>経度: 139.4121457<br>緯度: 35.82840773]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢６０６−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4121457</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82840773</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4121457,35.82840773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営入間下藤沢団地1号棟前公園</name>
+        <description><![CDATA[投票区: 25<br>掲示場番号: 7<br>設置場所住所: 下藤沢５９５−１<br>経度: 139.413477<br>緯度: 35.82782651]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢５９５−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.413477</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82782651</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.413477,35.82782651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊岡二丁目公園</name>
+        <description><![CDATA[投票区: 26<br>掲示場番号: 1<br>設置場所住所: 豊岡２−１０８−１<br>経度: 139.3829026<br>緯度: 35.8352386]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>豊岡２−１０８−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3829026</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8352386</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3829026,35.8352386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武高倉ハイツ公園フェンス</name>
+        <description><![CDATA[投票区: 26<br>掲示場番号: 2<br>設置場所住所: 高倉１−３４１−３１<br>経度: 139.3842781<br>緯度: 35.83842664]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>高倉１−３４１−３１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3842781</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83842664</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3842781,35.83842664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営真土団地１号棟前公園</name>
+        <description><![CDATA[投票区: 26<br>掲示場番号: 3<br>設置場所住所: 豊岡２−５−５<br>経度: 139.3841633<br>緯度: 35.83597006]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>豊岡２−５−５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3841633</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83597006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3841633,35.83597006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営霞川団地第３集会室前</name>
+        <description><![CDATA[投票区: 26<br>掲示場番号: 4<br>設置場所住所: 高倉４−３<br>経度: 139.3823006<br>緯度: 35.83480599]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>高倉４−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3823006</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83480599</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3823006,35.83480599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営霞川団地中央集会所前１９号棟脇</name>
+        <description><![CDATA[投票区: 26<br>掲示場番号: 5<br>設置場所住所: 高倉４−３<br>経度: 139.3813511<br>緯度: 35.83437879]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>高倉４−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3813511</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83437879</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3813511,35.83437879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営真土団地２号棟脇</name>
+        <description><![CDATA[投票区: 26<br>掲示場番号: 6<br>設置場所住所: 豊岡２−５−３<br>経度: 139.3847051<br>緯度: 35.8364856]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>豊岡２−５−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3847051</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8364856</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3847051,35.8364856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高倉保育所入口フェンス</name>
+        <description><![CDATA[投票区: 26<br>掲示場番号: 7<br>設置場所住所: 高倉５−１−１１<br>経度: 139.3804151<br>緯度: 35.83230669]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>高倉５−１−１１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3804151</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83230669</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3804151,35.83230669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>扇町屋第一区第１子供広場</name>
+        <description><![CDATA[投票区: 27<br>掲示場番号: 1<br>設置場所住所: 扇台４−４７６−１<br>経度: 139.385701<br>緯度: 35.82849129]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇台４−４７６−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.385701</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82849129</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.385701,35.82849129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久保稲荷月極有料駐車場フェンス</name>
+        <description><![CDATA[投票区: 27<br>掲示場番号: 2<br>設置場所住所: 久保稲荷３−１−１８<br>経度: 139.3937077<br>緯度: 35.82540671]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>久保稲荷３−１−１８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3937077</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82540671</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3937077,35.82540671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>扇町屋第一区第４公園</name>
+        <description><![CDATA[投票区: 27<br>掲示場番号: 3<br>設置場所住所: 扇台５−８３８−１<br>経度: 139.3856351<br>緯度: 35.82543775]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇台５−８３８−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3856351</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82543775</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3856351,35.82543775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>扇小学校北門脇</name>
+        <description><![CDATA[投票区: 27<br>掲示場番号: 4<br>設置場所住所: 久保稲荷４−２４<br>経度: 139.3886213<br>緯度: 35.82458129]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>久保稲荷４−２４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3886213</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82458129</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3886213,35.82458129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>扇西けやき公園</name>
+        <description><![CDATA[投票区: 27<br>掲示場番号: 5<br>設置場所住所: 久保稲荷３−２６−３<br>経度: 139.3953768<br>緯度: 35.82354026]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>久保稲荷３−２６−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3953768</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82354026</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3953768,35.82354026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>扇町屋二区第二集会場</name>
+        <description><![CDATA[投票区: 27<br>掲示場番号: 6<br>設置場所住所: 久保稲荷３−１４−４<br>経度: 139.3913691<br>緯度: 35.82577331]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>久保稲荷３−１４−４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3913691</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82577331</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3913691,35.82577331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>扇西ふじ棚公園（公民館通り西端）</name>
+        <description><![CDATA[投票区: 27<br>掲示場番号: 7<br>設置場所住所: 久保稲荷５−１１−３<br>経度: 139.3888047<br>緯度: 35.82144981]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>久保稲荷５−１１−３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3888047</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82144981</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3888047,35.82144981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石田鉄工（株）西側保護樹林</name>
+        <description><![CDATA[投票区: 27<br>掲示場番号: 8<br>設置場所住所: 久保稲荷３−９−７<br>経度: 139.3912832<br>緯度: 35.82353767]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>久保稲荷３−９−７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3912832</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82353767</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3912832,35.82353767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンパナハイツＣ北側駐車場</name>
+        <description><![CDATA[投票区: 28<br>掲示場番号: 1<br>設置場所住所: 仏子２１１−１<br>経度: 139.3483572<br>緯度: 35.83763921]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子２１１−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3483572</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83763921</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3483572,35.83763921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 28<br>掲示場番号: 2<br>設置場所住所: 仏子２６４<br>経度: 139.3478277<br>緯度: 35.83552794]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子２６４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3478277</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83552794</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3478277,35.83552794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間リバーサイド２４号棟南側</name>
+        <description><![CDATA[投票区: 28<br>掲示場番号: 3<br>設置場所住所: 仏子４５９−１<br>経度: 139.3520804<br>緯度: 35.83836173]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子４５９−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3520804</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83836173</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3520804,35.83836173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仏子小学校正門脇</name>
+        <description><![CDATA[投票区: 28<br>掲示場番号: 4<br>設置場所住所: 仏子１６５<br>経度: 139.351275<br>緯度: 35.83700987]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子１６５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.351275</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83700987</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.351275,35.83700987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コインランドリーウォッシュマン入間仏子店西側空地</name>
+        <description><![CDATA[投票区: 28<br>掲示場番号: 5<br>設置場所住所: 仏子３５２−１<br>経度: 139.3524699<br>緯度: 35.83596347]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子３５２−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3524699</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83596347</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3524699,35.83596347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間リバーサイド集会所前</name>
+        <description><![CDATA[投票区: 28<br>掲示場番号: 6<br>設置場所住所: 仏子６０３−１<br>経度: 139.3553011<br>緯度: 35.83914297]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子６０３−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3553011</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83914297</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3553011,35.83914297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営第２自転車バイク駐輪場（アミーゴ脇）</name>
+        <description><![CDATA[投票区: 28<br>掲示場番号: 7<br>設置場所住所: 仏子７６４−２<br>経度: 139.3578278<br>緯度: 35.84050951]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>仏子７６４−２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3578278</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84050951</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3578278,35.84050951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武地区体育館北側入口脇（西武地区自由広場北側）
+</name>
+        <description><![CDATA[投票区: 29<br>掲示場番号: 1<br>設置場所住所: 野田２２５５−３０<br>経度: 139.358408<br>緯度: 35.85088507]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田２２５５−３０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.358408</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.85088507</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.358408,35.85088507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西向側畑</name>
+        <description><![CDATA[投票区: 29<br>掲示場番号: 2<br>設置場所住所: 野田２１９６<br>経度: 139.3568766<br>緯度: 35.85125644]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田２１９６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3568766</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.85125644</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3568766,35.85125644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>えのき公園</name>
+        <description><![CDATA[投票区: 29<br>掲示場番号: 3<br>設置場所住所: 新光３０６−５４４<br>経度: 139.3561005<br>緯度: 35.85744103]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新光３０６−５４４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3561005</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.85744103</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3561005,35.85744103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新光中央公園</name>
+        <description><![CDATA[投票区: 29<br>掲示場番号: 4<br>設置場所住所: 新光３０３−２<br>経度: 139.3597805<br>緯度: 35.85582418]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新光３０３−２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3597805</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.85582418</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3597805,35.85582418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営入間野田団地植込</name>
+        <description><![CDATA[投票区: 29<br>掲示場番号: 5<br>設置場所住所: 野田１４０６−１<br>経度: 139.3520828<br>緯度: 35.84620675]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田１４０６−１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3520828</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84620675</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3520828,35.84620675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>わんぱく公園北側フェンス</name>
+        <description><![CDATA[投票区: 29<br>掲示場番号: 6<br>設置場所住所: 野田１２０８<br>経度: 139.358765<br>緯度: 35.84716959]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>野田１２０８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.358765</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.84716959</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.358765,35.84716959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あかまつ公園</name>
+        <description><![CDATA[投票区: 29<br>掲示場番号: 7<br>設置場所住所: 新光３００−１３４<br>経度: 139.3565986<br>緯度: 35.85331151]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新光３００−１３４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3565986</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.85331151</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3565986,35.85331151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>せせらぎ公園</name>
+        <description><![CDATA[投票区: 29<br>掲示場番号: 8<br>設置場所住所: 新光２９２−５<br>経度: 139.3578771<br>緯度: 35.85195781]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>新光２９２−５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3578771</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.85195781</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3578771,35.85195781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）安川電機製作所駐車場棟前道路フェンス</name>
+        <description><![CDATA[投票区: 30<br>掲示場番号: 1<br>設置場所住所: 上藤沢４８０−５<br>経度: 139.3929178<br>緯度: 35.81939975]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢４８０−５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3929178</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81939975</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3929178,35.81939975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヨークマート入間店第一駐車場</name>
+        <description><![CDATA[投票区: 30<br>掲示場番号: 2<br>設置場所住所: 下藤沢１３１２<br>経度: 139.397241<br>緯度: 35.82212517]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢１３１２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.397241</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82212517</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.397241,35.82212517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上藤沢第３公園</name>
+        <description><![CDATA[投票区: 30<br>掲示場番号: 3<br>設置場所住所: 上藤沢４０６−２２<br>経度: 139.3973912<br>緯度: 35.81995686]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢４０６−２２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3973912</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81995686</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3973912,35.81995686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤の台分館入口脇</name>
+        <description><![CDATA[投票区: 30<br>掲示場番号: 4<br>設置場所住所: 上藤沢４０６−３１<br>経度: 139.3967291<br>緯度: 35.81836021]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢４０６−３１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3967291</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81836021</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3967291,35.81836021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上藤沢第２公園（フレンドリーグリーンパーク）</name>
+        <description><![CDATA[投票区: 30<br>掲示場番号: 5<br>設置場所住所: 上藤沢４２９−５<br>経度: 139.3950318<br>緯度: 35.81758226]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢４２９−５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3950318</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81758226</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3950318,35.81758226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上藤沢第１公園（パレットパーク）</name>
+        <description><![CDATA[投票区: 30<br>掲示場番号: 6<br>設置場所住所: 上藤沢４２９−６<br>経度: 139.3953007<br>緯度: 35.81900849]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>上藤沢４２９−６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3953007</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81900849</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3953007,35.81900849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ダイアパレス公園</name>
+        <description><![CDATA[投票区: 30<br>掲示場番号: 7<br>設置場所住所: 下藤沢１３１４−７<br>経度: 139.3957746<br>緯度: 35.82213111]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢１３１４−７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3957746</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82213111</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3957746,35.82213111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊島岡女子学園総合グラウンドフェンス</name>
+        <description><![CDATA[投票区: 31<br>掲示場番号: 1<br>設置場所住所: 豊岡４−７<br>経度: 139.3952761<br>緯度: 35.83379378]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>豊岡４−７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3952761</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83379378</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3952761,35.83379378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民運動場テニスコート沿いフェンス</name>
+        <description><![CDATA[投票区: 31<br>掲示場番号: 2<br>設置場所住所: 豊岡４−２<br>経度: 139.3899936<br>緯度: 35.83328994]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>豊岡４−２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3899936</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83328994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3899936,35.83328994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 31<br>掲示場番号: 3<br>設置場所住所: 扇台２−５−３７<br>経度: 139.3910413<br>緯度: 35.8299825]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇台２−５−３７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3910413</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8299825</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3910413,35.8299825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民活動センター駐車場</name>
+        <description><![CDATA[投票区: 31<br>掲示場番号: 4<br>設置場所住所: 扇台１−４<br>経度: 139.3922929<br>緯度: 35.83283083]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇台１−４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3922929</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.83283083</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3922929,35.83283083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間扇町屋団地８号棟前</name>
+        <description><![CDATA[投票区: 31<br>掲示場番号: 5<br>設置場所住所: 久保稲荷１−１２<br>経度: 139.3943541<br>緯度: 35.82786748]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>久保稲荷１−１２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3943541</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82786748</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3943541,35.82786748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>入間扇町屋団地１９号棟脇受水槽フェンス（西側）</name>
+        <description><![CDATA[投票区: 31<br>掲示場番号: 6<br>設置場所住所: 久保稲荷１−９<br>経度: 139.3962923<br>緯度: 35.82863505]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>久保稲荷１−９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3962923</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.82863505</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3962923,35.82863505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家畑</name>
+        <description><![CDATA[投票区: 31<br>掲示場番号: 7<br>設置場所住所: 扇台３−５−１２<br>経度: 139.3899323<br>緯度: 35.8288923]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>扇台３−５−１２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3899323</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8288923</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3899323,35.8288923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>光円寺子供広場</name>
+        <description><![CDATA[投票区: 14<br>掲示場番号: 7<br>設置場所住所: 下谷ケ貫８３９<br>経度: 139.3455031<br>緯度: 35.81847927]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下谷ケ貫８３９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.3455031</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.81847927</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3455031,35.81847927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤沢なかよし公園</name>
+        <description><![CDATA[投票区: 21<br>掲示場番号: 7<br>設置場所住所: 下藤沢２丁目１９<br>経度: 139.4068815<br>緯度: 35.8214342]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="掲示場番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所住所">
+            <value>下藤沢２丁目１９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.4068815</value>
+          </Data>
+          <Data name="緯度">
+            <value>35.8214342</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4068815,35.8214342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>無題のレイヤ</name>
+    </Folder>
+  </Document>
+</kml>

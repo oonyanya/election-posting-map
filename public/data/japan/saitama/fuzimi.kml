@@ -1,0 +1,4167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>富士見市ポスター掲示場設置場所</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-BDBDBD-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-BDBDBD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-BDBDBD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-BDBDBD-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>富士見市ポスター掲示場設置場所</name>
+      <Placemark>
+        <name>富士見市役所前来庁者西側駐車場フェンス</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬１８００−１]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬１８００−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5482166,35.8567599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市立中央図書館南側時計塔</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬１８７３−１]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬１８７３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5504181,35.8547806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家向い畑</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市諏訪１−９−２６]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市諏訪１−９−２６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5478113,35.8532549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市道５１３７号線沿い緑地</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市山室１−１１５７−２]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市山室１−１１５７−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5447848,35.8611165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市山室２−９−２８]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市山室２−９−２８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5443633,35.8582993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡野工務店跡地駐車場東側山室排水路</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市山室２−２１]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市山室２−２１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5425861,35.8599557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市立第３保育所</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市山室２−２６−２０]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市山室２−２６−２０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5437249,35.8620632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧東渡戸荘駐車場</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市渡戸１−１５−１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市渡戸１−１５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5392857,35.8596552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勝瀬小学校正門脇</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市勝瀬６７４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市勝瀬６７４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5363841,35.8641328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市渡戸２−３−１４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市渡戸２−３−１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5361951,35.8586894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市立渡戸東集会所</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市渡戸１−２−３４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市渡戸１−２−３４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5407003,35.8625467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>共栄建装向い側畑</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市勝瀬７７１−１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市勝瀬７７１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5356735,35.8653791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ホーマットガーデン向い畑</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市勝瀬９８１−６]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市勝瀬９８１−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5323222,35.8654908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂川堀花影橋脇</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬１１１１−２]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬１１１１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5437027,35.8641337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲荷久保公園東側</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野東２−１６]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野東２−１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5215743,35.8636774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>プランドール脇植込み（久兵衛屋隣）</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野東２−１０−８]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野東２−１０−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5253089,35.8646816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勝瀬原記念公園東側</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野東４−１１−１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野東４−１１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5279445,35.8632894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふじみの公園</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野東１−１９]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野東１−１９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5237959,35.8624338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふじみ野駅東口ロータリー</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野東１−１−１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野東１−１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5237978,35.8610052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>プランタン２１ビル前</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野東１−１２−１４]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野東１−１２−１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5266174,35.8621322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふじみ野小学校北側</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野東４−４−１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野東４−４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5290322,35.8630698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふじみ野交流センター第２駐車場</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野東３−６−１２]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野東３−６−１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5286777,35.8642791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市勝瀬１６３４]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市勝瀬１６３４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5121827,35.8557023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「ふじみ野駅入口」脇</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野西１−１７−１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野西１−１７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5202404,35.8595125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふじみ野不動産（株）前</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野西１−２１−２]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野西１−２１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5211433,35.8600164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふじみ野駅西口ロータリー</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野西１−２−２]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野西１−２−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5226545,35.8603371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南むさしの公園西側</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野西３−１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野西３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5196856,35.8632026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>オトウカ山公園南側</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野西４−６]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野西４−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5176835,35.8573416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふじみ野西公園西側</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野西２−１−３]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野西２−１−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5190945,35.8603853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南むさしの公園東側</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県富士見市ふじみ野西３−１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市ふじみ野西３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5206002,35.8634851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アパートメゾンかねこ脇駐車場</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市渡戸３−１８]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市渡戸３−１８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5309349,35.8566781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市上沢２−１−３６]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市上沢２−１−３６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5320501,35.8548063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴瀬小学校南側</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市羽沢２−１−１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市羽沢２−１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5395092,35.8526203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡戸どんぐり公園東側</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市渡戸３−４３０−１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市渡戸３−４３０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5349831,35.8583025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市羽沢２−７−３７]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市羽沢２−７−３７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5363698,35.8572606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴瀬小学校東側</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市羽沢２−１−１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市羽沢２−１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5397077,35.8538574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴瀬小学校西側</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市羽沢２−１−１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市羽沢２−１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5387823,35.8532834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（特養）ハレサク駐車場フェンス</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市上沢１−２１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市上沢１−２１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5328368,35.8530742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市上沢１−１４−６]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市上沢１−１４−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5343688,35.8509296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ユタカテニスクラブフェンス</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬東２−２２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬東２−２２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5370579,35.8490279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>うなぎなかむら向い側畑</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬東２−２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬東２−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5374584,35.853224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石井パーキング</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬東２−１７]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬東２−１７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5385172,35.8487688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横田パーキング</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬東２−１８]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬東２−１８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5380251,35.8475069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>マンションチェリーヒルズ県道側フェンス</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬東２−１４−１２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬東２−１４−１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5411224,35.8484916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上沢緑化園脇畑</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県富士見市上沢１−１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市上沢１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5366458,35.8533484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴瀬コミュニティセンター南側</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市羽沢３−２３−１０]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市羽沢３−２３−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5405693,35.8527254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>深井石油北側駐車場</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市羽沢１−２７]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市羽沢１−２７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5398201,35.8549657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スカイマンション藤</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市羽沢１−３１−６]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市羽沢１−３１−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5386335,35.8570019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市羽沢１−２６−３６]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市羽沢１−２６−３６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5407492,35.8563171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴瀬公民館駐車場フェンス</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市羽沢３−２１]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市羽沢３−２１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5407369,35.8532188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家向い畑</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市羽沢３−２]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市羽沢３−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5461417,35.8553338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家脇畑</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市羽沢３−９−２３]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市羽沢３−９−２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5446619,35.8528437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家脇畑</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬１−２０]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬１−２０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5422196,35.8506963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市立第１保育所</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬１−７−３９]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬１−７−３９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5436392,35.8491883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「鶴瀬駅東口」脇</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬東１−７]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬東１−７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.539903,35.846405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道２６６号線沿いフェンス</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢１−６]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢１−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5458428,35.8426006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>谷津の森公園</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬１−１６]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬１−１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5420282,35.8491383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴瀬東１丁目公園</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬東１−４]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬東１−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5406315,35.8473257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家脇畑</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢１−１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5433192,35.8448168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>すわ幼稚園</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市諏訪２−１５−１９]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市諏訪２−１５−１９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5465799,35.8515233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見台中学校入口脇</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市諏訪２−８−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市諏訪２−８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5487115,35.850651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市諏訪２−５]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市諏訪２−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5506363,35.8516334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>健康増進センター入口</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬３３５１−２]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬３３５１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5541008,35.8507562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山崎公園（せせらぎ菖蒲園）</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市水子１８４]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子１８４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5513292,35.8481843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬２−１４−１１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬２−１４−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5457051,35.8460534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>氷川神社西側畑</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬２−２]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬２−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5456911,35.8481315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>なかよし公園南側</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市上沢３−１１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市上沢３−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5282214,35.8514011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上沢公園西側</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市上沢３−１７−１６]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市上沢３−１７−１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5294584,35.8506758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上沢公園南側</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市上沢３−１７−１６]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市上沢３−１７−１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5300914,35.8506042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市道９０４号線脇（旧ハイツＳ・Ｋ）</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬西３−１２−１０]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬西３−１２−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5317298,35.8476782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬西３−９−９]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬西３−９−９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5327495,35.8477337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬西３−１６−２７]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬西３−１６−２７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5304392,35.8469127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴瀬団地アルビス鶴瀬出入口</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬西２−７]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬西２−７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5333856,35.8441251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つるせ台公園西側植込み</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬西２−８]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬西２−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5338711,35.8468737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つるせ台小学校北側フェンス</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬西２−９−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬西２−９−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.533958,35.8479488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つるせ台公園南側植込み</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬西２−８]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬西２−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5341849,35.8461736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>むさし野緑地公園</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬西２−３７０３]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬西２−３７０３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5353808,35.8465811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コンフォール鶴瀬１号棟踏切側</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬西２−３]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬西２−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5366835,35.8469068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つるせ台小学校南側植込み</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬西２−９−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬西２−９−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5324586,35.8472052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>なしくぼ公園東側</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬２６２６]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬２６２６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5403092,35.8443226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴瀬駅西口ロータリー</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬２６０５−１０]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬２６０５−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5382537,35.845391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>なしくぼ公園西側</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬２６２６]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬２６２６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5398371,35.8444856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧Ｂｉｇ−Ａ富士見鶴瀬西店隣空地フェンス</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬３４９３]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬３４９３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5363143,35.8433542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つるせ西ゆうゆうの丘公園</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬３５７５−１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬３５７５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.535368,35.8420661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴瀬西交流センター</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬３５７５−１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬３５７５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.534912,35.8422465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根本外科向い側駐車場</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬３４８７]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬３４８７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5377401,35.8421985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>リブリＨＡＮＹＵ向い植込み</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢２−８−３５]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢２−８−３５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5439795,35.8403372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢２−２６−１２]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢２−２６−１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5392219,35.8408612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市立丸池集会所</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢２−２８−１]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢２−２８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.536474,35.8398952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側畑</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢２−１１]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢２−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.542343,35.8407494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見江川プロムナードフェンス
+（ハイツアーリーウッド向い）</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢２−７]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢２−７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5449132,35.8405563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見台マンションＢ棟向い側畑</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢２−１３]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢２−１３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5420561,35.8424615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>来々軒脇墓地
+（旧アパートつるせリスター向い側）</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢２−１２]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢２−１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.543288,35.8414075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>居酒屋向い畑</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢３−４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢３−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5447582,35.8395775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民の庭園</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢３−４３]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢３−４３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5405041,35.8372762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関沢集会所北側フェンス（富士見江川プロムナード沿い）</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢３−１９−３４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢３−１９−３４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5423496,35.8394763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>理容こがわ脇畑</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢３−３０]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢３−３０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.542494,35.8383265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋川ハイツ脇畑</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢３−１４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢３−１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5440371,35.8379421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家向い側駐車場</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢３−２３]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢３−２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5440595,35.8371456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関沢小学校正門脇</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市関沢３−２４−１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市関沢３−２４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5437657,35.8361819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>唐沢公園南側</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市西みずほ台３−８]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市西みずほ台３−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5456294,35.8352935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市立第４保育所</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市西みずほ台１−７]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市西みずほ台１−７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5462674,35.8405251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松の木公園東側</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市西みずほ台１−２３]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市西みずほ台１−２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5487497,35.8376929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みずほ台駅西口ロータリー</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市西みずほ台１−３０]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市西みずほ台１−３０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5503591,35.8373471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みずほ台コミュニティセンター東側</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市西みずほ台１−１９−２]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市西みずほ台１−１９−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5492909,35.8378973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関沢公園東側</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市西みずほ台１−１３]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市西みずほ台１−１３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5475427,35.8397009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西原公園東側</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市西みずほ台２−１４]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市西みずほ台２−１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5536619,35.8361457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>針ケ谷コミュニティセンター</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市針ケ谷１−３８]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市針ケ谷１−３８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5539752,35.8318321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市針ケ谷１−３１　]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市針ケ谷１−３１　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5526798,35.8334165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗谷津公園東側</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市針ケ谷１−４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市針ケ谷１−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5537527,35.834918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>針ケ谷小学校正門脇</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市針ケ谷２−３８－１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市針ケ谷２−３８－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5524881,35.8286769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗谷津東公園南側</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市針ケ谷１−１４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市針ケ谷１−１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5565879,35.8336035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北通公園西側</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市針ケ谷１−４２]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市針ケ谷１−４２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5518162,35.8324108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中通公園東側</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市針ケ谷２−４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市針ケ谷２−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5517183,35.8313735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>跨線橋脇駐輪場</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市東みずほ台３−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市東みずほ台３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5488674,35.8399489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大原公園東側</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市東みずほ台３−９]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市東みずほ台３−９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5500033,35.8416993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見江川江沢商事向かいフェンス</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬３−３１−２５]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬３−３１−２５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5466574,35.8432822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見江川沿いフェンス</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴馬３−１１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴馬３−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5489635,35.846824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みずほ台小学校正門脇</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市東みずほ台３−２１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市東みずほ台３−２１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.551736,35.8446997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みずほ台小学校南側</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市東みずほ台３−２１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市東みずほ台３−２１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5517843,35.8438996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大原公園西側</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市東みずほ台３−９]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市東みずほ台３−９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5494937,35.8417254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みずほ台駅東口ロータリー三角地</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市東みずほ台２−７]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市東みずほ台２−７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5518156,35.838747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第１ＹＳハイツ脇畑</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市東みずほ台２−２５]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市東みずほ台２−２５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5528027,35.8434228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みずほ台中央公園北側</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市東みずほ台２−１７]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市東みずほ台２−１７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5544344,35.8424331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷１−７−７]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷１−７−７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5584484,35.8434185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みずほ東公園南側</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷１−９]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷１−９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5584666,35.8416081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みずほ台中央公園南側</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市東みずほ台２−１７]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市東みずほ台２−１７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5543284,35.8415526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水谷小学校体育館東側</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷１−１３−３]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷１−１３−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5604084,35.8420993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士鳶工業資材置き場向いフェンス</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市水子７３０−５]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子７３０−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5538281,35.847703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本郷中学校正門脇</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市水子５３９]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子５３９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5573809,35.8492474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水防センター駐車場フェンス</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市水子１７８３−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子１７８３−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5645733,35.8466935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>貝塚東公園南側フェンス</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市水子７０６９]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子７０６９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5644026,35.8443531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>貝塚公園南側駐車場入口脇</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市水子２００３−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子２００３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5624082,35.8444167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大応寺（観音堂側）フェンス</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市水子１７６８−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子１７６８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5618724,35.8463008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水谷第１集会所前フェンス</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市水子６７９−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子６７９−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5535904,35.8461753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高野ガス店先踏切脇</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市水子６４５２−１]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子６４５２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5544946,35.8359401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見ニューライフ向い側</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市水子３９７６−５]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子３９７６−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5619565,35.8323652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>谷ツ合公園南側</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市水子７５８６]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子７５８６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.565865,35.8421135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家脇畑</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市水子２８２７−１]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子２８２７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5669539,35.8435733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「岡の坂上」</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市水子２７９５]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子２７９５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5682931,35.8427854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>氷川神社入口</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市水子５０２３−１]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子５０２３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5584503,35.8354069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みずたに幼稚園</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市水子５１１７−３]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子５１１７−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5616838,35.8379503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第２６採納広場</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県富士見市水子４５８２−９]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子４５８２−９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5588174,35.8374044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水谷東小学校東側</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市水子３６１４]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子３６１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5708523,35.8392001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩田工業所向い側</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷東２−１５]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷東２−１５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5729292,35.8386933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見みずほ幼稚園</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市水子３５９５]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子３５９５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.571981,35.8385339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前沼公園東側</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市水子３６００]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水子３６００</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5727093,35.839501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市立第２保育所西側</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷東２−１２−２３]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷東２−１２−２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5735349,35.8391734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水谷東公民館東側</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷東２−１２−１０]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷東２−１２−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5741486,35.8389463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第一山田荘前植え込み</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷東２−３０]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷東２−３０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5748224,35.8389397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷東１−５−６]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷東１−５−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5720887,35.8434824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家脇</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷東１−２６−１０]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷東１−２６−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5707152,35.8422649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷東１−２７−３３]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷東１−２７−３３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5710164,35.8420452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民の庭園</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷東１−２７]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷東１−２７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5723012,35.8415984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>モード工芸脇</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷東３−１−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷東３−１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5736292,35.8412225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富山薬品入口脇</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷東３−１１−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷東３−１１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5765878,35.8395702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富山薬品東側</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市水谷東３−１１−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市水谷東３−１１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5770331,35.8396049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県富士見市上南畑３２０９]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市上南畑３２０９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.556631,35.8580943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市立南畑ふれあいプラザ北側</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県富士見市東大久保８４−１３]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市東大久保８４−１３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5521251,35.8697883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県富士見市上南畑４８２]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市上南畑４８２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5555313,35.8656024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>やまがた公園東側</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県富士見市下南畑３１１－３７]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市下南畑３１１－３７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.563291,35.85769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南畑公民館</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市上南畑３０６−1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市上南畑３０６−1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5589839,35.8607515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡神社向い側</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県富士見市下南畑９１９−３]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市下南畑９１９−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.569941,35.8626028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見高校南側フェンス</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県富士見市上南畑９５０]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市上南畑９５０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5628206,35.8633861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>共立パッケージ向い側</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県富士見市下南畑１４３９−１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市下南畑１４３９−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5775465,35.8565815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家脇畑</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県富士見市下南畑３８４０−１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市下南畑３８４０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5661343,35.84789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アグリパーク向い畑</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県富士見市鶴瀬西３−６]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県富士見市鶴瀬西３−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5302732,35.8503029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,4871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>幸手市選挙ポスター掲示場及び投票所</name>
+    <description>幸手市の選挙ポスター掲示場及び投票所の位置を示しています。</description>
+    <Style id="icon-1500-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1500-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1500-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1500-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1500-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1500-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-0-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-0-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-0-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-0-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-0-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-1-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-1-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-1-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-1-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-1-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-10-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-10-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-10-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-10-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-10-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-11-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-11-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-11-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-11-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-11-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-12-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-12-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-12-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-12-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-12-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-13-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-13-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-13-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-13-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-13-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-2-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-2-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-2-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-2-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-2-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-3-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-3-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-3-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-3-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-3-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-4-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-4-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-4-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-4-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-4-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-5-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-5-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-5-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-5-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-5-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-6-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-6-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-6-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-6-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-6-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-7-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-7-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-7-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-7-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-7-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-8-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-8-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-8-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-8-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-8-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-9-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-9-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-9-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-9-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-9-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>選挙ポスター掲示場設置箇所</name>
+      <Placemark>
+        <name>１－１</name>
+        <description><![CDATA[説明: 投票区: 第１投票区<br>設置場所の目標: 市営住宅前<br>ポスター掲示場の設置場所: 幸手市中３丁目５－３２<br>経度: 139.7221342672650<br>緯度: 36.0790580937481<br>投票区: 第１投票区<br>設置場所の目標: 市営住宅前<br>ポスター掲示場の設置場所: 幸手市中３丁目５－３２<br>経度: 139.7221342672650<br>緯度: 36.0790580937481]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１投票区
+設置場所の目標: 市営住宅前
+ポスター掲示場の設置場所: 幸手市中３丁目５－３２
+経度: 139.7221342672650
+緯度: 36.0790580937481</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市営住宅前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中３丁目５－３２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7221342672650</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0790580937481</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.722134,36.079058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１－２</name>
+        <description><![CDATA[説明: 投票区: 第１投票区<br>設置場所の目標: 幸手小学校前<br>ポスター掲示場の設置場所: 幸手市中３丁目１１－４１<br>経度: 139.7216340973830<br>緯度: 36.0757017425608<br>投票区: 第１投票区<br>設置場所の目標: 幸手小学校前<br>ポスター掲示場の設置場所: 幸手市中３丁目１１－４１<br>経度: 139.7216340973830<br>緯度: 36.0757017425608]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１投票区
+設置場所の目標: 幸手小学校前
+ポスター掲示場の設置場所: 幸手市中３丁目１１－４１
+経度: 139.7216340973830
+緯度: 36.0757017425608</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>幸手小学校前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中３丁目１１－４１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7216340973830</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0757017425608</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.721634,36.075702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１－３</name>
+        <description><![CDATA[説明: 投票区: 第１投票区<br>設置場所の目標: 県道幸手停車場線脇<br>ポスター掲示場の設置場所: 幸手市中２丁目７－２<br>経度: 139.7193519168520<br>緯度: 36.0728779806376<br>投票区: 第１投票区<br>設置場所の目標: 県道幸手停車場線脇<br>ポスター掲示場の設置場所: 幸手市中２丁目７－２<br>経度: 139.7193519168520<br>緯度: 36.0728779806376]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１投票区
+設置場所の目標: 県道幸手停車場線脇
+ポスター掲示場の設置場所: 幸手市中２丁目７－２
+経度: 139.7193519168520
+緯度: 36.0728779806376</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>県道幸手停車場線脇</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中２丁目７－２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7193519168520</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0728779806376</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.719352,36.072878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１－４</name>
+        <description><![CDATA[説明: 投票区: 第１投票区<br>設置場所の目標: 中３丁目児童公園<br>ポスター掲示場の設置場所: 幸手市中３－２０<br>経度: 139.7216978591400<br>緯度: 36.0749573545159<br>投票区: 第１投票区<br>設置場所の目標: 中３丁目児童公園<br>ポスター掲示場の設置場所: 幸手市中３－２０<br>経度: 139.7216978591400<br>緯度: 36.0749573545159]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１投票区
+設置場所の目標: 中３丁目児童公園
+ポスター掲示場の設置場所: 幸手市中３－２０
+経度: 139.7216978591400
+緯度: 36.0749573545159</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中３丁目児童公園</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中３－２０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7216978591400</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0749573545159</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.721698,36.074957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１－５</name>
+        <description><![CDATA[説明: 投票区: 第１投票区<br>設置場所の目標: 天神神社前<br>ポスター掲示場の設置場所: 幸手市中１丁目１８－１１<br>経度: 139.7169729628360<br>緯度: 36.0754183885132<br>投票区: 第１投票区<br>設置場所の目標: 天神神社前<br>ポスター掲示場の設置場所: 幸手市中１丁目１８－１１<br>経度: 139.7169729628360<br>緯度: 36.0754183885132]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１投票区
+設置場所の目標: 天神神社前
+ポスター掲示場の設置場所: 幸手市中１丁目１８－１１
+経度: 139.7169729628360
+緯度: 36.0754183885132</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>天神神社前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中１丁目１８－１１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7169729628360</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0754183885132</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.716973,36.075418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１－６</name>
+        <description><![CDATA[説明: 投票区: 第１投票区<br>設置場所の目標: 幸手駅東口駅前広場<br>ポスター掲示場の設置場所: 幸手市中１丁目１－２３<br>経度: 139.7153324236850<br>緯度: 36.0746958063496<br>投票区: 第１投票区<br>設置場所の目標: 幸手駅東口駅前広場<br>ポスター掲示場の設置場所: 幸手市中１丁目１－２３<br>経度: 139.7153324236850<br>緯度: 36.0746958063496]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１投票区
+設置場所の目標: 幸手駅東口駅前広場
+ポスター掲示場の設置場所: 幸手市中１丁目１－２３
+経度: 139.7153324236850
+緯度: 36.0746958063496</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>幸手駅東口駅前広場</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中１丁目１－２３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7153324236850</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0746958063496</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.715332,36.074696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１－７</name>
+        <description><![CDATA[説明: 投票区: 第１投票区<br>設置場所の目標: 日第41号踏切道側<br>ポスター掲示場の設置場所: 幸手市中４丁目６<br>経度: 139.7156033196500<br>緯度: 36.0793518741590<br>投票区: 第１投票区<br>設置場所の目標: 日第41号踏切道側<br>ポスター掲示場の設置場所: 幸手市中４丁目６<br>経度: 139.7156033196500<br>緯度: 36.0793518741590]]></description>
+        <styleUrl>#icon-1500-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１投票区
+設置場所の目標: 日第41号踏切道側
+ポスター掲示場の設置場所: 幸手市中４丁目６
+経度: 139.7156033196500
+緯度: 36.0793518741590</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>日第41号踏切道側</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中４丁目６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7156033196500</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0793518741590</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.715603,36.079352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>２－１</name>
+        <description><![CDATA[説明: 投票区: 第２投票区<br>設置場所の目標: 宝持寺裏水路脇フェンス<br>ポスター掲示場の設置場所: 幸手市北１丁目２－３１<br>経度: 139.7161820216040<br>緯度: 36.0842281536944<br>投票区: 第２投票区<br>設置場所の目標: 宝持寺裏水路脇フェンス<br>ポスター掲示場の設置場所: 幸手市北１丁目２－３１<br>経度: 139.7161820216040<br>緯度: 36.0842281536944]]></description>
+        <styleUrl>#icon-1500-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第２投票区
+設置場所の目標: 宝持寺裏水路脇フェンス
+ポスター掲示場の設置場所: 幸手市北１丁目２－３１
+経度: 139.7161820216040
+緯度: 36.0842281536944</value>
+          </Data>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>宝持寺裏水路脇フェンス</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市北１丁目２－３１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7161820216040</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0842281536944</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.716182,36.084228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>２－２</name>
+        <description><![CDATA[説明: 投票区: 第２投票区<br>設置場所の目標: 県立幸手桜高等学校脇フェンス南西側<br>ポスター掲示場の設置場所: 幸手市北１丁目１７－５９<br>経度: 139.7180714582630<br>緯度: 36.0854555323950<br>投票区: 第２投票区<br>設置場所の目標: 県立幸手桜高等学校脇フェンス南西側<br>ポスター掲示場の設置場所: 幸手市北１丁目１７－５９<br>経度: 139.7180714582630<br>緯度: 36.0854555323950]]></description>
+        <styleUrl>#icon-1500-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第２投票区
+設置場所の目標: 県立幸手桜高等学校脇フェンス南西側
+ポスター掲示場の設置場所: 幸手市北１丁目１７－５９
+経度: 139.7180714582630
+緯度: 36.0854555323950</value>
+          </Data>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>県立幸手桜高等学校脇フェンス南西側</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市北１丁目１７－５９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7180714582630</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0854555323950</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.718071,36.085456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>２－３</name>
+        <description><![CDATA[説明: 投票区: 第２投票区<br>設置場所の目標: 幸手中学校前<br>ポスター掲示場の設置場所: 幸手市北１丁目７－４<br>経度: 139.7180684423750<br>緯度: 36.0822319842054<br>投票区: 第２投票区<br>設置場所の目標: 幸手中学校前<br>ポスター掲示場の設置場所: 幸手市北１丁目７－４<br>経度: 139.7180684423750<br>緯度: 36.0822319842054]]></description>
+        <styleUrl>#icon-1500-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第２投票区
+設置場所の目標: 幸手中学校前
+ポスター掲示場の設置場所: 幸手市北１丁目７－４
+経度: 139.7180684423750
+緯度: 36.0822319842054</value>
+          </Data>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>幸手中学校前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市北１丁目７－４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7180684423750</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0822319842054</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.718068,36.082232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>２－４</name>
+        <description><![CDATA[説明: 投票区: 第２投票区<br>設置場所の目標: ベルク北店内防火水槽脇<br>ポスター掲示場の設置場所: 幸手市北１丁目１０－２８<br>経度: 139.7218704039820<br>緯度: 36.0814804355898<br>投票区: 第２投票区<br>設置場所の目標: ベルク北店内防火水槽脇<br>ポスター掲示場の設置場所: 幸手市北１丁目１０－２８<br>経度: 139.7218704039820<br>緯度: 36.0814804355898]]></description>
+        <styleUrl>#icon-1500-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第２投票区
+設置場所の目標: ベルク北店内防火水槽脇
+ポスター掲示場の設置場所: 幸手市北１丁目１０－２８
+経度: 139.7218704039820
+緯度: 36.0814804355898</value>
+          </Data>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ベルク北店内防火水槽脇</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市北１丁目１０－２８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7218704039820</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0814804355898</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.72187,36.08148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>２－５</name>
+        <description><![CDATA[説明: 投票区: 第２投票区<br>設置場所の目標: 県道さいたま幸手線脇<br>ポスター掲示場の設置場所: 幸手市北２丁目１０－１０<br>経度: 139.7214884731240<br>緯度: 36.0855370264877<br>投票区: 第２投票区<br>設置場所の目標: 県道さいたま幸手線脇<br>ポスター掲示場の設置場所: 幸手市北２丁目１０－１０<br>経度: 139.7214884731240<br>緯度: 36.0855370264877]]></description>
+        <styleUrl>#icon-1500-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第２投票区
+設置場所の目標: 県道さいたま幸手線脇
+ポスター掲示場の設置場所: 幸手市北２丁目１０－１０
+経度: 139.7214884731240
+緯度: 36.0855370264877</value>
+          </Data>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>県道さいたま幸手線脇</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市北２丁目１０－１０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7214884731240</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0855370264877</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.721488,36.085537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>２－６</name>
+        <description><![CDATA[説明: 投票区: 第２投票区<br>設置場所の目標: 共和タクシー前<br>ポスター掲示場の設置場所: 幸手市北２丁目１７－７<br>経度: 139.723229<br>緯度: 36.0840101<br>投票区: 第２投票区<br>設置場所の目標: 共和タクシー前<br>ポスター掲示場の設置場所: 幸手市北２丁目１７－７<br>経度: 139.723229<br>緯度: 36.0840101]]></description>
+        <styleUrl>#icon-1500-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第２投票区
+設置場所の目標: 共和タクシー前
+ポスター掲示場の設置場所: 幸手市北２丁目１７－７
+経度: 139.723229
+緯度: 36.0840101</value>
+          </Data>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>共和タクシー前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市北２丁目１７－７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.723229</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0840101</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.723229,36.08401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>２－７</name>
+        <description><![CDATA[説明: 投票区: 第２投票区<br>設置場所の目標: 県立幸手桜高等学校グラウンド裏フェンス北東側<br>ポスター掲示場の設置場所: 幸手市北１丁目１７－５９<br>経度: 139.7200152705970<br>緯度: 36.0871292859159<br>投票区: 第２投票区<br>設置場所の目標: 県立幸手桜高等学校グラウンド裏フェンス北東側<br>ポスター掲示場の設置場所: 幸手市北１丁目１７－５９<br>経度: 139.7200152705970<br>緯度: 36.0871292859159]]></description>
+        <styleUrl>#icon-1500-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第２投票区
+設置場所の目標: 県立幸手桜高等学校グラウンド裏フェンス北東側
+ポスター掲示場の設置場所: 幸手市北１丁目１７－５９
+経度: 139.7200152705970
+緯度: 36.0871292859159</value>
+          </Data>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>県立幸手桜高等学校グラウンド裏フェンス北東側</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市北１丁目１７－５９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7200152705970</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0871292859159</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.720015,36.087129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>３－１</name>
+        <description><![CDATA[説明: 投票区: 第３投票区<br>設置場所の目標: 国道4号外国府間信号機西側先<br>ポスター掲示場の設置場所: 幸手市外国府間６７９<br>経度: 139.7224261371220<br>緯度: 36.1009861091938<br>投票区: 第３投票区<br>設置場所の目標: 国道4号外国府間信号機西側先<br>ポスター掲示場の設置場所: 幸手市外国府間６７９<br>経度: 139.7224261371220<br>緯度: 36.1009861091938]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第３投票区
+設置場所の目標: 国道4号外国府間信号機西側先
+ポスター掲示場の設置場所: 幸手市外国府間６７９
+経度: 139.7224261371220
+緯度: 36.1009861091938</value>
+          </Data>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>国道4号外国府間信号機西側先</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市外国府間６７９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7224261371220</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.1009861091938</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.722426,36.100986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>３－２</name>
+        <description><![CDATA[説明: 投票区: 第３投票区<br>設置場所の目標: 行幸橋バス停側<br>ポスター掲示場の設置場所: 幸手市高須賀４４５－１<br>経度: 139.7210665249540<br>緯度: 36.0968646896860<br>投票区: 第３投票区<br>設置場所の目標: 行幸橋バス停側<br>ポスター掲示場の設置場所: 幸手市高須賀４４５－１<br>経度: 139.7210665249540<br>緯度: 36.0968646896860]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第３投票区
+設置場所の目標: 行幸橋バス停側
+ポスター掲示場の設置場所: 幸手市高須賀４４５－１
+経度: 139.7210665249540
+緯度: 36.0968646896860</value>
+          </Data>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>行幸橋バス停側</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市高須賀４４５－１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7210665249540</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0968646896860</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.721067,36.096865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>３－３</name>
+        <description><![CDATA[説明: 投票区: 第３投票区<br>設置場所の目標: 常福寺前ガードレール<br>ポスター掲示場の設置場所: 幸手市高須賀９６<br>経度: 139.7179863306390<br>緯度: 36.0953062573141<br>投票区: 第３投票区<br>設置場所の目標: 常福寺前ガードレール<br>ポスター掲示場の設置場所: 幸手市高須賀９６<br>経度: 139.7179863306390<br>緯度: 36.0953062573141]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第３投票区
+設置場所の目標: 常福寺前ガードレール
+ポスター掲示場の設置場所: 幸手市高須賀９６
+経度: 139.7179863306390
+緯度: 36.0953062573141</value>
+          </Data>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>常福寺前ガードレール</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市高須賀９６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7179863306390</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0953062573141</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.717986,36.095306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>３－４</name>
+        <description><![CDATA[説明: 投票区: 第３投票区<br>設置場所の目標: 松石集会所前<br>ポスター掲示場の設置場所: 幸手市松石１１－２<br>経度: 139.7091231091040<br>緯度: 36.0982336404774<br>投票区: 第３投票区<br>設置場所の目標: 松石集会所前<br>ポスター掲示場の設置場所: 幸手市松石１１－２<br>経度: 139.7091231091040<br>緯度: 36.0982336404774]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第３投票区
+設置場所の目標: 松石集会所前
+ポスター掲示場の設置場所: 幸手市松石１１－２
+経度: 139.7091231091040
+緯度: 36.0982336404774</value>
+          </Data>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>松石集会所前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市松石１１－２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7091231091040</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0982336404774</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.709123,36.098234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>３－５</name>
+        <description><![CDATA[説明: 投票区: 第３投票区<br>設置場所の目標: 行幸小学校前<br>ポスター掲示場の設置場所: 幸手市円藤内４７９<br>経度: 139.7109095986980<br>緯度: 36.0944259926032<br>投票区: 第３投票区<br>設置場所の目標: 行幸小学校前<br>ポスター掲示場の設置場所: 幸手市円藤内４７９<br>経度: 139.7109095986980<br>緯度: 36.0944259926032]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第３投票区
+設置場所の目標: 行幸小学校前
+ポスター掲示場の設置場所: 幸手市円藤内４７９
+経度: 139.7109095986980
+緯度: 36.0944259926032</value>
+          </Data>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>行幸小学校前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市円藤内４７９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7109095986980</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0944259926032</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.71091,36.094426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>３－６</name>
+        <description><![CDATA[説明: 投票区: 第３投票区<br>設置場所の目標: マルコーストア側<br>ポスター掲示場の設置場所: 幸手市千塚２３８－１５<br>経度: 139.7099035965790<br>緯度: 36.0898821492406<br>投票区: 第３投票区<br>設置場所の目標: マルコーストア側<br>ポスター掲示場の設置場所: 幸手市千塚２３８－１５<br>経度: 139.7099035965790<br>緯度: 36.0898821492406]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第３投票区
+設置場所の目標: マルコーストア側
+ポスター掲示場の設置場所: 幸手市千塚２３８－１５
+経度: 139.7099035965790
+緯度: 36.0898821492406</value>
+          </Data>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>マルコーストア側</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市千塚２３８－１５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7099035965790</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0898821492406</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.709904,36.089882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>３－７</name>
+        <description><![CDATA[説明: 投票区: 第３投票区<br>設置場所の目標: セブンイレブン幸手千塚店側<br>ポスター掲示場の設置場所: 幸手市千塚９０９－２<br>経度: 139.7025624168130<br>緯度: 36.0908628488409<br>投票区: 第３投票区<br>設置場所の目標: セブンイレブン幸手千塚店側<br>ポスター掲示場の設置場所: 幸手市千塚９０９－２<br>経度: 139.7025624168130<br>緯度: 36.0908628488409]]></description>
+        <styleUrl>#icon-1500-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第３投票区
+設置場所の目標: セブンイレブン幸手千塚店側
+ポスター掲示場の設置場所: 幸手市千塚９０９－２
+経度: 139.7025624168130
+緯度: 36.0908628488409</value>
+          </Data>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>セブンイレブン幸手千塚店側</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市千塚９０９－２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7025624168130</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0908628488409</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.702562,36.090863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>４－１</name>
+        <description><![CDATA[説明: 投票区: 第４投票区<br>設置場所の目標: ひまわり歯科医院東側先<br>ポスター掲示場の設置場所: 幸手市西２丁目１１－７<br>経度: 139.7150007337510<br>緯度: 36.0858476335164<br>投票区: 第４投票区<br>設置場所の目標: ひまわり歯科医院東側先<br>ポスター掲示場の設置場所: 幸手市西２丁目１１－７<br>経度: 139.7150007337510<br>緯度: 36.0858476335164]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第４投票区
+設置場所の目標: ひまわり歯科医院東側先
+ポスター掲示場の設置場所: 幸手市西２丁目１１－７
+経度: 139.7150007337510
+緯度: 36.0858476335164</value>
+          </Data>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ひまわり歯科医院東側先</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市西２丁目１１－７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7150007337510</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0858476335164</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.715001,36.085848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>４－２</name>
+        <description><![CDATA[説明: 投票区: 第４投票区<br>設置場所の目標: 新井庫三商店倉庫前<br>ポスター掲示場の設置場所: 幸手市西１丁目１１－１８<br>経度: 139.7154610070470<br>緯度: 36.0830548154269<br>投票区: 第４投票区<br>設置場所の目標: 新井庫三商店倉庫前<br>ポスター掲示場の設置場所: 幸手市西１丁目１１－１８<br>経度: 139.7154610070470<br>緯度: 36.0830548154269]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第４投票区
+設置場所の目標: 新井庫三商店倉庫前
+ポスター掲示場の設置場所: 幸手市西１丁目１１－１８
+経度: 139.7154610070470
+緯度: 36.0830548154269</value>
+          </Data>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>新井庫三商店倉庫前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市西１丁目１１－１８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7154610070470</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0830548154269</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.715461,36.083055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>４－３</name>
+        <description><![CDATA[説明: 投票区: 第４投票区<br>設置場所の目標: 西中学校前<br>ポスター掲示場の設置場所: 幸手市下川崎３９１－２<br>経度: 139.7096944506080<br>緯度: 36.0832666817169<br>投票区: 第４投票区<br>設置場所の目標: 西中学校前<br>ポスター掲示場の設置場所: 幸手市下川崎３９１－２<br>経度: 139.7096944506080<br>緯度: 36.0832666817169]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第４投票区
+設置場所の目標: 西中学校前
+ポスター掲示場の設置場所: 幸手市下川崎３９１－２
+経度: 139.7096944506080
+緯度: 36.0832666817169</value>
+          </Data>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西中学校前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市下川崎３９１－２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7096944506080</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0832666817169</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.709694,36.083267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>４－４</name>
+        <description><![CDATA[説明: 投票区: 第４投票区<br>設置場所の目標: 安楽院東側ガードレール<br>ポスター掲示場の設置場所: 幸手市下川崎２２５－２<br>経度: 139.7041435900560<br>緯度: 36.0838664570142<br>投票区: 第４投票区<br>設置場所の目標: 安楽院東側ガードレール<br>ポスター掲示場の設置場所: 幸手市下川崎２２５－２<br>経度: 139.7041435900560<br>緯度: 36.0838664570142]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第４投票区
+設置場所の目標: 安楽院東側ガードレール
+ポスター掲示場の設置場所: 幸手市下川崎２２５－２
+経度: 139.7041435900560
+緯度: 36.0838664570142</value>
+          </Data>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>安楽院東側ガードレール</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市下川崎２２５－２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7041435900560</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0838664570142</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.704144,36.083866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>４－５</name>
+        <description><![CDATA[説明: 投票区: 第４投票区<br>設置場所の目標: 川崎公会堂前<br>ポスター掲示場の設置場所: 幸手市中川崎３６４－１<br>経度: 139.7034106501490<br>緯度: 36.0791523763235<br>投票区: 第４投票区<br>設置場所の目標: 川崎公会堂前<br>ポスター掲示場の設置場所: 幸手市中川崎３６４－１<br>経度: 139.7034106501490<br>緯度: 36.0791523763235]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第４投票区
+設置場所の目標: 川崎公会堂前
+ポスター掲示場の設置場所: 幸手市中川崎３６４－１
+経度: 139.7034106501490
+緯度: 36.0791523763235</value>
+          </Data>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>川崎公会堂前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中川崎３６４－１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7034106501490</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0791523763235</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.703411,36.079152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>４－６</name>
+        <description><![CDATA[説明: 投票区: 第４投票区<br>設置場所の目標: 県道幸手久喜線幸橋側信号機西側先<br>ポスター掲示場の設置場所: 幸手市中５丁目２１<br>経度: 139.7086977085310<br>緯度: 36.0752469030899<br>投票区: 第４投票区<br>設置場所の目標: 県道幸手久喜線幸橋側信号機北側先<br>ポスター掲示場の設置場所: 幸手市中５丁目２０－８<br>経度: 139.7086977085310<br>緯度: 36.0752469030899]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第４投票区
+設置場所の目標: 県道幸手久喜線幸橋側信号機西側先
+ポスター掲示場の設置場所: 幸手市中５丁目２１
+経度: 139.7086977085310
+緯度: 36.0752469030899</value>
+          </Data>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>県道幸手久喜線幸橋側信号機北側先</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中５丁目２０－８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7086977085310</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0752469030899</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7083252,36.0750497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>４－７</name>
+        <description><![CDATA[説明: 投票区: 第４投票区<br>設置場所の目標: 牛村病院前フェンス<br>ポスター掲示場の設置場所: 幸手市中５丁目４－５１<br>経度: 139.7143865285410<br>緯度: 36.0775618811006<br>投票区: 第４投票区<br>設置場所の目標: 牛村病院前フェンス<br>ポスター掲示場の設置場所: 幸手市中５丁目４－５１<br>経度: 139.7143865285410<br>緯度: 36.0775618811006]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第４投票区
+設置場所の目標: 牛村病院前フェンス
+ポスター掲示場の設置場所: 幸手市中５丁目４－５１
+経度: 139.7143865285410
+緯度: 36.0775618811006</value>
+          </Data>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>牛村病院前フェンス</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中５丁目４－５１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7143865285410</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0775618811006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.714387,36.077562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>４－８</name>
+        <description><![CDATA[説明: 投票区: 第４投票区<br>設置場所の目標: 長倉小学校横フェンス<br>ポスター掲示場の設置場所: 幸手市下川崎２４２<br>経度: 139.7093975154930<br>緯度: 36.0859019810573<br>投票区: 第４投票区<br>設置場所の目標: 長倉小学校横フェンス<br>ポスター掲示場の設置場所: 幸手市下川崎２４２<br>経度: 139.7093975154930<br>緯度: 36.0859019810573]]></description>
+        <styleUrl>#icon-1500-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第４投票区
+設置場所の目標: 長倉小学校横フェンス
+ポスター掲示場の設置場所: 幸手市下川崎２４２
+経度: 139.7093975154930
+緯度: 36.0859019810573</value>
+          </Data>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>長倉小学校横フェンス</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市下川崎２４２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7093975154930</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0859019810573</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.709398,36.085902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>５－１</name>
+        <description><![CDATA[説明: 投票区: 第５投票区<br>設置場所の目標: 幸手市コミュニティセンター正面入口<br>ポスター掲示場の設置場所: 幸手市香日向４丁目５－２<br>経度: 139.7024646187210<br>緯度: 36.0868978607300<br>投票区: 第５投票区<br>設置場所の目標: 幸手市コミュニティセンター正面入口<br>ポスター掲示場の設置場所: 幸手市香日向４丁目５－２<br>経度: 139.7024646187210<br>緯度: 36.0868978607300]]></description>
+        <styleUrl>#icon-1500-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第５投票区
+設置場所の目標: 幸手市コミュニティセンター正面入口
+ポスター掲示場の設置場所: 幸手市香日向４丁目５－２
+経度: 139.7024646187210
+緯度: 36.0868978607300</value>
+          </Data>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>幸手市コミュニティセンター正面入口</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市香日向４丁目５－２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7024646187210</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0868978607300</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.702465,36.086898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>５－２</name>
+        <description><![CDATA[説明: 投票区: 第５投票区<br>設置場所の目標: 旧香日向小学校前<br>ポスター掲示場の設置場所: 幸手市香日向４丁目５－１<br>経度: 139.7009780865850<br>緯度: 36.0868309876492<br>投票区: 第５投票区<br>設置場所の目標: 旧香日向小学校前<br>ポスター掲示場の設置場所: 幸手市香日向４丁目５－１<br>経度: 139.7009780865850<br>緯度: 36.0868309876492]]></description>
+        <styleUrl>#icon-1500-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第５投票区
+設置場所の目標: 旧香日向小学校前
+ポスター掲示場の設置場所: 幸手市香日向４丁目５－１
+経度: 139.7009780865850
+緯度: 36.0868309876492</value>
+          </Data>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>旧香日向小学校前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市香日向４丁目５－１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7009780865850</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0868309876492</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.700978,36.086831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>５－３</name>
+        <description><![CDATA[説明: 投票区: 第５投票区<br>設置場所の目標: 中央通りイトーピアホームサービス反対側<br>ポスター掲示場の設置場所: 幸手市香日向１丁目１６<br>経度: 139.6991127332480<br>緯度: 36.0866422768571<br>投票区: 第５投票区<br>設置場所の目標: 中央通りイトーピアホームサービス反対側<br>ポスター掲示場の設置場所: 幸手市香日向１丁目１６<br>経度: 139.6991127332480<br>緯度: 36.0866422768571]]></description>
+        <styleUrl>#icon-1500-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第５投票区
+設置場所の目標: 中央通りイトーピアホームサービス反対側
+ポスター掲示場の設置場所: 幸手市香日向１丁目１６
+経度: 139.6991127332480
+緯度: 36.0866422768571</value>
+          </Data>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中央通りイトーピアホームサービス反対側</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市香日向１丁目１６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.6991127332480</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0866422768571</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.699113,36.086642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>５－４</name>
+        <description><![CDATA[説明: 投票区: 第５投票区<br>設置場所の目標: 千塚西公園中央通り沿い<br>ポスター掲示場の設置場所: 幸手市香日向３丁目１３<br>経度: 139.6956357890530<br>緯度: 36.0872944100730<br>投票区: 第５投票区<br>設置場所の目標: 千塚西公園中央通り沿い<br>ポスター掲示場の設置場所: 幸手市香日向３丁目１３<br>経度: 139.6956357890530<br>緯度: 36.0872944100730]]></description>
+        <styleUrl>#icon-1500-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第５投票区
+設置場所の目標: 千塚西公園中央通り沿い
+ポスター掲示場の設置場所: 幸手市香日向３丁目１３
+経度: 139.6956357890530
+緯度: 36.0872944100730</value>
+          </Data>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>千塚西公園中央通り沿い</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市香日向３丁目１３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.6956357890530</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0872944100730</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.695636,36.087294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>５－５</name>
+        <description><![CDATA[説明: 投票区: 第５投票区<br>設置場所の目標: かえで通り突当たり市道739号<br>ポスター掲示場の設置場所: 幸手市香日向２丁目２６<br>経度: 139.6954519665770<br>緯度: 36.0844349293549<br>投票区: 第５投票区<br>設置場所の目標: かえで通り突当たり市道739号<br>ポスター掲示場の設置場所: 幸手市香日向２丁目２６<br>経度: 139.6954519665770<br>緯度: 36.0844349293549]]></description>
+        <styleUrl>#icon-1500-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第５投票区
+設置場所の目標: かえで通り突当たり市道739号
+ポスター掲示場の設置場所: 幸手市香日向２丁目２６
+経度: 139.6954519665770
+緯度: 36.0844349293549</value>
+          </Data>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>かえで通り突当たり市道739号</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市香日向２丁目２６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.6954519665770</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0844349293549</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.695452,36.084435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>５－６</name>
+        <description><![CDATA[説明: 投票区: 第５投票区<br>設置場所の目標: ゆりのき通り突当たり市道739号<br>ポスター掲示場の設置場所: 幸手市香日向１丁目１９<br>経度: 139.6985716689720<br>緯度: 36.0843565271082<br>投票区: 第５投票区<br>設置場所の目標: ゆりのき通り突当たり市道739号<br>ポスター掲示場の設置場所: 幸手市香日向１丁目１９<br>経度: 139.6985716689720<br>緯度: 36.0843565271082]]></description>
+        <styleUrl>#icon-1500-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第５投票区
+設置場所の目標: ゆりのき通り突当たり市道739号
+ポスター掲示場の設置場所: 幸手市香日向１丁目１９
+経度: 139.6985716689720
+緯度: 36.0843565271082</value>
+          </Data>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ゆりのき通り突当たり市道739号</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市香日向１丁目１９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.6985716689720</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0843565271082</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.698572,36.084357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>５－７</name>
+        <description><![CDATA[説明: 投票区: 第５投票区<br>設置場所の目標: 中川崎公園<br>ポスター掲示場の設置場所: 幸手市香日向２丁目７<br>経度: 139.6969840988750<br>緯度: 36.0854122414570<br>投票区: 第５投票区<br>設置場所の目標: 中川崎公園<br>ポスター掲示場の設置場所: 幸手市香日向２丁目７<br>経度: 139.6969840988750<br>緯度: 36.0854122414570]]></description>
+        <styleUrl>#icon-1500-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第５投票区
+設置場所の目標: 中川崎公園
+ポスター掲示場の設置場所: 幸手市香日向２丁目７
+経度: 139.6969840988750
+緯度: 36.0854122414570</value>
+          </Data>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中川崎公園</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市香日向２丁目７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.6969840988750</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0854122414570</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.696984,36.085412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>６－１</name>
+        <description><![CDATA[説明: 投票区: 第６投票区<br>設置場所の目標: 幸手駅西口駅前広場<br>ポスター掲示場の設置場所: 幸手市南３丁目５<br>経度: 139.7145393515450<br>緯度: 36.0745069438031<br>投票区: 第６投票区<br>設置場所の目標: 幸手駅西口駅前広場<br>ポスター掲示場の設置場所: 幸手市南３丁目５<br>経度: 139.7145393515450<br>緯度: 36.0745069438031]]></description>
+        <styleUrl>#icon-1500-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第６投票区
+設置場所の目標: 幸手駅西口駅前広場
+ポスター掲示場の設置場所: 幸手市南３丁目５
+経度: 139.7145393515450
+緯度: 36.0745069438031</value>
+          </Data>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>幸手駅西口駅前広場</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市南３丁目５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7145393515450</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0745069438031</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.714539,36.074507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>６－２</name>
+        <description><![CDATA[説明: 投票区: 第６投票区<br>設置場所の目標: 南２丁目幼児公園側<br>ポスター掲示場の設置場所: 幸手市南２丁目２－３７<br>経度: 139.7121638183450<br>緯度: 36.0710831873702<br>投票区: 第６投票区<br>設置場所の目標: 南２丁目幼児公園側<br>ポスター掲示場の設置場所: 幸手市南２丁目２－３７<br>経度: 139.7121638183450<br>緯度: 36.0710831873702]]></description>
+        <styleUrl>#icon-1500-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第６投票区
+設置場所の目標: 南２丁目幼児公園側
+ポスター掲示場の設置場所: 幸手市南２丁目２－３７
+経度: 139.7121638183450
+緯度: 36.0710831873702</value>
+          </Data>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>南２丁目幼児公園側</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市南２丁目２－３７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7121638183450</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0710831873702</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.712164,36.071083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>６－３</name>
+        <description><![CDATA[説明: 投票区: 第６投票区<br>設置場所の目標: まちづくり事業課事務所脇<br>ポスター掲示場の設置場所: 幸手市南２丁目８－１<br>経度: 139.7095884364930<br>緯度: 36.0680980329199<br>投票区: 第６投票区<br>設置場所の目標: まちづくり事業課事務所脇<br>ポスター掲示場の設置場所: 幸手市南２丁目８－１<br>経度: 139.7095884364930<br>緯度: 36.0680980329199]]></description>
+        <styleUrl>#icon-1500-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第６投票区
+設置場所の目標: まちづくり事業課事務所脇
+ポスター掲示場の設置場所: 幸手市南２丁目８－１
+経度: 139.7095884364930
+緯度: 36.0680980329199</value>
+          </Data>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>まちづくり事業課事務所脇</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市南２丁目８－１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7095884364930</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0680980329199</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.709588,36.068098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>６－４</name>
+        <description><![CDATA[説明: 投票区: 第６投票区<br>設置場所の目標: マルエツ幸手上高野店４号沿い<br>ポスター掲示場の設置場所: 幸手市上高野７７８<br>経度: 139.7167388616950<br>緯度: 36.0671796077821<br>投票区: 第６投票区<br>設置場所の目標: マルエツ幸手上高野店４号沿い<br>ポスター掲示場の設置場所: 幸手市上高野７７８<br>経度: 139.7167388616950<br>緯度: 36.0671796077821]]></description>
+        <styleUrl>#icon-1500-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第６投票区
+設置場所の目標: マルエツ幸手上高野店４号沿い
+ポスター掲示場の設置場所: 幸手市上高野７７８
+経度: 139.7167388616950
+緯度: 36.0671796077821</value>
+          </Data>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>マルエツ幸手上高野店４号沿い</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市上高野７７８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7167388616950</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0671796077821</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.716739,36.06718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>６－５</name>
+        <description><![CDATA[説明: 投票区: 第６投票区<br>設置場所の目標: 南公民館前<br>ポスター掲示場の設置場所: 幸手市上高野１１９４<br>経度: 139.7128845556490<br>緯度: 36.0620572124605<br>投票区: 第６投票区<br>設置場所の目標: 南公民館前<br>ポスター掲示場の設置場所: 幸手市上高野１１９４<br>経度: 139.7128845556490<br>緯度: 36.0620572124605]]></description>
+        <styleUrl>#icon-1500-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第６投票区
+設置場所の目標: 南公民館前
+ポスター掲示場の設置場所: 幸手市上高野１１９４
+経度: 139.7128845556490
+緯度: 36.0620572124605</value>
+          </Data>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>南公民館前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市上高野１１９４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7128845556490</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0620572124605</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.712885,36.062057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>６－６</name>
+        <description><![CDATA[説明: 投票区: 第６投票区<br>設置場所の目標: 栗田合資会社倉庫前<br>ポスター掲示場の設置場所: 幸手市南１丁目９－８<br>経度: 139.7178108285710<br>緯度: 36.0712144165458<br>投票区: 第６投票区<br>設置場所の目標: 栗田合資会社倉庫前<br>ポスター掲示場の設置場所: 幸手市南１丁目９－８<br>経度: 139.7178108285710<br>緯度: 36.0712144165458]]></description>
+        <styleUrl>#icon-1500-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第６投票区
+設置場所の目標: 栗田合資会社倉庫前
+ポスター掲示場の設置場所: 幸手市南１丁目９－８
+経度: 139.7178108285710
+緯度: 36.0712144165458</value>
+          </Data>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>栗田合資会社倉庫前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市南１丁目９－８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7178108285710</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0712144165458</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.717811,36.071214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>６－７</name>
+        <description><![CDATA[説明: 投票区: 第６投票区<br>設置場所の目標: 調節池フェンス<br>ポスター掲示場の設置場所: 幸手市上高野１丁目４<br>経度: 139.7195122760720<br>緯度: 36.0664113506839<br>投票区: 第６投票区<br>設置場所の目標: 調節池フェンス<br>ポスター掲示場の設置場所: 幸手市上高野１丁目４<br>経度: 139.7195122760720<br>緯度: 36.0664113506839]]></description>
+        <styleUrl>#icon-1500-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第６投票区
+設置場所の目標: 調節池フェンス
+ポスター掲示場の設置場所: 幸手市上高野１丁目４
+経度: 139.7195122760720
+緯度: 36.0664113506839</value>
+          </Data>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>調節池フェンス</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市上高野１丁目４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7195122760720</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0664113506839</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.719512,36.066411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>６－８</name>
+        <description><![CDATA[説明: 投票区: 第６投票区<br>設置場所の目標: ジョイフル本田駐車場フェンス<br>ポスター掲示場の設置場所: 幸手市上高野１３０８－１<br>経度: 139.7155144773030<br>緯度: 36.0604601489170<br>投票区: 第６投票区<br>設置場所の目標: ジョイフル本田駐車場フェンス<br>ポスター掲示場の設置場所: 幸手市上高野１３０８－１<br>経度: 139.7155144773030<br>緯度: 36.0604601489170]]></description>
+        <styleUrl>#icon-1500-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第６投票区
+設置場所の目標: ジョイフル本田駐車場フェンス
+ポスター掲示場の設置場所: 幸手市上高野１３０８－１
+経度: 139.7155144773030
+緯度: 36.0604601489170</value>
+          </Data>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ジョイフル本田駐車場フェンス</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市上高野１３０８－１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7155144773030</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0604601489170</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.715514,36.06046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>７－１</name>
+        <description><![CDATA[説明: 投票区: 第７投票区<br>設置場所の目標: 田沼駐車場前フェンス<br>ポスター掲示場の設置場所: 幸手市幸手５２７０－１<br>経度: 139.7218682758340<br>緯度: 36.0631775232724<br>投票区: 第７投票区<br>設置場所の目標: 田沼駐車場前フェンス<br>ポスター掲示場の設置場所: 幸手市幸手５２７０－１<br>経度: 139.7218682758340<br>緯度: 36.0631775232724]]></description>
+        <styleUrl>#icon-1500-006064</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第７投票区
+設置場所の目標: 田沼駐車場前フェンス
+ポスター掲示場の設置場所: 幸手市幸手５２７０－１
+経度: 139.7218682758340
+緯度: 36.0631775232724</value>
+          </Data>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>田沼駐車場前フェンス</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市幸手５２７０－１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7218682758340</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0631775232724</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.721868,36.063178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>７－２</name>
+        <description><![CDATA[説明: 投票区: 第７投票区<br>設置場所の目標: 東武上高野小公園前<br>ポスター掲示場の設置場所: 幸手市緑台１丁目１７<br>経度: 139.7217889815620<br>緯度: 36.0646702822539<br>投票区: 第７投票区<br>設置場所の目標: 東武上高野小公園前<br>ポスター掲示場の設置場所: 幸手市緑台１丁目１７<br>経度: 139.7217889815620<br>緯度: 36.0646702822539]]></description>
+        <styleUrl>#icon-1500-006064</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第７投票区
+設置場所の目標: 東武上高野小公園前
+ポスター掲示場の設置場所: 幸手市緑台１丁目１７
+経度: 139.7217889815620
+緯度: 36.0646702822539</value>
+          </Data>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東武上高野小公園前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市緑台１丁目１７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7217889815620</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0646702822539</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.721789,36.06467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>７－３</name>
+        <description><![CDATA[説明: 投票区: 第７投票区<br>設置場所の目標: 東武中央公園前<br>ポスター掲示場の設置場所: 幸手市緑台１丁目４９<br>経度: 139.7239658645100<br>緯度: 36.0649213861917<br>投票区: 第７投票区<br>設置場所の目標: 東武中央公園前<br>ポスター掲示場の設置場所: 幸手市緑台１丁目４９<br>経度: 139.7239658645100<br>緯度: 36.0649213861917]]></description>
+        <styleUrl>#icon-1500-006064</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第７投票区
+設置場所の目標: 東武中央公園前
+ポスター掲示場の設置場所: 幸手市緑台１丁目４９
+経度: 139.7239658645100
+緯度: 36.0649213861917</value>
+          </Data>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東武中央公園前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市緑台１丁目４９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7239658645100</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0649213861917</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.723966,36.064921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>７－４</name>
+        <description><![CDATA[説明: 投票区: 第７投票区<br>設置場所の目標: スカイフーズ西側先<br>ポスター掲示場の設置場所: 幸手市東１丁目１１－１９<br>経度: 139.7206181202680<br>緯度: 36.0690602084123<br>投票区: 第７投票区<br>設置場所の目標: スカイフーズ西側先<br>ポスター掲示場の設置場所: 幸手市東１丁目１１－１９<br>経度: 139.7206181202680<br>緯度: 36.0690602084123]]></description>
+        <styleUrl>#icon-1500-006064</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第７投票区
+設置場所の目標: スカイフーズ西側先
+ポスター掲示場の設置場所: 幸手市東１丁目１１－１９
+経度: 139.7206181202680
+緯度: 36.0690602084123</value>
+          </Data>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>スカイフーズ西側先</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東１丁目１１－１９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7206181202680</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0690602084123</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.720618,36.06906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>７－５</name>
+        <description><![CDATA[説明: 投票区: 第７投票区<br>設置場所の目標: 幸手東交番北側先<br>ポスター掲示場の設置場所: 幸手市緑台１丁目２４<br>経度: 139.7248776645110<br>緯度: 36.0682877998323<br>投票区: 第７投票区<br>設置場所の目標: 幸手東交番北側先<br>ポスター掲示場の設置場所: 幸手市緑台１丁目２４<br>経度: 139.7248776645110<br>緯度: 36.0682877998323]]></description>
+        <styleUrl>#icon-1500-006064</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第７投票区
+設置場所の目標: 幸手東交番北側先
+ポスター掲示場の設置場所: 幸手市緑台１丁目２４
+経度: 139.7248776645110
+緯度: 36.0682877998323</value>
+          </Data>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>幸手東交番北側先</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市緑台１丁目２４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7248776645110</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0682877998323</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.724878,36.068288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>７－６</name>
+        <description><![CDATA[説明: 投票区: 第７投票区<br>設置場所の目標: 中央公民館脇<br>ポスター掲示場の設置場所: 幸手市緑台２丁目１－７<br>経度: 139.7260959002480<br>緯度: 36.0694400193383<br>投票区: 第７投票区<br>設置場所の目標: 中央公民館脇<br>ポスター掲示場の設置場所: 幸手市緑台２丁目１－７<br>経度: 139.7260959002480<br>緯度: 36.0694400193383]]></description>
+        <styleUrl>#icon-1500-006064</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第７投票区
+設置場所の目標: 中央公民館脇
+ポスター掲示場の設置場所: 幸手市緑台２丁目１－７
+経度: 139.7260959002480
+緯度: 36.0694400193383</value>
+          </Data>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中央公民館脇</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市緑台２丁目１－７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7260959002480</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0694400193383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.726096,36.06944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>７－７</name>
+        <description><![CDATA[説明: 投票区: 第７投票区<br>設置場所の目標: 図書館前<br>ポスター掲示場の設置場所: 幸手市緑台２丁目５－２５<br>経度: 139.7283128034310<br>緯度: 36.0682879720091<br>投票区: 第７投票区<br>設置場所の目標: 図書館前<br>ポスター掲示場の設置場所: 幸手市緑台２丁目５－２５<br>経度: 139.7283128034310<br>緯度: 36.0682879720091]]></description>
+        <styleUrl>#icon-1500-006064</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第７投票区
+設置場所の目標: 図書館前
+ポスター掲示場の設置場所: 幸手市緑台２丁目５－２５
+経度: 139.7283128034310
+緯度: 36.0682879720091</value>
+          </Data>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>図書館前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市緑台２丁目５－２５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7283128034310</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0682879720091</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.728313,36.068288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>８－１</name>
+        <description><![CDATA[説明: 投票区: 第８投票区<br>設置場所の目標: ビッグエー駐車場フェンス<br>ポスター掲示場の設置場所: 幸手市東２丁目８－１０<br>経度: 139.7245681822040<br>緯度: 36.0697132644049<br>投票区: 第８投票区<br>設置場所の目標: ビッグエー駐車場フェンス<br>ポスター掲示場の設置場所: 幸手市東２丁目８－１０<br>経度: 139.7245681822040<br>緯度: 36.0697132644049]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第８投票区
+設置場所の目標: ビッグエー駐車場フェンス
+ポスター掲示場の設置場所: 幸手市東２丁目８－１０
+経度: 139.7245681822040
+緯度: 36.0697132644049</value>
+          </Data>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ビッグエー駐車場フェンス</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東２丁目８－１０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7245681822040</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0697132644049</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.724568,36.069713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>８－２</name>
+        <description><![CDATA[説明: 投票区: 第８投票区<br>設置場所の目標: 農協低温常温倉庫前<br>ポスター掲示場の設置場所: 幸手市東２丁目２４－１５<br>経度: 139.7242459699720<br>緯度: 36.0736288186635<br>投票区: 第８投票区<br>設置場所の目標: 農協低温常温倉庫前<br>ポスター掲示場の設置場所: 幸手市東２丁目２４－１５<br>経度: 139.7242459699720<br>緯度: 36.0736288186635]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第８投票区
+設置場所の目標: 農協低温常温倉庫前
+ポスター掲示場の設置場所: 幸手市東２丁目２４－１５
+経度: 139.7242459699720
+緯度: 36.0736288186635</value>
+          </Data>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>農協低温常温倉庫前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東２丁目２４－１５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7242459699720</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0736288186635</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.724246,36.073629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>８－３</name>
+        <description><![CDATA[説明: 投票区: 第８投票区<br>設置場所の目標: 幸手耳鼻咽喉科駐車場反対側<br>ポスター掲示場の設置場所: 幸手市東２丁目３６－２４<br>経度: 139.7274808225770<br>緯度: 36.0720328743487<br>投票区: 第８投票区<br>設置場所の目標: 幸手耳鼻咽喉科駐車場反対側<br>ポスター掲示場の設置場所: 幸手市東２丁目３６－２４<br>経度: 139.7274808225770<br>緯度: 36.0720328743487]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第８投票区
+設置場所の目標: 幸手耳鼻咽喉科駐車場反対側
+ポスター掲示場の設置場所: 幸手市東２丁目３６－２４
+経度: 139.7274808225770
+緯度: 36.0720328743487</value>
+          </Data>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>幸手耳鼻咽喉科駐車場反対側</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東２丁目３６－２４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7274808225770</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0720328743487</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.727481,36.072033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>８－４</name>
+        <description><![CDATA[説明: 投票区: 第８投票区<br>設置場所の目標: 児童館前<br>ポスター掲示場の設置場所: 幸手市幸手１９５８－１<br>経度: 139.7298271302980<br>緯度: 36.0714089497221<br>投票区: 第８投票区<br>設置場所の目標: 児童館前<br>ポスター掲示場の設置場所: 幸手市幸手１９５８－１<br>経度: 139.7298271302980<br>緯度: 36.0714089497221]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第８投票区
+設置場所の目標: 児童館前
+ポスター掲示場の設置場所: 幸手市幸手１９５８－１
+経度: 139.7298271302980
+緯度: 36.0714089497221</value>
+          </Data>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>児童館前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市幸手１９５８－１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7298271302980</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0714089497221</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.729827,36.071409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>８－５</name>
+        <description><![CDATA[説明: 投票区: 第８投票区<br>設置場所の目標: 日本保健医療大学北キャンパス前<br>ポスター掲示場の設置場所: 幸手市幸手１９６１－２<br>経度: 139.7306388588480<br>緯度: 36.0727398350824<br>投票区: 第８投票区<br>設置場所の目標: 日本保健医療大学北キャンパス前<br>ポスター掲示場の設置場所: 幸手市幸手１９６１－２<br>経度: 139.7306388588480<br>緯度: 36.0727398350824]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第８投票区
+設置場所の目標: 日本保健医療大学北キャンパス前
+ポスター掲示場の設置場所: 幸手市幸手１９６１－２
+経度: 139.7306388588480
+緯度: 36.0727398350824</value>
+          </Data>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>日本保健医療大学北キャンパス前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市幸手１９６１－２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7306388588480</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0727398350824</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.730639,36.07274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>８－６</name>
+        <description><![CDATA[説明: 投票区: 第８投票区<br>設置場所の目標: 幸手商工会前<br>ポスター掲示場の設置場所: 幸手市東３丁目８－３<br>経度: 139.7239860783580<br>緯度: 36.0751324400066<br>投票区: 第８投票区<br>設置場所の目標: 幸手商工会前<br>ポスター掲示場の設置場所: 幸手市東３丁目８－３<br>経度: 139.7239860783580<br>緯度: 36.0751324400066]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第８投票区
+設置場所の目標: 幸手商工会前
+ポスター掲示場の設置場所: 幸手市東３丁目８－３
+経度: 139.7239860783580
+緯度: 36.0751324400066</value>
+          </Data>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>幸手商工会前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東３丁目８－３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7239860783580</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0751324400066</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.723986,36.075132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>８－７</name>
+        <description><![CDATA[説明: 投票区: 第８投票区<br>設置場所の目標: グループホームフローラ幸手南側先<br>ポスター掲示場の設置場所: 幸手市東３丁目１６－６<br>経度: 139.7267527031720<br>緯度: 36.0759992423758<br>投票区: 第８投票区<br>設置場所の目標: グループホームフローラ幸手南側先<br>ポスター掲示場の設置場所: 幸手市東３丁目１６－６<br>経度: 139.7267527031720<br>緯度: 36.0759992423758]]></description>
+        <styleUrl>#icon-1500-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第８投票区
+設置場所の目標: グループホームフローラ幸手南側先
+ポスター掲示場の設置場所: 幸手市東３丁目１６－６
+経度: 139.7267527031720
+緯度: 36.0759992423758</value>
+          </Data>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>グループホームフローラ幸手南側先</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東３丁目１６－６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7267527031720</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0759992423758</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.726753,36.075999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>９－１</name>
+        <description><![CDATA[説明: 投票区: 第９投票区<br>設置場所の目標: 東第２公園前<br>ポスター掲示場の設置場所: 幸手市東４丁目２５<br>経度: 139.7290873408040<br>緯度: 36.0757255371446<br>投票区: 第９投票区<br>設置場所の目標: 東第２公園前<br>ポスター掲示場の設置場所: 幸手市東４丁目２５<br>経度: 139.7290873408040<br>緯度: 36.0757255371446]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第９投票区
+設置場所の目標: 東第２公園前
+ポスター掲示場の設置場所: 幸手市東４丁目２５
+経度: 139.7290873408040
+緯度: 36.0757255371446</value>
+          </Data>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東第２公園前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東４丁目２５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7290873408040</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0757255371446</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.729087,36.075726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>９－２</name>
+        <description><![CDATA[説明: 投票区: 第９投票区<br>設置場所の目標: 市役所南側<br>ポスター掲示場の設置場所: 幸手市東４丁目６－８<br>経度: 139.7256453791910<br>緯度: 36.0776122442741<br>投票区: 第９投票区<br>設置場所の目標: 市役所南側<br>ポスター掲示場の設置場所: 幸手市東４丁目６－８<br>経度: 139.7256453791910<br>緯度: 36.0776122442741]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第９投票区
+設置場所の目標: 市役所南側
+ポスター掲示場の設置場所: 幸手市東４丁目６－８
+経度: 139.7256453791910
+緯度: 36.0776122442741</value>
+          </Data>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市役所南側</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東４丁目６－８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7256453791910</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0776122442741</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.725645,36.077612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>９－３</name>
+        <description><![CDATA[説明: 投票区: 第９投票区<br>設置場所の目標: 市役所前<br>ポスター掲示場の設置場所: 幸手市東４丁目６－８<br>経度: 139.7251872063400<br>緯度: 36.0781259026814<br>投票区: 第９投票区<br>設置場所の目標: 市役所前<br>ポスター掲示場の設置場所: 幸手市東４丁目６－８<br>経度: 139.7251872063400<br>緯度: 36.0781259026814]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第９投票区
+設置場所の目標: 市役所前
+ポスター掲示場の設置場所: 幸手市東４丁目６－８
+経度: 139.7251872063400
+緯度: 36.0781259026814</value>
+          </Data>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市役所前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東４丁目６－８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7251872063400</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0781259026814</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.725187,36.078126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>９－４</name>
+        <description><![CDATA[説明: 投票区: 第９投票区<br>設置場所の目標: 東４丁目交差点しだれ桜前<br>ポスター掲示場の設置場所: 幸手市東４丁目２８－１３<br>経度: 139.7299955660840<br>緯度: 36.0781795157867<br>投票区: 第９投票区<br>設置場所の目標: 東４丁目交差点しだれ桜前<br>ポスター掲示場の設置場所: 幸手市東４丁目２８－１３<br>経度: 139.7299955660840<br>緯度: 36.0781795157867]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第９投票区
+設置場所の目標: 東４丁目交差点しだれ桜前
+ポスター掲示場の設置場所: 幸手市東４丁目２８－１３
+経度: 139.7299955660840
+緯度: 36.0781795157867</value>
+          </Data>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東４丁目交差点しだれ桜前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東４丁目２８－１３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7299955660840</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0781795157867</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.729996,36.07818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>９－５</name>
+        <description><![CDATA[説明: 投票区: 第９投票区<br>設置場所の目標: 東５丁目２区公園前<br>ポスター掲示場の設置場所: 幸手市東５丁目２０<br>経度: 139.7303918795240<br>緯度: 36.0793703898235<br>投票区: 第９投票区<br>設置場所の目標: 東５丁目２区公園前<br>ポスター掲示場の設置場所: 幸手市東５丁目２０<br>経度: 139.7303918795240<br>緯度: 36.0793703898235]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第９投票区
+設置場所の目標: 東５丁目２区公園前
+ポスター掲示場の設置場所: 幸手市東５丁目２０
+経度: 139.7303918795240
+緯度: 36.0793703898235</value>
+          </Data>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東５丁目２区公園前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東５丁目２０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7303918795240</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0793703898235</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.730392,36.07937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>９－６</name>
+        <description><![CDATA[説明: 投票区: 第９投票区<br>設置場所の目標: 東５丁目遊水池前<br>ポスター掲示場の設置場所: 幸手市東５丁目１２<br>経度: 139.7282023631860<br>緯度: 36.0799615781415<br>投票区: 第９投票区<br>設置場所の目標: 東５丁目遊水池前<br>ポスター掲示場の設置場所: 幸手市東５丁目１２<br>経度: 139.7282023631860<br>緯度: 36.0799615781415]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第９投票区
+設置場所の目標: 東５丁目遊水池前
+ポスター掲示場の設置場所: 幸手市東５丁目１２
+経度: 139.7282023631860
+緯度: 36.0799615781415</value>
+          </Data>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東５丁目遊水池前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東５丁目１２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7282023631860</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0799615781415</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.728202,36.079962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>９－７</name>
+        <description><![CDATA[説明: 投票区: 第９投票区<br>設置場所の目標: 東５－２町内会館南側先<br>ポスター掲示場の設置場所: 幸手市東５丁目３－２７<br>経度: 139.7257800927120<br>緯度: 36.0808668783787<br>投票区: 第９投票区<br>設置場所の目標: 東５－２町内会館南側先<br>ポスター掲示場の設置場所: 幸手市東５丁目３－２７<br>経度: 139.7257800927120<br>緯度: 36.0808668783787]]></description>
+        <styleUrl>#icon-1500-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第９投票区
+設置場所の目標: 東５－２町内会館南側先
+ポスター掲示場の設置場所: 幸手市東５丁目３－２７
+経度: 139.7257800927120
+緯度: 36.0808668783787</value>
+          </Data>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東５－２町内会館南側先</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市東５丁目３－２７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7257800927120</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0808668783787</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.72578,36.080867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10－１</name>
+        <description><![CDATA[説明: 投票区: 第１０投票区<br>設置場所の目標: メゾンドスリジエ東側<br>ポスター掲示場の設置場所: 幸手市権現堂３０５１－２<br>経度: 139.7257056263490<br>緯度: 36.0851441791778<br>投票区: 第１０投票区<br>設置場所の目標: メゾンドスリジエ東側<br>ポスター掲示場の設置場所: 幸手市権現堂３０５１－２<br>経度: 139.7257056263490<br>緯度: 36.0851441791778]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１０投票区
+設置場所の目標: メゾンドスリジエ東側
+ポスター掲示場の設置場所: 幸手市権現堂３０５１－２
+経度: 139.7257056263490
+緯度: 36.0851441791778</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>メゾンドスリジエ東側</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市権現堂３０５１－２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7257056263490</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0851441791778</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.725706,36.085144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10－２</name>
+        <description><![CDATA[説明: 投票区: 第１０投票区<br>設置場所の目標: 北３丁目集会所前<br>ポスター掲示場の設置場所: 幸手市北３丁目９－５<br>経度: 139.7261124433160<br>緯度: 36.0867352317209<br>投票区: 第１０投票区<br>設置場所の目標: 北３丁目集会所前<br>ポスター掲示場の設置場所: 幸手市北３丁目９－５<br>経度: 139.7261124433160<br>緯度: 36.0867352317209]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１０投票区
+設置場所の目標: 北３丁目集会所前
+ポスター掲示場の設置場所: 幸手市北３丁目９－５
+経度: 139.7261124433160
+緯度: 36.0867352317209</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北３丁目集会所前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市北３丁目９－５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7261124433160</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0867352317209</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.726112,36.086735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10－３</name>
+        <description><![CDATA[説明: 投票区: 第１０投票区<br>設置場所の目標: 権現堂河岸前ガードレール<br>ポスター掲示場の設置場所: 幸手市北３丁目６<br>経度: 139.7301438836050<br>緯度: 36.0859696635405<br>投票区: 第１０投票区<br>設置場所の目標: 権現堂河岸前ガードレール<br>ポスター掲示場の設置場所: 幸手市北３丁目６<br>経度: 139.7301438836050<br>緯度: 36.0859696635405]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１０投票区
+設置場所の目標: 権現堂河岸前ガードレール
+ポスター掲示場の設置場所: 幸手市北３丁目６
+経度: 139.7301438836050
+緯度: 36.0859696635405</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>権現堂河岸前ガードレール</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市北３丁目６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7301438836050</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0859696635405</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.730144,36.08597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10－４</name>
+        <description><![CDATA[説明: 投票区: 第１０投票区<br>設置場所の目標: 中田商会西側先<br>ポスター掲示場の設置場所: 幸手市権現堂１１７<br>経度: 139.7321963285050<br>緯度: 36.0821420733114<br>投票区: 第１０投票区<br>設置場所の目標: 中田商会西側先<br>ポスター掲示場の設置場所: 幸手市権現堂１１７<br>経度: 139.7321963285050<br>緯度: 36.0821420733114]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１０投票区
+設置場所の目標: 中田商会西側先
+ポスター掲示場の設置場所: 幸手市権現堂１１７
+経度: 139.7321963285050
+緯度: 36.0821420733114</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中田商会西側先</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市権現堂１１７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7321963285050</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0821420733114</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.732196,36.082142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10－５</name>
+        <description><![CDATA[説明: 投票区: 第１０投票区<br>設置場所の目標: 権現堂集落農業センター前ガードレール<br>ポスター掲示場の設置場所: 幸手市権現堂１８０<br>経度: 139.7338976277930<br>緯度: 36.0830876036431<br>投票区: 第１０投票区<br>設置場所の目標: 権現堂集落農業センター前ガードレール<br>ポスター掲示場の設置場所: 幸手市権現堂１８０<br>経度: 139.7338976277930<br>緯度: 36.0830876036431]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１０投票区
+設置場所の目標: 権現堂集落農業センター前ガードレール
+ポスター掲示場の設置場所: 幸手市権現堂１８０
+経度: 139.7338976277930
+緯度: 36.0830876036431</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>権現堂集落農業センター前ガードレール</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市権現堂１８０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7338976277930</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0830876036431</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7342521,36.0828322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10－６</name>
+        <description><![CDATA[説明: 投票区: 第１０投票区<br>設置場所の目標: 北公民館前<br>ポスター掲示場の設置場所: 幸手市内国府間８６７<br>経度: 139.7226828614090<br>緯度: 36.0909996488814<br>投票区: 第１０投票区<br>設置場所の目標: 北公民館前<br>ポスター掲示場の設置場所: 幸手市内国府間８６７<br>経度: 139.7226828614090<br>緯度: 36.0909996488814]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１０投票区
+設置場所の目標: 北公民館前
+ポスター掲示場の設置場所: 幸手市内国府間８６７
+経度: 139.7226828614090
+緯度: 36.0909996488814</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北公民館前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市内国府間８６７</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7226828614090</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0909996488814</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.722683,36.091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10－７</name>
+        <description><![CDATA[説明: 投票区: 第１０投票区<br>設置場所の目標: 関東梯子（株）<br>ポスター掲示場の設置場所: 幸手市内国府間６４１<br>経度: 139.7209897063270<br>緯度: 36.0885618484552<br>投票区: 第１０投票区<br>設置場所の目標: 関東梯子（株）<br>ポスター掲示場の設置場所: 幸手市内国府間６４１<br>経度: 139.7209897063270<br>緯度: 36.0885618484552]]></description>
+        <styleUrl>#icon-1500-097138</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１０投票区
+設置場所の目標: 関東梯子（株）
+ポスター掲示場の設置場所: 幸手市内国府間６４１
+経度: 139.7209897063270
+緯度: 36.0885618484552</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>関東梯子（株）</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市内国府間６４１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7209897063270</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0885618484552</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.72099,36.088562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11－１</name>
+        <description><![CDATA[説明: 投票区: 第１１投票区<br>設置場所の目標: 権現堂第一揚水機場北先<br>ポスター掲示場の設置場所: 幸手市上吉羽１０５４－１<br>経度: 139.7390770804670<br>緯度: 36.0797698649512<br>投票区: 第１１投票区<br>設置場所の目標: 権現堂第一揚水機場北先<br>ポスター掲示場の設置場所: 幸手市上吉羽１０５４－１<br>経度: 139.7390770804670<br>緯度: 36.0797698649512]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１１投票区
+設置場所の目標: 権現堂第一揚水機場北先
+ポスター掲示場の設置場所: 幸手市上吉羽１０５４－１
+経度: 139.7390770804670
+緯度: 36.0797698649512</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>権現堂第一揚水機場北先</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市上吉羽１０５４－１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7390770804670</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0797698649512</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.739077,36.07977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11－２</name>
+        <description><![CDATA[説明: 投票区: 第１１投票区<br>設置場所の目標: 岡田自動車販売前<br>ポスター掲示場の設置場所: 幸手市上吉羽７１５<br>経度: 139.7363379951060<br>緯度: 36.0770683503537<br>投票区: 第１１投票区<br>設置場所の目標: 岡田自動車販売前<br>ポスター掲示場の設置場所: 幸手市上吉羽７１５<br>経度: 139.7363379951060<br>緯度: 36.0770683503537]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１１投票区
+設置場所の目標: 岡田自動車販売前
+ポスター掲示場の設置場所: 幸手市上吉羽７１５
+経度: 139.7363379951060
+緯度: 36.0770683503537</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>岡田自動車販売前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市上吉羽７１５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7363379951060</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0770683503537</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.736338,36.077068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11－３</name>
+        <description><![CDATA[説明: 投票区: 第１１投票区<br>設置場所の目標: 権現堂川小学校前<br>ポスター掲示場の設置場所: 幸手市神明内５７０<br>経度: 139.7420632247610<br>緯度: 36.0749024276659<br>投票区: 第１１投票区<br>設置場所の目標: 権現堂川小学校前<br>ポスター掲示場の設置場所: 幸手市神明内５７０<br>経度: 139.7420632247610<br>緯度: 36.0749024276659]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１１投票区
+設置場所の目標: 権現堂川小学校前
+ポスター掲示場の設置場所: 幸手市神明内５７０
+経度: 139.7420632247610
+緯度: 36.0749024276659</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>権現堂川小学校前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市神明内５７０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7420632247610</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0749024276659</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.742063,36.074902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11－４</name>
+        <description><![CDATA[説明: 投票区: 第１１投票区<br>設置場所の目標: 神明内集会所前<br>ポスター掲示場の設置場所: 幸手市神明内１４６６<br>経度: 139.7447181437600<br>緯度: 36.0718677986972<br>投票区: 第１１投票区<br>設置場所の目標: 神明内集会所前<br>ポスター掲示場の設置場所: 幸手市神明内１４６６<br>経度: 139.7447181437600<br>緯度: 36.0718677986972]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１１投票区
+設置場所の目標: 神明内集会所前
+ポスター掲示場の設置場所: 幸手市神明内１４６６
+経度: 139.7447181437600
+緯度: 36.0718677986972</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>神明内集会所前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市神明内１４６６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7447181437600</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0718677986972</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.744718,36.071868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11－５</name>
+        <description><![CDATA[説明: 投票区: 第１１投票区<br>設置場所の目標: 老人福祉センター前<br>ポスター掲示場の設置場所: 幸手市木立１５１３<br>経度: 139.7505818481990<br>緯度: 36.0740256993072<br>投票区: 第１１投票区<br>設置場所の目標: 老人福祉センター前<br>ポスター掲示場の設置場所: 幸手市木立１５１３<br>経度: 139.7505818481990<br>緯度: 36.0740256993072]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１１投票区
+設置場所の目標: 老人福祉センター前
+ポスター掲示場の設置場所: 幸手市木立１５１３
+経度: 139.7505818481990
+緯度: 36.0740256993072</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>老人福祉センター前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市木立１５１３</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7505818481990</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0740256993072</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.750582,36.074026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11－６</name>
+        <description><![CDATA[説明: 投票区: 第１１投票区<br>設置場所の目標: 市営サッカー場前<br>ポスター掲示場の設置場所: 幸手市神明内１８４<br>経度: 139.7455541197080<br>緯度: 36.0763093625334<br>投票区: 第１１投票区<br>設置場所の目標: 市営サッカー場前<br>ポスター掲示場の設置場所: 幸手市神明内１８４<br>経度: 139.7455541197080<br>緯度: 36.0763093625334]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１１投票区
+設置場所の目標: 市営サッカー場前
+ポスター掲示場の設置場所: 幸手市神明内１８４
+経度: 139.7455541197080
+緯度: 36.0763093625334</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市営サッカー場前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市神明内１８４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7455541197080</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0763093625334</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.745554,36.076309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11－７</name>
+        <description><![CDATA[説明: 投票区: 第１１投票区<br>設置場所の目標: ひばりヶ丘桜泉園前<br>ポスター掲示場の設置場所: 幸手市木立１７７９－５<br>経度: 139.7481009491670<br>緯度: 36.0845162544535<br>投票区: 第１１投票区<br>設置場所の目標: ひばりヶ丘桜泉園前<br>ポスター掲示場の設置場所: 幸手市木立１７７９－５<br>経度: 139.7481009491670<br>緯度: 36.0845162544535]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１１投票区
+設置場所の目標: ひばりヶ丘桜泉園前
+ポスター掲示場の設置場所: 幸手市木立１７７９－５
+経度: 139.7481009491670
+緯度: 36.0845162544535</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ひばりヶ丘桜泉園前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市木立１７７９－５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7481009491670</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0845162544535</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.748101,36.084516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11－８</name>
+        <description><![CDATA[説明: 投票区: 第１１投票区<br>設置場所の目標: ㈱東久前フェンス<br>ポスター掲示場の設置場所: 幸手市木立３２８<br>経度: 139.7518911295780<br>緯度: 36.0785269937955<br>投票区: 第１１投票区<br>設置場所の目標: ㈱東久前フェンス<br>ポスター掲示場の設置場所: 幸手市木立３２８<br>経度: 139.7518911295780<br>緯度: 36.0785269937955]]></description>
+        <styleUrl>#icon-1500-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１１投票区
+設置場所の目標: ㈱東久前フェンス
+ポスター掲示場の設置場所: 幸手市木立３２８
+経度: 139.7518911295780
+緯度: 36.0785269937955</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>㈱東久前フェンス</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市木立３２８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7518911295780</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0785269937955</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.751891,36.078527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12－１</name>
+        <description><![CDATA[説明: 投票区: 第１２投票区<br>設置場所の目標: 上宇和田バス停前<br>ポスター掲示場の設置場所: 幸手市上宇和田３８２－１<br>経度: 139.7649438693200<br>緯度: 36.0742196691412<br>投票区: 第１２投票区<br>設置場所の目標: 上宇和田バス停前<br>ポスター掲示場の設置場所: 幸手市上宇和田３８２－１<br>経度: 139.7649438693200<br>緯度: 36.0742196691412]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１２投票区
+設置場所の目標: 上宇和田バス停前
+ポスター掲示場の設置場所: 幸手市上宇和田３８２－１
+経度: 139.7649438693200
+緯度: 36.0742196691412</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上宇和田バス停前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市上宇和田３８２－１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7649438693200</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0742196691412</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.764944,36.07422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12－２</name>
+        <description><![CDATA[説明: 投票区: 第１２投票区<br>設置場所の目標: 中島集会所前<br>ポスター掲示場の設置場所: 幸手市中島１５４－２<br>経度: 139.7766951466680<br>緯度: 36.0786696787385<br>投票区: 第１２投票区<br>設置場所の目標: 中島集会所前<br>ポスター掲示場の設置場所: 幸手市中島１５４－２<br>経度: 139.7766951466680<br>緯度: 36.0786696787385]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１２投票区
+設置場所の目標: 中島集会所前
+ポスター掲示場の設置場所: 幸手市中島１５４－２
+経度: 139.7766951466680
+緯度: 36.0786696787385</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中島集会所前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中島１５４－２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7766951466680</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0786696787385</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.776695,36.07867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12－３</name>
+        <description><![CDATA[説明: 投票区: 第１２投票区<br>設置場所の目標: 香取神社参道<br>ポスター掲示場の設置場所: 幸手市下吉羽２０１－５<br>経度: 139.7659337704520<br>緯度: 36.0701694318105<br>投票区: 第１２投票区<br>設置場所の目標: 香取神社参道<br>ポスター掲示場の設置場所: 幸手市下吉羽２０１－５<br>経度: 139.7659337704520<br>緯度: 36.0701694318105]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１２投票区
+設置場所の目標: 香取神社参道
+ポスター掲示場の設置場所: 幸手市下吉羽２０１－５
+経度: 139.7659337704520
+緯度: 36.0701694318105</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>香取神社参道</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市下吉羽２０１－５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7659337704520</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0701694318105</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.764373,36.0704335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12－４</name>
+        <description><![CDATA[説明: 投票区: 第１２投票区<br>設置場所の目標: 吉羽バス停北側先<br>ポスター掲示場の設置場所: 幸手市下吉羽３９９<br>経度: 139.7642416499820<br>緯度: 36.0651736445068<br>投票区: 第１２投票区<br>設置場所の目標: 吉羽バス停北側先<br>ポスター掲示場の設置場所: 幸手市下吉羽３９９<br>経度: 139.7642416499820<br>緯度: 36.0651736445068]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１２投票区
+設置場所の目標: 吉羽バス停北側先
+ポスター掲示場の設置場所: 幸手市下吉羽３９９
+経度: 139.7642416499820
+緯度: 36.0651736445068</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>吉羽バス停北側先</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市下吉羽３９９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7642416499820</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0651736445068</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.764242,36.065174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12－５</name>
+        <description><![CDATA[説明: 投票区: 第１２投票区<br>設置場所の目標: 中島土地改良区事務所前<br>ポスター掲示場の設置場所: 幸手市惣新田２６００<br>経度: 139.7646823471130<br>緯度: 36.0620678612333<br>投票区: 第１２投票区<br>設置場所の目標: 中島土地改良区事務所前<br>ポスター掲示場の設置場所: 幸手市惣新田２６００<br>経度: 139.7646823471130<br>緯度: 36.0620678612333]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１２投票区
+設置場所の目標: 中島土地改良区事務所前
+ポスター掲示場の設置場所: 幸手市惣新田２６００
+経度: 139.7646823471130
+緯度: 36.0620678612333</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中島土地改良区事務所前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市惣新田２６００</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7646823471130</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0620678612333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.764682,36.062068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12－６</name>
+        <description><![CDATA[説明: 投票区: 第１２投票区<br>設置場所の目標: 東公民館東側入口<br>ポスター掲示場の設置場所: 幸手市下宇和田１２２８<br>経度: 139.7680048119710<br>緯度: 36.0665506456251<br>投票区: 第１２投票区<br>設置場所の目標: 東公民館東側入口<br>ポスター掲示場の設置場所: 幸手市下宇和田１２２８<br>経度: 139.7680048119710<br>緯度: 36.0665506456251]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１２投票区
+設置場所の目標: 東公民館東側入口
+ポスター掲示場の設置場所: 幸手市下宇和田１２２８
+経度: 139.7680048119710
+緯度: 36.0665506456251</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東公民館東側入口</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市下宇和田１２２８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7680048119710</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0665506456251</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.768005,36.066551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12－７</name>
+        <description><![CDATA[説明: 投票区: 第１２投票区<br>設置場所の目標: 喜光工業資材置場前フェンス<br>ポスター掲示場の設置場所: 幸手市惣新田２１７６<br>経度: 139.7795435033880<br>緯度: 36.0606634606179<br>投票区: 第１２投票区<br>設置場所の目標: 喜光工業資材置場前フェンス<br>ポスター掲示場の設置場所: 幸手市惣新田２１７６<br>経度: 139.7795435033880<br>緯度: 36.0606634606179]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１２投票区
+設置場所の目標: 喜光工業資材置場前フェンス
+ポスター掲示場の設置場所: 幸手市惣新田２１７６
+経度: 139.7795435033880
+緯度: 36.0606634606179</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>喜光工業資材置場前フェンス</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市惣新田２１７６</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7795435033880</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0606634606179</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.779544,36.060663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12－８</name>
+        <description><![CDATA[説明: 投票区: 第１２投票区<br>設置場所の目標: 旧吉田幼稚園前<br>ポスター掲示場の設置場所: 幸手市惣新田１２１２<br>経度: 139.7738539954610<br>緯度: 36.0552295083026<br>投票区: 第１２投票区<br>設置場所の目標: 旧吉田幼稚園前<br>ポスター掲示場の設置場所: 幸手市惣新田１２１２<br>経度: 139.7738539954610<br>緯度: 36.0552295083026]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１２投票区
+設置場所の目標: 旧吉田幼稚園前
+ポスター掲示場の設置場所: 幸手市惣新田１２１２
+経度: 139.7738539954610
+緯度: 36.0552295083026</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>旧吉田幼稚園前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市惣新田１２１２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7738539954610</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0552295083026</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.773854,36.05523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12－９</name>
+        <description><![CDATA[説明: 投票区: 第１２投票区<br>設置場所の目標: 国道４号バイパス芝原交差点西側先<br>ポスター掲示場の設置場所: 幸手市惣新田１９６５<br>経度: 139.7713813684680<br>緯度: 36.0533966057354<br>投票区: 第１２投票区<br>設置場所の目標: 国道４号バイパス芝原交差点西側先<br>ポスター掲示場の設置場所: 幸手市惣新田１９６５<br>経度: 139.7713813684680<br>緯度: 36.0533966057354]]></description>
+        <styleUrl>#icon-1500-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１２投票区
+設置場所の目標: 国道４号バイパス芝原交差点西側先
+ポスター掲示場の設置場所: 幸手市惣新田１９６５
+経度: 139.7713813684680
+緯度: 36.0533966057354</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>国道４号バイパス芝原交差点西側先</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市惣新田１９６５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7713813684680</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0533966057354</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.771381,36.053397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13－１</name>
+        <description><![CDATA[説明: 投票区: 第１３投票区<br>設置場所の目標: 県道惣新田幸手線埼葛広域農道交差点脇<br>ポスター掲示場の設置場所: 幸手市中野５６９－２<br>経度: 139.7579785122270<br>緯度: 36.0585042544089<br>投票区: 第１３投票区<br>設置場所の目標: 県道惣新田幸手線埼葛広域農道交差点脇<br>ポスター掲示場の設置場所: 幸手市中野５６９－２<br>経度: 139.7579785122270<br>緯度: 36.0585042544089]]></description>
+        <styleUrl>#icon-1500-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１３投票区
+設置場所の目標: 県道惣新田幸手線埼葛広域農道交差点脇
+ポスター掲示場の設置場所: 幸手市中野５６９－２
+経度: 139.7579785122270
+緯度: 36.0585042544089</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>県道惣新田幸手線埼葛広域農道交差点脇</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市中野５６９－２</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7579785122270</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0585042544089</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.757979,36.058504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13－２</name>
+        <description><![CDATA[説明: 投票区: 第１３投票区<br>設置場所の目標: 第二浄水場前（水道部）<br>ポスター掲示場の設置場所: 幸手市平野２９４<br>経度: 139.7533759453430<br>緯度: 36.0654673304758<br>投票区: 第１３投票区<br>設置場所の目標: 第二浄水場前（水道部）<br>ポスター掲示場の設置場所: 幸手市平野２９４<br>経度: 139.7533759453430<br>緯度: 36.0654673304758]]></description>
+        <styleUrl>#icon-1500-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１３投票区
+設置場所の目標: 第二浄水場前（水道部）
+ポスター掲示場の設置場所: 幸手市平野２９４
+経度: 139.7533759453430
+緯度: 36.0654673304758</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>第二浄水場前（水道部）</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市平野２９４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7533759453430</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0654673304758</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.753376,36.065467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13－３</name>
+        <description><![CDATA[説明: 投票区: 第１３投票区<br>設置場所の目標: 市民文化体育館前<br>ポスター掲示場の設置場所: 幸手市平須賀２４１４<br>経度: 139.7371596804010<br>緯度: 36.0678596948375<br>投票区: 第１３投票区<br>設置場所の目標: 市民文化体育館前<br>ポスター掲示場の設置場所: 幸手市平須賀２４１４<br>経度: 139.7371596804010<br>緯度: 36.0678596948375]]></description>
+        <styleUrl>#icon-1500-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１３投票区
+設置場所の目標: 市民文化体育館前
+ポスター掲示場の設置場所: 幸手市平須賀２４１４
+経度: 139.7371596804010
+緯度: 36.0678596948375</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市民文化体育館前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市平須賀２４１４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7371596804010</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0678596948375</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.73716,36.06786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13－４</name>
+        <description><![CDATA[説明: 投票区: 第１３投票区<br>設置場所の目標: 神扇天神八幡神社<br>ポスター掲示場の設置場所: 幸手市神扇１５８１<br>経度: 139.7483097983220<br>緯度: 36.0602064166832<br>投票区: 第１３投票区<br>設置場所の目標: 神扇天神八幡神社<br>ポスター掲示場の設置場所: 幸手市神扇１５８１<br>経度: 139.7483097983220<br>緯度: 36.0602064166832]]></description>
+        <styleUrl>#icon-1500-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１３投票区
+設置場所の目標: 神扇天神八幡神社
+ポスター掲示場の設置場所: 幸手市神扇１５８１
+経度: 139.7483097983220
+緯度: 36.0602064166832</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>神扇天神八幡神社</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市神扇１５８１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7483097983220</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0602064166832</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.74831,36.060206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13－５</name>
+        <description><![CDATA[説明: 投票区: 第１３投票区<br>設置場所の目標: 八代小学校前<br>ポスター掲示場の設置場所: 幸手市平須賀３９４<br>経度: 139.7431801382800<br>緯度: 36.0544721431217<br>投票区: 第１３投票区<br>設置場所の目標: 八代小学校前<br>ポスター掲示場の設置場所: 幸手市平須賀３９４<br>経度: 139.7431801382800<br>緯度: 36.0544721431217]]></description>
+        <styleUrl>#icon-1500-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１３投票区
+設置場所の目標: 八代小学校前
+ポスター掲示場の設置場所: 幸手市平須賀３９４
+経度: 139.7431801382800
+緯度: 36.0544721431217</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>八代小学校前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市平須賀３９４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7431801382800</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0544721431217</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.74318,36.054472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13－６</name>
+        <description><![CDATA[説明: 投票区: 第１３投票区<br>設置場所の目標: 旧消防団機具庫<br>ポスター掲示場の設置場所: 幸手市戸島３２１<br>経度: 139.7415469963660<br>緯度: 36.0517216176410<br>投票区: 第１３投票区<br>設置場所の目標: 旧消防団機具庫<br>ポスター掲示場の設置場所: 幸手市戸島３２１<br>経度: 139.7415469963660<br>緯度: 36.0517216176410]]></description>
+        <styleUrl>#icon-1500-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１３投票区
+設置場所の目標: 旧消防団機具庫
+ポスター掲示場の設置場所: 幸手市戸島３２１
+経度: 139.7415469963660
+緯度: 36.0517216176410</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>旧消防団機具庫</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市戸島３２１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7415469963660</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0517216176410</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.741547,36.051722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13－７</name>
+        <description><![CDATA[説明: 投票区: 第１３投票区<br>設置場所の目標: 日本保健医療大学南キャンパス前<br>ポスター掲示場の設置場所: 幸手市平須賀２丁目４８９<br>経度: 139.7293341236000<br>緯度: 36.0588376895040<br>投票区: 第１３投票区<br>設置場所の目標: 日本保健医療大学南キャンパス前<br>ポスター掲示場の設置場所: 幸手市平須賀２丁目４８９<br>経度: 139.7293341236000<br>緯度: 36.0588376895040]]></description>
+        <styleUrl>#icon-1500-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１３投票区
+設置場所の目標: 日本保健医療大学南キャンパス前
+ポスター掲示場の設置場所: 幸手市平須賀２丁目４８９
+経度: 139.7293341236000
+緯度: 36.0588376895040</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>日本保健医療大学南キャンパス前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市平須賀２丁目４８９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7293341236000</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0588376895040</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.729334,36.058838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13－８</name>
+        <description><![CDATA[説明: 投票区: 第１３投票区<br>設置場所の目標: トット保育園<br>ポスター掲示場の設置場所: 幸手市天神島２５４<br>経度: 139.7277580145140<br>緯度: 36.0650982293200<br>投票区: 第１３投票区<br>設置場所の目標: トット保育園<br>ポスター掲示場の設置場所: 幸手市天神島２５４<br>経度: 139.7277580145140<br>緯度: 36.0650982293200]]></description>
+        <styleUrl>#icon-1500-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１３投票区
+設置場所の目標: トット保育園
+ポスター掲示場の設置場所: 幸手市天神島２５４
+経度: 139.7277580145140
+緯度: 36.0650982293200</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>トット保育園</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市天神島２５４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7277580145140</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0650982293200</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.727758,36.065098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13－９</name>
+        <description><![CDATA[説明: 投票区: 第１３投票区<br>設置場所の目標: 水路橋上<br>ポスター掲示場の設置場所: 幸手市戸島見立２９４５－１<br>経度: 139.7279367892800<br>緯度: 36.0453898286993<br>投票区: 第１３投票区<br>設置場所の目標: 水路橋上<br>ポスター掲示場の設置場所: 幸手市戸島見立２９４５－１<br>経度: 139.7279367892800<br>緯度: 36.0453898286993]]></description>
+        <styleUrl>#icon-1500-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１３投票区
+設置場所の目標: 水路橋上
+ポスター掲示場の設置場所: 幸手市戸島見立２９４５－１
+経度: 139.7279367892800
+緯度: 36.0453898286993</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>水路橋上</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市戸島見立２９４５－１</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7279367892800</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0453898286993</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.727937,36.04539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14－１</name>
+        <description><![CDATA[説明: 投票区: 第１４投票区<br>設置場所の目標: さかえ小学校裏<br>ポスター掲示場の設置場所: 幸手市栄２番９０<br>経度: 139.7218331779920<br>緯度: 36.0604023170953<br>投票区: 第１４投票区<br>設置場所の目標: さかえ小学校裏<br>ポスター掲示場の設置場所: 幸手市栄２番９０<br>経度: 139.7218331779920<br>緯度: 36.0604023170953]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１４投票区
+設置場所の目標: さかえ小学校裏
+ポスター掲示場の設置場所: 幸手市栄２番９０
+経度: 139.7218331779920
+緯度: 36.0604023170953</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>さかえ小学校裏</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市栄２番９０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7218331779920</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0604023170953</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.721833,36.060402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14－２</name>
+        <description><![CDATA[説明: 投票区: 第１４投票区<br>設置場所の目標: 栄１－８号棟前<br>ポスター掲示場の設置場所: 幸手市栄１番８<br>経度: 139.7197896729100<br>緯度: 36.0588346140574<br>投票区: 第１４投票区<br>設置場所の目標: 栄１－８号棟前<br>ポスター掲示場の設置場所: 幸手市栄１番８<br>経度: 139.7197896729100<br>緯度: 36.0588346140574]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１４投票区
+設置場所の目標: 栄１－８号棟前
+ポスター掲示場の設置場所: 幸手市栄１番８
+経度: 139.7197896729100
+緯度: 36.0588346140574</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>栄１－８号棟前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市栄１番８</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7197896729100</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0588346140574</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.71979,36.058835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14－３</name>
+        <description><![CDATA[説明: 投票区: 第１４投票区<br>設置場所の目標: 栄２－１０号棟前（公園脇）<br>ポスター掲示場の設置場所: 幸手市栄２番１０<br>経度: 139.7205178865820<br>緯度: 36.0585088920746<br>投票区: 第１４投票区<br>設置場所の目標: 栄２－１０号棟前（公園脇）<br>ポスター掲示場の設置場所: 幸手市栄２番１０<br>経度: 139.7205178865820<br>緯度: 36.0585088920746]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１４投票区
+設置場所の目標: 栄２－１０号棟前（公園脇）
+ポスター掲示場の設置場所: 幸手市栄２番１０
+経度: 139.7205178865820
+緯度: 36.0585088920746</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>栄２－１０号棟前（公園脇）</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市栄２番１０</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7205178865820</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0585088920746</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.720518,36.058509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14－４</name>
+        <description><![CDATA[説明: 投票区: 第１４投票区<br>設置場所の目標: 栄３－９号棟集会所前<br>ポスター掲示場の設置場所: 幸手市栄３番９<br>経度: 139.7202084113990<br>緯度: 36.0567929660771<br>投票区: 第１４投票区<br>設置場所の目標: 栄３－９号棟集会所前<br>ポスター掲示場の設置場所: 幸手市栄３番９<br>経度: 139.7202084113990<br>緯度: 36.0567929660771]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１４投票区
+設置場所の目標: 栄３－９号棟集会所前
+ポスター掲示場の設置場所: 幸手市栄３番９
+経度: 139.7202084113990
+緯度: 36.0567929660771</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>栄３－９号棟集会所前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市栄３番９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7202084113990</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0567929660771</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.720208,36.056793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14－５</name>
+        <description><![CDATA[説明: 投票区: 第１４投票区<br>設置場所の目標: 栄６－９号棟前<br>ポスター掲示場の設置場所: 幸手市栄６番９<br>経度: 139.7197394778370<br>緯度: 36.0537292560386<br>投票区: 第１４投票区<br>設置場所の目標: 栄６－９号棟前<br>ポスター掲示場の設置場所: 幸手市栄６番９<br>経度: 139.7197394778370<br>緯度: 36.0537292560386]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１４投票区
+設置場所の目標: 栄６－９号棟前
+ポスター掲示場の設置場所: 幸手市栄６番９
+経度: 139.7197394778370
+緯度: 36.0537292560386</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>栄６－９号棟前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市栄６番９</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7197394778370</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0537292560386</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.719739,36.053729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14－６</name>
+        <description><![CDATA[説明: 投票区: 第１４投票区<br>設置場所の目標: 栄４－１５号棟斜め前<br>ポスター掲示場の設置場所: 幸手市栄４番１５<br>経度: 139.7210913357840<br>緯度: 36.0553971724491<br>投票区: 第１４投票区<br>設置場所の目標: 栄４－１５号棟斜め前<br>ポスター掲示場の設置場所: 幸手市栄４番１５<br>経度: 139.7210913357840<br>緯度: 36.0553971724491]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１４投票区
+設置場所の目標: 栄４－１５号棟斜め前
+ポスター掲示場の設置場所: 幸手市栄４番１５
+経度: 139.7210913357840
+緯度: 36.0553971724491</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>栄４－１５号棟斜め前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市栄４番１５</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7210913357840</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0553971724491</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.721091,36.055397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14－７</name>
+        <description><![CDATA[説明: 投票区: 第１４投票区<br>設置場所の目標: 中継ポンプ場前<br>ポスター掲示場の設置場所: 幸手市吉野４１－８－４<br>経度: 139.7229440253740<br>緯度: 36.0566719779510<br>投票区: 第１４投票区<br>設置場所の目標: 中継ポンプ場前<br>ポスター掲示場の設置場所: 幸手市吉野４１－８－４<br>経度: 139.7229440253740<br>緯度: 36.0566719779510]]></description>
+        <styleUrl>#icon-1500-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>投票区: 第１４投票区
+設置場所の目標: 中継ポンプ場前
+ポスター掲示場の設置場所: 幸手市吉野４１－８－４
+経度: 139.7229440253740
+緯度: 36.0566719779510</value>
+          </Data>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中継ポンプ場前</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>幸手市吉野４１－８－４</value>
+          </Data>
+          <Data name="経度">
+            <value>139.7229440253740</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0566719779510</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.722944,36.056672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>投票所一覧</name>
+      <Placemark>
+        <name>幸手小学校体育館PTA会議室</name>
+        <description><![CDATA[説明: 第１投票区<br><br>座標L(経度): 139.7219707<br>座標B(緯度): 36.0764981<br>座標L(経度): 139.7219707<br>座標B(緯度): 36.0764981]]></description>
+        <styleUrl>#icon-seq2-1-0-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第１投票区
+
+座標L(経度): 139.7219707
+座標B(緯度): 36.0764981</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7219707</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.0764981</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.721971,36.076498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>幸手中学校第二校舎１階金工室</name>
+        <description><![CDATA[説明: 第２投票区<br><br>座標L(経度): 139.7187158<br>座標B(緯度): 36.08302723<br>座標L(経度): 139.7187158<br>座標B(緯度): 36.08302723]]></description>
+        <styleUrl>#icon-seq2-1-1-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第２投票区
+
+座標L(経度): 139.7187158
+座標B(緯度): 36.08302723</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7187158</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.08302723</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.718716,36.083027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行幸小学校管理棟１階図書室</name>
+        <description><![CDATA[説明: 第３投票区<br><br>座標L(経度): 139.7109971<br>座標B(緯度): 36.09385774<br>座標L(経度): 139.7109971<br>座標B(緯度): 36.09385774]]></description>
+        <styleUrl>#icon-seq2-1-2-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第３投票区
+
+座標L(経度): 139.7109971
+座標B(緯度): 36.09385774</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7109971</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.09385774</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.710997,36.093858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西中学校Ｂ棟１階金工室</name>
+        <description><![CDATA[説明: 第４投票区<br><br>座標L(経度): 139.7099321<br>座標B(緯度): 36.08277122<br>座標L(経度): 139.7099321<br>座標B(緯度): 36.08277122]]></description>
+        <styleUrl>#icon-seq2-1-3-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第４投票区
+
+座標L(経度): 139.7099321
+座標B(緯度): 36.08277122</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7099321</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.08277122</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.709932,36.082771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コミュニティセンター集会室</name>
+        <description><![CDATA[説明: 第５投票区<br><br>座標L(経度): 139.7022985<br>座標B(緯度): 36.08719583<br>座標L(経度): 139.7022985<br>座標B(緯度): 36.08719583]]></description>
+        <styleUrl>#icon-seq2-1-4-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第５投票区
+
+座標L(経度): 139.7022985
+座標B(緯度): 36.08719583</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7022985</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.08719583</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.702298,36.087196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南公民館会議室</name>
+        <description><![CDATA[説明: 第６投票区<br><br>座標L(経度): 139.7132085<br>座標B(緯度): 36.0620578<br>座標L(経度): 139.7132085<br>座標B(緯度): 36.0620578]]></description>
+        <styleUrl>#icon-seq2-1-5-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第６投票区
+
+座標L(経度): 139.7132085
+座標B(緯度): 36.0620578</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7132085</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.0620578</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.713208,36.062058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央公民館講座室</name>
+        <description><![CDATA[説明: 第７投票区<br><br>座標L(経度): 139.7263345<br>座標B(緯度): 36.06909841<br>座標L(経度): 139.7263345<br>座標B(緯度): 36.06909841]]></description>
+        <styleUrl>#icon-seq2-1-6-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第７投票区
+
+座標L(経度): 139.7263345
+座標B(緯度): 36.06909841</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7263345</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.06909841</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.726334,36.069098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>児童館遊戯室</name>
+        <description><![CDATA[説明: 第８投票区<br><br>座標L(経度): 139.7296154<br>座標B(緯度): 36.07160853<br>座標L(経度): 139.7296154<br>座標B(緯度): 36.07160853]]></description>
+        <styleUrl>#icon-seq2-1-7-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第８投票区
+
+座標L(経度): 139.7296154
+座標B(緯度): 36.07160853</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7296154</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.07160853</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.729615,36.071609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所本庁舎１階玄関ホール</name>
+        <description><![CDATA[説明: 第９投票区<br><br>座標L(経度): 139.7258862<br>座標B(緯度): 36.07814151<br>座標L(経度): 139.7258862<br>座標B(緯度): 36.07814151]]></description>
+        <styleUrl>#icon-seq2-1-8-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第９投票区
+
+座標L(経度): 139.7258862
+座標B(緯度): 36.07814151</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7258862</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.07814151</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.725886,36.078142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北公民館講座室</name>
+        <description><![CDATA[説明: 第１０投票区<br><br>座標L(経度): 139.7224465<br>座標B(緯度): 36.09140547<br>座標L(経度): 139.7224465<br>座標B(緯度): 36.09140547]]></description>
+        <styleUrl>#icon-seq2-1-9-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第１０投票区
+
+座標L(経度): 139.7224465
+座標B(緯度): 36.09140547</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7224465</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.09140547</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.722446,36.091405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>権現堂川小学校１階会議室</name>
+        <description><![CDATA[説明: 第１１投票区<br><br>座標L(経度): 139.7421105<br>座標B(緯度): 36.07461268<br>座標L(経度): 139.7421105<br>座標B(緯度): 36.07461268]]></description>
+        <styleUrl>#icon-seq2-1-10-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第１１投票区
+
+座標L(経度): 139.7421105
+座標B(緯度): 36.07461268</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7421105</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.07461268</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.74211,36.074613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東公民館集会室</name>
+        <description><![CDATA[説明: 第１２投票区<br><br>座標L(経度): 139.7676603<br>座標B(緯度): 36.06649895<br>座標L(経度): 139.7676603<br>座標B(緯度): 36.06649895]]></description>
+        <styleUrl>#icon-seq2-1-11-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第１２投票区
+
+座標L(経度): 139.7676603
+座標B(緯度): 36.06649895</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7676603</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.06649895</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.76766,36.066499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八代小学校１階会議室</name>
+        <description><![CDATA[説明: 第１３投票区<br><br>座標L(経度): 139.743383<br>座標B(緯度): 36.05538179<br>座標L(経度): 139.743383<br>座標B(緯度): 36.05538179]]></description>
+        <styleUrl>#icon-seq2-1-12-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第１３投票区
+
+座標L(経度): 139.743383
+座標B(緯度): 36.05538179</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.743383</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.05538179</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.743383,36.055382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>幸手団地集会所</name>
+        <description><![CDATA[説明: 第１４投票区<br><br>座標L(経度): 139.7205208<br>座標B(緯度): 36.05673678<br>座標L(経度): 139.7205208<br>座標B(緯度): 36.05673678]]></description>
+        <styleUrl>#icon-seq2-1-13-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="説明">
+            <value>第１４投票区
+
+座標L(経度): 139.7205208
+座標B(緯度): 36.05673678</value>
+          </Data>
+          <Data name="座標L(経度)">
+            <value>139.7205208</value>
+          </Data>
+          <Data name="座標B(緯度)">
+            <value>36.05673678</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.720521,36.056737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

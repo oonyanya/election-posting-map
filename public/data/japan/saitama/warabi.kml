@@ -1,0 +1,2983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>蕨市ポスター掲示場所一覧</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ﾎﾟｽﾀｰ掲示場場所.csv</name>
+      <Placemark>
+        <name>埼玉県蕨市錦町１丁目３番３号</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 1<br>設置場所の目標: 国道１７号蕨駅前通りバス停際]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>国道１７号蕨駅前通りバス停際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6789391,35.8234953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町１丁目４番</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 2<br>設置場所の目標: No.２３ちびっこ広場]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>No.２３ちびっこ広場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6790954,35.8220023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町１丁目１番１３号</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 3<br>設置場所の目標: ＪＡさいたま蕨支店フェンス]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ＪＡさいたま蕨支店フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6773642,35.8247122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町２丁目６番２０号</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 4<br>設置場所の目標: 錦町スポーツ広場前フェンス]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>錦町スポーツ広場前フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6748735,35.8244929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町２丁目３番１２号</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 5<br>設置場所の目標: 日鉄パイプライン＆エンジニアリング㈱]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>日鉄パイプライン＆エンジニアリング㈱</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6754362,35.825698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町２丁目１５番２３号</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 6<br>設置場所の目標: 錦町児童館]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>錦町児童館</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6727578,35.825508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町２丁目１９番１９号</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 7<br>設置場所の目標: 錦町２丁目赤田住宅]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>錦町２丁目赤田住宅</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6696634,35.824212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町３丁目９番３８号</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 1<br>設置場所の目標: 第二中学校東側（総合社会福祉センター前）]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>第二中学校東側（総合社会福祉センター前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6725957,35.8278159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町３丁目９番３８号</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 2<br>設置場所の目標: 第二中学校南側]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>第二中学校南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.670962,35.827621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町４丁目８番</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 3<br>設置場所の目標: 錦町雨水調整池南側フェンス]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>錦町雨水調整池南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6665845,35.8248938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町５丁目２番１号</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 4<br>設置場所の目標: 民家]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6725661,35.8304085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町５丁目１１番３０号</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 5<br>設置場所の目標: 西小学校西門フェンス]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西小学校西門フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.667503,35.8297967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町５丁目１２番</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 6<br>設置場所の目標: 錦町郵便局前植え込み]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>錦町郵便局前植え込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.669121,35.8303643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市錦町６丁目９番２９号</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 7<br>設置場所の目標: 錦町富士見線植え込み（民家前）]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>錦町富士見線植え込み（民家前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.665897,35.8271386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町３丁目１番２７号</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 1<br>設置場所の目標: みどり保育園]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>みどり保育園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6781519,35.8297627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町３丁目２番</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 2<br>設置場所の目標: 三学院西側歩道植え込み]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>三学院西側歩道植え込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6769047,35.8294465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町４丁目５番</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 3<br>設置場所の目標: 有料月極駐車場前ブロック]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>有料月極駐車場前ブロック</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6774685,35.8318545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町５丁目１番</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 4<br>設置場所の目標: 蕨ゴルフ練習場（マルエツ蕨北町店前）]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>蕨ゴルフ練習場（マルエツ蕨北町店前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.673595,35.831177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町５丁目３番８号</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 5<br>設置場所の目標: 蕨高等学校正門脇]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>蕨高等学校正門脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6753796,35.8324164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町５丁目５番</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 6<br>設置場所の目標: 北五公園]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北五公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6723263,35.8324176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町５丁目１２番</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 7<br>設置場所の目標: No.５９ちびっこ広場（蕨サンクチュアリ脇）]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>No.５９ちびっこ広場（蕨サンクチュアリ脇）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6698725,35.834204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町２丁目８番８号</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 7<br>設置場所の目標: 市庁舎西側入口前]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市庁舎西側入口前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6795947,35.825352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町２丁目１１番６号</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 1<br>設置場所の目標: 北小学校正門脇]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北小学校正門脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6794922,35.8271618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町２丁目１１番６号</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 2<br>設置場所の目標: 北小学校西側]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北小学校西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6783442,35.8265355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町２丁目１２番１５号</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 3<br>設置場所の目標: 保健センタ−脇植樹帯]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>保健センタ−脇植樹帯</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6794805,35.8284342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町２丁目１２番１８号</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 4<br>設置場所の目標: 市立病院裏]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市立病院裏</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6804228,35.8282994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央４丁目２１番２９号</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 5<br>設置場所の目標: 中央公民館空調機前]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中央公民館空調機前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6825003,35.8260931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央４丁目２１番２９号</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 6<br>設置場所の目標: 市民会館駐車場植込]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市民会館駐車場植込</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.68171,35.8254849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町１丁目２番</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 1<br>設置場所の目標: 樹木広場]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>樹木広場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6870791,35.8288006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町１丁目６番４号</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 2<br>設置場所の目標: 民家]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6854171,35.8295669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町１丁目７番２７号</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 3<br>設置場所の目標: 民家]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6858896,35.8283716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町１丁目１７番</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 4<br>設置場所の目標: わらび公園東側植込]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>わらび公園東側植込</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6839835,35.8295777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町１丁目１９番</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 5<br>設置場所の目標: 駐車場（古着屋キングファミリー前）]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>駐車場（古着屋キングファミリー前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6825469,35.8292233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町１丁目２７番</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 6<br>設置場所の目標: 市民体育館南側]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市民体育館南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6804731,35.8304825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市北町１丁目２７番１５号</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 7<br>設置場所の目標: 北町公園]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北町公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6804701,35.8312884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央４丁目９番</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 1<br>設置場所の目標: 中の宮公園]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中の宮公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6833923,35.8237488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央５丁目５番２３号</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 2<br>設置場所の目標: 民家]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6819067,35.8234254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央５丁目８番２１号</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 3<br>設置場所の目標: 蕨郵便局裏（フェンス）]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>蕨郵便局裏（フェンス）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6812332,35.8228518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央６丁目２番</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 4<br>設置場所の目標: 歩道植込（住宅前）]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>歩道植込（住宅前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6855357,35.8212461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央６丁目８番２５号</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 5<br>設置場所の目標: 中央小学校正門脇（フェンス）]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中央小学校正門脇（フェンス）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6841706,35.8221481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央６丁目８番２５号</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 6<br>設置場所の目標: 中央小学校南側]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中央小学校南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6838434,35.8212173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央６丁目１４番</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 7<br>設置場所の目標: 駐車場（民家隣）]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>駐車場（民家隣）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6836646,35.8200757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央１丁目８番</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 1<br>設置場所の目標: 旧駅西口再開発事務所前フェンス]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>旧駅西口再開発事務所前フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6901677,35.8266963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央１丁目１１番</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 2<br>設置場所の目標: 柳橋公園]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>柳橋公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6888124,35.8262629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央１丁目１３番</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 3<br>設置場所の目標: スポーツクラブＮＡＳ蕨前]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>スポーツクラブＮＡＳ蕨前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6895483,35.826011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央１丁目２３番</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 4<br>設置場所の目標: 蕨駅西口第一駐車場フェンス]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>蕨駅西口第一駐車場フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6916239,35.826177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央１丁目２３番</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 5<br>設置場所の目標: 蕨駅西口タクシ−乗場]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>蕨駅西口タクシ−乗場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6896306,35.8278472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央３丁目３番</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 6<br>設置場所の目標: タイムズ中央3丁目第4駐車場]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>タイムズ中央3丁目第4駐車場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6884499,35.8269654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央３丁目１５番４号</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 7<br>設置場所の目標: 民家（西友蕨店前）]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家（西友蕨店前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6862257,35.8276794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央３丁目２２番</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 8<br>設置場所の目標: 中央公園北側]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中央公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6874801,35.8249345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央２丁目５番１２号</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 1<br>設置場所の目標: 民家]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6916722,35.8238936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央２丁目７番</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 2<br>設置場所の目標: 金山パーキング]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>金山パーキング</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6901184,35.8227187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央２丁目１０番６号</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 3<br>設置場所の目標: 蕨市水道部中央浄水場]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>蕨市水道部中央浄水場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6879746,35.822434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央２丁目１１番３号</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 4<br>設置場所の目標: 民家]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6864948,35.8223954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央２丁目１３番１２号</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 5<br>設置場所の目標: さくら保育園(左側鉄柵)]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>さくら保育園(左側鉄柵)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.689348,35.8218614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央２丁目３８番</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 7<br>設置場所の目標: 道路広場（ヘアーサロンRYO前中央浄水場通)]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>道路広場（ヘアーサロンRYO前中央浄水場通)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6903328,35.8199416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央２丁目１８番</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 6<br>設置場所の目標: 金山公園]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>金山公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6899494,35.8212818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央６丁目５番</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 1<br>設置場所の目標: ふるさと土橋公園]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ふるさと土橋公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6851771,35.8191051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央７丁目1番５号</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 2<br>設置場所の目標: 民家]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6870863,35.8205528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央７丁目１８番７号</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 3<br>設置場所の目標: 中央東小学校正門脇]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中央東小学校正門脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6876917,35.8189606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央７丁目１８番７号</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 4<br>設置場所の目標: 中央東小学校南側]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中央東小学校南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6872679,35.8184169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央７丁目４１番</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 5<br>設置場所の目標: 下蕨公園看板右側]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>下蕨公園看板右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6879079,35.8164511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央７丁目４２番３号</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 6<br>設置場所の目標: 民家]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6889555,35.8164444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市中央７丁目５３番</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 7<br>設置場所の目標: どんぐり公園]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>どんぐり公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6856553,35.8163222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町１丁目３番</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 1<br>設置場所の目標: 西仲公園]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西仲公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6957514,35.8223652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町１丁目９番２１号</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 2<br>設置場所の目標: 民家]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6928342,35.8222482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町１丁目１２番１号</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 3<br>設置場所の目標: 市立図書館]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市立図書館</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6947768,35.821277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町１丁目１５番</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 4<br>設置場所の目標: あけぼの公園西側]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>あけぼの公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.69298,35.8205386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町１丁目３６番６号</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 5<br>設置場所の目標: 南小学校正門脇]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>南小学校正門脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6920178,35.8184963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町４丁目３番</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 6<br>設置場所の目標: せせらぎ公園（ベルメゾン前）]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>せせらぎ公園（ベルメゾン前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6909429,35.8175538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町４丁目１９番</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 7<br>設置場所の目標: みずほ公園]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>みずほ公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.691194,35.8154437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町４丁目２４番</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 8<br>設置場所の目標: 南町ポンプ場（入口左側鉄柵）]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>南町ポンプ場（入口左側鉄柵）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6925945,35.8167724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町２丁目３番</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 1<br>設置場所の目標: 市営南町２丁目第１駐車場鉄柵]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市営南町２丁目第１駐車場鉄柵</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.698015,35.8208274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町２丁目３番</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 2<br>設置場所の目標: 大荒田交通公園（南側）]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大荒田交通公園（南側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6973572,35.8209886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町２丁目２０番１号</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 3<br>設置場所の目標: くるみ保育園（アコレ前）]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>くるみ保育園（アコレ前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6952686,35.8193194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町２丁目２１番２号</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 4<br>設置場所の目標: 交流プラザさくら]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>交流プラザさくら</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6958087,35.8194883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町２丁目２３番</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 5<br>設置場所の目標: 三和公園]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>三和公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6963096,35.8180956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町２丁目２５番２号</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 6<br>設置場所の目標: 民家]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6939635,35.8193521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町２丁目３１番２号</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 7<br>設置場所の目標: 蕨サンハイツマンション前]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>蕨サンハイツマンション前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6937967,35.8181714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町３丁目１番２９号</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 1<br>設置場所の目標: 第一中学校正門脇左側]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>第一中学校正門脇左側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6986894,35.8188094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町３丁目４番</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 2<br>設置場所の目標: 蕨市南町自転車保管場所前]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>蕨市南町自転車保管場所前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6997998,35.8174959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町３丁目１１番</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 3<br>設置場所の目標: 三和稲荷公園]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>三和稲荷公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6988811,35.816691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町３丁目１２番</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 4<br>設置場所の目標: いちょう公園]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>いちょう公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6987342,35.8160886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町３丁目１４番</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 5<br>設置場所の目標: つつじ公園]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>つつじ公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6970372,35.8163733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町３丁目１９番</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 6<br>設置場所の目標: 緑川丁和橋西側欄干]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>緑川丁和橋西側欄干</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6996118,35.8163999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市南町３丁目２３番</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 7<br>設置場所の目標: 南丁張公園]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>南丁張公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7014749,35.8174051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越１丁目３番</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 1<br>設置場所の目標: 蕨駅東口上りエスカレーター横]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>蕨駅東口上りエスカレーター横</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6908301,35.8279181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越１丁目１０番</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 2<br>設置場所の目標: 末広公園西側]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>末広公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6941527,35.8259002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越１丁目１０番</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 3<br>設置場所の目標: 末広公園東側]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>末広公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6946408,35.8261199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越２丁目２番</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 4<br>設置場所の目標: 仁中歩公園]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>仁中歩公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6936167,35.8278725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越２丁目２番</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 5<br>設置場所の目標: サンロード植樹帯（タイムズ蕨塚越第６駐車場前）]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>サンロード植樹帯（タイムズ蕨塚越第６駐車場前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6929573,35.8284972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越２丁目９番</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 6<br>設置場所の目標: 佐藤月極駐車場看板前]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>佐藤月極駐車場看板前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6953058,35.8270245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越２丁目１１番８号</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 7<br>設置場所の目標: 塚越児童館]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>塚越児童館</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6961506,35.8263242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越３丁目３番</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 1<br>設置場所の目標: 民家向かい畑生垣]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家向かい畑生垣</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6987655,35.8271692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越３丁目５番</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 2<br>設置場所の目標: 歩道植込（キムラたばこ店前）]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>歩道植込（キムラたばこ店前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6982211,35.826553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越３丁目１０番３６号</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 3<br>設置場所の目標: 東小学校体育館（蕨市民公園正面前）]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東小学校体育館（蕨市民公園正面前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6996863,35.8241559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越３丁目１０番３６号</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 4<br>設置場所の目標: 東小学校北門脇]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東小学校北門脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6991185,35.8252875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越３丁目１９番</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 5<br>設置場所の目標: 塚越グランド（北側）物置裏]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>塚越グランド（北側）物置裏</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7008355,35.8251142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越４丁目７番</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 6<br>設置場所の目標: 月極有料駐車場鉄柵]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>月極有料駐車場鉄柵</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6965885,35.8236164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越４丁目１５番</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 7<br>設置場所の目標: No.２６ちびっこ広場]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>No.２６ちびっこ広場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.698567,35.8220468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越５丁目１番</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 1<br>設置場所の目標: 蕨市民公園西側植込]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>蕨市民公園西側植込</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7001727,35.8223458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越５丁目３番１６号</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 2<br>設置場所の目標: 塚越浄水場]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>塚越浄水場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7019111,35.8241743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越５丁目７番２０号</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 3<br>設置場所の目標: 塚越小学校西門（左側）]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>塚越小学校西門（左側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7042508,35.8243998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越５丁目２６番</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 4<br>設置場所の目標: 緑川フェンス（西側）]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>緑川フェンス（西側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7015071,35.8201876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越５丁目２８番５号</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 5<br>設置場所の目標: 塚越５丁目会館]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>塚越５丁目会館</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7016614,35.8210071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越５丁目３７番</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 6<br>設置場所の目標: 第６号取水井]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>第６号取水井</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7052551,35.8202798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越７丁目2４番</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 7<br>設置場所の目標: 塚越デイサービスセンターないとうフェンス（西側）]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>塚越デイサービスセンターないとうフェンス（西側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7064965,35.8210727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越６丁目４番１号</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 1<br>設置場所の目標: 須賀ハイツフェンス]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>須賀ハイツフェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7032582,35.8265456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越６丁目７番３４号</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 2<br>設置場所の目標: 東中学校裏門脇]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東中学校裏門脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.703638,35.8258351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越６丁目７番３４号</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 3<br>設置場所の目標: 東中学校正門脇]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東中学校正門脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7027937,35.8249551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越６丁目１５番</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 4<br>設置場所の目標: 緑川フェンス]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>緑川フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7057406,35.8254719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越６丁目２４番１２号</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 5<br>設置場所の目標: 民家]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7078178,35.8261054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越７丁目１2番</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 6<br>設置場所の目標: 緑川フェンス（白色）]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>緑川フェンス（白色）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.705635,35.823586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県蕨市塚越７丁目１５番</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 7<br>設置場所の目標: あづま公園（産業道路側）]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>あづま公園（産業道路側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7071796,35.8231859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>無題のレイヤ</name>
+    </Folder>
+  </Document>
+</kml>

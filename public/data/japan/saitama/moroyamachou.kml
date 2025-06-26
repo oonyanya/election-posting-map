@@ -1,0 +1,2428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>毛呂山町ポスター掲示場設置場所</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>posterposting.csv</name>
+      <Placemark>
+        <name>毛呂山町教育センター前</name>
+        <address>埼玉県入間郡毛呂山町毛呂本郷1285</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町毛呂本郷1285]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町毛呂本郷1285</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>埼玉医科大学駐車場（錬成館付近）</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町毛呂本郷675-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町毛呂本郷675-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.308449,35.937926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上宿橋入口</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町毛呂本郷182-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町毛呂本郷182-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3052012,35.9444626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧上町保育園</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町毛呂本郷128-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町毛呂本郷128-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3037741,35.9431058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゆずの里オートキャンプ場入口手前</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町滝ノ入892先]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町滝ノ入892先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2867447,35.9394366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滝ノ入集会所前</name>
+        <address>埼玉県入間郡毛呂山町滝ノ入295-2</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町滝ノ入295-2]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町滝ノ入295-2</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>山根荘入口(自転車置場前)</name>
+        <address>埼玉県入間郡毛呂山町阿諏訪1478-3</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町阿諏訪1478-3]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町阿諏訪1478-3</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>阿諏訪一本松交差点</name>
+        <address>埼玉県入間郡毛呂山町阿諏訪1235-1</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町阿諏訪1235-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町阿諏訪1235-1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>もろバス停留所付近（新農道入口）</name>
+        <address>埼玉県入間郡毛呂山町阿諏訪1189-1</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町阿諏訪1189-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町阿諏訪1189-1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ベルク毛呂山店前信号北側</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町毛呂本郷1444-1]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町毛呂本郷1444-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3060151,35.9473019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平山公会堂前</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町平山1-8-1]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町平山1-8-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3075822,35.9477642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>総庭団地内公園南側</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町岩井東1-26-1]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町岩井東1-26-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3157463,35.9484496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毛呂山町中央公民館南側</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町岩井西1-15-1]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町岩井西1-15-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3131162,35.9455651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いるま野農協毛呂山支店前</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町岩井西2-23-1]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町岩井西2-23-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3149855,35.9452633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東毛呂駅構内(観光案内板脇)</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町岩井東2-1-1]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町岩井東2-1-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3155981,35.9466738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前橋屋前</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町前久保南1-2-5]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町前久保南1-2-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3172489,35.9467994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毛呂山中学校正門脇</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町岩井西4-12-1]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町岩井西4-12-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3116986,35.9393136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福祉会館北三差路付近</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町岩井西5-16-1]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町岩井西5-16-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3097328,35.9420437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毛呂山小学校校庭脇(図書館入口)</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町岩井西4-2-1]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町岩井西4-2-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3103247,35.9407715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八高線毛呂駅前</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町毛呂本郷1260]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町毛呂本郷1260</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3087795,35.9401431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎌北湖入口交差点左側駐車場付近</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町小田谷582-5]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町小田谷582-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3111106,35.9345288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毛呂山消防団第２分団車庫南側</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町長瀬6-3]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町長瀬6-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3147648,35.9324404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福正寺西側押ボタン信号付近</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町長瀬456-1]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町長瀬456-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3147259,35.9372517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）ヤマト運輸　埼玉もろやま中央営業所付近</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町川角23]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町川角23</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3332681,35.9473538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大山工務店(城西大学寄り)</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町下川原229-2]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町下川原229-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.347325,35.9361512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉医大進学課程方面（旧若草保育園入口付近）</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町川角1109-1]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町川角1109-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3414896,35.9539939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山崎屋酒店前</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町市場17-3]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町市場17-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3500694,35.9454594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川角駅北三差路付近</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町下川原295-1]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町下川原295-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3466916,35.9378729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川角駐在所付近</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町川角1398-4]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町川角1398-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3292936,35.9479077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>児童館入口脇</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町川角449-4]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町川角449-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3379447,35.9444863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前久保中央公園　第一団地ロータリー北側</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町前久保南4-17-6]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町前久保南4-17-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3250431,35.9447327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第一団地集会所入口付近　防火水槽</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町前久保南3-31-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町前久保南3-31-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3233626,35.9435088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武州長瀬駅前広場（ヤオコー長瀬店前）</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町中央4-12-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町中央4-12-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3249574,35.9418349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ドラッグストアセイムス武州長瀬駅前店付近</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町中央4-16-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町中央4-16-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3256509,35.9402637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）保険ステーション　埼玉西支店付近</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町中央4-2-14]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町中央4-2-14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3226267,35.9418946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第三団地集会所東側</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町中央3-8-3]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町中央3-8-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3205879,35.942977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>双葉団地集会所東側</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町前久保南2-15-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町前久保南2-15-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3212122,35.9457625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安川畳店南側（岡本団地入口）</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町前久保510-1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町前久保510-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3240384,35.950853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三和ハイツ脇</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町前久保南4-32-27]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町前久保南4-32-27</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3277903,35.944998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前久保集落センター入口</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町前久保623]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町前久保623</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3234819,35.9474251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>らーめん高麗街道南側</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町前久保南2-7-19]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町前久保南2-7-19</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.322622,35.944101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>厚目布団店西側</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町前久保南1-30-10]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町前久保南1-30-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3211816,35.947612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>沢田交差点東側</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町岩井東2-20-1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町岩井東2-20-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3183303,35.9500019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西入間広域消防組合西側</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町岩井2449-1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町岩井2449-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3153358,35.9511859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第二団地防災行政無線パンザマスト下</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町若山1-37-33]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町若山1-37-33</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3293233,35.9430565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第五団地公園南側</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町若山3-16-1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町若山3-16-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.332042,35.9426459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第二団地集会所前</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町若山3-22-1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町若山3-22-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.330571,35.9418574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(株)寿駐車場</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町若山2-5-1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町若山2-5-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3301823,35.9454295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第五団地自治会館南東側</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町若山3-27-1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町若山3-27-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3327019,35.942146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第五団地線路沿い空き地</name>
+        <address>埼玉県入間郡毛呂山町若山3-25-4</address>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町若山3-25-4]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町若山3-25-4</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>光山学童保育所脇フェンス</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町川角309-1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町川角309-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.333781,35.9423164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>光山小学校正門前</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町旭台131]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町旭台131</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3352995,35.9406023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>光山小学校北側職員駐車場</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町旭台136]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町旭台136</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3368766,35.9413449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭台保育園入口先</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町旭台72]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町旭台72</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3323383,35.9390126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>学園台中央公園</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町下川原853-5]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町下川原853-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3404995,35.9344115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬頭観音交差点付近</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町旭台86-1]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町旭台86-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3378798,35.9386934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(株)関越物産駐車場</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町市場445-1]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町市場445-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3413286,35.9395784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毛呂山町東公民館前</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町川角298-1]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町川角298-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3358415,35.9425624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第四団地伴六橋北側</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町中央3-27-17]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町中央3-27-17</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.319152,35.9417851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゆずの木台中央公園（Ｂｉｇ-Ａ毛呂山長瀬店北側）</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町中央1-24-13]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町中央1-24-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3168061,35.9423193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毛呂山町防犯活動センター</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町中央2-28-1]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町中央2-28-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3163195,35.9398366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毛呂山町役場前駐車場</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町中央2-1先]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町中央2-1先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3153607,35.941301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長瀬三区公会堂前</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町長瀬710-13]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町長瀬710-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.320904,35.9384179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あけぼの幼児園前押しﾎﾞﾀﾝ信号付近</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町長瀬398-5]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町長瀬398-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.317304,35.9371657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平野園農場</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町中央3-44-10]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町中央3-44-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3209361,35.9399553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大類グラウンド入口</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町大類725-3]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町大類725-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3437133,35.9597035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西大久保農村センター脇</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町西大久保148-2]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町西大久保148-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3562055,35.9522349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）戸口興業前</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町苦林357-1]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町苦林357-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3451773,35.9651654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>玉林寺公会堂西側</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町川角2152-5]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町川角2152-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3523284,35.9604443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ローソン毛呂山西大久保店付近</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町西大久保814-1]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町西大久保814-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3544189,35.9498786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大類交差点東側</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町大類186-1]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町大類186-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3509301,35.9578262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大類館前</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町大類548]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町大類548</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3457764,35.956295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>総合公園入口（鎌北直売所脇）</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町大谷木348-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町大谷木348-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3084568,35.924447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>総合公園入口植栽</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町大谷木386-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町大谷木386-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3088107,35.9235779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毛呂山みどり保育園付近</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町葛貫7-2]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町葛貫7-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3125548,35.9256229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宿谷集会所前</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町宿谷91-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町宿谷91-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3065818,35.9141529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎌北湖第２駐車場</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町大谷木775-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町大谷木775-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2856257,35.9174807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(株)英光前</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町大谷木55-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町大谷木55-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3118068,35.9295703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉医科大学５０周年記念総合グラウンド西側</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町葛貫624-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町葛貫624-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3190339,35.9261861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ローソン毛呂山葛貫店（跡地）先</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町葛貫197-4]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町葛貫197-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3185296,35.9306935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ローソン箕和田店東側</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町箕和田172-1]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町箕和田172-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3218277,35.9574442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅見興業東側</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町西戸898-2]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町西戸898-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3286871,35.9560954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東原団地入口</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町西戸781-2]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町西戸781-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3348703,35.9611373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西戸公会堂入口</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町西戸932-4]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町西戸932-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3308524,35.9568364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東原団地テニスコートフェンス</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町西戸844-12]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町西戸844-12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.332074,35.9606893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>目白台自治会館西側</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町目白台1-35-6]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町目白台1-35-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3225792,35.9587449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かわせみ公園南側</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町目白台2-24]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町目白台2-24</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3233618,35.9618293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日生団地遊園地南側</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町南台1-30-1]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町南台1-30-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3247598,35.9351782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第六団地集会所北側</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町南台1-6-2]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町南台1-6-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3231701,35.9374229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第十三団地調整池南側</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町南台5-27-14]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町南台5-27-14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3275247,35.9395729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふれあい広場</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町南台4-23]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町南台4-23</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3284405,35.9368879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第九団地公園南側</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町南台4-8-1]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町南台4-8-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3281597,35.9392712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵野霊園南側（毛呂山台団地）</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町南台3-17-1]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町南台3-17-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3263727,35.9364503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第十三団地集会所南側</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県入間郡毛呂山町南台5-22-7]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県入間郡毛呂山町南台5-22-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3266817,35.9396637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

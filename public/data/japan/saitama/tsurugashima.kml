@@ -1,0 +1,3178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>鶴ヶ島市選挙ポスター掲示場</name>
+    <description/>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>R7参議院選ポス掲.CSV</name>
+      <Placemark>
+        <name>鶴ヶ島市大字下新田５０１番地２</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 1<br>設置場所番号: １-1<br>設置場所の目標: 民家道路向かい<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3815133<br>世界_10進_Y: 35.9434014]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>１-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家道路向かい</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3815133</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9434014</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3815133,35.9434014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字高倉３３番地５</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 2<br>設置場所番号: １-2<br>設置場所の目標: 日枝神社前<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3829833<br>世界_10進_Y: 35.93849011]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>１-2</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>日枝神社前</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3829833</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93849011</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3829833,35.93849011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字三ツ木174番地2</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 3<br>設置場所番号: １-3<br>設置場所の目標: 鶴ヶ島市職員第2駐車場南側<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3925117<br>世界_10進_Y: 35.9356601]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>１-3</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鶴ヶ島市職員第2駐車場南側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3925117</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9356601</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3925117,35.9356601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市脚折町六丁目１番３号</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 4<br>設置場所番号: １-4<br>設置場所の目標: 鷹野屋敷橋南側欄干<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3888206<br>世界_10進_Y: 35.94395971]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>１-4</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鷹野屋敷橋南側欄干</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3888206</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94395971</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3888206,35.94395971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市脚折町五丁目２２番</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 5<br>設置場所番号: １-5<br>設置場所の目標: 雷電池児童公園南側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.3971971<br>世界_10進_Y: 35.94230465]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>１-5</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>雷電池児童公園南側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3971971</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94230465</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3971971,35.94230465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字高倉１１４６番地</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 6<br>設置場所番号: １-6<br>設置場所の目標: 高倉第二自治会館北東側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.3806069<br>世界_10進_Y: 35.9255706]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>１-6</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>高倉第二自治会館北東側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3806069</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9255706</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3806069,35.9255706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字脚折１８６８番地５</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 7<br>設置場所番号: １-7<br>設置場所の目標: 鶴ヶ島中学校東側<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3874267<br>世界_10進_Y: 35.93553985]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>１-7</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鶴ヶ島中学校東側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3874267</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93553985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3874267,35.93553985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字脚折１９９２番地１</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 8<br>設置場所番号: １-8<br>設置場所の目標: 鶴ヶ島保育所職員駐車場<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3864588<br>世界_10進_Y: 35.9381928]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>１-8</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鶴ヶ島保育所職員駐車場</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3864588</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9381928</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3864588,35.9381928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字町屋１３８番地２</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 1<br>設置場所番号: ２-1<br>設置場所の目標: 町屋自治会館北側敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3565837<br>世界_10進_Y: 35.93021598]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>２-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>町屋自治会館北側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3565837</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93021598</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3565837,35.93021598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字中新田1620番2</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 2<br>設置場所番号: ２-2<br>設置場所の目標: ヘアースペースエリア向かい側空地<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3717954<br>世界_10進_Y: 35.9387265]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>２-2</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ヘアースペースエリア向かい側空地</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3717954</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9387265</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3717954,35.9387265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市新町四丁目１７番地８</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 3<br>設置場所番号: ２-3<br>設置場所の目標: 西市民センター植込み<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3685834<br>世界_10進_Y: 35.93283101]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>２-3</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西市民センター植込み</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3685834</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93283101</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3685834,35.93283101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市新町四丁目２１番地１</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 4<br>設置場所番号: ２-4<br>設置場所の目標: 鶴ヶ島市消防団第２分団詰所北西側<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3668115<br>世界_10進_Y: 35.93462432]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>２-4</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鶴ヶ島市消防団第２分団詰所北西側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3668115</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93462432</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3668115,35.93462432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字中新田９５番地１</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 5<br>設置場所番号: ２-5<br>設置場所の目標: さいたまコープ坂戸センター北西側敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3676808<br>世界_10進_Y: 35.94033494]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>２-5</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>さいたまコープ坂戸センター北西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3676808</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94033494</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3676808,35.94033494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市新町一丁目１番地９</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 6<br>設置場所番号: ２-6<br>設置場所の目標: 調整池北西側フェンス<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3741416<br>世界_10進_Y: 35.93987541]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>２-6</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>調整池北西側フェンス</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3741416</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93987541</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3741416,35.93987541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字下新田702番1</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 7<br>設置場所番号: ２-7<br>設置場所の目標: エトワール鹿山向かい側空地<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.371415<br>世界_10進_Y: 35.9418696]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>２-7</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>エトワール鹿山向かい側空地</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.371415</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9418696</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.371415,35.9418696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市新町三丁目１３番地</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 8<br>設置場所番号: ２-8<br>設置場所の目標: プリムベール新町北西側調整池フェンス<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.3721809<br>世界_10進_Y: 35.93352597]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>２-8</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>プリムベール新町北西側調整池フェンス</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3721809</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93352597</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3721809,35.93352597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字三ツ木５１０番地４</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 9<br>設置場所番号: 1-9<br>設置場所の目標: 三ツ木自治会館南側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.3912773<br>世界_10進_Y: 35.9279342]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>1-9</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>三ツ木自治会館南側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3912773</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9279342</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3912773,35.9279342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字太田ヶ谷３２１番地</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 1<br>設置場所番号: ３-1<br>設置場所の目標: 運動公園北側<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.3994929<br>世界_10進_Y: 35.9233362]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>３-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>運動公園北側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3994929</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9233362</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3994929,35.9233362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字太田ヶ谷７４０番地１</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 2<br>設置場所番号: ３-2<br>設置場所の目標: 鶴ヶ島農村センター南側敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4036486<br>世界_10進_Y: 35.9277252]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>３-2</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鶴ヶ島農村センター南側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4036486</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9277252</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4036486,35.9277252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字太田ヶ谷６１７番地１</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 3<br>設置場所番号: ３-3<br>設置場所の目標: 高徳神社北東側<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3988359<br>世界_10進_Y: 35.9324542]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>３-3</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>高徳神社北東側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3988359</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9324542</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3988359,35.9324542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字太田ヶ谷２５９番地４</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 4<br>設置場所番号: ３-4<br>設置場所の目標: 運動公園多目的広場B南側フェンス<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3985285<br>世界_10進_Y: 35.9203456]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>３-4</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>運動公園多目的広場B南側フェンス</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3985285</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9203456</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3985285,35.9203456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字五味ヶ谷275番地4</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 1<br>設置場所番号: ４-1<br>設置場所の目標: 交差点付近白い柵<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4152099<br>世界_10進_Y: 35.9455038]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>４-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>交差点付近白い柵</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4152099</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9455038</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4152099,35.9455038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字上広谷４７４番地１０</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 2<br>設置場所番号: ４-2<br>設置場所の目標: 民家前<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4165992<br>世界_10進_Y: 35.94263803]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>４-2</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家前</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4165992</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94263803</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4165992,35.94263803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字上広谷３９１番地１</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 3<br>設置場所番号: ４-3<br>設置場所の目標: 民家前（大谷川沿）<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4207758<br>世界_10進_Y: 35.94080053]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>４-3</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家前（大谷川沿）</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4207758</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94080053</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4207758,35.94080053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字五味ヶ谷２３２番地１０</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 4<br>設置場所番号: ４-4<br>設置場所の目標: 杉下小学校入口<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4182811<br>世界_10進_Y: 35.94424321]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>４-4</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>杉下小学校入口</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4182811</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94424321</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4182811,35.94424321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字五味ヶ谷２０２番地</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 5<br>設置場所番号: ４-5<br>設置場所の目標: 東市民センター西側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4211105<br>世界_10進_Y: 35.94521148]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>４-5</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東市民センター西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4211105</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94521148</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4211105,35.94521148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字五味ヶ谷１１０番地６</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 6<br>設置場所番号: ４-6<br>設置場所の目標: 民家（大谷川沿）<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4245656<br>世界_10進_Y: 35.94276709]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>４-6</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家（大谷川沿）</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4245656</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94276709</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4245656,35.94276709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字上広谷６番地１</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 7<br>設置場所番号: ４-7<br>設置場所の目標: とんでん鶴ヶ島店北側敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4255311<br>世界_10進_Y: 35.93956324]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>４-7</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>とんでん鶴ヶ島店北側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4255311</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93956324</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4255311,35.93956324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字五味ヶ谷１４６番地２</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 8<br>設置場所番号: ４-8<br>設置場所の目標: 五味ヶ谷自治会館前<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4237991<br>世界_10進_Y: 35.94424971]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>４-8</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>五味ヶ谷自治会館前</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4237991</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94424971</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4237991,35.94424971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字鶴ヶ丘３３１番地７</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 2<br>設置場所番号: ５-2<br>設置場所の目標: 養命酒製造跡eコラボつるがしま南側<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4126249<br>世界_10進_Y: 35.93394781]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>５-2</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>養命酒製造跡eコラボつるがしま南側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4126249</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93394781</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4126249,35.93394781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字上広谷２２６番地３</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 3<br>設置場所番号: ５-3<br>設置場所の目標: まごころの家あゆみ藤金南側フェンス<br>マッチングレベル: 大字<br>世界_10進_X: 139.4119081<br>世界_10進_Y: 35.93940053]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>５-3</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>まごころの家あゆみ藤金南側フェンス</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>大字</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4119081</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93940053</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4119081,35.93940053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字鶴ヶ丘３７６番地</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 4<br>設置場所番号: ５-4<br>設置場所の目標: どんぐり公園東側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4161357<br>世界_10進_Y: 35.93825507]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>５-4</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>どんぐり公園東側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4161357</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93825507</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4161357,35.93825507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字鶴ヶ丘３５８番地１</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 5<br>設置場所番号: ５-5<br>設置場所の目標: 鶴ヶ島第二小学校体育館前<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4147634<br>世界_10進_Y: 35.93619187]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>５-5</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鶴ヶ島第二小学校体育館前</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4147634</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93619187</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4147634,35.93619187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字上広谷１５９番地６７</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 6<br>設置場所番号: ５-6<br>設置場所の目標: 民家前（大谷川沿）<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4182054<br>世界_10進_Y: 35.93743295]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>５-6</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家前（大谷川沿）</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4182054</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93743295</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4182054,35.93743295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字藤金１３５番地１</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 7<br>設置場所番号: ５-7<br>設置場所の目標: 藤の台団地北側<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4096819<br>世界_10進_Y: 35.93627098]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>５-7</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>藤の台団地北側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4096819</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93627098</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4096819,35.93627098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字鶴ヶ丘２０番地２</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 1<br>設置場所番号: ６-1<br>設置場所の目標: 飯能信用金庫鶴ヶ島支店南側敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4191223<br>世界_10進_Y: 35.93441609]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>６-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>飯能信用金庫鶴ヶ島支店南側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4191223</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93441609</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4191223,35.93441609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字鶴ヶ丘６６番地１</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 2<br>設置場所番号: ６-2<br>設置場所の目標: コモディイイダ鶴ヶ島店西側敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4218133<br>世界_10進_Y: 35.93703709]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>６-2</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>コモディイイダ鶴ヶ島店西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4218133</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93703709</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4218133,35.93703709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字鶴ヶ丘２８番地４</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 3<br>設置場所番号: ６-3<br>設置場所の目標: 鶴ヶ島文化会館前<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4166922<br>世界_10進_Y: 35.93370574]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>６-3</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鶴ヶ島文化会館前</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4166922</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93370574</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4166922,35.93370574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字鶴ヶ丘５４番地４</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 4<br>設置場所番号: ６-4<br>設置場所の目標: 鶴ヶ島海洋センター駐車場横<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4169202<br>世界_10進_Y: 35.93220275]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>６-4</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鶴ヶ島海洋センター駐車場横</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4169202</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93220275</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4169202,35.93220275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字鶴ヶ丘１１６番地１</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 5<br>設置場所番号: ６-5<br>設置場所の目標: 鶴ヶ丘西公園南側敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4157757<br>世界_10進_Y: 35.9299534]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>６-5</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鶴ヶ丘西公園南側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4157757</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9299534</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4157757,35.9299534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字鶴ヶ丘６９９番地１</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 6<br>設置場所番号: ６-6<br>設置場所の目標: 民家道路向かい（大谷川沿）<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4143342<br>世界_10進_Y: 35.93203239]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>６-6</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家道路向かい（大谷川沿）</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4143342</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93203239</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4143342,35.93203239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字鶴ヶ丘８５５番地１</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 7<br>設置場所番号: ６-7<br>設置場所の目標: 鶴ヶ島市商工会館敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4115687<br>世界_10進_Y: 35.93132025]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>６-7</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鶴ヶ島市商工会館敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4115687</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93132025</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4115687,35.93132025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字下新田５８０番地１</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 1<br>設置場所番号: ７-1<br>設置場所の目標: 稲荷神社境内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3840716<br>世界_10進_Y: 35.94668712]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>７-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>稲荷神社境内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3840716</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94668712</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3840716,35.94668712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市羽折町１０番</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 2<br>設置場所番号: ７-2<br>設置場所の目標: 羽折児童公園東側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.3823525<br>世界_10進_Y: 35.95029798]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>７-2</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>羽折児童公園東側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3823525</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.95029798</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3823525,35.95029798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字脚折１３６番地１</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 3<br>設置場所番号: ７-3<br>設置場所の目標: メルヘン保育園前<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3876017<br>世界_10進_Y: 35.94887012]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>７-3</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>メルヘン保育園前</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3876017</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94887012</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3876017,35.94887012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市脚折町三丁目１２番１号</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 4<br>設置場所番号: ７-4<br>設置場所の目標: 北口児童公園西側敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3882185<br>世界_10進_Y: 35.9449604]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>７-4</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北口児童公園西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3882185</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9449604</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3882185,35.9449604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市脚折町四丁目１２番</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 5<br>設置場所番号: ７-5<br>設置場所の目標: 長久保小学校北側<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.3926749<br>世界_10進_Y: 35.94759983]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>７-5</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>長久保小学校北側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3926749</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94759983</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3926749,35.94759983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市脚折町二丁目２４番</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 6<br>設置場所番号: ７-6<br>設置場所の目標: 脚折近隣公園南側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.3905996<br>世界_10進_Y: 35.94950458]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>７-6</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>脚折近隣公園南側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3905996</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94950458</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3905996,35.94950458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市脚折町一丁目２３番</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 7<br>設置場所番号: ７-7<br>設置場所の目標: 八幡児童公園西側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.394919<br>世界_10進_Y: 35.95197661]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>７-7</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>八幡児童公園西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.394919</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.95197661</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.394919,35.95197661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市脚折町四丁目１８番１号</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 8<br>設置場所番号: ７-8<br>設置場所の目標: 北ヶ谷戸児童公園西側敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3922807<br>世界_10進_Y: 35.94521088]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>７-8</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北ヶ谷戸児童公園西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3922807</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94521088</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3922807,35.94521088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字脚折１４２９番地７７</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 1<br>設置場所番号: ８-1<br>設置場所の目標: 林駐車場（西）フェンス<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.3989042<br>世界_10進_Y: 35.94012615]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>８-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>林駐車場（西）フェンス</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3989042</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94012615</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3989042,35.94012615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市共栄町１３番</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 2<br>設置場所番号: ８-2<br>設置場所の目標: かわせみハウス前道反対側（飯盛川沿）<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.3996407<br>世界_10進_Y: 35.94649816]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>８-2</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>かわせみハウス前道反対側（飯盛川沿）</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.3996407</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94649816</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3996407,35.94649816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字脚折１３８４番地３１</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 3<br>設置場所番号: ８-3<br>設置場所の目標: 遊水地東側フェンス<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4018416<br>世界_10進_Y: 35.94448407]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>８-3</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>遊水地東側フェンス</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4018416</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94448407</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4018416,35.94448407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字藤金３３０番地１</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 5<br>設置場所番号: ８-5<br>設置場所の目標: 藤小学校北側<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4067407<br>世界_10進_Y: 35.94067965]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>８-5</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>藤小学校北側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4067407</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94067965</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4067407,35.94067965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字藤金８０９番地５</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 6<br>設置場所番号: ８-6<br>設置場所の目標: 遊水地北西側フェンス<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4019923<br>世界_10進_Y: 35.93839991]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>８-6</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>遊水地北西側フェンス</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4019923</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.93839991</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4019923,35.93839991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字藤金７９９番地６５</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 7<br>設置場所番号: ８-7<br>設置場所の目標: 星和公園西側敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4019501<br>世界_10進_Y: 35.94174641]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>８-7</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>星和公園西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4019501</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94174641</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4019501,35.94174641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見六丁目２番４号</name>
+        <description><![CDATA[投票区: 第九投票区<br>番号: 1<br>設置場所番号: ９-1<br>設置場所の目標: 富士見緑道若葉台通り東側ベンチ脇<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4172527<br>世界_10進_Y: 35.95563018]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>９-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見緑道若葉台通り東側ベンチ脇</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4172527</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.95563018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4172527,35.95563018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見四丁目１番</name>
+        <description><![CDATA[投票区: 第九投票区<br>番号: 2<br>設置場所番号: ９-2<br>設置場所の目標: 富士見中央近隣公園北西側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4145612<br>世界_10進_Y: 35.95392272]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>９-2</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見中央近隣公園北西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4145612</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.95392272</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4145612,35.95392272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見四丁目１番</name>
+        <description><![CDATA[投票区: 第九投票区<br>番号: 3<br>設置場所番号: ９-3<br>設置場所の目標: 富士見中央近隣公園東側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4157008<br>世界_10進_Y: 35.9539321]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>９-3</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見中央近隣公園東側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4157008</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9539321</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4157008,35.9539321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見四丁目２０番</name>
+        <description><![CDATA[投票区: 第九投票区<br>番号: 4<br>設置場所番号: ９-4<br>設置場所の目標: 富士見北児童公園北西側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4189664<br>世界_10進_Y: 35.95325323]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>９-4</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見北児童公園北西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4189664</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.95325323</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4189664,35.95325323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見四丁目２６番</name>
+        <description><![CDATA[投票区: 第九投票区<br>番号: 5<br>設置場所番号: ９-5<br>設置場所の目標: 栄小学校西側道路沿い<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4164265<br>世界_10進_Y: 35.95129102]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>９-5</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>栄小学校西側道路沿い</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4164265</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.95129102</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4164265,35.95129102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見四丁目２６番</name>
+        <description><![CDATA[投票区: 第九投票区<br>番号: 6<br>設置場所番号: ９-6<br>設置場所の目標: 栄小学校東側道路沿い<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4182754<br>世界_10進_Y: 35.95067551]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>９-6</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>栄小学校東側道路沿い</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4182754</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.95067551</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4182754,35.95067551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見五丁目１２番</name>
+        <description><![CDATA[投票区: 第九投票区<br>番号: 7<br>設置場所番号: ９-7<br>設置場所の目標: 富士見東児童公園南西側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4205737<br>世界_10進_Y: 35.95055496]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>９-7</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見東児童公園南西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4205737</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.95055496</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4205737,35.95055496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市松ヶ丘一丁目１３番</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 5<br>設置場所番号: 3-5<br>設置場所の目標: 富士見台児童公園北西側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4149528<br>世界_10進_Y: 35.928668]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>3-5</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見台児童公園北西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4149528</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.928668</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4149528,35.928668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市松ヶ丘五丁目２８番</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 6<br>設置場所番号: 3-6<br>設置場所の目標: 鶴ヶ島南近隣公園南東側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4135599<br>世界_10進_Y: 35.925764]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>3-6</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鶴ヶ島南近隣公園南東側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4135599</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.925764</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4135599,35.925764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市南町一丁目２７番１号</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 7<br>設置場所番号: 3-7<br>設置場所の目標: 南中学校テニスコート南側フェンス<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4066391<br>世界_10進_Y: 35.9240776]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>3-7</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>南中学校テニスコート南側フェンス</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4066391</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9240776</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4066391,35.9240776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市南町一丁目２６番１号</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 8<br>設置場所番号: 3-8<br>設置場所の目標: 南小学校東側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4070821<br>世界_10進_Y: 35.9257645]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>3-8</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>南小学校東側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4070821</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9257645</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4070821,35.9257645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見二丁目８番</name>
+        <description><![CDATA[投票区: 第十投票区<br>番号: 1<br>設置場所番号: 10-1<br>設置場所の目標: 富士見西児童公園西側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4116795<br>世界_10進_Y: 35.9535979]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>10-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見西児童公園西側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4116795</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9535979</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4116795,35.9535979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見二丁目１７番２号</name>
+        <description><![CDATA[投票区: 第十投票区<br>番号: 2<br>設置場所番号: 10-2<br>設置場所の目標: （有）永和堂不動産横駐車場フェンス沿い<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4137563<br>世界_10進_Y: 35.9509679]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>10-2</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>（有）永和堂不動産横駐車場フェンス沿い</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4137563</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9509679</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4137563,35.9509679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見二丁目１番７号</name>
+        <description><![CDATA[投票区: 第十投票区<br>番号: 3<br>設置場所番号: 10-3<br>設置場所の目標: 若葉駅東口駐輪場西側道路沿い<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4109421<br>世界_10進_Y: 35.9506764]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>10-3</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>若葉駅東口駐輪場西側道路沿い</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4109421</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9506764</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4109421,35.9506764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見二丁目３６番１号</name>
+        <description><![CDATA[投票区: 第十投票区<br>番号: 4<br>設置場所番号: 10-4<br>設置場所の目標: 富士見中学校西側道路沿い<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4138713<br>世界_10進_Y: 35.9486009]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>10-4</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見中学校西側道路沿い</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4138713</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9486009</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4138713,35.9486009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見一丁目１３番</name>
+        <description><![CDATA[投票区: 第十投票区<br>番号: 5<br>設置場所番号: 10-5<br>設置場所の目標: 富士見南公園北側敷地内<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4128206<br>世界_10進_Y: 35.9490588]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>10-5</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見南公園北側敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4128206</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9490588</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4128206,35.9490588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見二丁目３６番１号</name>
+        <description><![CDATA[投票区: 第十投票区<br>番号: 6<br>設置場所番号: 10-6<br>設置場所の目標: 富士見中学校南側道路沿い<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4158174<br>世界_10進_Y: 35.948456]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>10-6</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見中学校南側道路沿い</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4158174</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.948456</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4158174,35.948456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市富士見一丁目１５番</name>
+        <description><![CDATA[投票区: 第十投票区<br>番号: 7<br>設置場所番号: 10-7<br>設置場所の目標: 県営富士見団地西側道路沿い<br>マッチングレベル: 地番・番地<br>世界_10進_X: 139.4123423<br>世界_10進_Y: 35.9474942]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>10-7</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>県営富士見団地西側道路沿い</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番・番地</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4123423</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9474942</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4123423,35.9474942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字藤金８６３番地２</name>
+        <description><![CDATA[投票区: 第十一投票区<br>番号: 1<br>設置場所番号: 11-1<br>設置場所の目標: 民家前<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4033602<br>世界_10進_Y: 35.9487172]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>11-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家前</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4033602</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9487172</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4033602,35.9487172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市若葉二丁目1番5</name>
+        <description><![CDATA[投票区: 第十一投票区<br>番号: 2<br>設置場所番号: 11-2<br>設置場所の目標: レクセルプラザ若葉南東側空地<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4097289<br>世界_10進_Y: 35.946711]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>11-2</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>レクセルプラザ若葉南東側空地</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4097289</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.946711</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4097289,35.946711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字藤金８７１番地３</name>
+        <description><![CDATA[投票区: 第十一投票区<br>番号: 3<br>設置場所番号: 11-3<br>設置場所の目標: 共栄第二会館前敷地内<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4034222<br>世界_10進_Y: 35.9465892]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>11-3</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>共栄第二会館前敷地内</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4034222</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9465892</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4034222,35.9465892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字藤金８９７番地５</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 4<br>設置場所番号: ８-4<br>設置場所の目標: ドラッグセキ店舗北側<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4027132<br>世界_10進_Y: 35.94503139]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>８-4</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ドラッグセキ店舗北側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4027132</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.94503139</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4027132,35.94503139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字藤金８３５番地１</name>
+        <description><![CDATA[投票区: 第十一投票区<br>番号: 5<br>設置場所番号: 11-5<br>設置場所の目標: 若葉グリーンハイツ北側<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4066173<br>世界_10進_Y: 35.9458632]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>11-5</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>若葉グリーンハイツ北側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4066173</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9458632</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4066173,35.9458632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市若葉一丁目13番4</name>
+        <description><![CDATA[投票区: 第十一投票区<br>番号: 6<br>設置場所番号: 11-6<br>設置場所の目標: ハンカチノキ公園フェンス<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.405496<br>世界_10進_Y: 35.9481079]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>11-6</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ハンカチノキ公園フェンス</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.405496</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9481079</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.405496,35.9481079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字藤金２７２番地１</name>
+        <description><![CDATA[投票区: 第十一投票区<br>番号: 7<br>設置場所番号: 11-7<br>設置場所の目標: 藤中学校北側<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4090332<br>世界_10進_Y: 35.9426539]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>11-7</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>藤中学校北側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4090332</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9426539</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4090332,35.9426539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市若葉一丁目7番10</name>
+        <description><![CDATA[投票区: 第十一投票区<br>番号: 8<br>設置場所番号: 11-8<br>設置場所の目標: 若葉駅西口ロータリー<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4079515<br>世界_10進_Y: 35.9488065]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>11-8</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>若葉駅西口ロータリー</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4079515</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9488065</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4079515,35.9488065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字鶴ヶ丘273-18</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 1<br>設置場所番号: ５-1<br>設置場所の目標: なかまる公園<br>マッチングレベル: <br>世界_10進_X: 139.4115836<br>世界_10進_Y: 35.932381]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>５-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>なかまる公園</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value/>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4115836</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.932381</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4115836,35.932381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴ヶ島市大字藤金２７２番地１</name>
+        <description><![CDATA[投票区: 第十一投票区<br>番号: 4<br>設置場所番号: 11-4<br>設置場所の目標: 藤中学校東側<br>マッチングレベル: 地番（枝番まで）・号<br>世界_10進_X: 139.4101909<br>世界_10進_Y: 35.9417206]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所番号">
+            <value>11-4</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>藤中学校東側</value>
+          </Data>
+          <Data name="マッチングレベル">
+            <value>地番（枝番まで）・号</value>
+          </Data>
+          <Data name="世界_10進_X">
+            <value>139.4101909</value>
+          </Data>
+          <Data name="世界_10進_Y">
+            <value>35.9417206</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4101909,35.9417206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

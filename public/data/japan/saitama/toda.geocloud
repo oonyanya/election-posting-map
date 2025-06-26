@@ -1,0 +1,4862 @@
+{
+	"ret": {
+		"mapId": "1702-4",
+		"point": [
+			{
+				"x": 139.6697890836874,
+				"y": 35.818030490901165,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 15,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "15",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 351",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "戸田駅市民花壇（東口）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 106,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 351",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.67127063016974,
+				"y": 35.81989924484973,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 15,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "15",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 131",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "福祉共同利用建物（旧市職員住宅）跡地南側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 114,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 131",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66498803765143,
+				"y": 35.8202634482539,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 23,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "23",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 1286",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "戸田スポーツセンター南側入口",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 105,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 1286",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6701872619371,
+				"y": 35.81630155385219,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 15,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "15",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市　大字新曽 340",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "戸田駅南自転車駐車場南側フェンス（市役所通り側））",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 98,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市　大字新曽 340",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6651874636445,
+				"y": 35.81808220910377,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 23,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "23",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 1367",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "新曽北小学校東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 104,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 1367",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66537947853647,
+				"y": 35.82191181196557,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 23,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "23",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 1286",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "戸田スポーツセンター北側入口",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 120,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 1286",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.67238229533382,
+				"y": 35.82153705441971,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 9,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "9",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 8,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "8",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字上戸田 5-4",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "健康福祉の杜北西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 126,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字上戸田 5-4",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66978032511335,
+				"y": 35.81524603511817,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 15,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "15",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 326-1",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 101,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 326-1",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66400572988823,
+				"y": 35.81926625535766,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 23,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "23",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 1707",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "図書館・郷土博物館東側植込み",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 103,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 1707",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.67432400382043,
+				"y": 35.81864090922901,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 9,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "9",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字上戸田 97-1",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "旧男女共同参画センターテニスコート跡地東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 115,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字上戸田 97-1",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66254035308103,
+				"y": 35.821227486599476,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 23,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "23",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市　大字新曽 1448",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "新曽中学校西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 102,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市　大字新曽 1448",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.67507050382156,
+				"y": 35.82004310539404,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 9,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "9",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  上戸田 4 丁目 2",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "後谷第二公園西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 116,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  上戸田 4 丁目 2",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66378878674712,
+				"y": 35.81429467218618,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 16,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "16",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 1395",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "新曽福祉センター西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 94,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 1395",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66961862836223,
+				"y": 35.81252740879784,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 15,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "15",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 980",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "市営柳原住宅東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 40,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 980",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66799222854033,
+				"y": 35.81161826540181,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 16,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "16",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 1012",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家南側（中央通り）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 38,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 1012",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6620896233872,
+				"y": 35.82461955565034,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 24,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "24",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市　大字新曽 1961",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "芦原小学校東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 118,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市　大字新曽 1961",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.67655609272268,
+				"y": 35.81626731709482,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 9,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "9",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  上戸田 4 丁目 8",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "後谷公園南側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 109,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  上戸田 4 丁目 8",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.67589515725237,
+				"y": 35.81470151599894,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 10,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "10",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  上戸田 3 丁目 22",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "市営後谷住宅東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 107,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  上戸田 3 丁目 22",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6748501919981,
+				"y": 35.81338919136545,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 10,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "10",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  上戸田 3 丁目 18",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "鍛冶谷町公園南側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 55,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  上戸田 3 丁目 18",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.67729181294035,
+				"y": 35.81731153155289,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 9,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "9",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  上戸田 1 丁目 18- 1",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "戸田市役所正門",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 108,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  上戸田 1 丁目 18- 1",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6609179956779,
+				"y": 35.82447278993399,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 23,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "23",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市　大字新曽 1961",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "芦原小学校西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 119,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市　大字新曽 1961",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6621731667086,
+				"y": 35.82632828193278,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 24,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "24",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 2011",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "北戸田駅南自転車駐車場前フェンス（新曽つつじ通り側）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 121,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 2011",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66741146770914,
+				"y": 35.809997006696214,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 14,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "14",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  新曽南 2 丁目  2- 8",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家（新曽南郵便局南）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 33,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  新曽南 2 丁目  2- 8",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.67866151916982,
+				"y": 35.81939227092934,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 9,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "9",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  上戸田 1 丁目 21",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "後谷第一公園北側（戸田市商工会東側）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 117,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  上戸田 1 丁目 21",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6762434790038,
+				"y": 35.81258969348124,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 10,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "10",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  上戸田 3 丁目 7",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "戸田第一小学校正門",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 56,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  上戸田 3 丁目 7",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66406703990634,
+				"y": 35.810034524402774,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 14,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "14",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  新曽南 2 丁目 13- 8",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "新曽小学校東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 28,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  新曽南 2 丁目 13- 8",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6788717249463,
+				"y": 35.816983736376,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 9,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "9",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  上戸田 1 丁目 18- 1",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "戸田市役所東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 110,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  上戸田 1 丁目 18- 1",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65897359224542,
+				"y": 35.81481588353513,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 16,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "16",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 2342-2",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "新曽北町児童遊園地西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 95,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 2342-2",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65923769693893,
+				"y": 35.82545607863355,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 24,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "24",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 8,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "8",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市　大字下笹目 116-4",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "ボール公園北側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 125,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市　大字下笹目 116-4",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66023752185015,
+				"y": 35.82724417612363,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 24,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "24",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 2193- 3",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "北戸田駅西口植込み（交番前）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 123,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 2193- 3",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.67700143252475,
+				"y": 35.81181495596121,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 10,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "10",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  本町 2 丁目 1-19",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "(株)鴨下土建前（中央通り）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 57,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  本町 2 丁目 1-19",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65998352320358,
+				"y": 35.828002375564346,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 24,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "24",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 2004",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "北戸田駅東口植込み（駅前北側）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 124,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 2004",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65617354350482,
+				"y": 35.81980309487225,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 17,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "17",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 1 丁目 20",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "谷口公園東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 76,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 1 丁目 20",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.67236882060456,
+				"y": 35.807612592599256,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 12,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "12",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  本町 3 丁目 5",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家南側月極駐車場南側（オリンピック通り）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 42,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  本町 3 丁目 5",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65715113511277,
+				"y": 35.81417083390634,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 16,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "16",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字新曽 2467",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "3号市民緑地西側（妙顕寺西北）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 8,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字新曽 2467",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65757356787512,
+				"y": 35.82601545521305,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 24,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "24",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市　美女木東 １ 丁目 2-25",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "北戸田住宅Ｄ棟東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 93,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市　美女木東 １ 丁目 2-25",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6588442348445,
+				"y": 35.82827149456538,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 24,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "24",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字下笹目 113",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "北戸田駅北自転車駐車場南側フェンス（ロータリー側）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 122,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字下笹目 113",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68083701420912,
+				"y": 35.814739759938625,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 10,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "10",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  上戸田 2 丁目 11",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "元蕨第二公園北側(元蕨会館前)",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 111,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  上戸田 2 丁目 11",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65880246318378,
+				"y": 35.810297876348905,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 18,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "18",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  氷川町 2 丁目-4512",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "土に親しむ広場氷川町第２広場",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 27,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  氷川町 2 丁目-4512",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6549433007232,
+				"y": 35.82208698957017,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 22,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "22",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目北町 6",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "サニ－ハウス戸田北側(交差点)",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 88,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目北町 6",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66720530435143,
+				"y": 35.805781069181464,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 13,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "13",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 8,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "8",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市　新曽南 3 丁目 8",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "金森橋交差点北側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 13,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市　新曽南 3 丁目 8",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68062276601384,
+				"y": 35.81247204459381,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 10,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "10",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 8,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "8",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市　上戸田 2 丁目 21- 1 ",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "上戸田地域交流センター（あいパル）西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 60,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市　上戸田 2 丁目 21- 1 ",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6557120340276,
+				"y": 35.814041531966836,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 17,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "17",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 2 丁目 5-5",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "笹目川保育園東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 9,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 2 丁目 5-5",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.67254399208497,
+				"y": 35.80602185062597,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 13,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "13",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  南町 7 番",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "南町児童公園",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 19,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  南町 7 番",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6544049852892,
+				"y": 35.81480932743879,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 17,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "17",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 2 丁目 9-10",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家（西部浄水場東）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 72,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 2 丁目 9-10",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68241221005985,
+				"y": 35.81379130479857,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  下戸田 2 丁目 13-11",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 61,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  下戸田 2 丁目 13-11",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.66115043475764,
+				"y": 35.80579381859548,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 14,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "14",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  新曽南 4 丁目 3",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "戸田競艇場有料第1駐車場北側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 12,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  新曽南 4 丁目 3",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6526067826692,
+				"y": 35.81955142903893,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 17,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "17",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 1 丁目 38",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "惣右衛門公園北側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 77,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 1 丁目 38",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65491567752824,
+				"y": 35.81077467592152,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 18,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "18",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市 氷川町2丁目13",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "堤向橋際",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 7,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市 氷川町2丁目13",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6577473918826,
+				"y": 35.80726618001259,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 14,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "14",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  氷川町 3 丁目-5",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "氷川町さくらひろば",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 31,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  氷川町 3 丁目-5",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6849333319047,
+				"y": 35.817874243450646,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  下戸田 2 丁目 2",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "荒井前公園西側（はごろも幼稚園東側）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 173,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  下戸田 2 丁目 2",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65365579034224,
+				"y": 35.81215661358954,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 18,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "18",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目南町 18",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "笹目南さくら公園西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 11,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目南町 18",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65206038239765,
+				"y": 35.81528682837343,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 17,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "17",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 3 丁目 17-12",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "笹目東小学校正門",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 71,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 3 丁目 17-12",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65250774340913,
+				"y": 35.82552490838631,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 22,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "22",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目北町 10-19",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "美女木東１丁目交差点南東駐車場北側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 91,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目北町 10-19",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65077960938132,
+				"y": 35.8211841470083,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 22,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "22",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 4 丁目 38",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "笹目中学校正門右側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 75,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 4 丁目 38",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68582333777243,
+				"y": 35.81384630385076,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  下戸田 1 丁目 11",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "戸田東中学校正門",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 156,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  下戸田 1 丁目 11",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65038614728687,
+				"y": 35.817539530511176,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 17,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "17",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 3 丁目 4- 3",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家西側（西電話局通り）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 68,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 3 丁目 4- 3",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68497442982897,
+				"y": 35.81142958770369,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  下前 1 丁目 10",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "住宅公団５号棟北側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 159,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  下前 1 丁目 10",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6511191725587,
+				"y": 35.812892374492726,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 18,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "18",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目南町 35-12",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 10,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目南町 35-12",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6853699131328,
+				"y": 35.810844611141405,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  下前 1 丁目 7",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "市営もくせい住宅南側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 158,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  下前 1 丁目 7",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65223892256037,
+				"y": 35.80995329672449,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 18,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "18",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目南町 16",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "笹目南公園",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 6,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目南町 16",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64904878040764,
+				"y": 35.815282093443074,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 17,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "17",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 3 丁目 12- 1",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "笹目コミュニティセンター西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 67,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 3 丁目 12- 1",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.647955306128,
+				"y": 35.81897270385712,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 22,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "22",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 4 丁目 29",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "山宮公園東側(笹目4丁目会館前)",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 73,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 4 丁目 29",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68755012432737,
+				"y": 35.81074189376603,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  下前 1 丁目 2-20",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "東部福祉センター東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 160,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  下前 1 丁目 2-20",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6516999333899,
+				"y": 35.806865854857485,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 18,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "18",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目南町 10",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "辺島橋際",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 2,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目南町 10",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68162932828972,
+				"y": 35.80261186565068,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 13,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "13",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  戸田公園 2",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "ボ－トレ－ス場水門フェンス",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 15,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  戸田公園 2",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68616626963214,
+				"y": 35.807261808866194,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  下前 2 丁目 6-1",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家北側（下前公団通り）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 144,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  下前 2 丁目 6-1",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68586039327792,
+				"y": 35.80628703721184,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  下前 2 丁目 6- 8",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家前（川岸交差点）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 133,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  下前 2 丁目 6- 8",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68055741357693,
+				"y": 35.80111027472705,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 13,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "13",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  戸田公園 5- 8",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "旭が丘会館南側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 16,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  戸田公園 5- 8",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6470747325708,
+				"y": 35.81472045585709,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 19,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "19",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 6 丁目 4",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "野竹公園東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 69,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 6 丁目 4",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68440310130828,
+				"y": 35.80407809334684,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 8,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "8",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  川岸 2 丁目 6",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "市営川岸住宅西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 24,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  川岸 2 丁目 6",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68462678181402,
+				"y": 35.803612546218254,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 8,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "8",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  川岸 2 丁目 6-18",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "消防第５分団南側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 25,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  川岸 2 丁目 6-18",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64719600513413,
+				"y": 35.82742698952372,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 21,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "21",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 2 丁目 33-1",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "美女木小学校正門西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 90,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 2 丁目 33-1",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6865927448133,
+				"y": 35.80525069174564,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 8,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "8",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  川岸 2 丁目 4- 8",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "心身障害者福祉会館南側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 131,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  川岸 2 丁目 4- 8",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64790612336623,
+				"y": 35.8093409903414,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 19,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "19",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 8 丁目 1",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "聖橋バス停横",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 5,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 8 丁目 1",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64564573753256,
+				"y": 35.81478237459254,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 19,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "19",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 6 丁目 9- 1",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "笹目小学校正門",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 70,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 6 丁目 9- 1",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64785559313148,
+				"y": 35.83078419897792,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 21,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "21",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  大字美女木 1117",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "向田児童遊園地西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 176,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  大字美女木 1117",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6450771039577,
+				"y": 35.82129194964508,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 22,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "22",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 4 丁目 20- 6",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "介護老人保健施設北西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 74,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 4 丁目 20- 6",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.65075131244987,
+				"y": 35.80396443890053,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 18,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "18",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  早瀬 1 丁目 20",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "早瀬東公園南側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 0,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  早瀬 1 丁目 20",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.68571149751958,
+				"y": 35.80246214497668,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 8,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "8",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  川岸 1 丁目 8-16",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 127,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  川岸 1 丁目 8-16",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6902545024902,
+				"y": 35.80815060368406,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  中町 2 丁目 8",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "中町多目的広場北側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 141,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  中町 2 丁目 8",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.69205472631958,
+				"y": 35.81123581014169,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  中町 1 丁目 24",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家(中町バス停）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 168,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  中町 1 丁目 24",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.643739063342,
+				"y": 35.822157279020075,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 22,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "22",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 4 丁目 14",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "砂場公園西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 81,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 4 丁目 14",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64614632372462,
+				"y": 35.80622875452162,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 19,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "19",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 6,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "6",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 8 丁目 5",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "早瀬公園南側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 1,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 8 丁目 5",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64250747308748,
+				"y": 35.81759561961143,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 19,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "19",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 5 丁目 19",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "天王公園北側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 64,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 5 丁目 19",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64232084808722,
+				"y": 35.820728533571696,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 20,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "20",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 5 丁目 2-16",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "美笹支所正門",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 65,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 5 丁目 2-16",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64285916352125,
+				"y": 35.82511484241691,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 21,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "21",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 7,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "7",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 3 丁目 12",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "薮雨公園東側(美女木３丁目会館前)",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 78,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 3 丁目 12",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64270689908057,
+				"y": 35.827361803120596,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 21,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "21",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 2 丁目 9-4",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "民家東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 86,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 2 丁目 9-4",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.69445524933758,
+				"y": 35.81110249673235,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  喜沢 2 丁目 6",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "喜沢２丁目児童公園",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 165,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  喜沢 2 丁目 6",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6424576165892,
+				"y": 35.8114463428842,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 19,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "19",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 7 丁目 1",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "笹目公園南側（笹目公園野球場）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 4,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 7 丁目 1",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64320209538096,
+				"y": 35.80929873702007,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 19,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "19",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  笹目 7 丁目 9",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "夏浜公園北側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 3,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  笹目 7 丁目 9",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.64010492886013,
+				"y": 35.819193413895505,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 20,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "20",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 5 丁目 12",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "美笹中学校南西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 66,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 5 丁目 12",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.6398569938417,
+				"y": 35.82683885327855,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 21,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "21",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 3,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "3",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 2 丁目 20",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "美女木公園西側（妙厳寺東側）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 85,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 2 丁目 20",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.69781786802486,
+				"y": 35.81463231263273,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  喜沢 1 丁目 8",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "後第二公園南側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 171,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  喜沢 1 丁目 8",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.69725866676046,
+				"y": 35.80961563638206,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 2,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "2",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 1,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "1",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  喜沢 2 丁目 9",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "立野際小公園",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 148,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  喜沢 2 丁目 9",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.63818949609555,
+				"y": 35.82429142646544,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 20,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "20",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 4,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "4",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 7 丁目 6",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "堀ノ内公園西側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 80,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 7 丁目 6",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.63963196586303,
+				"y": 35.83058864788084,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 21,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "21",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 8,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "8",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 １ 丁目 17-6",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "美女木１丁目町会会館入口（南側）",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 175,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 １ 丁目 17-6",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.63906063734234,
+				"y": 35.82919610620888,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 21,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "21",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 1 丁目 22",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "重瀬公園東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 174,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 1 丁目 22",
+				"mapId": "1702-4"
+			},
+			{
+				"x": 139.63772461793602,
+				"y": 35.826247070923806,
+				"width": 0,
+				"height": 0,
+				"styleCode": 0,
+				"relations": [],
+				"attributes": {
+					"投票区": {
+						"nakedValue": 20,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "20",
+						"columnName": "投票区"
+					},
+					"設置番号": {
+						"nakedValue": 5,
+						"type": {
+							"lengthFormat": "",
+							"type": "0"
+						},
+						"value": "5",
+						"columnName": "設置番号"
+					},
+					"ポスター掲示場の設置場所": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "埼玉県戸田市  美女木 7 丁目 11- 3",
+						"columnName": "ポスター掲示場の設置場所"
+					},
+					"設置場所の目標": {
+						"type": {
+							"lengthFormat": "",
+							"type": "2"
+						},
+						"value": "美谷本小学校東側",
+						"columnName": "設置場所の目標"
+					}
+				},
+				"itemId": 84,
+				"layerId": "4",
+				"layerName": "ポスター掲示場一覧R7参院選",
+				"name": "埼玉県戸田市  美女木 7 丁目 11- 3",
+				"mapId": "1702-4"
+			}
+		],
+		"polyline": [],
+		"polygon": []
+	},
+	"msg": "アイテム一覧",
+	"status": "OK"
+}

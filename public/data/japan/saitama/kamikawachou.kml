@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>神川町選挙ポスター掲示場位置図</name>
+    <description/>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>google用掲示場一覧.csv</name>
+      <Placemark>
+        <name>神川町電話交換センター</name>
+        <address>埼玉県児玉郡神川町埼玉県児玉郡神川町大字植竹４７９－５</address>
+        <description><![CDATA[﻿投票区: 第一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字植竹４７９－５]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字植竹４７９－５</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>神川町役場</name>
+        <description><![CDATA[﻿投票区: 第一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字植竹９０９]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字植竹９０９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1011016,36.2134359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>植竹第４集会所</name>
+        <address>埼玉県児玉郡神川町埼玉県児玉郡神川町大字植竹１２９９－３</address>
+        <description><![CDATA[﻿投票区: 第一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字植竹１２９９－３]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字植竹１２９９－３</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>肥土中集会所（火の見下）</name>
+        <address>埼玉県児玉郡神川町埼玉県児玉郡神川町大字肥土１０４－２</address>
+        <description><![CDATA[﻿投票区: 第一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字肥土１０４－２]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字肥土１０４－２</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>元郷集会所前</name>
+        <address>埼玉県児玉郡神川町埼玉県児玉郡神川町大字肥土３２７－３</address>
+        <description><![CDATA[﻿投票区: 第一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字肥土３２７－３]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字肥土３２７－３</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>丹荘小学校</name>
+        <description><![CDATA[﻿投票区: 第一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字関口１１０]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字関口１１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1012521,36.2188814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関口東集荷所跡地（花壇）</name>
+        <description><![CDATA[﻿投票区: 第一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字関口１８７－３]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字関口１８７－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1009656,36.2229679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ライフピア神川前</name>
+        <description><![CDATA[﻿投票区: 第一投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字植竹３１１－１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字植竹３１１－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0969209,36.2165034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元阿保旧公会堂</name>
+        <address>埼玉県児玉郡神川町埼玉県児玉郡神川町大字元阿保５８６－１</address>
+        <description><![CDATA[﻿投票区: 第二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字元阿保５８６－１]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字元阿保５８６－１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>元阿保十字路（民家前）</name>
+        <description><![CDATA[﻿投票区: 第二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字元阿保５９０－１]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字元阿保５９０－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1051651,36.222539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲中集荷所前（稲荷塚）</name>
+        <address>埼玉県児玉郡神川町埼玉県児玉郡神川町大字元阿保５３８</address>
+        <description><![CDATA[﻿投票区: 第二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字元阿保５３８]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字元阿保５３８</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>元阿保十字路（福島屋穀店西）</name>
+        <description><![CDATA[﻿投票区: 第二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字元阿保１９４－１]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字元阿保１９４－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1035305,36.2248268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[﻿投票区: 第二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字四軒在家２２５]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字四軒在家２２５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1044693,36.2296062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四軒在家集荷所跡地（空地）</name>
+        <description><![CDATA[﻿投票区: 第二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字四軒在家２３７]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字四軒在家２３７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1044379,36.2308945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八日市上排水路西</name>
+        <description><![CDATA[﻿投票区: 第三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字八日市２２－３]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字八日市２２－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1127723,36.2155299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八日市集会所</name>
+        <description><![CDATA[﻿投票区: 第三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字八日市４４４－１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字八日市４４４－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1165734,36.21283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丹荘公園入口</name>
+        <description><![CDATA[﻿投票区: 第三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字八日市２５７０－７]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字八日市２５７０－７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1245781,36.2068382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊野神社</name>
+        <description><![CDATA[﻿投票区: 第三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字八日市５２７－１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字八日市５２７－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1141518,36.2108826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>原新田集会所</name>
+        <address>埼玉県児玉郡神川町埼玉県児玉郡神川町大字原新田１０９１－３</address>
+        <description><![CDATA[﻿投票区: 第三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字原新田１０９１－３]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字原新田１０９１－３</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>美原集会所</name>
+        <description><![CDATA[﻿投票区: 第三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字熊野堂２００－１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字熊野堂２００－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1212746,36.2166391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元原集会所</name>
+        <description><![CDATA[﻿投票区: 第三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字元原３４－１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字元原３４－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1261544,36.2203944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西</name>
+        <description><![CDATA[﻿投票区: 第四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字小浜５６６－１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字小浜５６６－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0817802,36.2073491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小浜自衛消防小屋東</name>
+        <description><![CDATA[﻿投票区: 第四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字小浜５９７]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字小浜５９７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0810104,36.2066749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小浜向集会所</name>
+        <description><![CDATA[﻿投票区: 第四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字小浜２８７－１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字小浜２８７－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0803584,36.2037861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>貫井集会所</name>
+        <description><![CDATA[﻿投票区: 第四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字貫井９４－１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字貫井９４－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0877047,36.2071337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>貫井観音堂</name>
+        <description><![CDATA[﻿投票区: 第四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字貫井１５７－１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字貫井１５７－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.087922,36.2097877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本郷公民館</name>
+        <description><![CDATA[﻿投票区: 第五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿２８－１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿２８－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0644023,36.1856977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新宿交差点</name>
+        <description><![CDATA[﻿投票区: 第五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿４８－１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿４８－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0651825,36.1864812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峰岸公民館</name>
+        <address>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿１１２４－３</address>
+        <description><![CDATA[﻿投票区: 第五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿１１２４－３]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿１１２４－３</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[﻿投票区: 第五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿１１０８－１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿１１０８－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0733543,36.192299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄島公民館</name>
+        <address>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿１８１－１</address>
+        <description><![CDATA[﻿投票区: 第五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿１８１－１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新宿１８１－１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>泉徳寺南</name>
+        <description><![CDATA[﻿投票区: 第六投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字池田２８－３]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字池田２８－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0770874,36.192202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>井上精米所前</name>
+        <description><![CDATA[﻿投票区: 第六投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字池田４１－１]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字池田４１－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0751861,36.1926478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>消防第２分団車庫前</name>
+        <description><![CDATA[﻿投票区: 第六投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字池田５９９－１]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字池田５９９－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0825401,36.1965406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山越商店前</name>
+        <description><![CDATA[﻿投票区: 第六投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字池田１７７－１]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字池田１７７－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.079558,36.1952613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青柳駐在所東</name>
+        <description><![CDATA[﻿投票区: 第六投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字二ノ宮７９－３]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字二ノ宮７９－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0836611,36.1980566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金鑽公民館</name>
+        <description><![CDATA[﻿投票区: 第六投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字二ノ宮６５８－１]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字二ノ宮６５８－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0773484,36.1844748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萩平公民館</name>
+        <description><![CDATA[﻿投票区: 第六投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字二ノ宮４６－１]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字二ノ宮４６－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0850172,36.1960169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>光明寺東</name>
+        <description><![CDATA[﻿投票区: 第七投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里１８２８－２]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里１８２８－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.096125,36.2031111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧新里下集乳所</name>
+        <description><![CDATA[﻿投票区: 第七投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里１１１６－２]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里１１１６－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.101989,36.2024369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[﻿投票区: 第七投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里１７３６]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里１７３６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0984805,36.2026369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ミカミ建設東公園前</name>
+        <description><![CDATA[﻿投票区: 第七投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里２２４１－１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里２２４１－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.099933,36.1948324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青柳保育所南（保育所駐車場）</name>
+        <description><![CDATA[﻿投票区: 第七投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里２７９０－１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里２７９０－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.092852,36.1952956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中新里集落センター</name>
+        <description><![CDATA[﻿投票区: 第七投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字中新里７４－３]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字中新里７４－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0920478,36.2084299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[﻿投票区: 第七投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字中新里５８９－１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字中新里５８９－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1044173,36.2075648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>消防署県道反対</name>
+        <address>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里３８４－１</address>
+        <description><![CDATA[﻿投票区: 第七投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里３８４－１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里３８４－１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>赤羽二本松</name>
+        <description><![CDATA[﻿投票区: 第七投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里１２２５－１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字新里１２２５－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1075505,36.2000661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝日工業バス停留所前</name>
+        <description><![CDATA[﻿投票区: 第八投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字渡瀬２２２]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字渡瀬２２２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0605986,36.1786039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡瀬本宿バス停横</name>
+        <description><![CDATA[﻿投票区: 第八投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町埼玉県児玉郡神川町大字渡瀬５１６]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町埼玉県児玉郡神川町大字渡瀬５１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0597608,36.1754896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧消防第１分団車庫横（渡瀬小）</name>
+        <description><![CDATA[﻿投票区: 第八投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字渡瀬５４０－１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字渡瀬５４０－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0596056,36.1739107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>消防第１分団車庫前</name>
+        <description><![CDATA[﻿投票区: 第八投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字渡瀬４６３－１５]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字渡瀬４６３－１５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0611936,36.175658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[﻿投票区: 第八投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字渡瀬６０６]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字渡瀬６０６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0596628,36.1720016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本マイカ第二工場</name>
+        <description><![CDATA[﻿投票区: 第八投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字渡瀬６３７]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字渡瀬６３７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0617746,36.1719027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南</name>
+        <description><![CDATA[﻿投票区: 第八投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字渡瀬８１３]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字渡瀬８１３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.060013,36.1691673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道のオアシス神泉</name>
+        <description><![CDATA[﻿投票区: 第九投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字下阿久原７７－１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字下阿久原７７－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0624291,36.1547106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南</name>
+        <description><![CDATA[﻿投票区: 第九投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字下阿久原３００－１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字下阿久原３００－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0622206,36.1489649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧埼玉ひびきの農協神泉支店横</name>
+        <description><![CDATA[﻿投票区: 第九投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字下阿久原５９１－６]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字下阿久原５９１－６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0577971,36.1503975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜城団地入り口</name>
+        <description><![CDATA[﻿投票区: 第九投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字下阿久原２１８－５５]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字下阿久原２１８－５５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0647866,36.1500034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中居ポケット広場内</name>
+        <description><![CDATA[﻿投票区: 第九投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字下阿久原１０４０－２]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字下阿久原１０４０－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0520965,36.1497655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寺内バス停前</name>
+        <description><![CDATA[﻿投票区: 第九投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字上阿久原１４１－１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字上阿久原１４１－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0440927,36.147114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家裏</name>
+        <description><![CDATA[﻿投票区: 第九投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字上阿久原３４８]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字上阿久原３４８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0486447,36.1449854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>特養いずみ東交差点</name>
+        <description><![CDATA[﻿投票区: 第九投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字上阿久原６０７]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字上阿久原６０７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0548182,36.1462628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住居野掲示板横</name>
+        <description><![CDATA[﻿投票区: 第九投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字上阿久原８６６]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字上阿久原８６６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0481462,36.1267046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>手津久入り口</name>
+        <description><![CDATA[﻿投票区: 第十投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字矢納１８－１]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字矢納１８－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.034348,36.1237092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥羽バス待合所</name>
+        <description><![CDATA[﻿投票区: 第十投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字矢納２９４－２]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字矢納２９４－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0284568,36.1206223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高牛農道入り口</name>
+        <description><![CDATA[﻿投票区: 第十投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字矢納６２５－３]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字矢納６２５－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0318284,36.1161741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜の谷バス停横</name>
+        <description><![CDATA[﻿投票区: 第十投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字矢納７２３－２]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字矢納７２３－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0340734,36.1145035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>満所農道入り口</name>
+        <description><![CDATA[﻿投票区: 第十投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字矢納１０７２－１]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字矢納１０７２－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0215501,36.1170647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮本バス停前</name>
+        <description><![CDATA[﻿投票区: 第十投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県児玉郡神川町大字矢納１１４８]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="﻿投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県児玉郡神川町大字矢納１１４８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0207455,36.1175543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

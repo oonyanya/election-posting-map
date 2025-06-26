@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>小鹿野町ポスター掲示場</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ポスター掲示板一覧.csv</name>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置 番号: 1<br>ポスター掲示場の設置場所: 小鹿野町小鹿野９０番地１<br>設置物: ブロック塀]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町小鹿野９０番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>ブロック塀</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0084172,36.0177005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>腰ノ根下区集会所前</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置 番号: 2<br>ポスター掲示場の設置場所: 小鹿野町小鹿野２２３０番地２<br>設置物: ガードフェンス]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町小鹿野２２３０番地２</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードフェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0073303,36.023484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大木駐車場前</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置 番号: 3<br>ポスター掲示場の設置場所: 小鹿野町小鹿野１８４６番地２<br>設置物: ブロック塀]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町小鹿野１８４６番地２</value>
+          </Data>
+          <Data name="設置物">
+            <value>ブロック塀</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0043017,36.0193887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（有）戸田乳業前</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置 番号: 4<br>ポスター掲示場の設置場所: 小鹿野町小鹿野１０４６番地１<br>設置物: ブロック塀]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町小鹿野１０４６番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>ブロック塀</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9991762,36.0235546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西武バス小鹿野車庫前</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置 番号: 5<br>ポスター掲示場の設置場所: 小鹿野町小鹿野９４３番地<br>設置物: ブロック塀]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町小鹿野９４３番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ブロック塀</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9955466,36.0242567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>諏訪平もみじ団地前</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置 番号: 6<br>ポスター掲示場の設置場所: 小鹿野町伊豆沢２５０番地１<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町伊豆沢２５０番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9942496,36.020066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊豆沢集会所前</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置 番号: 7<br>ポスター掲示場の設置場所: 小鹿野町伊豆沢９４４番地３<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町伊豆沢９４４番地３</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9902822,36.0060383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧ぱんだパン前</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置 番号: 1<br>ポスター掲示場の設置場所: 小鹿野町下小鹿野６２５番地<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町下小鹿野６２５番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.036838,36.0161658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置 番号: 2<br>ポスター掲示場の設置場所: 小鹿野町下小鹿野１５９１番地１<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町下小鹿野１５９１番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0293059,36.0125864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田中精機（株）前</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置 番号: 3<br>ポスター掲示場の設置場所: 小鹿野町下小鹿野２０１５番地１<br>設置物: ブロック塀]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町下小鹿野２０１５番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>ブロック塀</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0205559,36.0134799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木魂神社入口</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置 番号: 4<br>ポスター掲示場の設置場所: 小鹿野町下小鹿野３４７４番地<br>設置物: ガードフェンス]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町下小鹿野３４７４番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードフェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0237347,36.0083814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>漆ケ谷戸会館前</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置 番号: 5<br>ポスター掲示場の設置場所: 小鹿野町下小鹿野２３２３番地<br>設置物: フェンス]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町下小鹿野２３２３番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0156099,36.0173872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉竜院</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置 番号: 1<br>ポスター掲示場の設置場所: 小鹿野町長留３１２番地<br>設置物: フェンス]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町長留３１２番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0411403,36.0124869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本武神社前</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置 番号: 2<br>ポスター掲示場の設置場所: 小鹿野町般若６２９番地<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町般若６２９番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0324923,36.0025119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長若小学校前</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置 番号: 3<br>ポスター掲示場の設置場所: 小鹿野町般若１１９２番地<br>設置物: ガードフェンス]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町般若１１９２番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードフェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0303522,35.9982824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長若生活改善センター前</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置 番号: 4<br>ポスター掲示場の設置場所: 小鹿野町般若８３７番地１<br>設置物: ガードフェンス]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町般若８３７番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードフェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0326749,35.9964072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅下集荷所前</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置 番号: 5<br>ポスター掲示場の設置場所: 小鹿野町長留３８７５番地<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町長留３８７５番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0207357,35.9767891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅横</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置 番号: 1<br>ポスター掲示場の設置場所: 小鹿野町飯田１８３番地<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町飯田１８３番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9904205,36.0290223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置 番号: 3<br>ポスター掲示場の設置場所: 小鹿野町三山３６番地<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町三山３６番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9621347,36.0246707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第３支団第３分団第１部詰所横</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置 番号: 1<br>ポスター掲示場の設置場所: 小鹿野町三山１３６１番地<br>設置物: ガードフェンス]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町三山１３６１番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードフェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9242981,36.0350401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>納宮休憩所横</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置 番号: 2<br>ポスター掲示場の設置場所: 小鹿野町三山２３７２番地<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町三山２３７２番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.8949466,36.0407644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＮＴＴ河原沢電話交換局前</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置 番号: 3<br>ポスター掲示場の設置場所: 小鹿野町河原沢８２番地<br>設置物: フェンス]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町河原沢８２番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.888808,36.0466784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>龍頭神社前</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置 番号: 4<br>ポスター掲示場の設置場所: 小鹿野町河原沢９９６番地<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町河原沢９９６番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.8741443,36.051071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置 番号: 5<br>ポスター掲示場の設置場所: 小鹿野町河原沢７６６番地<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町河原沢７６６番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.8601084,36.0552248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>倉尾けんこう館前</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置 番号: 1<br>ポスター掲示場の設置場所: 小鹿野町日尾１２２９番地２<br>設置物: フェンス]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町日尾１２２９番地２</value>
+          </Data>
+          <Data name="設置物">
+            <value>フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9550637,36.0530685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>役場旧倉尾出張所前</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置 番号: 2<br>ポスター掲示場の設置場所: 小鹿野町藤倉８４番地２<br>設置物: ガードフェンス]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町藤倉８４番地２</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードフェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.945952,36.0510549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長久保集会所</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置 番号: 3<br>ポスター掲示場の設置場所: 小鹿野町日尾２１３９番地<br>設置物: ブロック塀]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町日尾２１３９番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ブロック塀</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9354703,36.0670583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置 番号: 1<br>ポスター掲示場の設置場所: 小鹿野町藤倉１２９３番地<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町藤倉１２９３番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9367737,36.0604794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八谷バス停脇</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置 番号: 2<br>ポスター掲示場の設置場所: 小鹿野町藤倉２４１８番地<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町藤倉２４１８番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.922239,36.0633153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置 番号: 3<br>ポスター掲示場の設置場所: 小鹿野町藤倉３４９７番地<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町藤倉３４９７番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9057315,36.0704102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上郷集荷所横</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置 番号: 4<br>ポスター掲示場の設置場所: 小鹿野町藤倉４９６３番地<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町藤倉４９６３番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9018259,36.076764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧原石油前</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置 番号: 1<br>ポスター掲示場の設置場所: 小鹿野町両神薄５５番地<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神薄５５番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9889579,36.0219947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊藤モータース前</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置 番号: 3<br>ポスター掲示場の設置場所: 小鹿野町両神薄８５７番地４<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神薄８５７番地４</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9834019,36.0220688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅横</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置 番号: 4<br>ポスター掲示場の設置場所: 小鹿野町両神薄１６０７番地１<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神薄１６０７番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9854173,36.0197653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>両神振興会館前</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置 番号: 1<br>ポスター掲示場の設置場所: 小鹿野町両神薄２９１３番地１<br>設置物: ブロック塀]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神薄２９１３番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>ブロック塀</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9712428,36.0127129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>薬師堂バス停横</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置 番号: 2<br>ポスター掲示場の設置場所: 小鹿野町両神薄２３０３番地３<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神薄２３０３番地３</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.972276,36.0067259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山崎商店　横</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置 番号: 3<br>ポスター掲示場の設置場所: 小鹿野町両神薄６２４７番地３<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神薄６２４７番地３</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9396616,36.0195583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出原バス停前</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置 番号: 4<br>ポスター掲示場の設置場所: 小鹿野町両神薄９２１５番地１<br>設置物: ガードフェンス]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神薄９２１５番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードフェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.8962022,36.0198306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第５支団第６分団消防機具置場前</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置 番号: 5<br>ポスター掲示場の設置場所: 小鹿野町両神小森５１６番地１<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神小森５１６番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9713226,36.0016432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>両神１１区集会所前</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置 番号: 6<br>ポスター掲示場の設置場所: 小鹿野町両神小森１５５４番地１<br>設置物: ガードフェンス]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神小森１５５４番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードフェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9727686,35.9900009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大堤入口</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置 番号: 1<br>ポスター掲示場の設置場所: 小鹿野町両神小森２７８４番地１<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神小森２７８４番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9589453,35.9908893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大谷橋脇</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置 番号: 2<br>ポスター掲示場の設置場所: 小鹿野町両神小森３７８３番地３<br>設置物: フェンス]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神小森３７８３番地３</value>
+          </Data>
+          <Data name="設置物">
+            <value>フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9447121,35.9843562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第５支団第８分団消防機具置場前</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置 番号: 3<br>ポスター掲示場の設置場所: 小鹿野町両神小森５１９５番地１<br>設置物: ガードレール]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神小森５１９５番地１</value>
+          </Data>
+          <Data name="設置物">
+            <value>ガードレール</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.882426,35.9938479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人個人宅横</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置 番号: 2<br>ポスター掲示場の設置場所: 小鹿野町両神薄３２０番地３<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町両神薄３２０番地３</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9858534,36.0260672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置 番号: 2<br>ポスター掲示場の設置場所: 小鹿野町飯田１６０６番地<br>設置物: ブロック塀]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町飯田１６０６番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>ブロック塀</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9755502,36.0296091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅車庫前（防火水槽脇）</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置 番号: 4<br>ポスター掲示場の設置場所: 小鹿野町三山５３２番地<br>設置物: フルセット]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置 番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>小鹿野町三山５３２番地</value>
+          </Data>
+          <Data name="設置物">
+            <value>フルセット</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9447669,36.0281094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

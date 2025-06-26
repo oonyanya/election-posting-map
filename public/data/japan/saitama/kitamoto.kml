@@ -1,0 +1,3420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>【北本市】ポスター掲示場の設置場所</name>
+    <description/>
+    <Style id="icon-1899-0097A7-labelson">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-01579B-labelson">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-097138-labelson">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-labelson">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-labelson">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-795548-labelson">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-labelson">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-817717-labelson">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-labelson">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-E65100-labelson">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-labelson">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-labelson">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-labelson">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>google mapインポート用.xlsx</name>
+      <Placemark>
+        <name>1-1</name>
+        <description><![CDATA[投票区: 第１投票区<br>緯度: 36.02814<br>経度: 139.55353<br>住所: 中丸１０丁目４１９番地１<br>場所の目安: 中丸公民館入口左側]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02814</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55353</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸１０丁目４１９番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>中丸公民館入口左側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55353,36.02814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-2</name>
+        <description><![CDATA[投票区: 第１投票区<br>緯度: 36.03101<br>経度: 139.55271<br>住所: 中丸１０丁目５５番地<br>場所の目安: 北本市健康増進センター北側入口右側]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03101</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55271</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸１０丁目５５番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北本市健康増進センター北側入口右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55271,36.03101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-3</name>
+        <description><![CDATA[投票区: 第１投票区<br>緯度: 36.03381<br>経度: 139.54843<br>住所: 山中２丁目１２８番地<br>場所の目安: 東中学校正門左側]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03381</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54843</value>
+          </Data>
+          <Data name="住所">
+            <value>山中２丁目１２８番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>東中学校正門左側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54843,36.03381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-4</name>
+        <description><![CDATA[投票区: 第１投票区<br>緯度: 36.02622<br>経度: 139.55238<br>住所: 中丸９丁目２５番地<br>場所の目安: 中丸スポーツ広場正門入口左側]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02622</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55238</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸９丁目２５番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>中丸スポーツ広場正門入口左側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55238,36.02622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-5</name>
+        <description><![CDATA[投票区: 第１投票区<br>緯度: 36.02058<br>経度: 139.55505<br>住所: 中丸８丁目１２３番地<br>場所の目安: カインズ北本店北西側植栽]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02058</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55505</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸８丁目１２３番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>カインズ北本店北西側植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55505,36.02058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-6</name>
+        <description><![CDATA[投票区: 第１投票区<br>緯度: 36.0338<br>経度: 139.55327<br>住所: 北中丸２丁目１１７番地<br>場所の目安: 鈴木商店南東40ｍ先向側畑地]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0338</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55327</value>
+          </Data>
+          <Data name="住所">
+            <value>北中丸２丁目１１７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>鈴木商店南東40ｍ先向側畑地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55327,36.0338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-1</name>
+        <description><![CDATA[投票区: 第２投票区<br>緯度: 36.03958<br>経度: 139.55242<br>住所: 朝日１丁目７２番地３<br>場所の目安: ウチダ自動車南西140ｍ先畑地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03958</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55242</value>
+          </Data>
+          <Data name="住所">
+            <value>朝日１丁目７２番地３</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>ウチダ自動車南西140ｍ先畑地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55242,36.03958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-2</name>
+        <description><![CDATA[投票区: 第２投票区<br>緯度: 36.04<br>経度: 139.55783<br>住所: 朝日２丁目２３８番地１<br>場所の目安: ワコーレ・シャトルバス発着所ロータリー内西側]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55783</value>
+          </Data>
+          <Data name="住所">
+            <value>朝日２丁目２３８番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>ワコーレ・シャトルバス発着所ロータリー内西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55783,36.04,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-3</name>
+        <description><![CDATA[投票区: 第２投票区<br>緯度: 36.04013<br>経度: 139.55708<br>住所: 朝日２丁目２３８番地１<br>場所の目安: ワコーレＡ棟南側植栽]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04013</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55708</value>
+          </Data>
+          <Data name="住所">
+            <value>朝日２丁目２３８番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>ワコーレＡ棟南側植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55708,36.04013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-4</name>
+        <description><![CDATA[投票区: 第２投票区<br>緯度: 36.04097<br>経度: 139.55608<br>住所: 朝日２丁目２３８番地１<br>場所の目安: ワコーレＡ棟北西側植栽（入口左側）]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04097</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55608</value>
+          </Data>
+          <Data name="住所">
+            <value>朝日２丁目２３８番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>ワコーレＡ棟北西側植栽（入口左側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55608,36.04097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-5</name>
+        <description><![CDATA[投票区: 第２投票区<br>緯度: 36.03895<br>経度: 139.55692<br>住所: 朝日２丁目３８９番地<br>場所の目安: ワコーレＥ棟南向側植栽（水路左岸）]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03895</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55692</value>
+          </Data>
+          <Data name="住所">
+            <value>朝日２丁目３８９番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>ワコーレＥ棟南向側植栽（水路左岸）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55692,36.03895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-6</name>
+        <description><![CDATA[投票区: 第２投票区<br>緯度: 36.03743<br>経度: 139.55615<br>住所: 朝日２丁目１５７番地<br>場所の目安: 白山神社県道312号線側]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03743</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55615</value>
+          </Data>
+          <Data name="住所">
+            <value>朝日２丁目１５７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>白山神社県道312号線側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55615,36.03743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-1</name>
+        <description><![CDATA[投票区: 第３投票区<br>緯度: 36.03621<br>経度: 139.54406<br>住所: 宮内７丁目１４５番地１<br>場所の目安: 中丸小学校正門右側]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03621</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54406</value>
+          </Data>
+          <Data name="住所">
+            <value>宮内７丁目１４５番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>中丸小学校正門右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54406,36.03621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-2</name>
+        <description><![CDATA[投票区: 第３投票区<br>緯度: 36.03896<br>経度: 139.54491<br>住所: 宮内６丁目２７７番地３<br>場所の目安: 宮内スポーツ広場南東側（洗車場北東側）]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03896</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54491</value>
+          </Data>
+          <Data name="住所">
+            <value>宮内６丁目２７７番地３</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>宮内スポーツ広場南東側（洗車場北東側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54491,36.03896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-3</name>
+        <description><![CDATA[投票区: 第３投票区<br>緯度: 36.04348<br>経度: 139.53916<br>住所: 宮内４丁目１３６番地<br>場所の目安: 宮内氷川神社南側（参道入口右側）]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04348</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53916</value>
+          </Data>
+          <Data name="住所">
+            <value>宮内４丁目１３６番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>宮内氷川神社南側（参道入口右側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53916,36.04348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-4</name>
+        <description><![CDATA[投票区: 第３投票区<br>緯度: 36.04621<br>経度: 139.54213<br>住所: 宮内４丁目３４５番地<br>場所の目安: 民具収蔵庫（旧学校給食センター）南側]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04621</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54213</value>
+          </Data>
+          <Data name="住所">
+            <value>宮内４丁目３４５番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>民具収蔵庫（旧学校給食センター）南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54213,36.04621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-5</name>
+        <description><![CDATA[投票区: 第３投票区<br>緯度: 36.03548<br>経度: 139.54523<br>住所: 宮内７丁目１４７番地<br>場所の目安: 北本リサイクル事業協同組合入口右側]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03548</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54523</value>
+          </Data>
+          <Data name="住所">
+            <value>宮内７丁目１４７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北本リサイクル事業協同組合入口右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54523,36.03548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-6</name>
+        <description><![CDATA[投票区: 第３投票区<br>緯度: 36.04116<br>経度: 139.53867<br>住所: 宮内５丁目１１５番地２<br>場所の目安: 宮内５丁目公園県道311号線側]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04116</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53867</value>
+          </Data>
+          <Data name="住所">
+            <value>宮内５丁目１１５番地２</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>宮内５丁目公園県道311号線側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53867,36.04116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-7</name>
+        <description><![CDATA[投票区: 第３投票区<br>緯度: 36.04418<br>経度: 139.54983<br>住所: 古市場１丁目１６９番地<br>場所の目安: 北本総合公園正門左側植栽（体育センター入口向側）]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04418</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54983</value>
+          </Data>
+          <Data name="住所">
+            <value>古市場１丁目１６９番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北本総合公園正門左側植栽（体育センター入口向側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54983,36.04418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-1</name>
+        <description><![CDATA[投票区: 第４投票区<br>緯度: 36.04703<br>経度: 139.52949<br>住所: 深井４丁目４５番地１<br>場所の目安: 北小学校正門右側]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04703</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52949</value>
+          </Data>
+          <Data name="住所">
+            <value>深井４丁目４５番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北小学校正門右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52949,36.04703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-2</name>
+        <description><![CDATA[投票区: 第４投票区<br>緯度: 36.04747<br>経度: 139.53425<br>住所: 深井８丁目２２６番地１<br>場所の目安: 深井田代バス停北西100m先十字路南側畑地東側]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04747</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53425</value>
+          </Data>
+          <Data name="住所">
+            <value>深井８丁目２２６番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>深井田代バス停北西100m先十字路南側畑地東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53425,36.04747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-3</name>
+        <description><![CDATA[投票区: 第４投票区<br>緯度: 36.04834<br>経度: 139.52272<br>住所: 深井３丁目３番地４<br>場所の目安: 深井３丁目公園]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04834</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52272</value>
+          </Data>
+          <Data name="住所">
+            <value>深井３丁目３番地４</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>深井３丁目公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52272,36.04834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-4</name>
+        <description><![CDATA[投票区: 第４投票区<br>緯度: 36.04577<br>経度: 139.5258<br>住所: 深井２丁目１０２番地５<br>場所の目安: 深井２丁目公園南側]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04577</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5258</value>
+          </Data>
+          <Data name="住所">
+            <value>深井２丁目１０２番地５</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>深井２丁目公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5258,36.04577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-5</name>
+        <description><![CDATA[投票区: 第４投票区<br>緯度: 36.04687<br>経度: 139.52628<br>住所: 深井３丁目１３７番地１<br>場所の目安: 仕出し弁当ポパイ食向側畑地]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04687</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52628</value>
+          </Data>
+          <Data name="住所">
+            <value>深井３丁目１３７番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>仕出し弁当ポパイ食向側畑地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52628,36.04687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-6</name>
+        <description><![CDATA[投票区: 第４投票区<br>緯度: 36.05212<br>経度: 139.52934<br>住所: 深井７丁目２２８番地<br>場所の目安: 桜国屋駐車場北側入口右側]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.05212</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52934</value>
+          </Data>
+          <Data name="住所">
+            <value>深井７丁目２２８番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>桜国屋駐車場北側入口右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52934,36.05212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-7</name>
+        <description><![CDATA[投票区: 第４投票区<br>緯度: 36.04366<br>経度: 139.53386<br>住所: 深井４丁目１５５番地１<br>場所の目安: 北部公民館南側入口右側]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04366</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53386</value>
+          </Data>
+          <Data name="住所">
+            <value>深井４丁目１５５番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北部公民館南側入口右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53386,36.04366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-1</name>
+        <description><![CDATA[投票区: 第５投票区<br>緯度: 36.04183<br>経度: 139.53277<br>住所: 宮内３丁目１２番地１<br>場所の目安: 岡田ハイツ西側畑地]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04183</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53277</value>
+          </Data>
+          <Data name="住所">
+            <value>宮内３丁目１２番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>岡田ハイツ西側畑地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53277,36.04183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-2</name>
+        <description><![CDATA[投票区: 第５投票区<br>緯度: 36.04497<br>経度: 139.53036<br>住所: 東間８丁目５９番地１<br>場所の目安: 美容室すくすく南東50ｍ先右側駐車場]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04497</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53036</value>
+          </Data>
+          <Data name="住所">
+            <value>東間８丁目５９番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>美容室すくすく南東50ｍ先右側駐車場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53036,36.04497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-3</name>
+        <description><![CDATA[投票区: 第５投票区<br>緯度: 36.03676<br>経度: 139.53627<br>住所: 宮内１丁目３５４番地<br>場所の目安: 島田燃料店東向側路肩]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03676</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53627</value>
+          </Data>
+          <Data name="住所">
+            <value>宮内１丁目３５４番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>島田燃料店東向側路肩</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53627,36.03676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-4</name>
+        <description><![CDATA[投票区: 第５投票区<br>緯度: 36.04283<br>経度: 139.53053<br>住所: 東間８丁目１６８番地<br>場所の目安: 旧あづまストアー交差点東側花壇北側]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04283</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53053</value>
+          </Data>
+          <Data name="住所">
+            <value>東間８丁目１６８番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>旧あづまストアー交差点東側花壇北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53053,36.04283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-5</name>
+        <description><![CDATA[投票区: 第５投票区<br>緯度: 36.04388<br>経度: 139.53198<br>住所: 東間８丁目２２９番地１<br>場所の目安: 東間公園北側]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04388</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53198</value>
+          </Data>
+          <Data name="住所">
+            <value>東間８丁目２２９番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>東間公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53198,36.04388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-6</name>
+        <description><![CDATA[投票区: 第５投票区<br>緯度: 36.04069<br>経度: 139.53515<br>住所: 宮内３丁目１６７番地２<br>場所の目安: 宮内緑地公園東側]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04069</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53515</value>
+          </Data>
+          <Data name="住所">
+            <value>宮内３丁目１６７番地２</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>宮内緑地公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53515,36.04069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-7</name>
+        <description><![CDATA[投票区: 第５投票区<br>緯度: 36.04262<br>経度: 139.5324<br>住所: 東間８丁目２３０番地７９<br>場所の目安: 東間ニュータウン公園北西側]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04262</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5324</value>
+          </Data>
+          <Data name="住所">
+            <value>東間８丁目２３０番地７９</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>東間ニュータウン公園北西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5324,36.04262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-1</name>
+        <description><![CDATA[投票区: 第６投票区<br>緯度: 36.04202<br>経度: 139.52722<br>住所: 東間５丁目９０番地１<br>場所の目安: サンマンション北本管理棟北向側]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04202</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52722</value>
+          </Data>
+          <Data name="住所">
+            <value>東間５丁目９０番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>サンマンション北本管理棟北向側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52722,36.04202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-2</name>
+        <description><![CDATA[投票区: 第６投票区<br>緯度: 36.04274<br>経度: 139.52853<br>住所: 東間６丁目６７番地２<br>場所の目安: 東間６丁目わくわく公園東側]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04274</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52853</value>
+          </Data>
+          <Data name="住所">
+            <value>東間６丁目６７番地２</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>東間６丁目わくわく公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52853,36.04274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-3</name>
+        <description><![CDATA[投票区: 第６投票区<br>緯度: 36.03884<br>経度: 139.53207<br>住所: 東間４丁目２３番地８<br>場所の目安: 斉藤自動車板金塗装南西100ｍ先右側ごみ集積所奥]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03884</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53207</value>
+          </Data>
+          <Data name="住所">
+            <value>東間４丁目２３番地８</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>斉藤自動車板金塗装南西100ｍ先右側ごみ集積所奥</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53207,36.03884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-4</name>
+        <description><![CDATA[投票区: 第６投票区<br>緯度: 36.04045<br>経度: 139.52767<br>住所: 東間５丁目９０番地３<br>場所の目安: サンマンション東間公園南東側]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.04045</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52767</value>
+          </Data>
+          <Data name="住所">
+            <value>東間５丁目９０番地３</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>サンマンション東間公園南東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52767,36.04045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-5</name>
+        <description><![CDATA[投票区: 第６投票区<br>緯度: 36.03857<br>経度: 139.53413<br>住所: 東間２丁目２２６番地<br>場所の目安: 岩崎畳店北西50m先左側空地東側]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03857</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53413</value>
+          </Data>
+          <Data name="住所">
+            <value>東間２丁目２２６番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>岩崎畳店北西50m先左側空地東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53413,36.03857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-6</name>
+        <description><![CDATA[投票区: 第６投票区<br>緯度: 36.03655<br>経度: 139.53238<br>住所: 東間１丁目６番地<br>場所の目安: 浅間神社旧中山道側駐車場北側]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03655</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53238</value>
+          </Data>
+          <Data name="住所">
+            <value>東間１丁目６番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>浅間神社旧中山道側駐車場北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53238,36.03655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-7</name>
+        <description><![CDATA[投票区: 第６投票区<br>緯度: 36.03451<br>経度: 139.53375<br>住所: 東間２丁目６２番地６<br>場所の目安: 柳井マンション西側]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03451</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53375</value>
+          </Data>
+          <Data name="住所">
+            <value>東間２丁目６２番地６</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>柳井マンション西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53375,36.03451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-1</name>
+        <description><![CDATA[投票区: 第７投票区<br>緯度: 36.02991<br>経度: 139.5369<br>住所: 本宿１丁目１０番地１<br>場所の目安: 解脱会御霊地東側（スズキ販売北側）]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02991</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5369</value>
+          </Data>
+          <Data name="住所">
+            <value>本宿１丁目１０番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>解脱会御霊地東側（スズキ販売北側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5369,36.02991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-2</name>
+        <description><![CDATA[投票区: 第７投票区<br>緯度: 36.02676<br>経度: 139.54152<br>住所: 本宿７丁目６６番地<br>場所の目安: 本宿７丁目公園北西側]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02676</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54152</value>
+          </Data>
+          <Data name="住所">
+            <value>本宿７丁目６６番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>本宿７丁目公園北西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54152,36.02676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-3</name>
+        <description><![CDATA[投票区: 第７投票区<br>緯度: 36.03527<br>経度: 139.5373<br>住所: 北本３丁目８７番地先<br>場所の目安: 加藤建設工業東南100ｍ先右側]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03527</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5373</value>
+          </Data>
+          <Data name="住所">
+            <value>北本３丁目８７番地先</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>加藤建設工業東南100ｍ先右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5373,36.03527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-4</name>
+        <description><![CDATA[投票区: 第７投票区<br>緯度: 36.03338<br>経度: 139.54172<br>住所: 本宿４丁目２１３番地<br>場所の目安: 国道17号北本四丁目交差点南西130ｍ先南側フェンス]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03338</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54172</value>
+          </Data>
+          <Data name="住所">
+            <value>本宿４丁目２１３番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>国道17号北本四丁目交差点南西130ｍ先南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54172,36.03338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-5</name>
+        <description><![CDATA[投票区: 第７投票区<br>緯度: 36.03264<br>経度: 139.53681<br>住所: 北本２丁目３１番地<br>場所の目安: 北本２丁目公園北東側]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03264</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53681</value>
+          </Data>
+          <Data name="住所">
+            <value>北本２丁目３１番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北本２丁目公園北東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53681,36.03264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-6</name>
+        <description><![CDATA[投票区: 第７投票区<br>緯度: 36.02953<br>経度: 139.53943<br>住所: 本宿２丁目８３番地２<br>場所の目安: 西松屋北東50ｍ先駐車場北側]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02953</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53943</value>
+          </Data>
+          <Data name="住所">
+            <value>本宿２丁目８３番地２</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>西松屋北東50ｍ先駐車場北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53943,36.02953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-7</name>
+        <description><![CDATA[投票区: 第７投票区<br>緯度: 36.02411<br>経度: 139.54017<br>住所: 本宿８丁目７７番地１<br>場所の目安: 石戸踏切東側駐車場南東側]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02411</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54017</value>
+          </Data>
+          <Data name="住所">
+            <value>本宿８丁目７７番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>石戸踏切東側駐車場南東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54017,36.02411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-8</name>
+        <description><![CDATA[投票区: 第７投票区<br>緯度: 36.03181<br>経度: 139.53433<br>住所: 北本１丁目４４番地<br>場所の目安: 北本駅東口駅前ロータリー内（川越観光北本駅東口バス停向側）]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03181</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53433</value>
+          </Data>
+          <Data name="住所">
+            <value>北本１丁目４４番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北本駅東口駅前ロータリー内（川越観光北本駅東口バス停向側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53433,36.03181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-1</name>
+        <description><![CDATA[投票区: 第８投票区<br>緯度: 36.02085<br>経度: 139.55174<br>住所: 中丸６丁目８２番地<br>場所の目安: 中丸公園東側（東小学校正門右側）]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02085</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55174</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸６丁目８２番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>中丸公園東側（東小学校正門右側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55174,36.02085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-2</name>
+        <description><![CDATA[投票区: 第８投票区<br>緯度: 36.01832<br>経度: 139.55298<br>住所: 中丸６丁目２１５番地１<br>場所の目安: みんなの家・北本中丸南東側]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01832</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55298</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸６丁目２１５番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>みんなの家・北本中丸南東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55298,36.01832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-3</name>
+        <description><![CDATA[投票区: 第８投票区<br>緯度: 36.01637<br>経度: 139.55234<br>住所: 中丸７丁目２８番地３<br>場所の目安: ホテルＤ100ｍ南西先右側空地（三角地）]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01637</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55234</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸７丁目２８番地３</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>ホテルＤ100ｍ南西先右側空地（三角地）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55234,36.01637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-4</name>
+        <description><![CDATA[投票区: 第８投票区<br>緯度: 36.02569<br>経度: 139.54898<br>住所: 中丸４丁目５１番地１<br>場所の目安: 中丸緑地公園東側]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02569</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54898</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸４丁目５１番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>中丸緑地公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54898,36.02569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-5</name>
+        <description><![CDATA[投票区: 第８投票区<br>緯度: 36.02704<br>経度: 139.54552<br>住所: 中丸３丁目９２番地<br>場所の目安: 中丸氷川神社東側]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02704</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54552</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸３丁目９２番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>中丸氷川神社東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54552,36.02704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-6</name>
+        <description><![CDATA[投票区: 第８投票区<br>緯度: 36.02393<br>経度: 139.5489<br>住所: 中丸４丁目１１８番地２<br>場所の目安: グループホーム愛の家北本西側]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02393</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5489</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸４丁目１１８番地２</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>グループホーム愛の家北本西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5489,36.02393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-7</name>
+        <description><![CDATA[投票区: 第８投票区<br>緯度: 36.02474<br>経度: 139.54585<br>住所: 中丸２丁目３２１番地<br>場所の目安: 中丸２丁目遊園地北側]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02474</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54585</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸２丁目３２１番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>中丸２丁目遊園地北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54585,36.02474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-1</name>
+        <description><![CDATA[投票区: 第９投票区<br>緯度: 36.01868<br>経度: 139.54669<br>住所: 二ッ家１丁目４７番地<br>場所の目安: 北本二ツ家郵便局北西40ｍ先西側遊水池前]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01868</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54669</value>
+          </Data>
+          <Data name="住所">
+            <value>二ッ家１丁目４７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北本二ツ家郵便局北西40ｍ先西側遊水池前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54669,36.01868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-2</name>
+        <description><![CDATA[投票区: 第９投票区<br>緯度: 36.02245<br>経度: 139.54871<br>住所: 中丸５丁目６９６番地<br>場所の目安: やじりはら公園南側]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02245</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54871</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸５丁目６９６番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>やじりはら公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54871,36.02245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-3</name>
+        <description><![CDATA[投票区: 第９投票区<br>緯度: 36.0098<br>経度: 139.55514<br>住所: 二ッ家４丁目１５６番地２<br>場所の目安: １００えんハウスレモン南側]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0098</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55514</value>
+          </Data>
+          <Data name="住所">
+            <value>二ッ家４丁目１５６番地２</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>１００えんハウスレモン南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55514,36.0098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-4</name>
+        <description><![CDATA[投票区: 第９投票区<br>緯度: 36.01729<br>経度: 139.55165<br>住所: 二ッ家２丁目２２１番地<br>場所の目安: 三井団地公園北西側]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01729</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55165</value>
+          </Data>
+          <Data name="住所">
+            <value>二ッ家２丁目２２１番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>三井団地公園北西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55165,36.01729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-5</name>
+        <description><![CDATA[投票区: 第９投票区<br>緯度: 36.01502<br>経度: 139.54925<br>住所: 二ッ家１丁目３２２番地<br>場所の目安: 県営二ツ家団地２号棟西向側植栽（ハイデンス立体駐車場裏）]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01502</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54925</value>
+          </Data>
+          <Data name="住所">
+            <value>二ッ家１丁目３２２番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>県営二ツ家団地２号棟西向側植栽（ハイデンス立体駐車場裏）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54925,36.01502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-6</name>
+        <description><![CDATA[投票区: 第９投票区<br>緯度: 36.01233<br>経度: 139.55161<br>住所: 二ッ家４丁目１０番地７<br>場所の目安: 二ツ家４丁目バス停右脇]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01233</value>
+          </Data>
+          <Data name="経度">
+            <value>139.55161</value>
+          </Data>
+          <Data name="住所">
+            <value>二ッ家４丁目１０番地７</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>二ツ家４丁目バス停右脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55161,36.01233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-7</name>
+        <description><![CDATA[投票区: 第９投票区<br>緯度: 36.02003<br>経度: 139.54331<br>住所: 中丸１丁目７番地３<br>場所の目安: 県営中丸団地１号棟西向側（北本中央緑地）]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02003</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54331</value>
+          </Data>
+          <Data name="住所">
+            <value>中丸１丁目７番地３</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>県営中丸団地１号棟西向側（北本中央緑地）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54331,36.02003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-1</name>
+        <description><![CDATA[投票区: 第１０投票区<br>緯度: 36.01296<br>経度: 139.54904<br>住所: 二ッ家１丁目３８３番地３<br>場所の目安: 二ツ家１丁目公園北側（マリオン北本側）]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01296</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54904</value>
+          </Data>
+          <Data name="住所">
+            <value>二ッ家１丁目３８３番地３</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>二ツ家１丁目公園北側（マリオン北本側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54904,36.01296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-2</name>
+        <description><![CDATA[投票区: 第１０投票区<br>緯度: 36.01476<br>経度: 139.5439<br>住所: 大字下石戸下４７１番地４２<br>場所の目安: 南団地遊水池北側（五味工務店前）]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01476</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5439</value>
+          </Data>
+          <Data name="住所">
+            <value>大字下石戸下４７１番地４２</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>南団地遊水池北側（五味工務店前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5439,36.01476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-3</name>
+        <description><![CDATA[投票区: 第１０投票区<br>緯度: 36.01424<br>経度: 139.54796<br>住所: 二ッ家１丁目３２３番地<br>場所の目安: 下石戸公園西側]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01424</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54796</value>
+          </Data>
+          <Data name="住所">
+            <value>二ッ家１丁目３２３番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>下石戸公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54796,36.01424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-4</name>
+        <description><![CDATA[投票区: 第１０投票区<br>緯度: 36.01323<br>経度: 139.54405<br>住所: 下石戸６丁目１８４番地<br>場所の目安: 南団地中央公園南西側]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01323</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54405</value>
+          </Data>
+          <Data name="住所">
+            <value>下石戸６丁目１８４番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>南団地中央公園南西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54405,36.01323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-5</name>
+        <description><![CDATA[投票区: 第１０投票区<br>緯度: 36.01207<br>経度: 139.54597<br>住所: 下石戸６丁目２１１番地<br>場所の目安: 南団地東三角公園南側]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01207</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54597</value>
+          </Data>
+          <Data name="住所">
+            <value>下石戸６丁目２１１番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>南団地東三角公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54597,36.01207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-6</name>
+        <description><![CDATA[投票区: 第１０投票区<br>緯度: 36.01269<br>経度: 139.54284<br>住所: 下石戸６丁目４７番地<br>場所の目安: 南団地西公園西側]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01269</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54284</value>
+          </Data>
+          <Data name="住所">
+            <value>下石戸６丁目４７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>南団地西公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54284,36.01269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-7</name>
+        <description><![CDATA[投票区: 第１０投票区<br>緯度: 36.01764<br>経度: 139.54468<br>住所: 下石戸５丁目１１７番地<br>場所の目安: 東原団地公園北側]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01764</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54468</value>
+          </Data>
+          <Data name="住所">
+            <value>下石戸５丁目１１７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>東原団地公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54468,36.01764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-1</name>
+        <description><![CDATA[投票区: 第１１投票区<br>緯度: 36.02093<br>経度: 139.5382<br>住所: 緑３丁目３８７番地<br>場所の目安: 南小学校正門左側]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02093</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5382</value>
+          </Data>
+          <Data name="住所">
+            <value>緑３丁目３８７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>南小学校正門左側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5382,36.02093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-2</name>
+        <description><![CDATA[投票区: 第１１投票区<br>緯度: 36.01908<br>経度: 139.54071<br>住所: 緑４丁目１９８番地<br>場所の目安: 佐久間鉄工斜向かい（旧教育センター敷地南側）]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01908</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54071</value>
+          </Data>
+          <Data name="住所">
+            <value>緑４丁目１９８番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>佐久間鉄工斜向かい（旧教育センター敷地南側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54071,36.01908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-3</name>
+        <description><![CDATA[投票区: 第１１投票区<br>緯度: 36.01524<br>経度: 139.53891<br>住所: 大字下石戸下５６８番地１<br>場所の目安: 石戸浄水場南100ｍ先東側畑地西側]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01524</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53891</value>
+          </Data>
+          <Data name="住所">
+            <value>大字下石戸下５６８番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>石戸浄水場南100ｍ先東側畑地西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53891,36.01524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-4</name>
+        <description><![CDATA[投票区: 第１１投票区<br>緯度: 36.01384<br>経度: 139.54003<br>住所: 大字下石戸下５３８番地４<br>場所の目安: 久保土地区画整理事務所南東側]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01384</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54003</value>
+          </Data>
+          <Data name="住所">
+            <value>大字下石戸下５３８番地４</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>久保土地区画整理事務所南東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54003,36.01384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-5</name>
+        <description><![CDATA[投票区: 第１１投票区<br>緯度: 36.02331<br>経度: 139.53633<br>住所: 緑３丁目２６番地<br>場所の目安: ゲオ北本店駐車場南西側]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02331</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53633</value>
+          </Data>
+          <Data name="住所">
+            <value>緑３丁目２６番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>ゲオ北本店駐車場南西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53633,36.02331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-6</name>
+        <description><![CDATA[投票区: 第１１投票区<br>緯度: 36.01606<br>経度: 139.54204<br>住所: 大字下石戸下５９７番地<br>場所の目安: 久保まんまる公園南入口左側]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01606</value>
+          </Data>
+          <Data name="経度">
+            <value>139.54204</value>
+          </Data>
+          <Data name="住所">
+            <value>大字下石戸下５９７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>久保まんまる公園南入口左側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54204,36.01606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-7</name>
+        <description><![CDATA[投票区: 第１１投票区<br>緯度: 36.02076<br>経度: 139.5352<br>住所: 下石戸１丁目２５２番地<br>場所の目安: セブンイレブン北本緑１丁目店南280ｍ先東側林（社入口北側）]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02076</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5352</value>
+          </Data>
+          <Data name="住所">
+            <value>下石戸１丁目２５２番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>セブンイレブン北本緑１丁目店南280ｍ先東側林（社入口北側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5352,36.02076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-1</name>
+        <description><![CDATA[投票区: 第１２投票区<br>緯度: 36.02662<br>経度: 139.5305<br>住所: 本町１丁目１１１番地<br>場所の目安: 北本市役所南側夜間通用口前植栽]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02662</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5305</value>
+          </Data>
+          <Data name="住所">
+            <value>本町１丁目１１１番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北本市役所南側夜間通用口前植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5305,36.02662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-2</name>
+        <description><![CDATA[投票区: 第１２投票区<br>緯度: 36.02703<br>経度: 139.5329<br>住所: 本町３丁目１７９番地<br>場所の目安: 高松ビル向側植栽]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02703</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5329</value>
+          </Data>
+          <Data name="住所">
+            <value>本町３丁目１７９番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>高松ビル向側植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5329,36.02703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-3</name>
+        <description><![CDATA[投票区: 第１２投票区<br>緯度: 36.02333<br>経度: 139.53177<br>住所: 本町３丁目５２番地<br>場所の目安: 旧中央保育所南側]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02333</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53177</value>
+          </Data>
+          <Data name="住所">
+            <value>本町３丁目５２番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>旧中央保育所南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53177,36.02333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-4</name>
+        <description><![CDATA[投票区: 第１２投票区<br>緯度: 36.02122<br>経度: 139.52902<br>住所: 本町４丁目２３２番地<br>場所の目安: ストリートフレイバー北東側（みなみ第２幼稚園西向側）]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02122</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52902</value>
+          </Data>
+          <Data name="住所">
+            <value>本町４丁目２３２番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>ストリートフレイバー北東側（みなみ第２幼稚園西向側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52902,36.02122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-5</name>
+        <description><![CDATA[投票区: 第１２投票区<br>緯度: 36.02481<br>経度: 139.53533<br>住所: 緑１丁目１６３番地１<br>場所の目安: 解脱会第２駐車場東側入口左側]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02481</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53533</value>
+          </Data>
+          <Data name="住所">
+            <value>緑１丁目１６３番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>解脱会第２駐車場東側入口左側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53533,36.02481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-6</name>
+        <description><![CDATA[投票区: 第１２投票区<br>緯度: 36.02685<br>経度: 139.53465<br>住所: 緑２丁目３番地<br>場所の目安: 解脱会宝物館駐車場南西側]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02685</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53465</value>
+          </Data>
+          <Data name="住所">
+            <value>緑２丁目３番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>解脱会宝物館駐車場南西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53465,36.02685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-7</name>
+        <description><![CDATA[投票区: 第１２投票区<br>緯度: 36.02914<br>経度: 139.52944<br>住所: 本町１丁目１番地<br>場所の目安: 北本中学校正門右側]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02914</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52944</value>
+          </Data>
+          <Data name="住所">
+            <value>本町１丁目１番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北本中学校正門右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52944,36.02914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-1</name>
+        <description><![CDATA[投票区: 第１３投票区<br>緯度: 36.02964<br>経度: 139.52935<br>住所: 西高尾１丁目２２８番地４<br>場所の目安: 市役所入口バス停（北側）脇植栽]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02964</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52935</value>
+          </Data>
+          <Data name="住所">
+            <value>西高尾１丁目２２８番地４</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>市役所入口バス停（北側）脇植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52935,36.02964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-2</name>
+        <description><![CDATA[投票区: 第１３投票区<br>緯度: 36.02883<br>経度: 139.53083<br>住所: 中央２丁目２２番地１<br>場所の目安: 解脱会第５駐車場北西側]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02883</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53083</value>
+          </Data>
+          <Data name="住所">
+            <value>中央２丁目２２番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>解脱会第５駐車場北西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53083,36.02883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-3</name>
+        <description><![CDATA[投票区: 第１３投票区<br>緯度: 36.03211<br>経度: 139.52936<br>住所: 西高尾１丁目１３１番地<br>場所の目安: 西高尾１丁目三角公園北側]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03211</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52936</value>
+          </Data>
+          <Data name="住所">
+            <value>西高尾１丁目１３１番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>西高尾１丁目三角公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52936,36.03211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-4</name>
+        <description><![CDATA[投票区: 第１３投票区<br>緯度: 36.03145<br>経度: 139.52826<br>住所: 西高尾１丁目１６０番地２<br>場所の目安: 西高尾１丁目公園（西高尾バス停脇）]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03145</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52826</value>
+          </Data>
+          <Data name="住所">
+            <value>西高尾１丁目１６０番地２</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>西高尾１丁目公園（西高尾バス停脇）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52826,36.03145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-5</name>
+        <description><![CDATA[投票区: 第１３投票区<br>緯度: 36.03043<br>経度: 139.53119<br>住所: 中央２丁目５０番地３<br>場所の目安: サンロード向側植栽]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03043</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53119</value>
+          </Data>
+          <Data name="住所">
+            <value>中央２丁目５０番地３</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>サンロード向側植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53119,36.03043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-6</name>
+        <description><![CDATA[投票区: 第１３投票区<br>緯度: 36.03123<br>経度: 139.53306<br>住所: 中央２丁目１５８番地３<br>場所の目安: 駅西口多目的広場（Ｂ区画ロータリー側）]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03123</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53306</value>
+          </Data>
+          <Data name="住所">
+            <value>中央２丁目１５８番地３</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>駅西口多目的広場（Ｂ区画ロータリー側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53306,36.03123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-7</name>
+        <description><![CDATA[投票区: 第１３投票区<br>緯度: 36.03106<br>経度: 139.52674<br>住所: 西高尾３丁目１０３番地１<br>場所の目安: デイサービスなごやか北本東側]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03106</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52674</value>
+          </Data>
+          <Data name="住所">
+            <value>西高尾３丁目１０３番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>デイサービスなごやか北本東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52674,36.03106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-8</name>
+        <description><![CDATA[投票区: 第１３投票区<br>緯度: 36.02774<br>経度: 139.52835<br>住所: 本町１丁目１番地<br>場所の目安: 北本中学校部室裏]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02774</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52835</value>
+          </Data>
+          <Data name="住所">
+            <value>本町１丁目１番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北本中学校部室裏</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52835,36.02774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-1</name>
+        <description><![CDATA[投票区: 第１４投票区<br>緯度: 36.03061<br>経度: 139.5205<br>住所: 西高尾８丁目７１番地２<br>場所の目安: 西高尾郵便局前バス停（南側）脇]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03061</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5205</value>
+          </Data>
+          <Data name="住所">
+            <value>西高尾８丁目７１番地２</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>西高尾郵便局前バス停（南側）脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5205,36.03061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-2</name>
+        <description><![CDATA[投票区: 第１４投票区<br>緯度: 36.03182<br>経度: 139.51984<br>住所: 西高尾７丁目１３６番地<br>場所の目安: 西高尾７丁目集会所西側]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03182</value>
+          </Data>
+          <Data name="経度">
+            <value>139.51984</value>
+          </Data>
+          <Data name="住所">
+            <value>西高尾７丁目１３６番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>西高尾７丁目集会所西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51984,36.03182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-3</name>
+        <description><![CDATA[投票区: 第１４投票区<br>緯度: 36.02353<br>経度: 139.52693<br>住所: 本町８丁目３９番地２<br>場所の目安: 本町８丁目公園西側（真福寺入口バス停脇）]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02353</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52693</value>
+          </Data>
+          <Data name="住所">
+            <value>本町８丁目３９番地２</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>本町８丁目公園西側（真福寺入口バス停脇）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52693,36.02353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-4</name>
+        <description><![CDATA[投票区: 第１４投票区<br>緯度: 36.02897<br>経度: 139.52734<br>住所: 西高尾４丁目２０８番地４<br>場所の目安: ながしま洋品店西側向側植栽]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02897</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52734</value>
+          </Data>
+          <Data name="住所">
+            <value>西高尾４丁目２０８番地４</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>ながしま洋品店西側向側植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52734,36.02897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-5</name>
+        <description><![CDATA[投票区: 第１４投票区<br>緯度: 36.02828<br>経度: 139.52283<br>住所: 西高尾４丁目２１３番地<br>場所の目安: アキュール東側水路脇]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02828</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52283</value>
+          </Data>
+          <Data name="住所">
+            <value>西高尾４丁目２１３番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>アキュール東側水路脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52283,36.02828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-6</name>
+        <description><![CDATA[投票区: 第１４投票区<br>緯度: 36.02823<br>経度: 139.52584<br>住所: 西高尾４丁目１９８番地３<br>場所の目安: グリーンハイム西側駐車場前植栽]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02823</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52584</value>
+          </Data>
+          <Data name="住所">
+            <value>西高尾４丁目１９８番地３</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>グリーンハイム西側駐車場前植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52584,36.02823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-7</name>
+        <description><![CDATA[投票区: 第１４投票区<br>緯度: 36.02692<br>経度: 139.52423<br>住所: 本町７丁目１４番地<br>場所の目安: 西小学校正門北側斜向い]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02692</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52423</value>
+          </Data>
+          <Data name="住所">
+            <value>本町７丁目１４番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>西小学校正門北側斜向い</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52423,36.02692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-1</name>
+        <description><![CDATA[投票区: 第１５投票区<br>緯度: 36.0263<br>経度: 139.51932<br>住所: 高尾１丁目７５５番地<br>場所の目安: 総合福祉センター南側植栽]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0263</value>
+          </Data>
+          <Data name="経度">
+            <value>139.51932</value>
+          </Data>
+          <Data name="住所">
+            <value>高尾１丁目７５５番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>総合福祉センター南側植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51932,36.0263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-2</name>
+        <description><![CDATA[投票区: 第１５投票区<br>緯度: 36.02768<br>経度: 139.51339<br>住所: 高尾２丁目１１１番地<br>場所の目安: 高尾２丁目交差点南東畑地北側]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02768</value>
+          </Data>
+          <Data name="経度">
+            <value>139.51339</value>
+          </Data>
+          <Data name="住所">
+            <value>高尾２丁目１１１番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>高尾２丁目交差点南東畑地北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51339,36.02768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-3</name>
+        <description><![CDATA[投票区: 第１５投票区<br>緯度: 36.03131<br>経度: 139.51181<br>住所: 高尾５丁目１５６番地<br>場所の目安: 民謡教室志之路会向側畑地]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.03131</value>
+          </Data>
+          <Data name="経度">
+            <value>139.51181</value>
+          </Data>
+          <Data name="住所">
+            <value>高尾５丁目１５６番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>民謡教室志之路会向側畑地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51181,36.03131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-4</name>
+        <description><![CDATA[投票区: 第１５投票区<br>緯度: 36.02467<br>経度: 139.50861<br>住所: 高尾６丁目３３１番地<br>場所の目安: 高尾さくら公園駐車場東側]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02467</value>
+          </Data>
+          <Data name="経度">
+            <value>139.50861</value>
+          </Data>
+          <Data name="住所">
+            <value>高尾６丁目３３１番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>高尾さくら公園駐車場東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.50861,36.02467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-5</name>
+        <description><![CDATA[投票区: 第１５投票区<br>緯度: 36.02201<br>経度: 139.50857<br>住所: 高尾９丁目４５４番地<br>場所の目安: 野外活動センター入口右側]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02201</value>
+          </Data>
+          <Data name="経度">
+            <value>139.50857</value>
+          </Data>
+          <Data name="住所">
+            <value>高尾９丁目４５４番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>野外活動センター入口右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.50857,36.02201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-6</name>
+        <description><![CDATA[投票区: 第１５投票区<br>緯度: 36.02361<br>経度: 139.51888<br>住所: 石戸２丁目９７番地<br>場所の目安: 岡村塗装工業裏北側向畑地]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02361</value>
+          </Data>
+          <Data name="経度">
+            <value>139.51888</value>
+          </Data>
+          <Data name="住所">
+            <value>石戸２丁目９７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>岡村塗装工業裏北側向畑地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51888,36.02361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-7</name>
+        <description><![CDATA[投票区: 第１５投票区<br>緯度: 36.02105<br>経度: 139.51713<br>住所: 荒井１丁目１２２番地<br>場所の目安: 荒井上手公会堂北側栗畑東側]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02105</value>
+          </Data>
+          <Data name="経度">
+            <value>139.51713</value>
+          </Data>
+          <Data name="住所">
+            <value>荒井１丁目１２２番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>荒井上手公会堂北側栗畑東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51713,36.02105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-1</name>
+        <description><![CDATA[投票区: 第１６投票区<br>緯度: 36.01779<br>経度: 139.51598<br>住所: 荒井３丁目９２番地<br>場所の目安: 荒井公園北側]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01779</value>
+          </Data>
+          <Data name="経度">
+            <value>139.51598</value>
+          </Data>
+          <Data name="住所">
+            <value>荒井３丁目９２番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>荒井公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51598,36.01779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-2</name>
+        <description><![CDATA[投票区: 第１６投票区<br>緯度: 36.01622<br>経度: 139.52436<br>住所: 石戸８丁目８３番地<br>場所の目安: 原公会堂南西側畑地]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01622</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52436</value>
+          </Data>
+          <Data name="住所">
+            <value>石戸８丁目８３番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>原公会堂南西側畑地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52436,36.01622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-3</name>
+        <description><![CDATA[投票区: 第１６投票区<br>緯度: 36.01981<br>経度: 139.5162<br>住所: 荒井１丁目３３８番地１<br>場所の目安: 荒井交差点北西側植栽]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01981</value>
+          </Data>
+          <Data name="経度">
+            <value>139.5162</value>
+          </Data>
+          <Data name="住所">
+            <value>荒井１丁目３３８番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>荒井交差点北西側植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5162,36.01981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-4</name>
+        <description><![CDATA[投票区: 第１６投票区<br>緯度: 36.01657<br>経度: 139.51727<br>住所: 荒井３丁目１７６番地１<br>場所の目安: メディカルセンター入口交差点南東側畑地]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01657</value>
+          </Data>
+          <Data name="経度">
+            <value>139.51727</value>
+          </Data>
+          <Data name="住所">
+            <value>荒井３丁目１７６番地１</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>メディカルセンター入口交差点南東側畑地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51727,36.01657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-5</name>
+        <description><![CDATA[投票区: 第１６投票区<br>緯度: 36.00971<br>経度: 139.51855<br>住所: 石戸宿１丁目１３８番地<br>場所の目安: 石戸宿１丁目交差点北100ｍ西側畑]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.00971</value>
+          </Data>
+          <Data name="経度">
+            <value>139.51855</value>
+          </Data>
+          <Data name="住所">
+            <value>石戸宿１丁目１３８番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>石戸宿１丁目交差点北100ｍ西側畑</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51855,36.00971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-6</name>
+        <description><![CDATA[投票区: 第１６投票区<br>緯度: 36.00493<br>経度: 139.51002<br>住所: 石戸宿３丁目２２５番地<br>場所の目安: 北本市子供公園入口右側]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.00493</value>
+          </Data>
+          <Data name="経度">
+            <value>139.51002</value>
+          </Data>
+          <Data name="住所">
+            <value>石戸宿３丁目２２５番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>北本市子供公園入口右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51002,36.00493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-7</name>
+        <description><![CDATA[投票区: 第１６投票区<br>緯度: 36.00446<br>経度: 139.51175<br>住所: 石戸宿４丁目３４番地４７<br>場所の目安: 石戸宿４丁目公園東側]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.00446</value>
+          </Data>
+          <Data name="経度">
+            <value>139.51175</value>
+          </Data>
+          <Data name="住所">
+            <value>石戸宿４丁目３４番地４７</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>石戸宿４丁目公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51175,36.00446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-8</name>
+        <description><![CDATA[投票区: 第１６投票区<br>緯度: 36.02151<br>経度: 139.52132<br>住所: 石戸４丁目１７３番地<br>場所の目安: チサン第３中央公園南側]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.02151</value>
+          </Data>
+          <Data name="経度">
+            <value>139.52132</value>
+          </Data>
+          <Data name="住所">
+            <value>石戸４丁目１７３番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>チサン第３中央公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52132,36.02151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-1</name>
+        <description><![CDATA[投票区: 第１７投票区<br>緯度: 36.01602<br>経度: 139.53238<br>住所: 栄７番地<br>場所の目安: 公団１街区２３号棟Big-A北本団地店西側]]></description>
+        <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01602</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53238</value>
+          </Data>
+          <Data name="住所">
+            <value>栄７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>公団１街区２３号棟Big-A北本団地店西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53238,36.01602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-2</name>
+        <description><![CDATA[投票区: 第１７投票区<br>緯度: 36.01614<br>経度: 139.53327<br>住所: 栄７番地<br>場所の目安: 公団商店街東側公園西側入口右側]]></description>
+        <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01614</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53327</value>
+          </Data>
+          <Data name="住所">
+            <value>栄７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>公団商店街東側公園西側入口右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53327,36.01614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-3</name>
+        <description><![CDATA[投票区: 第１７投票区<br>緯度: 36.01538<br>経度: 139.53506<br>住所: 栄７番地<br>場所の目安: 公団２街区２３号棟北東向側（水路右岸）]]></description>
+        <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01538</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53506</value>
+          </Data>
+          <Data name="住所">
+            <value>栄７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>公団２街区２３号棟北東向側（水路右岸）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53506,36.01538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-4</name>
+        <description><![CDATA[投票区: 第１７投票区<br>緯度: 36.01716<br>経度: 139.53656<br>住所: 栄７番地<br>場所の目安: 公団４街区４号棟南西側]]></description>
+        <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01716</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53656</value>
+          </Data>
+          <Data name="住所">
+            <value>栄７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>公団４街区４号棟南西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53656,36.01716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-5</name>
+        <description><![CDATA[投票区: 第１７投票区<br>緯度: 36.01697<br>経度: 139.53314<br>住所: 栄７番地<br>場所の目安: 公団３街区４号棟北側]]></description>
+        <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01697</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53314</value>
+          </Data>
+          <Data name="住所">
+            <value>栄７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>公団３街区４号棟北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53314,36.01697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-6</name>
+        <description><![CDATA[投票区: 第１７投票区<br>緯度: 36.01821<br>経度: 139.53044<br>住所: 栄７番地<br>場所の目安: 公団１街区３号棟東側（水路右岸）]]></description>
+        <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.01821</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53044</value>
+          </Data>
+          <Data name="住所">
+            <value>栄７番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>公団１街区３号棟東側（水路右岸）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53044,36.01821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-7</name>
+        <description><![CDATA[投票区: 第１７投票区<br>緯度: 36.0136<br>経度: 139.53311<br>住所: 栄１３番地<br>場所の目安: 学習センター建物入口右側]]></description>
+        <styleUrl>#icon-1899-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１７投票区</value>
+          </Data>
+          <Data name="緯度">
+            <value>36.0136</value>
+          </Data>
+          <Data name="経度">
+            <value>139.53311</value>
+          </Data>
+          <Data name="住所">
+            <value>栄１３番地</value>
+          </Data>
+          <Data name="場所の目安">
+            <value>学習センター建物入口右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53311,36.0136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

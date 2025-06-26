@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>吉見町ポスター掲示場設置場所</name>
+    <description/>
+    <Style id="icon-1502-006064-labelson">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-0097A7-labelson">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-3949AB-labelson">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-4E342E-labelson">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-7CB342-labelson">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-817717-labelson">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-880E4F-labelson">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-C2185B-labelson">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1502-E65100-labelson">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>吉見町ポスター掲示場設置場所GoogleMap.csv</name>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町谷口９６番地<br>設置場所の目標: 元木商会東側交差点]]></description>
+        <styleUrl>#icon-1502-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町谷口９６番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>元木商会東側交差点</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4657376,36.039324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町東野二丁目１１番地<br>設置場所の目標: 東野第一公園入口東側]]></description>
+        <styleUrl>#icon-1502-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町東野二丁目１１番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東野第一公園入口東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4679347,36.0405393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町東野三丁目１５番地６<br>設置場所の目標: 古名集会所東脇]]></description>
+        <styleUrl>#icon-1502-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町東野三丁目１５番地６</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>古名集会所東脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.472946,36.0406311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町東野五丁目２０番地１<br>設置場所の目標: 東野ふれあいセンター入口]]></description>
+        <styleUrl>#icon-1502-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町東野五丁目２０番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東野ふれあいセンター入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4716932,36.037693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉見町丸貫３２８番地<br>設置場所の目標: 牛見堂東側太陽光パネル前]]></description>
+        <styleUrl>#icon-1502-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町丸貫３２８番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>牛見堂東側太陽光パネル前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4681924,36.0441605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉見町下銀谷２３番地１<br>設置場所の目標: 下銀谷集会所前]]></description>
+        <styleUrl>#icon-1502-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町下銀谷２３番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>下銀谷集会所前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4685496,36.031287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉見町万光寺８９番地<br>設置場所の目標: セブンイレブン吉見町東店交差点]]></description>
+        <styleUrl>#icon-1502-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町万光寺８９番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>セブンイレブン吉見町東店交差点</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.473091,36.0328109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8.0</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県吉見町蚊斗谷７１番地先<br>設置場所の目標: 柴崎建設東側（土手下集積所）]]></description>
+        <styleUrl>#icon-1502-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町蚊斗谷７１番地先</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>柴崎建設東側（土手下集積所）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4860999,36.0361637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9.0</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町高尾新田１５４番地<br>設置場所の目標: 照稲神社（高蓮集会所）]]></description>
+        <styleUrl>#icon-1502-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町高尾新田１５４番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>照稲神社（高蓮集会所）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4930294,36.0334307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10.0</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町江和井１５５５番地<br>設置場所の目標: 東第二小学校西側交差点]]></description>
+        <styleUrl>#icon-1502-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町江和井１５５５番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東第二小学校西側交差点</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4938728,36.0259873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11.0</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町大串２８４３番地<br>設置場所の目標: 荒川荘入口]]></description>
+        <styleUrl>#icon-1502-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町大串２８４３番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>荒川荘入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4880282,36.0195343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12.0</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町江和井２８２番地５<br>設置場所の目標: 荒井橋西交差点花壇]]></description>
+        <styleUrl>#icon-1502-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町江和井２８２番地５</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>荒井橋西交差点花壇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4962169,36.0202436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13.0</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉見町飯島新田７０６番地<br>設置場所の目標: 飯島新田集会所南側]]></description>
+        <styleUrl>#icon-1502-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町飯島新田７０６番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>飯島新田集会所南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4825181,36.0242112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14.0</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町蚊斗谷１３２番地<br>設置場所の目標: 東公民館入口]]></description>
+        <styleUrl>#icon-1502-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町蚊斗谷１３２番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東公民館入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4840826,36.0322153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15.0</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町荒子４７９番地２<br>設置場所の目標: 新荒子バス停留所（回転場）]]></description>
+        <styleUrl>#icon-1502-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町荒子４７９番地２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>新荒子バス停留所（回転場）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4769926,36.0220314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16.0</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町荒子７５８番地<br>設置場所の目標: 上荒子バス停留所（集積所）]]></description>
+        <styleUrl>#icon-1502-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町荒子７５８番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上荒子バス停留所（集積所）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4713943,36.0242319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17.0</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町大串２２４４番地<br>設置場所の目標: 大串毘沙門公園東側]]></description>
+        <styleUrl>#icon-1502-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町大串２２４４番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大串毘沙門公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4687392,36.0223879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18.0</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉見町大串７５６番地１<br>設置場所の目標: 大串登戸集会所南側]]></description>
+        <styleUrl>#icon-1502-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町大串７５６番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大串登戸集会所南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4632735,36.0270319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19.0</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉見町大串５８３番地１<br>設置場所の目標: 大串交差点東側]]></description>
+        <styleUrl>#icon-1502-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町大串５８３番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大串交差点東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4583344,36.0257318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20.0</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町前河内１番地<br>設置場所の目標: 前河内日吉神社前]]></description>
+        <styleUrl>#icon-1502-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町前河内１番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>前河内日吉神社前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4559486,36.0254928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21.0</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町前河内３０９番地１<br>設置場所の目標: 南公民館入口]]></description>
+        <styleUrl>#icon-1502-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町前河内３０９番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>南公民館入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4528835,36.0264056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22.0</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町江綱７２７番地１<br>設置場所の目標: 江綱集会所南側丁字路]]></description>
+        <styleUrl>#icon-1502-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町江綱７２７番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>江綱集会所南側丁字路</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4465719,36.0222504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23.0</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町久保田９３１番地１<br>設置場所の目標: 消防団１−２詰所北側　]]></description>
+        <styleUrl>#icon-1502-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町久保田９３１番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>消防団１−２詰所北側　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4481221,36.0264969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24.0</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉見町江綱１２７０番地<br>設置場所の目標: (有)渡辺興業資材置場入口]]></description>
+        <styleUrl>#icon-1502-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町江綱１２７０番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>(有)渡辺興業資材置場入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4436823,36.0238977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25.0</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉見町南吉見１４８１番地１<br>設置場所の目標: 江口集会所西側]]></description>
+        <styleUrl>#icon-1502-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町南吉見１４８１番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>江口集会所西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4403034,36.0254068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26.0</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉見町久保田１１１０番地１<br>設置場所の目標: 久保田中組公民館東側]]></description>
+        <styleUrl>#icon-1502-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町久保田１１１０番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>久保田中組公民館東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4471075,36.0298185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27.0</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町久保田２４３５番地６<br>設置場所の目標: ㈱仙台銘板入口]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町久保田２４３５番地６</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>㈱仙台銘板入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4494222,36.0335703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28.0</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町久保田１７３７番地<br>設置場所の目標: 道の駅「いちごの里よしみ」バス停東側]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町久保田１７３７番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>道の駅「いちごの里よしみ」バス停東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4582974,36.0374078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29.0</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町下細谷４１１番地<br>設置場所の目標: 吉見町役場前]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町下細谷４１１番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>吉見町役場前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4539934,36.0394548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30.0</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町下細谷３４３番地<br>設置場所の目標: 下細谷集会所北側]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町下細谷３４３番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>下細谷集会所北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4509554,36.0413639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31.0</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉見町下細谷１番地<br>設置場所の目標: 吉見中学校入口]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町下細谷１番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>吉見中学校入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4497328,36.0469409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>32.0</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉見町久保田１７２５番地１<br>設置場所の目標: 吉見ヶ丘団地公園]]></description>
+        <styleUrl>#icon-1502-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町久保田１７２５番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>吉見ヶ丘団地公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4556224,36.0365469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33.0</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町北吉見３０９番地１<br>設置場所の目標: 百穴入口　岩窟売店前回転場]]></description>
+        <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町北吉見３０９番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>百穴入口　岩窟売店前回転場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4197847,36.0372299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>34.0</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町北吉見７６５番地１<br>設置場所の目標: 根古屋集会所前西側道路]]></description>
+        <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町北吉見７６５番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>根古屋集会所前西側道路</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4262057,36.0398528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>35.0</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町南吉見２０７４番地３<br>設置場所の目標: 西が丘小学校入口]]></description>
+        <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町南吉見２０７４番地３</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西が丘小学校入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4318414,36.0395205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>36.0</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町南吉見５１１番地１<br>設置場所の目標: 流川バス停前]]></description>
+        <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町南吉見５１１番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>流川バス停前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4293634,36.0344663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>37.0</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉見町南吉見１６０７番地１<br>設置場所の目標: 亀の甲バス停前]]></description>
+        <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町南吉見１６０７番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>亀の甲バス停前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4370314,36.0337739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>38.0</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉見町久米田６８２番地１<br>設置場所の目標: 明治牛乳販売所南側交差点]]></description>
+        <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町久米田６８２番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>明治牛乳販売所南側交差点</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4404977,36.0357282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>39.0</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉見町久米田１９４−８番地<br>設置場所の目標: 久米田バス停前]]></description>
+        <styleUrl>#icon-1502-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町久米田１９４−８番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>久米田バス停前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4458422,36.0356423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>40.0</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町長谷１２３６番地４１<br>設置場所の目標: ネオ通線手押信号機交差点（松ノ平入口）]]></description>
+        <styleUrl>#icon-1502-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町長谷１２３６番地４１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ネオ通線手押信号機交差点（松ノ平入口）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4229223,36.0546711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>41.0</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町北吉見１３４０番地１<br>設置場所の目標: 新吉見団地入口（集積所裏）]]></description>
+        <styleUrl>#icon-1502-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町北吉見１３４０番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>新吉見団地入口（集積所裏）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4237305,36.0479051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>42.0</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町北吉見１４５３番地１先<br>設置場所の目標: 北向地蔵脇]]></description>
+        <styleUrl>#icon-1502-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町北吉見１４５３番地１先</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北向地蔵脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4276932,36.0483092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>43.0</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町北吉見１７１７番地１<br>設置場所の目標: 西部ふれあいセンター入口]]></description>
+        <styleUrl>#icon-1502-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町北吉見１７１７番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西部ふれあいセンター入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4253367,36.0496101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>44.0</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町御所２８６番地１先<br>設置場所の目標: 吉見観音入口東側]]></description>
+        <styleUrl>#icon-1502-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町御所２８６番地１先</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>吉見観音入口東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4402644,36.0516496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>45.0</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町和名６番地１<br>設置場所の目標: 西小学校入口（あいさつ坂入口）]]></description>
+        <styleUrl>#icon-1502-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町和名６番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西小学校入口（あいさつ坂入口）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4343721,36.0499478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>46.0</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町黒岩３番地３<br>設置場所の目標: 八丁湖入口交差点南側]]></description>
+        <styleUrl>#icon-1502-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町黒岩３番地３</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>八丁湖入口交差点南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4442513,36.0496544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47.0</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町和名８１２番地<br>設置場所の目標: 消防団２−３詰所西側　]]></description>
+        <styleUrl>#icon-1502-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町和名８１２番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>消防団２−３詰所西側　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4456059,36.0435833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>48.0</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉見町和名９３３番地<br>設置場所の目標: 医療施設もえぎ野北側丁字路]]></description>
+        <styleUrl>#icon-1502-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町和名９３３番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>医療施設もえぎ野北側丁字路</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4448467,36.0401413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>49.0</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉見町北吉見２８２３番地<br>設置場所の目標: 西公民館入口交差点]]></description>
+        <styleUrl>#icon-1502-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町北吉見２８２３番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西公民館入口交差点</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4365439,36.0456348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>50.0</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町長谷８６８番地１<br>設置場所の目標: 消防団２−１詰所前]]></description>
+        <styleUrl>#icon-1502-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町長谷８６８番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>消防団２−１詰所前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4250876,36.0614507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>51.0</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町長谷７０３番地１<br>設置場所の目標: 大沼入口丁字路]]></description>
+        <styleUrl>#icon-1502-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町長谷７０３番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大沼入口丁字路</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.433301,36.059237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>52.0</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町田甲８１８番地４<br>設置場所の目標: 小峰商店東側]]></description>
+        <styleUrl>#icon-1502-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町田甲８１８番地４</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>小峰商店東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4282306,36.0659772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>53.0</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町田甲１１０５番地<br>設置場所の目標: 田甲集会所東側]]></description>
+        <styleUrl>#icon-1502-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町田甲１１０５番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>田甲集会所東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4319687,36.0679501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>54.0</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉見町田甲１４７７番地先<br>設置場所の目標: 福聚寺東側集積所付近]]></description>
+        <styleUrl>#icon-1502-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町田甲１４７７番地先</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>福聚寺東側集積所付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4310569,36.0721744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>55.0</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉見町田甲１９０１番地<br>設置場所の目標: ポンポン山入口町営駐車場]]></description>
+        <styleUrl>#icon-1502-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町田甲１９０１番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ポンポン山入口町営駐車場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.436715,36.0682907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>56.0</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉見町田甲１１８２番地２９７<br>設置場所の目標: 前山団地交差点西側]]></description>
+        <styleUrl>#icon-1502-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町田甲１１８２番地２９７</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>前山団地交差点西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4318514,36.063552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>57.0</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町山ノ下８２０番地１<br>設置場所の目標: 稲荷神社東側]]></description>
+        <styleUrl>#icon-1502-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町山ノ下８２０番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>稲荷神社東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4400416,36.0671737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>58.0</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町中曽根２５５番地<br>設置場所の目標: 中曽根集会所前]]></description>
+        <styleUrl>#icon-1502-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町中曽根２５５番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中曽根集会所前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4435025,36.0762308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59.0</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町上砂５２２番地<br>設置場所の目標: 上砂ごみ集積所付近]]></description>
+        <styleUrl>#icon-1502-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町上砂５２２番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上砂ごみ集積所付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4487697,36.0718175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>60.0</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町上砂２８４番地<br>設置場所の目標: 上砂農村研修所前]]></description>
+        <styleUrl>#icon-1502-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町上砂２８４番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上砂農村研修所前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4525363,36.071582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>61.0</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉見町松崎１５１番地<br>設置場所の目標: 東都モールド工業所前]]></description>
+        <styleUrl>#icon-1502-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町松崎１５１番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東都モールド工業所前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4482518,36.0669728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>62.0</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉見町松崎７６番地<br>設置場所の目標: 松崎集会所]]></description>
+        <styleUrl>#icon-1502-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町松崎７６番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>松崎集会所</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4487695,36.0643262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>63.0</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町地頭方６５４番地１<br>設置場所の目標: 広域農道県民ゴルフ場入口]]></description>
+        <styleUrl>#icon-1502-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町地頭方６５４番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>広域農道県民ゴルフ場入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4557925,36.0671797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>64.0</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町一ツ木１８２番地<br>設置場所の目標: 旧原田商店南側]]></description>
+        <styleUrl>#icon-1502-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町一ツ木１８２番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>旧原田商店南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4630436,36.0626995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>65.0</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町地頭方４５１番地<br>設置場所の目標: 北吉見郵便局南側]]></description>
+        <styleUrl>#icon-1502-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町地頭方４５１番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北吉見郵便局南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.459106,36.0610929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>66.0</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町本沢６２番地<br>設置場所の目標: 玄長庵南側道路丁字路]]></description>
+        <styleUrl>#icon-1502-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町本沢６２番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>玄長庵南側道路丁字路</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4535519,36.0592725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>67.0</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉見町上細谷９８番地<br>設置場所の目標: 上細谷旧埼玉中央農協倉庫西側]]></description>
+        <styleUrl>#icon-1502-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町上細谷９８番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上細谷旧埼玉中央農協倉庫西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4502287,36.0588632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>68.0</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉見町小新井１４２番地<br>設置場所の目標: ふれあい広場北側入口]]></description>
+        <styleUrl>#icon-1502-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町小新井１４２番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ふれあい広場北側入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4532062,36.0548763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>69.0</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉見町今泉４１８番地<br>設置場所の目標: 今泉揚水場東側]]></description>
+        <styleUrl>#icon-1502-4E342E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町今泉４１８番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>今泉揚水場東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4603904,36.0524665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>70.0</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉見町今泉２５４番地<br>設置場所の目標: 今泉集会所入口]]></description>
+        <styleUrl>#icon-1502-4E342E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町今泉２５４番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>今泉集会所入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4653032,36.054988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>71.0</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉見町北下砂２１４番地１<br>設置場所の目標: 北下砂集会所北側]]></description>
+        <styleUrl>#icon-1502-4E342E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町北下砂２１４番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北下砂集会所北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4658467,36.0492504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>72.0</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉見町中新井８９２番地<br>設置場所の目標: 神明神社北側]]></description>
+        <styleUrl>#icon-1502-4E342E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町中新井８９２番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>神明神社北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4583081,36.0496181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73.0</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉見町中新井４３８番地<br>設置場所の目標: KUMON吉見中央教室南側]]></description>
+        <styleUrl>#icon-1502-4E342E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町中新井４３８番地</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>KUMON吉見中央教室南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4489108,36.0513997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>74.0</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉見町中新井５００番地１<br>設置場所の目標: 図書交流館入口]]></description>
+        <styleUrl>#icon-1502-4E342E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉見町中新井５００番地１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>図書交流館入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4543024,36.0519976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,5318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>本庄市ポスター掲示場設置場所一覧</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>本庄地域</name>
+      <Placemark>
+        <name>1-1 横尾竹材駐車場　（朝日通り）</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市千代田２−７−１６]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市千代田２−７−１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1781983,36.2416917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-2 金鑚神社　（入口左側）</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市千代田３−２−３]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市千代田３−２−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1771526,36.2429005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-3 佛母寺　（北側ブロック）</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市千代田３−３−１０]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市千代田３−３−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1786148,36.2448942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-4 本庄西小学校　（プール南側）</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市千代田４−３−２]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市千代田４−３−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1796017,36.2431413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-5 本庄西中学校　（テニスコート南側）</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市千代田４−３−１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市千代田４−３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1816734,36.2423482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-6 若泉運動公園テニスコート　（新清水橋近く）</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市若泉２−３]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市若泉２−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1810098,36.2461733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-7 個人宅</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市若泉３−２１−２]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市若泉３−２１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1850656,36.2501675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-1 ホテルルートイン本庄駅南　（西側フェンス）</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市駅南１−４−３]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市駅南１−４−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1838826,36.236699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-2 市民活動交流センター（はにぽんプラザ）</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市銀座１−１−１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市銀座１−１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1848637,36.2380342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-3 市民活動交流センター駅北口駐車場</name>
+        <address>埼玉県本庄市銀座３−６　</address>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市銀座３−６　]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市銀座３−６　</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>2-4 神座糸店　（西側駐車場）</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市銀座３−７−８]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市銀座３−７−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1872047,36.2379174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-5 駅南公園　（北側）</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市駅南２−１９　]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市駅南２−１９　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1888846,36.2338848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-6 個人宅　（十間通り側）</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市本庄２−３−４９]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市本庄２−３−４９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1925002,36.2362741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-7 本庄税務署</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市駅南２−２５−１６]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市駅南２−２５−１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1882578,36.2330195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-8 MEGAドン・キホーテUNY本庄店</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県本庄市南１−２−１０]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市南１−２−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1814804,36.2359897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-1 開善寺　（吉岡石材西隣り墓地ブロック）</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市中央１−４]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市中央１−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1865672,36.2418533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-2スーパービバホーム本庄店</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市中央２−４−６０]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市中央２−４−６０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1868404,36.242753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-3 円心寺　（北側道路沿いブロック）</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市本庄３−３−２]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市本庄３−３−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1904925,36.242371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-4 本庄市役所　（駅前通り）</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市本庄３−５−３]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市本庄３−５−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1896394,36.2432717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-5 城下公園　（東側フェンス） </name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市本庄３−６]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市本庄３−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1940631,36.2435355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-6 若泉こども広場</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市若泉１−２７８−２３]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市若泉１−２７８−２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1883937,36.2456965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-7 警察署南市有地</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市本庄４−２−４８]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市本庄４−２−４８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1898646,36.2445287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-1 本庄東小学校　（朝日通り） </name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市日の出１−２−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市日の出１−２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1971198,36.2342808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-2 本庄東高等学校　（朝日通り）</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市日の出１−４−５]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市日の出１−４−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2011193,36.2318553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-3 ときわぎハイツ駐車場　（平和通り）</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市朝日町１−１７−５]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市朝日町１−１７−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1942402,36.2326894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-4 ポニー公園　（北側）</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市朝日町３−４]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市朝日町３−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.19171,36.2300738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-5 個人宅</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市朝日町２−３−７９]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市朝日町２−３−７９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1948015,36.2308412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-6 朝日町自治会館前公園</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市朝日町２−１０−９]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市朝日町２−１０−９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1976882,36.229548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-7 朝日町あけぼの公園</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市朝日町３−２４]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市朝日町３−２４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1954447,36.2285375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-1 ホワイトハイム村山（アパート）（南側ブロック）</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市東台２−７−２]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市東台２−７−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.195239,36.2366393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-2 ことぶき公園</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市寿１−２３−６]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市寿１−２３−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2025819,36.2278621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-3 日の出児童センター　（南側フェンス）</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市日の出２−５−５６]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市日の出２−５−５６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1995363,36.2352852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-4 ニューシティー寿（アパート）　（北側ブロック）</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市寿１−５−３３]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市寿１−５−３３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2012526,36.2297301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-5 個人宅</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市寿２−４−３５]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市寿２−４−３５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2040856,36.2345801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-6 個人宅</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市寿３−６−３４　]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市寿３−６−３４　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2103914,36.2309525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-7 埼玉本庄自動車学校　（南側フェンス）</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市寿３−１−４３]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市寿３−１−４３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2059275,36.2336492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-1 個人宅</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市東台３−４−２３]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市東台３−４−２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1980553,36.2370369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-2 五州園　（十間通り）</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市東台４−２−５]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市東台４−２−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1944418,36.2413392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-3 城立寺長峰墓地</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市東台５−６]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市東台５−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1962365,36.2415389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-4 シェリーゼⅠ（アパート）（西側道路法面）</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市日の出４−２−４]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市日の出４−２−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1992469,36.2394443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-5 本庄公民館</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市東台５−２−３３]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市東台５−２−３３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1975264,36.2429227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-6 みずき公園　（南側）</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市日の出４−８]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市日の出４−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2020419,36.2397613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-7 （株）小泉北関東本庄営業所　（中山道）</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市日の出４−１６−４７]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市日の出４−１６−４７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2020486,36.2369057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-1 個人宅</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市前原１−９−１１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市前原１−９−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1780846,36.2372163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-2 泉町市営住宅</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市前原１−１３−１２]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市前原１−１３−１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1796705,36.2390781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-3 武正（株）駐車場　（二本松通り）</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市前原２−３−２５]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市前原２−３−２５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.176399,36.2381089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-4 個人宅</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市前原２−１４−１１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市前原２−１４−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1762076,36.2406234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-5 柏公園　（北側）</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市柏１−２]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市柏１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.177038,36.2362578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-6 埼玉県立本庄高校　（東側）</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市柏１−４−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市柏１−４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1778964,36.2333522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-7 柏第二公園　（南東側）</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市柏１−３]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市柏１−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1777385,36.2349412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-1 本庄南中学校　（北側）</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市緑３−１３−１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市緑３−１３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1743134,36.227603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-2 いちょう公園　（南側）</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市見福５−３]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市見福５−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1759899,36.229322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-3 武藤電気工業（株）</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市見福５−１−３９]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市見福５−１−３９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1757183,36.2306733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-4 どんぐり公園</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市緑２−１３]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市緑２−１３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1770087,36.2268269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-5 くるみ公園　（南側）</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市緑３−６]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市緑３−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1731346,36.2277654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-6 個人宅</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市東富田２４６−１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市東富田２４６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1761183,36.2233495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-1 もみのき公園　（南側）</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市見福３−７]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市見福３−７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1804033,36.2289182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-2 見福公園　（西側）</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市見福２−１１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市見福２−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1834683,36.2329561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-3 けやき公園　（北側）</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市けや木３−７]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市けや木３−７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1870992,36.2297625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-4 保健センター第２駐車場　（東側）</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市けや木３−１２]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市けや木３−１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1888539,36.2290968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-5 中央小学校　（西通り側）</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市緑１−１６]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市緑１−１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1782627,36.2270789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-6 ねむのき公園　（南側）</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市見福２−２１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市見福２−２１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1831521,36.2306563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-7 ダスキン本庄（株）西側出入口</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市見福２−１８−９]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市見福２−１８−９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1839952,36.2305004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-1 鵜森集落農業センター西側空地</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市鵜森３８−２]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市鵜森３８−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2176688,36.2340033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-2 個人宅</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市傍示堂５１１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市傍示堂５１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2116974,36.2377624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-3 八幡大神社</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市牧西５５７−１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市牧西５５７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2221229,36.2335441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-4 藤田小学校　（東側フェンス）</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市牧西１１７１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市牧西１１７１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2245815,36.2339818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-5 個人宅　（火の見隣り）</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市小和瀬２０４　]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小和瀬２０４　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2282361,36.2424611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-6 宮戸農民センター（東側）</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市宮戸１１２]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市宮戸１１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2381758,36.2390435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-7 堀田集落センター（西側）</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市堀田９５８]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市堀田９５８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2330308,36.2296719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-8 個人宅　（県道本庄・妻沼線交差点）</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県本庄市滝瀬１２１６−１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市滝瀬１２１６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2427455,36.2299988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-1 仁手公民館　（北側）</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市仁手６６５−１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市仁手６６５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2095366,36.248119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-2 個人宅　（カーブ付近）</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市仁手３０４]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市仁手３０４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2156474,36.2440428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-3 個人宅　（集落センター西隣り）</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市仁手２７７　]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市仁手２７７　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2173162,36.2435462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-4 下仁手公園</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市仁手１５６８先]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市仁手１５６８先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.21808,36.2504713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-5 (有）窪川土建</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市久々宇１９２]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市久々宇１９２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2000589,36.2513288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-6 仁手小学校　（北側フェンス）</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市仁手６１８　]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市仁手６１８　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.206085,36.2486299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-7 個人宅</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市田中１０４−１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市田中１０４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1915463,36.2544548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-8 個人宅（田中市営住宅の東）</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県本庄市田中２６３−１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市田中２６３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1915027,36.2514504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-1 個人宅（西側畑）</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市上仁手１２６−１先]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市上仁手１２６−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2079812,36.2616887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-2 個人宅</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市上仁手１８４−１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市上仁手１８４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2053781,36.2614879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-3 個人宅（南側畑）</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市上仁手１５３　]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市上仁手１５３　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2063153,36.2617062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-4 諏訪神社</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市上仁手２１０]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市上仁手２１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.205055,36.2626645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-5 個人宅</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市上仁手５９−３]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市上仁手５９−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2095916,36.2610302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-1 正観寺　（西側道路）</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市都島８６４]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市都島８６４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1740805,36.2592648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-2 個人宅（畑） 　　　　　　　　　　</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市山王堂３３−１]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市山王堂３３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1861384,36.2582485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-3 個人宅　　　　　　　　</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市山王堂１０４−１]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市山王堂１０４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1878009,36.2591629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-4 旭小学校　（南側フェンス）</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市都島７８]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市都島７８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1756584,36.256134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-5 個人宅</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市沼和田６５９−１]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市沼和田６５９−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1798388,36.2554208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-6 個人宅（火の見西側）</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市杉山５６−１]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市杉山５６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1692766,36.2596338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-7 個人宅</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市新井６２（新井）]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市新井６２（新井）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1711364,36.2624054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-8 個人宅</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県本庄市新井３７６（三友）]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市新井３７６（三友）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1706456,36.266135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-1 小島第一市営住宅　（南側） </name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市小島１−６]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島１−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1726226,36.244765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-2 個人宅　（中山道北）</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市小島４−４−５３]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島４−４−５３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1708341,36.2496367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-3 小島第二市営住宅</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市小島２−２−２５]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島２−２−２５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1712205,36.2468223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-4 いずみ保育所</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市小島５−５−４５]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島５−５−４５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1763437,36.2503644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-5 おじま台小公園</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市小島３−５]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島３−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.16676,36.2473849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-6 個人宅（畑）</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市小島１−４−３８]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島１−４−３８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1744757,36.2455209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-7 小島西公園</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市小島３−１１−２]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島３−１１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1677959,36.2499527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-1 個人宅　（中山道）</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市万年寺３−２３−１２]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市万年寺３−２３−１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1620713,36.2536036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-2 万年寺公会堂</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市万年寺１−１２−２１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市万年寺１−１２−２１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.165366,36.2522607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-3 つつじ公園　（北側）</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市下野堂３−２０]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市下野堂３−２０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1590631,36.2522466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-4 万年寺ふれあい公園　（西側）</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市万年寺３−３]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市万年寺３−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1617623,36.2520748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-5 個人宅　（蛭子塚通り）</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市下野堂１−２１−２０]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市下野堂１−２１−２０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1668175,36.2513188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-6 下野堂わんぱく広場</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市下野堂３−２７]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市下野堂３−２７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1572047,36.2504231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-7 しものどう公園</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市下野堂２−１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市下野堂２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1633226,36.2478999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-1 沖電気工業（株）　（東側フェンス南端）</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市小島南４−１−１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島南４−１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1681483,36.2421698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-2 勤労青少年ホーム</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市小島南１−８−２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島南１−８−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1704392,36.2418681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-3 小島南ひだまり公園</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市小島南３−４]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島南３−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1639346,36.2393627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-4 本庄保健センター跡地　</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市小島南２−４−１２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島南２−４−１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1685663,36.2399521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-5 本庄上里学校給食センター西側駐車場　（西側フェンス）</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市小島南１−８−１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島南１−８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.170596,36.2427148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-6 沖電気工業（株）　（二本松通り）</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市小島南４−１−１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市小島南４−１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.164007,36.2438572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-7 三愛オブリガス東日本（株）</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市下野堂６１４]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市下野堂６１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1618547,36.2449453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-1 さいたま地方法務局　本庄出張所　（北西側歩道フェンス）</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市早稲田の杜４−１０−１先]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市早稲田の杜４−１０−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1832049,36.2251077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-2 本庄総合公園　（北側駐車場前）</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市北堀４３３]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市北堀４３３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1962405,36.2220355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-3 本庄早稲田の杜緑地4</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市早稲田の杜５−８−３]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市早稲田の杜５−８−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1857811,36.2191582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-4 北泉小学校　（県道本庄・寄居線）</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市北堀１８７１−１]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市北堀１８７１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1889753,36.221519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-5 本庄早稲田の杜緑地7</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市早稲田の杜３−２]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市早稲田の杜３−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1813093,36.22195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-6 北泉公民館　（県道本庄・寄居線）</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市早稲田の杜５−１２−２９]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市早稲田の杜５−１２−２９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1885505,36.2171895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-7 個人宅</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市栗崎１０１−４]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市栗崎１０１−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1893634,36.2161055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18-1 四季の里第二公園　（南西角切り付近）</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市四季の里１−１７]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市四季の里１−１７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1959716,36.2252741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18-2 四季の里西公園　（北側）</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市四季の里２−４]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市四季の里２−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1944528,36.2236923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18-4 五十子北公園　（北側）</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市五十子３−１１]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市五十子３−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2007912,36.2265819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18-4 個人宅　（西五十子自治会館の道路反対側）</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市西五十子４４３]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市西五十子４４３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2032886,36.2225376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18-5 東日本工業（株）倉庫</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市西五十子３２８−２]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市西五十子３２８−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2073924,36.2252777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18-6 個人宅</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市西五十子３７３−２]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市西五十子３７３−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.205218,36.2266096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18-7 個人宅</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市東五十子６１７−２]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市東五十子６１７−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2105074,36.2262206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19-1 個人宅　（南側フェンス） 　</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市栄１−２−１１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市栄１−２−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1741217,36.2372162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19-2 個人宅</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市栄２−１１−８]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市栄２−１１−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.173015,36.2356433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19-3 本庄南小学校　（西側フェンス）</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市栄３−６]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市栄３−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1700441,36.2314171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19-4 東特塗料（株）　方　（北西角切り付近）</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市栄３−９−３３]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市栄３−９−３３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1733159,36.2328108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19-5 個人宅　（北側ブロック）</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市西富田３７６−１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市西富田３７６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1695866,36.2330325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19-6 金鑚神社　（南大通り側）　　</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市栄３−５　]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市栄３−５　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1708045,36.2304088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19-7 松原こども広場　(国道４６２号線側)</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市栄１−４−３８]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市栄１−４−３８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1723253,36.2390779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20-1 四方田市営住宅前公園 　　　</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市四方田１４−１　]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市四方田１４−１　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1696904,36.2225617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20-2 個人宅</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市四方田２４１　]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市四方田２４１　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1689033,36.2210761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20-3 東今井公会堂　　</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市今井４２２−２（東今井）]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市今井４２２−２（東今井）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1610688,36.2288661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20-4 個人宅</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市今井３９５−１（東今井）]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市今井３９５−１（東今井）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1611614,36.2271406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20-5 金鑚神社　（北側） 　　</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市今井１１２４−１（西今井）]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市今井１１２４−１（西今井）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1542769,36.2238362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20-6 個人宅</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市今井９４２−２（西今井）]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市今井９４２−２（西今井）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1507052,36.2262625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20-7 エステー（株）　方　（北側フェンス） </name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市共栄１３８−１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市共栄１３８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1439791,36.2228035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>児玉地域</name>
+      <Placemark>
+        <name>21-1 個人宅東側空き地</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町八幡山５３３−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町八幡山５３３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1296108,36.1965493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21-2 個人宅</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町八幡山１９４]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町八幡山１９４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1315068,36.1945192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21-3 児玉総合支所　第二庁舎</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町八幡山３６８]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町八幡山３６８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1280738,36.1907937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21-4 個人宅北側空き地　</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町八幡山３３４−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町八幡山３３４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1290082,36.1941256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21-5 かぶと屋東側空き地</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉２４９４−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉２４９４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1340705,36.1922948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21-6 児玉中学校正門東側</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町八幡山４３８]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町八幡山４３８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1267386,36.1921555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21-7 （有）清水自動車</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉３４２−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉３４２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1291588,36.1871111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21-8 飯玉神社北側畑　（間瀬県道西側）</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉４０９−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉４０９−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1295605,36.1819778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30-8 個人宅</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町吉田林３９９－８]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町吉田林３９９－８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1329415,36.1990217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22-1 児玉公民館跡地</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉２５１０−１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉２５１０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1343784,36.190607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22-2 児玉小学校正門西側</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉１３５３]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉１３５３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1361799,36.1901936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22-3 第一金屋公園</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉南１−４]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉南１−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1300342,36.1855732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22-4 児玉町旧配水塔（敷地内北側）</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉３２３−２]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉３２３−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1310222,36.188368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22-5 個人宅</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉２１２]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉２１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.134515,36.1876853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22-6 本町市営住宅</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉３０３−１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉３０３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1324673,36.1863206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22-7 個人宅</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉５９５−7]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉５９５−7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1364336,36.1858045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22-8 児玉浄水場</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉南２−１６−１４]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉南２−１６−１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1337802,36.183327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22-9 こだま千本桜公園　（北側フェンス）</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉南４−２０]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉南４−２０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1337959,36.1822187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23-1 久美塚市営住宅　（排水処理施設フェンス）</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉１４４７]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉１４４７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1409943,36.1865969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23-2 小谷野接骨院西側空き地</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉２３３８−１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉２３３８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1426926,36.1888359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23-3 個人宅</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉１６３８−１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉１６３８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1534354,36.1883762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23-4 個人宅</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉１１０７−１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉１１０７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.150805,36.1845252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23-5 下町消防倉庫前（児玉第１方面隊第１分団第３部）</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉１６７９]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉１６７９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1489958,36.1893534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23-6 下町児童公園</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉１８２４−１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉１８２４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1485103,36.1924304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23-7 下町市営住宅</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉２４２０]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉２４２０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1392036,36.1912122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23-8 パチンコダイエー児玉店西側（環状一号線）</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町児玉１１５６−２・８]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町児玉１１５６−２・８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1449993,36.1835604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24-1 個人宅</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町保木野４９－１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町保木野４９－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1176394,36.2020167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24-2 個人宅</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町金屋６８−１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町金屋６８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1290071,36.1846814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24-3 （有）杉山新聞店</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町金屋１２６０−１５]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町金屋１２６０−１５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1266237,36.1900392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24-4 金屋小学校</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町金屋１０５２−１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町金屋１０５２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.117999,36.190514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24-5 金正亭南歩道（市有地東側フェンス）</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町田端２２５−４]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町田端２２５−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1154935,36.1946301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24-6 児玉第三金屋集会所跡地</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町金屋８１６]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町金屋８１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1136977,36.1852822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24-7 児玉１号井戸用地フェンス</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町長沖４７－２]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町長沖４７－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1279971,36.1795527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24-8 高柳資源回収所前</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町高柳３２１−２]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町高柳３２１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1141675,36.1744054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24-9 消防団児玉方面隊第２分団第１部器具置場（西側）</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町金屋１１７３]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町金屋１１７３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1219379,36.1906632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24-10 個人宅対面南側畑</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 10<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町金屋２２１−１０]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>10.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町金屋２２１−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1225444,36.1844534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25-1 個人宅西ゴミ収集所横</name>
+        <description><![CDATA[投票区: 第25投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町飯倉２７１−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第25投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町飯倉２７１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0986831,36.1877373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25-2 法性寺</name>
+        <description><![CDATA[投票区: 第25投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町飯倉７３６−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第25投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町飯倉７３６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1009955,36.1861223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25-3 星野商店</name>
+        <description><![CDATA[投票区: 第25投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町宮内１１９３−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第25投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町宮内１１９３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0931538,36.1869389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25-4 宮内東公会堂（東側フェンス）</name>
+        <description><![CDATA[投票区: 第25投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町宮内１３５０]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第25投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町宮内１３５０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.095966,36.1915674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25-5 児玉塩谷集会所駐車場</name>
+        <description><![CDATA[投票区: 第25投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町塩谷５９５−４先]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第25投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町塩谷５９５−４先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1095691,36.1900129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25-6 個人宅東側ゴミ収集所横</name>
+        <description><![CDATA[投票区: 第25投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町塩谷３５０−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第25投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町塩谷３５０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1077709,36.1921979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26-1 風洞自治会館</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町秋山２７１３−１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町秋山２７１３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.130386,36.1776601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26-2 秋平小学校　（南側）</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町秋山２５３１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町秋山２５３１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.130255,36.1747442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26-3 十二天橋先交差点（個人宅西側）</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町秋山２０７８−２]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町秋山２０７８−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1368168,36.1803595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26-4 日輪寺</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町秋山１１２３]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町秋山１１２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1410861,36.1716756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26-5 秋山上組共同集荷所</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町秋山２１３−１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町秋山２１３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1415394,36.1669894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26-6 中野商店</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町小平５９２−１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町小平５９２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1249135,36.1674073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26-7 個人宅北側</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町小平２７]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町小平２７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1242763,36.1642143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26-8 個人宅</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町小平１０７８]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町小平１０７８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1222549,36.1731218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26-9 新井商店南側</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町小平１６０６−５]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町小平１６０６−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.113987,36.1673138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27-1 個人宅</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町元田１４８−３]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町元田１４８−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1071736,36.1684077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27-2 本泉公会堂</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町元田３７２−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町元田３７２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0986204,36.161672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27-3 下稲沢ゴミ収集所</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町稲沢３２９−１先]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町稲沢３２９−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0889336,36.1612549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27-4 個人宅西側</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町河内２４８−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町河内２４８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0949085,36.1574345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27-5 本泉小学校第二グラウンド</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町河内６５９−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町河内６５９−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0882681,36.1519218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28-1 野口建設作業場</name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町太駄４９]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町太駄４９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0816984,36.1417884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28-2 個人宅　（太駄中）</name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町太駄３０８]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町太駄３０８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0769514,36.1363368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28-3 茂木タバコ店　（杉の峠入口） </name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町太駄９１７−２]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町太駄９１７−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0785816,36.1327823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28-4 個人宅　（太駄上）</name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町太駄１０８１−２]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町太駄１０８１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0764068,36.1267316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28-5 いろは橋　（太駄上）</name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町太駄１１０８−１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町太駄１１０８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.076784,36.1240766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29-1 蛭川農村公園</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町蛭川９１５−１０]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町蛭川９１５−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1505917,36.2096283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29-2 埼玉ひびきの農協旧共和支店</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町蛭川１１６−１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町蛭川１１６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1485756,36.2093824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29-3 共和小学校</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町蛭川８９５−１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町蛭川８９５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1516861,36.2077931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29-4 下真下消防器具置場</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町下真下１８]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町下真下１８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1442103,36.2158989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29-5 個人宅</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町入浅見８９４]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町入浅見８９４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1558665,36.2036077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29-6 道路用地</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町下浅見６３３－６]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町下浅見６３３－６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1637903,36.2118627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29-7 下浅見文化財収蔵庫</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町下浅見８６７−１１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町下浅見８６７−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1631396,36.2087078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29-8 井田起業（株）</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町高関６６]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町高関６６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1585665,36.21489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30-1 上真下集落農業センター</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町上真下１８７−６　]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町上真下１８７−６　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1319667,36.2080234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30-2 個人宅</name>
+        <address>埼玉県本庄市児玉町上真下３１４−５</address>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町上真下３１４−５]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町上真下３１４−５</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>30-3 個人宅　（北側ブロック）</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町共栄３５８]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町共栄３５８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1373743,36.2153031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30-4 埼玉ひびきの農協児玉支店</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町吉田林４８−１]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町吉田林４８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1346657,36.1944729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30-5 個人宅　（東側ブロック）</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町吉田林２１５]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町吉田林２１５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1378319,36.1983123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30-6 個人宅西側畑</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町吉田林４７０−２]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町吉田林４７０−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.137504,36.20143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30-7 吉田林児童公園</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県本庄市児玉町吉田林９７−２先]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県本庄市児玉町吉田林９７−２先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1372169,36.1942738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

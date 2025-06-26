@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>横瀬町ポスター掲示場設置場所位置情報</name>
+    <description>横瀬町選挙管理員会が設置するポスター掲示場４３箇所の位置情報</description>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-BDBDBD-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-BDBDBD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-BDBDBD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-BDBDBD-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>【52横瀬町】設置場所一覧表.csv</name>
+      <Placemark>
+        <name>三菱マテリアル�渇｡瀬工場社宅中央13号棟前</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬1019-1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬1019-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1069985,35.9787435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1区コミュニティ広場</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬 348-1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬 348-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1053676,35.9730805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第3区公会堂前</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬1053-1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬1053-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1076784,35.9771951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3区コミュニティ広場</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬 852-1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬 852-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1113072,35.9758211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>里宮橋先</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬 924-1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬 924-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1085981,35.9739198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>セブンイレブン道反対</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬1201-5]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬1201-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1078121,35.9826402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>総合福祉センター入口</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬1248]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬1248</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1096755,35.9810494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小松沢農園ビニールハウス前</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬1388-2]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬1388-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1127785,35.9805768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>苅米消防器具置場前</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬1460-1]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬1460-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1097928,35.9833421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営住宅五番団地（背戸掘側）</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬1609-2]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬1609-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1085121,35.9852967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下苅米ポンプ場</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬7285-34]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬7285-34</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1114746,35.9878299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アパート前</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬1904-1]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬1904-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1062058,35.9886048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横瀬町町民会館前</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬2000]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬2000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.102691,35.9863581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横瀬町役場職員駐車場</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬4545]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬4545</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0996654,35.9872529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬3553-1]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬3553-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0956086,35.9866938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八阪神社前</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬3306-1]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬3306-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0924558,35.9807578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アパート前</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬2971-3]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬2971-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0908312,35.974636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家付近大堀川側</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬4291-1]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬4291-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0950031,35.9905264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横瀬中学校前</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬4655]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬4655</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0989574,35.9911346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>建設会社前</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬6553-6]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬6553-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1047891,35.9914489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>食堂前</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬6343-3]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬6343-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1052078,35.9947607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧第13区公会堂</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬6155-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬6155-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.106348,35.9985477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬5983-5]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬5983-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1081821,36.0014028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川東第１マンホールポンプ場</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬5765-2]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬5765-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1100641,36.0068387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>薬師堂東側</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬5862-3]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬5862-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.107981,36.0044121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横瀬町コミュニティ防災センター</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬6209-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬6209-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1043739,35.9978013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬5681-6]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬5681-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1045534,36.0058411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家付近深沢橋側</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬5486-6]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬5486-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1026951,36.0023107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬5408-3]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬5408-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1017816,36.0003454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第16区公会堂先</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬5294-5]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬5294-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0998328,35.9987436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>税理士事務所県道側</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬5088-4]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬5088-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.0961258,35.9956034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>横瀬大橋西側</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬4754-2]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬4754-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1010542,35.9943036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家付近大堀川側</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県横瀬町横瀬4970-1]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町横瀬4970-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.099044,35.9971078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>活性化センター前</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県横瀬町芦ケ久保 140-1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町芦ケ久保 140-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.134511,35.9775261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家付近東側生野谷入口</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県横瀬町芦ケ久保 223-1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町芦ケ久保 223-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1354663,35.9819719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日向山公会堂付近</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県横瀬町芦ケ久保 419-3]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町芦ケ久保 419-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1354282,35.9854276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧芦ケ久保小学校前</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県横瀬町芦ケ久保 642]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町芦ケ久保 642</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1379338,35.9772185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大畑橋際</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県横瀬町芦ケ久保 796-1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町芦ケ久保 796-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1441402,35.9765317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤谷橋際</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県横瀬町芦ケ久保1027-9]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町芦ケ久保1027-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1480884,35.9749232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>赤谷バス停留所東側</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県横瀬町芦ケ久保1122-2]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町芦ケ久保1122-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1540671,35.9743478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中井橋</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県横瀬町芦ケ久保1303-12]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町芦ケ久保1303-12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1613759,35.9700216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第22区公会堂前</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県横瀬町芦ケ久保1653-5]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町芦ケ久保1653-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1598214,35.959891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松枝バス停留所</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県横瀬町芦ケ久保1529-12]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県横瀬町芦ケ久保1529-12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1535757,35.9483578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>珍達そば 横瀬店</name>
+        <description><![CDATA[投票区: <br>設置番号: <br>ポスター掲示場の設置場所: ]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value/>
+          </Data>
+          <Data name="設置番号">
+            <value/>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.099061,35.9986635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

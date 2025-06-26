@@ -1,0 +1,2729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>白岡市ポスター掲示場</name>
+    <description/>
+    <Style id="icon-1502-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ポスター掲示場設置場所一覧表.csv</name>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市上野田１０１−１<br>設 置 場 所 の 目 標: 菁莪小学校（正門南側）]]></description>
+        <styleUrl>#icon-1502-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市上野田１０１−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>菁莪小学校（正門南側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6895118,36.0137283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <address>埼玉県白岡市下野田９４３−１ 下野田集会所際</address>
+        <description><![CDATA[投票区: 第１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市下野田９４３−１<br>設 置 場 所 の 目 標: 下野田集会所際]]></description>
+        <styleUrl>#icon-1502-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市下野田９４３−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>下野田集会所際</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市上野田１０１−１<br>設 置 場 所 の 目 標: 菁莪小学校（裏門北側）]]></description>
+        <styleUrl>#icon-1502-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市上野田１０１−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>菁莪小学校（裏門北側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6879776,36.0140017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市上野田３３０−１<br>設 置 場 所 の 目 標: 正傳寺北側]]></description>
+        <styleUrl>#icon-1502-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市上野田３３０−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>正傳寺北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6886425,36.0206628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市下野田２４９−１<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市下野田２４９−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7000819,36.0157581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市下野田４０１−２<br>設 置 場 所 の 目 標: 農面道路丁字路]]></description>
+        <styleUrl>#icon-1502-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市下野田４０１−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>農面道路丁字路</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6968059,36.0193797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市爪田ケ谷２４３−５<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市爪田ケ谷２４３−５</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6964864,36.02329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜１２２７−１<br>設 置 場 所 の 目 標: 中央公民館入口際]]></description>
+        <styleUrl>#icon-1502-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜１２２７−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>中央公民館入口際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6683182,36.0197212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜７３２−１８<br>設 置 場 所 の 目 標: 白岡駅東口歩道植栽]]></description>
+        <styleUrl>#icon-1502-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜７３２−１８</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡駅東口歩道植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6670336,36.016581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜１４３０－２<br>設 置 場 所 の 目 標: 三谷共同墓地南側]]></description>
+        <styleUrl>#icon-1502-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜１４３０－２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>三谷共同墓地南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6716889,36.0191606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜７６５<br>設 置 場 所 の 目 標: 市役所西側]]></description>
+        <styleUrl>#icon-1502-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜７６５</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>市役所西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6753304,36.0188483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市千駄野９０６−１<br>設 置 場 所 の 目 標: どんぐり公園北側]]></description>
+        <styleUrl>#icon-1502-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市千駄野９０６−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>どんぐり公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6719152,36.0158693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市千駄野３７７−１<br>設 置 場 所 の 目 標: 総合運動公園北側駐車場]]></description>
+        <styleUrl>#icon-1502-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市千駄野３７７−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>総合運動公園北側駐車場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6797248,36.0168469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市千駄野４５１<br>設 置 場 所 の 目 標: 市役所南側]]></description>
+        <styleUrl>#icon-1502-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市千駄野４５１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>市役所南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6773722,36.0184273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜２１−１<br>設 置 場 所 の 目 標: 久伊豆神社際（小久喜区民会館）]]></description>
+        <styleUrl>#icon-1502-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜２１−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>久伊豆神社際（小久喜区民会館）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6621733,36.0136551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜９３４−１<br>設 置 場 所 の 目 標: 白岡中央総合病院西側]]></description>
+        <styleUrl>#icon-1502-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜９３４−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡中央総合病院西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6645825,36.0130937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜９４７−１<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜９４７−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6659447,36.0131516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜２５−２<br>設 置 場 所 の 目 標: 久伊豆公園東側]]></description>
+        <styleUrl>#icon-1502-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜２５−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>久伊豆公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6630531,36.0134967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜１１１６−１<br>設 置 場 所 の 目 標: 関口産業株式会社南側]]></description>
+        <styleUrl>#icon-1502-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜１１１６−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>関口産業株式会社南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6660443,36.016726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜１２１３−３<br>設 置 場 所 の 目 標: 白岡駅西口]]></description>
+        <styleUrl>#icon-1502-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜１２１３−３</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡駅西口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6666445,36.0178017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜１０１６<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜１０１６</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6633906,36.0173673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市篠津２６１７<br>設 置 場 所 の 目 標: 篠津中学校]]></description>
+        <styleUrl>#icon-1502-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市篠津２６１７</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>篠津中学校</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6657999,36.0288462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市篠津２６９３<br>設 置 場 所 の 目 標: 馬立集会所際]]></description>
+        <styleUrl>#icon-1502-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市篠津２６９３</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>馬立集会所際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6655052,36.0306824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市野牛６５２−１<br>設 置 場 所 の 目 標: 久伊豆神社]]></description>
+        <styleUrl>#icon-1502-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市野牛６５２−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>久伊豆神社</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6700788,36.0404846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市新白岡７丁目１６−４<br>設 置 場 所 の 目 標: 新白岡駅西口ロータリー]]></description>
+        <styleUrl>#icon-1502-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市新白岡７丁目１６−４</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>新白岡駅西口ロータリー</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6716827,36.0383548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市新白岡８丁目４<br>設 置 場 所 の 目 標: 中ノ宮公園西側植栽]]></description>
+        <styleUrl>#icon-1502-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市新白岡８丁目４</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>中ノ宮公園西側植栽</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6693386,36.0366033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市野牛８５２−１<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市野牛８５２−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6661257,36.0386858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市寺塚１０１−１<br>設 置 場 所 の 目 標: 寺塚行政区ごみ収集所際]]></description>
+        <styleUrl>#icon-1502-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市寺塚１０１−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>寺塚行政区ごみ収集所際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6711337,36.0232848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市白岡１１９２−１<br>設 置 場 所 の 目 標: 南彩農業白岡大山支店東側]]></description>
+        <styleUrl>#icon-1502-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市白岡１１９２−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>南彩農業白岡大山支店東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6610259,36.0189836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市白岡東１０−９、１０−１０<br>設 置 場 所 の 目 標: 白岡１東行政区　あずま館]]></description>
+        <styleUrl>#icon-1502-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市白岡東１０−９、１０−１０</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡１東行政区　あずま館</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6602607,36.0219409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市白岡１０６３−１<br>設 置 場 所 の 目 標: 神田こんにゃく店前駐車場]]></description>
+        <styleUrl>#icon-1502-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市白岡１０６３−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>神田こんにゃく店前駐車場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6606094,36.0168095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市白岡１０８４－１<br>設 置 場 所 の 目 標: 白岡中央通り沿いローソン北側]]></description>
+        <styleUrl>#icon-1502-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市白岡１０８４－１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡中央通り沿いローソン北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6612527,36.0154026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市白岡東４<br>設 置 場 所 の 目 標: 原ヶ井戸北公園]]></description>
+        <styleUrl>#icon-1502-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市白岡東４</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>原ヶ井戸北公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6601769,36.0233736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市白岡東１９<br>設 置 場 所 の 目 標: 原ヶ井戸南公園]]></description>
+        <styleUrl>#icon-1502-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市白岡東１９</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>原ヶ井戸南公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.661548,36.0211137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市白岡１２８０−５<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市白岡１２８０−５</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6625526,36.0219669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第６投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市篠津１７９８−１<br>設 置 場 所 の 目 標: 久伊豆神社]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市篠津１７９８−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>久伊豆神社</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6558067,36.0287722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第６投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市篠津１８３４−１<br>設 置 場 所 の 目 標: 須賀神社]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市篠津１８３４−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>須賀神社</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6547408,36.0306361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第６投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市篠津５９０−１<br>設 置 場 所 の 目 標: 白岡消防署　篠津分署]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市篠津５９０−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡消防署　篠津分署</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6564293,36.0335898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第６投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市篠津２１１０−１１<br>設 置 場 所 の 目 標: 姥神橋際]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市篠津２１１０−１１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>姥神橋際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6604713,36.0272096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第６投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市篠津１９４６−８<br>設 置 場 所 の 目 標: 神山集会所際]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市篠津１９４６−８</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>神山集会所際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6584626,36.0255159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第６投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市篠津１９１０−１<br>設 置 場 所 の 目 標: 東北新幹線高架下際]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市篠津１９１０−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>東北新幹線高架下際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6566962,36.0238947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第６投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市篠津２０３４−１<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市篠津２０３４−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6614873,36.0242553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第７投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市下大崎１３４１−１<br>設 置 場 所 の 目 標: 下大崎住吉児童遊園]]></description>
+        <styleUrl>#icon-1502-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市下大崎１３４１−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>下大崎住吉児童遊園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6322982,36.0399086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第７投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市下大崎６３８−１４<br>設 置 場 所 の 目 標: 上田用水路際]]></description>
+        <styleUrl>#icon-1502-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市下大崎６３８−１４</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>上田用水路際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.635944,36.0362124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第７投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市下大崎２９５<br>設 置 場 所 の 目 標: 県営住宅入口]]></description>
+        <styleUrl>#icon-1502-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市下大崎２９５</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>県営住宅入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6236021,36.0432176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第７投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市柴山４４５−１<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市柴山４４５−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6159106,36.0336824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第７投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市荒井新田２６５−４<br>設 置 場 所 の 目 標: 大山小学校]]></description>
+        <styleUrl>#icon-1502-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市荒井新田２６５−４</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>大山小学校</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.618202,36.0423062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第７投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市荒井新田５４９−２<br>設 置 場 所 の 目 標: 荒井新田集会所前]]></description>
+        <styleUrl>#icon-1502-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市荒井新田５４９−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>荒井新田集会所前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6239474,36.0389783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第７投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市柴山１３３９−４<br>設 置 場 所 の 目 標: 箕輪橋]]></description>
+        <styleUrl>#icon-1502-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市柴山１３３９−４</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>箕輪橋</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6080478,36.0397431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8.0</name>
+        <description><![CDATA[投票区: 第７投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市柴山１０２９−１<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市柴山１０２９−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6119216,36.0360161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第８投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市上野田５３５<br>設 置 場 所 の 目 標: 上野田公会堂]]></description>
+        <styleUrl>#icon-1502-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市上野田５３５</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>上野田公会堂</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.683252,36.0211837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第８投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市上野田４７７−２３１<br>設 置 場 所 の 目 標: 宮山団地商店街前]]></description>
+        <styleUrl>#icon-1502-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市上野田４７７−２３１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>宮山団地商店街前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.682089,36.0222923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第８投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市下野田１３７５−５３<br>設 置 場 所 の 目 標: 上野田宮山第一児童遊園]]></description>
+        <styleUrl>#icon-1502-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市下野田１３７５−５３</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>上野田宮山第一児童遊園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6839902,36.0231053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <address>埼玉県白岡市上野田１１５９−２ 西ヶ崎橋</address>
+        <description><![CDATA[投票区: 第８投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市上野田１１５９−２<br>設 置 場 所 の 目 標: 西ヶ崎橋]]></description>
+        <styleUrl>#icon-1502-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市上野田１１５９−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>西ヶ崎橋</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第８投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市下野田１４５３−６<br>設 置 場 所 の 目 標: 上原橋際]]></description>
+        <styleUrl>#icon-1502-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市下野田１４５３−６</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>上原橋際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.685596,36.0324086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第８投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市上野田１４８２−２<br>設 置 場 所 の 目 標: 東武動物公園入口丁字路東側鉄塔敷]]></description>
+        <styleUrl>#icon-1502-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市上野田１４８２−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>東武動物公園入口丁字路東側鉄塔敷</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6909463,36.0225337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <address>埼玉県白岡市上野田４２３−２ 赤砂利橋</address>
+        <description><![CDATA[投票区: 第８投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市上野田４２３−２<br>設 置 場 所 の 目 標: 赤砂利橋]]></description>
+        <styleUrl>#icon-1502-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市上野田４２３−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>赤砂利橋</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第９投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市太田新井１１７８−１<br>設 置 場 所 の 目 標: 太田新井行政区集会所（転作促進研修施設）]]></description>
+        <styleUrl>#icon-1502-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市太田新井１１７８−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>太田新井行政区集会所（転作促進研修施設）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6989925,36.0062641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第９投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市太田新井４５４−２<br>設 置 場 所 の 目 標: 東伸団地自治会館前]]></description>
+        <styleUrl>#icon-1502-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市太田新井４５４−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>東伸団地自治会館前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7003548,36.0020646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第９投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市岡泉１１３９−２<br>設 置 場 所 の 目 標: 民家　市道五差路]]></description>
+        <styleUrl>#icon-1502-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市岡泉１１３９−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家　市道五差路</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6921262,36.0068553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第９投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市岡泉４６−１１<br>設 置 場 所 の 目 標: 白岡市総合運動公園南東側交差点]]></description>
+        <styleUrl>#icon-1502-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市岡泉４６−１１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡市総合運動公園南東側交差点</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6841263,36.0137163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <address>埼玉県白岡市太田新井１６０２−４ あけぼの児童遊園</address>
+        <description><![CDATA[投票区: 第９投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市太田新井１６０２−４<br>設 置 場 所 の 目 標: あけぼの児童遊園]]></description>
+        <styleUrl>#icon-1502-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市太田新井１６０２−４</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>あけぼの児童遊園</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第１０投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜５２４<br>設 置 場 所 の 目 標: 南小学校]]></description>
+        <styleUrl>#icon-1502-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜５２４</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>南小学校</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6696998,36.009537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第１０投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜１７９−８<br>設 置 場 所 の 目 標: ＪＲ宇都宮線線路際]]></description>
+        <styleUrl>#icon-1502-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜１７９−８</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>ＪＲ宇都宮線線路際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6654833,36.0093219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第１０投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜１６６−１２<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜１６６−１２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6680735,36.0081644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第１０投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜２８８−２４<br>設 置 場 所 の 目 標: 小久喜埜地児童遊園]]></description>
+        <styleUrl>#icon-1502-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜２８８−２４</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>小久喜埜地児童遊園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6681159,36.0060315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第１０投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜４２６−２<br>設 置 場 所 の 目 標: 埼玉県白岡市小久喜橋南側]]></description>
+        <styleUrl>#icon-1502-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜４２６−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>埼玉県白岡市小久喜橋南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6725413,36.0058355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第１０投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市実ヶ谷４７８<br>設 置 場 所 の 目 標: 薬師堂際]]></description>
+        <styleUrl>#icon-1502-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市実ヶ谷４７８</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>薬師堂際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6787034,36.0048286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第１０投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市実ヶ谷７２１−３<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市実ヶ谷７２１−３</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6795876,36.0084746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第１１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市西５丁目９番９<br>設 置 場 所 の 目 標: コートキク東側駐車場]]></description>
+        <styleUrl>#icon-1502-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市西５丁目９番９</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>コートキク東側駐車場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6524344,36.0181161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第１１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市西４丁目６番<br>設 置 場 所 の 目 標: アジサイ公園]]></description>
+        <styleUrl>#icon-1502-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市西４丁目６番</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>アジサイ公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6554323,36.0190097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第１１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市西５丁目１２番<br>設 置 場 所 の 目 標: 白岡公園]]></description>
+        <styleUrl>#icon-1502-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市西５丁目１２番</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.652155,36.0203143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第１１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市西６丁目３番１<br>設 置 場 所 の 目 標: 西小学校（裏門）]]></description>
+        <styleUrl>#icon-1502-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市西６丁目３番１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>西小学校（裏門）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6547618,36.022677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第１１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市西６丁目３番１<br>設 置 場 所 の 目 標: 西小学校（正門）]]></description>
+        <styleUrl>#icon-1502-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市西６丁目３番１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>西小学校（正門）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.65354,36.0217398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第１１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市西１０丁目４番<br>設 置 場 所 の 目 標: イチョウ公園]]></description>
+        <styleUrl>#icon-1502-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市西１０丁目４番</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>イチョウ公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6509983,36.0249766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第１１投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市西９丁目４番<br>設 置 場 所 の 目 標: モミジ公園]]></description>
+        <styleUrl>#icon-1502-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市西９丁目４番</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>モミジ公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.652785,36.0275707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第１２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市白岡８５８−１<br>設 置 場 所 の 目 標: コミュニティセンター入口]]></description>
+        <styleUrl>#icon-1502-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市白岡８５８−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>コミュニティセンター入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6555377,36.0163851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第１２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市白岡８８９−１<br>設 置 場 所 の 目 標: 八幡神社参道]]></description>
+        <styleUrl>#icon-1502-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市白岡８８９−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>八幡神社参道</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6568691,36.0169497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第１２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市白岡８７８−１<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市白岡８７８−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6579482,36.016309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第１２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市白岡８３４−２<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市白岡８３４−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6580962,36.0146348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第１２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市西１丁目９番<br>設 置 場 所 の 目 標: シラカバ公園]]></description>
+        <styleUrl>#icon-1502-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市西１丁目９番</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>シラカバ公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6549969,36.0134277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第１２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市西２丁目４番<br>設 置 場 所 の 目 標: ツツジヶ丘公園]]></description>
+        <styleUrl>#icon-1502-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市西２丁目４番</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>ツツジヶ丘公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6525362,36.0133542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第１２投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市西２丁目７−６<br>設 置 場 所 の 目 標: 西の南区会館]]></description>
+        <styleUrl>#icon-1502-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市西２丁目７−６</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>西の南区会館</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6504445,36.0131779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第１３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市新白岡３丁目２００−２<br>設 置 場 所 の 目 標: 勤労者体育センター]]></description>
+        <styleUrl>#icon-1502-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市新白岡３丁目２００−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>勤労者体育センター</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6729482,36.0318192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第１３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市新白岡３丁目１４５<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市新白岡３丁目１４５</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6726312,36.0332635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第１３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市高岩２１７７−１<br>設 置 場 所 の 目 標: 老人福祉センター]]></description>
+        <styleUrl>#icon-1502-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市高岩２１７７−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>老人福祉センター</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6776113,36.0297925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第１３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市高岩２７５−１<br>設 置 場 所 の 目 標: 白岡高校北側]]></description>
+        <styleUrl>#icon-1502-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市高岩２７５−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡高校北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6767178,36.032606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第１３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市新白岡３丁目２９−１３<br>設 置 場 所 の 目 標: 新白岡もみじ公園]]></description>
+        <styleUrl>#icon-1502-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市新白岡３丁目２９−１３</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>新白岡もみじ公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.678036,36.0338411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第１３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市新白岡３丁目１２−１５<br>設 置 場 所 の 目 標: 新白岡さくら公園]]></description>
+        <styleUrl>#icon-1502-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市新白岡３丁目１２−１５</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>新白岡さくら公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6753143,36.0343229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第１３投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市新白岡２丁目１９−９<br>設 置 場 所 の 目 標: 新白岡中央公園]]></description>
+        <styleUrl>#icon-1502-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市新白岡２丁目１９−９</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>新白岡中央公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6759372,36.0355558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第１４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜６７５−１<br>設 置 場 所 の 目 標: パークシティ二反五畝踏切向]]></description>
+        <styleUrl>#icon-1502-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜６７５−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>パークシティ二反五畝踏切向</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6670152,36.0154805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第１４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜６７５−１５<br>設 置 場 所 の 目 標: パークシティ北側]]></description>
+        <styleUrl>#icon-1502-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜６７５−１５</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>パークシティ北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6676644,36.0156726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第１４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市千駄野９４２−１<br>設 置 場 所 の 目 標: 白岡郵便局前]]></description>
+        <styleUrl>#icon-1502-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市千駄野９４２−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡郵便局前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6693092,36.0156709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第１４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市千駄野６５８<br>設 置 場 所 の 目 標: チューリップ薬局西側]]></description>
+        <styleUrl>#icon-1502-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市千駄野６５８</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>チューリップ薬局西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6702255,36.0139933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第１４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜６７５−１<br>設 置 場 所 の 目 標: パークシティ東側]]></description>
+        <styleUrl>#icon-1502-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜６７５−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>パークシティ東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6690416,36.0138819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第１４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜８６０−２<br>設 置 場 所 の 目 標: パークシティ西側]]></description>
+        <styleUrl>#icon-1502-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜８６０−２</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>パークシティ西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6679916,36.0129977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第１４投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市小久喜８８２−１<br>設 置 場 所 の 目 標: 民家　駐車場]]></description>
+        <styleUrl>#icon-1502-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市小久喜８８２−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家　駐車場</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6668994,36.012436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1.0</name>
+        <description><![CDATA[投票区: 第１５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市新白岡２丁目２８−１<br>設 置 場 所 の 目 標: 白岡東小学校（正門）]]></description>
+        <styleUrl>#icon-1502-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市新白岡２丁目２８−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡東小学校（正門）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6791621,36.0379676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <description><![CDATA[投票区: 第１５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市新白岡２丁目２８−１<br>設 置 場 所 の 目 標: 白岡東小学校（西門）]]></description>
+        <styleUrl>#icon-1502-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市新白岡２丁目２８−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>白岡東小学校（西門）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6778961,36.0373288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第１５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市高岩１６１６−１<br>設 置 場 所 の 目 標: 天満神社]]></description>
+        <styleUrl>#icon-1502-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市高岩１６１６−１</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>天満神社</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6802173,36.0364802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <description><![CDATA[投票区: 第１５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市高岩９７４−３<br>設 置 場 所 の 目 標: 笠原沼用水際]]></description>
+        <styleUrl>#icon-1502-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市高岩９７４−３</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>笠原沼用水際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6807803,36.0395172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <description><![CDATA[投票区: 第１５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市高岩１０５９−３<br>設 置 場 所 の 目 標: 内腰巻二号橋際]]></description>
+        <styleUrl>#icon-1502-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市高岩１０５９−３</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>内腰巻二号橋際</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6777185,36.0406211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <description><![CDATA[投票区: 第１５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市新白岡１丁目１０８<br>設 置 場 所 の 目 標: 武蔵野銀行北東側]]></description>
+        <styleUrl>#icon-1502-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市新白岡１丁目１０８</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>武蔵野銀行北東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6764466,36.0384691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <description><![CDATA[投票区: 第１５投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市新白岡４丁目１６<br>設 置 場 所 の 目 標: 新白岡駅東口ロータリー]]></description>
+        <styleUrl>#icon-1502-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市新白岡４丁目１６</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>新白岡駅東口ロータリー</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6724044,36.0388056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <description><![CDATA[投票区: 第９投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市太田新井３７６−５<br>設 置 場 所 の 目 標: 民家]]></description>
+        <styleUrl>#icon-1502-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市太田新井３７６−５</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>民家</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7037128,36.0015743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <address>埼玉県白岡市太田新井１６１５ 太田新井海老島児童遊園</address>
+        <description><![CDATA[投票区: 第９投票区<br>ポスター掲示場の設置場所: 埼玉県白岡市太田新井１６１５<br>設 置 場 所 の 目 標: 太田新井海老島児童遊園]]></description>
+        <styleUrl>#icon-1502-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県白岡市太田新井１６１５</value>
+          </Data>
+          <Data name="設 置 場 所 の 目 標">
+            <value>太田新井海老島児童遊園</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>無題のレイヤ</name>
+    </Folder>
+  </Document>
+</kml>

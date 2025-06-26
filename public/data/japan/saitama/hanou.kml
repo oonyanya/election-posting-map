@@ -1,0 +1,5403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ポスター掲示場の</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-BDBDBD-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-BDBDBD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-BDBDBD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-BDBDBD-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>令和7年 ポスター掲示場の位置情報（飯能市）</name>
+      <Placemark>
+        <name>市民会館駐車場北側</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字飯能２２３−１]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字飯能２２３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3113513,35.859251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民会館入口西側歩道植込み</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字飯能２５６−５]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字飯能２５６−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3102227,35.8579697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧医療施設前ガードレール</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字飯能２７１−１先]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字飯能２７１−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3108872,35.8561906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧図書館南側フェンス</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 4<br>ポスター掲示場の設置場所: 仲町２８ー１ ]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>仲町２８ー１ </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3133061,35.8549006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯能小町公園</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 5<br>ポスター掲示場の設置場所: 仲町２１−２６ ]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>仲町２１−２６ </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3160527,35.854232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三丁目三座稲荷神社前フェンス</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 6<br>ポスター掲示場の設置場所: 稲荷町２２ ]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>稲荷町２２ </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3132654,35.8528167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ｐ飯能稲荷町-01パーキング東側フェンス</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 7<br>ポスター掲示場の設置場所: 稲荷町１８ （２８７−４）]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>稲荷町１８ （２８７−４）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.31423,35.8513198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土地区画整理事務所南西（仮設住居東側)</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字川寺４５３−１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川寺４５３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3289049,35.8444583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土地区画整理事務所西（調整池西側フェンス)</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字川寺４５３−１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川寺４５３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3289156,35.8450844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川寺自治会館東側ブロック塀</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字川寺３８８−４]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川寺３８８−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.324751,35.8462122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神明神社北側</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字川寺３９２]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川寺３９２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3246161,35.8467038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>織物製造会社入口向かい鉄フェンス</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字川寺１９６−１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川寺１９６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3257772,35.8485916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>グローリア初穂飯能前　西武鉄道踏切脇</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字川寺１５３−１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川寺１５３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3256552,35.8504026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　農協斜め向かい</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字川寺２２４−１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川寺２２４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3284323,35.849755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯能第一小学校北西角フェンス（学童どろんこクラブ）</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 1<br>ポスター掲示場の設置場所: 山手町１３−８ （１８１−１）]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>山手町１３−８ （１８１−１）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3140428,35.8590558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯能第一小学校東側バス停脇フェンス</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 2<br>ポスター掲示場の設置場所: 山手町１３−８ （１８０−１）]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>山手町１３−８ （１８０−１）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3159469,35.8586935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯能高校南東側フェンス　バス停横</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 3<br>ポスター掲示場の設置場所: 本町１７−１３]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>本町１７−１３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3182725,35.8577974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上ノ台公園北東側フェンス</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 4<br>ポスター掲示場の設置場所: 原町１２２－１]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>原町１２２－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3207325,35.8587782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡神社（児童遊園）入口</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 5<br>ポスター掲示場の設置場所: 八幡町１２ （１２９−６）]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>八幡町１２ （１２９−６）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3203995,35.8550123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前田自治会館南側フェンス</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 6<br>ポスター掲示場の設置場所: 東町１０−１３（４８－３）]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>東町１０−１３（４８－３）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3236241,35.8532125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塗装店向かい</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 7<br>ポスター掲示場の設置場所: 東町２４ （１０２−８）]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>東町２４ （１０２−８）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3249478,35.8548756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯能駅ビル搬入口西側フェンス</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 1<br>ポスター掲示場の設置場所: 仲町１１−２１ （２２３－６）]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>仲町１１−２１ （２２３－６）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3185604,35.8515769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久下稲荷神社社務所（一丁目クラブ）敷地</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 2<br>ポスター掲示場の設置場所: 稲荷町１−３ （２７９−６）]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>稲荷町１−３ （２７９−６）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3168778,35.8517476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久下稲荷神社社務所（一丁目クラブ）南側</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 3<br>ポスター掲示場の設置場所: 稲荷町１−３ （２７９−８）]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>稲荷町１−３ （２７９−８）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3165057,35.8515303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南町公園南側フェンス</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 4<br>ポスター掲示場の設置場所: 南町８−１９（２６６－３）]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>南町８−１９（２６６－３）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3164318,35.8493276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯能駅南口（コンビニ西側)万年塀</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 5<br>ポスター掲示場の設置場所: 南町１ （２２９−１）]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>南町１ （２２９−１）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3181365,35.8509401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯能駅南口　交差点「飯能駅前」南西側植込み</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 6<br>ポスター掲示場の設置場所: 南町８−３５]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>南町８−３５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.317781,35.8497261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久下地蔵公園西側フェンス</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 7<br>ポスター掲示場の設置場所: 稲荷町４ （２７５−１８）]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>稲荷町４ （２７５−１８）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3151731,35.8506027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前田公園北側フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 1<br>ポスター掲示場の設置場所: 新町１７]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>新町１７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3250032,35.8578464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯能第一中学校正門横ブロック塀</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字双柳１−１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3290875,35.8582894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯能市役所正面玄関前植込み</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字双柳９４−２]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳９４−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.327596,35.8554166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>保健センター西側フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字双柳３７１−１３]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳３７１−１３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3300354,35.8556414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>橋場公園西側フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 5<br>ポスター掲示場の設置場所: 緑町９]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>緑町９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3312092,35.8531749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東飯能駅東口ロータリー</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 6<br>ポスター掲示場の設置場所: 栄町２３]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>栄町２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3267878,35.8524826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柿堂公園西側フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 7<br>ポスター掲示場の設置場所: 栄町１３]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>栄町１３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3284519,35.8516639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水押公園南側フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 8<br>ポスター掲示場の設置場所: 緑町２５]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>緑町２５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3320341,35.8495915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木材店西側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字大河原９０−１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字大河原９０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.308002,35.8553979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大河原自治会館向かいフェンス</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字大河原５８８−３]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字大河原５８８−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2954489,35.8575482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「吾妻峡入口」先 交差点</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字飯能４４２−２]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字飯能４４２−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3027876,35.8568763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「飯能西中学校」付近フェンス</name>
+        <address>大字飯能１２０６−１</address>
+        <description><![CDATA[投票区: 6<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字飯能１２０６−１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字飯能１２０６−１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>旧市民プール南側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字飯能372]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字飯能372</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3056293,35.8573017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「永田大杉」</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字永田６５－１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字永田６５－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2949202,35.8608762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永田台一丁目入口Y字路植込み</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 7<br>ポスター掲示場の設置場所: 永田台一丁目２３−５]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>永田台一丁目２３−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2875275,35.8696835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吾妻大橋南側</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字小岩井２１－１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字小岩井２１－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2843844,35.8642364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「坂上」先</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字久須美１３−１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字久須美１３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2793465,35.8694163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯能第二小学校体育館入口フェンス</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字小瀬戸６５]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字小瀬戸６５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2722119,35.8659014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千歳橋東側</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字小岩井７５７－１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字小岩井７５７－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2730592,35.8643491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第二区地区行政センター向かい</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字小瀬戸１８−２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字小瀬戸１８−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2701033,35.8665374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>自動車販売店北</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字小瀬戸１６９－１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字小瀬戸１６９－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2660062,35.8696695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「新寺」先</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字小瀬戸３４９－１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字小瀬戸３４９－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2612855,35.8702096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野口入ポンプ場フェンス</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字小瀬戸４４６−２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字小瀬戸４４６−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2568824,35.8744461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>衣料品店東側交差点</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字中山５３７−１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字中山５３７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3177831,35.8612326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>交差点「中山」西側植込み</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字中山４７５−１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字中山４７５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3211204,35.8620483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>交差点「中山陸橋(西)」</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字中山３４１−３]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字中山３４１−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3231454,35.8609751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中山城会館前、掲示板脇</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字中山７２０−１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字中山７２０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3243024,35.8635923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中居自治会館東側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字中居１１６−２]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字中居１１６−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3299163,35.8646066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「青木」付近フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字青木２４９－１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字青木２４９－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3312685,35.8627262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>酒店北側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字青木１８６−２先]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字青木１８６−２先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3326312,35.8640435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大川学園北</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字下加治３８８−１]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下加治３８８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3362728,35.8616319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下加治自治会館西側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字下加治１２７−１先]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下加治１２７−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3364321,35.8651228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>製茶店東側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字宮沢２０４−１]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字宮沢２０４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3323971,35.8778943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>精明小学校北側フェンス</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字小久保６５−１]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字小久保６５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3423904,35.8661178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>精明地区行政センター東側駐車場フェンス</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字小久保５５−１]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字小久保５５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3445687,35.8661797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営住宅平松団地１２号棟横フェンス</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字平松７３−１]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字平松７３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3453087,35.8655976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コンビニ東側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字平松９２−２]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字平松９２−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3466006,35.8674329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営住宅向原団地東側、商店東側交差点</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字双柳１３９６−４]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳１３９６−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.344325,35.8618323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>建具店西側</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字川崎２０２−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川崎２０２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3569566,35.87389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下川崎農業センター東側フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字下川崎３４１−７]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下川崎３４１−７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3634988,35.8763801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「川崎」付近</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字川崎５－１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川崎５－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3614288,35.8710549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>老人福祉施設西側</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字芦苅場７８２−１先]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字芦苅場７８２−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3561803,35.8673703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂上地蔵尊向かい</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字芦苅場６６３−１]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字芦苅場６６３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3635081,35.8659563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コンビニ東側</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字芦苅場１５０−１０]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字芦苅場１５０−１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3673634,35.8641447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>タクシー会社南側</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字双柳６４９−２]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳６４９−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3357754,35.8513332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>双柳自治会館北側ブロック塀</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字双柳５７０−１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳５７０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3354233,35.8562429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東原１号公園南側フェンス</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字双柳１０３８−３６]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳１０３８−３６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3393695,35.852018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>双柳小学校東側フェンス</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字双柳１１９４−１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳１１９４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3408521,35.8536012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>双柳小学校正門横（東側）フェンス</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字双柳１１９４−１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳１１９４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3399053,35.8543599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>昇降機製造社北側フェンス</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字双柳１２７３−１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳１２７３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3407365,35.8571172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「市営住宅」横ガードレール</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字双柳１１５１−１先]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳１１５１−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3445563,35.8557107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営住宅浅間団地北　浅間自治会館前</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字双柳１４９３−３７]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳１４９３−３７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3459605,35.8557238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「双柳中央」南</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字双柳１０２９−１１]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳１０２９−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3376146,35.851228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>双柳地区行政センター西側臨時駐車場</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字双柳９９３−３]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳９９３−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.340009,35.8499548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>双柳地区行政センター東側</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字双柳９７０−２]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳９７０−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3407482,35.8495763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>双柳地区行政センター南西</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字双柳９８７先]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字双柳９８７先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3396254,35.8490852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>税理士事務所前</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字岩沢２２１−１]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩沢２２１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3417721,35.8454061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>プリント配線製造会社西側フェンス</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字岩沢２６８−４]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩沢２６８−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3444687,35.8455064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新光交差点東フェンス</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字新光５５−１]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字新光５５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3442291,35.8521485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コンビニ南側万年塀</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字岩沢６９−３]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩沢６９−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3360658,35.8469309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧釣堀跡地フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字岩沢４１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩沢４１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3360499,35.8452649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩沢陸橋北側白髪白山神社北</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字岩沢522-5先]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩沢522-5先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3390804,35.8437844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営元加治駅自転車駐輪場</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字岩沢８１６−１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩沢８１６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3450568,35.8408076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩沢陸橋南側明王寺西</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字岩沢684-2先]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩沢684-2先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3383803,35.8402555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加治東地区行政センター西側駐車場フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字岩沢１０７８−１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩沢１０７８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.336377,35.8377865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加治東小学校正門横ガードレール</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字岩沢１２８０−１８]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩沢１２８０−１８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3383673,35.8370025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ホームセンター向かい</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字阿須８１２−１７]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字阿須８１２−１７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3402961,35.8321554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>リユースショップ南側向かいフェンス</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字笠縫４２２−１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字笠縫４２２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3313398,35.8485259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＪＲ六道踏切南、資材置き場（鉄パイプ）</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字笠縫３０４−１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字笠縫３０４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3318854,35.8442098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>正願寺北　道路沿い空き地</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字笠縫９７−２先]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字笠縫９７−２先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3294932,35.8420324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加治小学校北側フェンス</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字川寺５００−１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川寺５００−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3262808,35.8430424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加治小学校西門横フェンス（鉄塔西側）</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字川寺５００−１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川寺５００−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.325106,35.8429641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加治小学校正門南側プール横フェンス</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字川寺５００−１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字川寺５００−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3265973,35.8416769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加治地区行政センター前フェンス</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字笠縫５９−１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字笠縫５９−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.326806,35.8397438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＪＲ八高線ガード先 西側フェンス</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字笠縫２０４−２]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字笠縫２０４−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3323923,35.839185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堰元公園フェンス</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字矢颪134-6]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字矢颪134-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3149243,35.8478597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「毘沙門天」脇フェンス</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字矢颪２３５−３]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字矢颪２３５−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3143798,35.8458833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢川橋際（下流側）</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 3<br>ポスター掲示場の設置場所: 征矢町３７−９]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>征矢町３７−９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3182185,35.8444698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>交差点「矢颪」南側フェンス</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 4<br>ポスター掲示場の設置場所: 征矢町２−５先]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>征矢町２−５先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3172188,35.8436193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>征矢町いちご公園東側フェンス</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 5<br>ポスター掲示場の設置場所: 征矢町６−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>征矢町６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3185099,35.8433176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浄化センター正門向かい</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 6<br>ポスター掲示場の設置場所: 征矢町３１−１先]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>征矢町３１−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3224302,35.8377697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バイク店向かい</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字落合３１２－７]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字落合３１２－７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3186415,35.8350322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「ひかり橋」（飯能駅南口行き）付近</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 1<br>ポスター掲示場の設置場所: 美杉台３丁目１５−１０先 （１０２）]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美杉台３丁目１５−１０先 （１０２）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3110304,35.8423812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ギャラリー美杉台北、十字路植込み</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 2<br>ポスター掲示場の設置場所: 美杉台３丁目９−５先 （１００）]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美杉台３丁目９−５先 （１００）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3096637,35.843042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美杉台小学校西側フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 3<br>ポスター掲示場の設置場所: 美杉台１丁目２９]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美杉台１丁目２９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3102705,35.8447361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美杉台公園管理事務所敷地西側植込み(ライフヒルズ飯能付近)</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 4<br>ポスター掲示場の設置場所: 美杉台１丁目２３−１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美杉台１丁目２３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3086338,35.8481848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>見晴らし公園南側道路際</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 5<br>ポスター掲示場の設置場所: 美杉台４丁目１先 （１０３）]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美杉台４丁目１先 （１０３）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3070065,35.8445632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美杉台中学校南西側角</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 6<br>ポスター掲示場の設置場所: 美杉台５丁目３]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美杉台５丁目３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3033865,35.8464302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>クリーンセンター向かいフェンス（交差点脇）</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 7<br>ポスター掲示場の設置場所: 美杉台７丁目３１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>美杉台７丁目３１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2967621,35.8454007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>龍崖山公園入口東側フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 8<br>ポスター掲示場の設置場所: 茜台２丁目８−１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>茜台２丁目８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2948349,35.8497732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「前ケ貫入口」</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字岩渕５０４−１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩渕５０４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3158258,35.834399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>みどり橋南</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字岩渕１７８−２]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩渕１７８−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3081959,35.8375929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩渕団地集会所西側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字岩渕３１−３]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩渕３１−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.304303,35.8379336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩井堂観音手前</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字岩渕７４８−４先]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字岩渕７４８−４先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3015618,35.8366338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧ゴルフ場前植込み</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字下畑１３５]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下畑１３５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.299186,35.8376003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>交差点「下畑」北西側植込み</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字下畑１９３]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下畑１９３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2957059,35.8375698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>介護施設北　市道ガードレール</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字下畑３１９−２]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下畑３１９−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2938663,35.8368846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寳光寺西、市道ガードレール</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字上畑２５２−２]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上畑２５２−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2830204,35.8385102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>苅生自治会館東ガードレール</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字苅生172-2]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字苅生172-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2764652,35.8488498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南高麗地区行政センター前フェンス</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字下直竹１１２２－２]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下直竹１１２２－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2780836,35.8426625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南高麗小学校正門横フェンス</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字下直竹１２５]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下直竹１２５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2780607,35.8408687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>申渕公会堂前ガードレール（バス停「申渕」付近）</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字下直竹７９１−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下直竹７９１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2657044,35.844047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>建築店南、直竹川沿いガードレール</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字上直竹下分３３−２先]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上直竹下分３３−２先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2572867,35.8461336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上直竹下分自治会館入口向かいガードレール</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字上直竹下分１７６−２先]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上直竹下分１７６−２先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2530623,35.8429353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「間野黒指」先</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字上直竹上分２６７]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上直竹上分２６７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2330165,35.8431522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>扇橋南Ｔ字路</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字下赤工１−２]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下赤工１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2609151,35.8679903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾長、飯能工芸製作所西、二差路付近</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字下赤工１０６−１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下赤工１０６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2585387,35.8664166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「曲竹」先</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字原市場１０３−３]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字原市場１０３−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2569818,35.8679816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二之瀬橋西側</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字下赤工４１０]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下赤工４１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2502451,35.8679342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>原市場小学校前（JA向いフェンス）</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字下赤工５１９−４]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下赤工５１９−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2472407,35.8686388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大正橋北、房ケ谷戸観光トイレ東</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字原市場２８９−１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字原市場２８９−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2456843,35.8706312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「畑中」横</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字上赤工２４１−１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上赤工２４１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2352432,35.8706737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>原市場中学校北側フェンス</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字原市場６３７−１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字原市場６３７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2340247,35.86736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「原市場中学校」横フェンス</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字原市場６３１−３]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字原市場６３１−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2347945,35.8670539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>原市場地区行政センター南東</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字原市場１０１４−４]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字原市場１０１４−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2361749,35.8621989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「中屋敷」先</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字赤沢７７−１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字赤沢７７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2315555,35.8601785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>唐竹自治会館南</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字唐竹１３３−１先]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字唐竹１３３−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2275648,35.8592146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金錫寺向かい</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字赤沢２５６−２]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字赤沢２５６−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2238375,35.862559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>製材店向かい</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字赤沢５５５]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字赤沢５５５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2192603,35.8597894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「鹿戸」脇</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字赤沢７８６−３]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字赤沢７８６−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.209945,35.856096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「黒指」脇</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 9<br>ポスター掲示場の設置場所: 大字赤沢８９４−１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字赤沢８９４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2056803,35.8566808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「種木橋」付近</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字中藤下郷１８９−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字中藤下郷１８９−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.246893,35.8789605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「下郷」前</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字中藤下郷３５７−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字中藤下郷３５７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2391297,35.8798433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「中郷」手前</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字中藤中郷４１−２先]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字中藤中郷４１−２先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2363714,35.8828864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中藤中郷自治会館</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字中藤中郷４０６−４]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字中藤中郷４０６−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2315146,35.8802981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭橋先丁字路（県道南飯能線沿い）</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字中藤上郷３１−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字中藤上郷３１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2275982,35.8769933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>養福寺手前ガードレール</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字中藤上郷１８１−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字中藤上郷１８１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2225824,35.8830958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「中沢」手前</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字南７５２−４]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字南７５２−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.208271,35.8865468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ごみ集積所「互美庵」南ガードレール</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字南５９４−５先]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字南５９４−５先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2031752,35.8921507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>自動車販売店前</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字白子１９３－１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字白子１９３－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2758684,35.8878103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　飯能消防団第９分団第２部先</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字白子３９５－１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字白子３９５－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2692219,35.8922388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天神橋南</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字平戸５３－１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字平戸５３－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2664616,35.8920904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　平戸橋入口信号交差点　携帯電話基地局前</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字平戸２６４－２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字平戸２６４－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2621178,35.8912928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東吾野地区行政センター前フェンス</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字虎秀１４－５]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字虎秀１４－５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2609322,35.894054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>虎秀１号橋下流、ごみ集積所脇</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字虎秀４９７−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字虎秀４９７−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2594108,35.8960792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ユガテ入口手前ガードレール</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字虎秀４０４－３]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字虎秀４０４－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2626857,35.9063668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　木工品製造店西側先</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字井上１４４−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字井上１４４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2506429,35.8979758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　下平橋北、ごみ集積所付近</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 9<br>ポスター掲示場の設置場所: 大字井上４６０−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字井上４６０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2473518,35.9051543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>阿寺、防火水槽看板脇</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字長沢１７０１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字長沢１７０１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2486568,35.9211862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>風影公会堂手前、郵便ポスト横</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字長沢１４７９]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字長沢１４７９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2417072,35.9250937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　吾野トンネル手前</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字井上７８１−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字井上７８１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2412685,35.9087518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南天神橋手前</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字坂石町分１４−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字坂石町分１４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2382583,35.9058176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>奥武蔵小学校正門横フェンス</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字長沢８２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字長沢８２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2303815,35.9122879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>両吾野浄水場入口横</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字長沢２４０−３]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字長沢２４０−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2234574,35.9218618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>法光寺北側フェンス</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字坂石町分３３２−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字坂石町分３３２−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2249797,35.9091476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂石橋手前</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字坂石２２４−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字坂石２２４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2213163,35.9130053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　梨本自治会入口</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字坂石５１２−３]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字坂石５１２−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.215522,35.9166249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　宿泊施設手前退避スペース植栽</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字吾野２６－１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字吾野２６－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2121786,35.9194759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吾野地区行政センター東側フェンス</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字吾野１８６－１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字吾野１８６－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2073915,35.9218195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　携帯電話基地局東側</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字吾野２７０－２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字吾野２７０－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2067042,35.9208661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　小床橋入口向かい掲示板脇</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字吾野４８９−３]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字吾野４８９−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2015758,35.9221998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西吾野駅入口</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字吾野６２２－５]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字吾野６２２－５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2011467,35.9256034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　西吾野先退避スペース</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字吾野７５９－２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字吾野７５９－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1981694,35.9291002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧南川小学校校庭</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字南川１５３−３]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字南川１５３−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1920843,35.9308914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道３９５号沿い　奥武蔵小学校スクールバス発着所看板先</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字南川１１９０－１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字南川１１９０－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1908463,35.9222361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上久通、地蔵橋際ごみ集積所横</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字南川１２９１−２先]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字南川１２９１−２先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1848697,35.9196711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　電気機械部品製造会社先</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字南川６５８−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字南川６５８−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1875692,35.9349922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畑井自治会館向かい</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字南川７２１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字南川７２１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.191665,35.9296905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９沿い　レストラン向かい</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字南川５８０−４]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字南川５８０−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1831636,35.9384159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>正丸駅入口</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字坂元１２０５－３]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字坂元１２０５－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1815402,35.9391019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>国道２９９号沿い　正丸駅先（高麗川源流標識付近）</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字坂元１２２０－１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字坂元１２２０－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1801375,35.9404959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>製材店先ガードレール</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字北川１６９−１先]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字北川１６９−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2023896,35.932579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高畑林道入口ガードレール</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字北川３７８－２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字北川３７８－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1998199,35.9345378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北川小学校手前丁字路</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字北川６２０－１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字北川６２０－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1943099,35.940175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北川小学校校庭</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字北川６２３－１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字北川６２３－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1942111,35.9406383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道路照明灯先ガードレール</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字北川６３３−１先]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字北川６３３−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1960755,35.9419409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>空竜入口ガードレール</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字北川７９０－２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字北川７９０－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1981812,35.9455946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上吾野簡易水道浄水場前</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字北川７００−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字北川７００−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1952991,35.9483912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上吾野簡易取水口先</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字北川１０３９－１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字北川１０３９－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1906092,35.9504268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小沢　虚空蔵様前（県道青梅秩父線沿い）</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字下名栗１１７３−３]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下名栗１１７３−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1988086,35.8513254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>理容店手前ガードレール</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字下名栗３７－２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下名栗３７－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1978082,35.8542873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「名栗川橋」横ガードレール</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字下名栗２６９先]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下名栗２６９先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1890304,35.8605108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あすなろ会館グラウンド　第11分団詰所横フェンス</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字下名栗８６１−６]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下名栗８６１−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1870015,35.8612937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あすなろ会館グラウンド南東フェンス</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字下名栗８６０−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下名栗８６０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1875676,35.8615273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「浅海戸」横</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字下名栗３８１−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下名栗３８１−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1868988,35.8677625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新シ地内三差路、工務店向かい</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字下名栗４８７−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下名栗４８７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1856224,35.8702278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有間橋手前ネットフェンス</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字下名栗５３７−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字下名栗５３７−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1866167,35.8719411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「鍛冶屋橋」手前</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字上名栗１４−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗１４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1864418,35.8750016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名栗地区行政センター横</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字上名栗３１３６−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗３１３６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1816862,35.8822495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小殿橋入口フェンス</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字上名栗２３７−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗２３７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1825606,35.8849094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名栗小学校体育館北側ガードレール</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字上名栗２８８７−４]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗２８８７−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1795379,35.8871001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「名栗車庫」前</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字上名栗３６８−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗３６８−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1780814,35.8917465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧名栗中学校北西側ガードレール、ごみ集積所脇</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字上名栗２８３３−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗２８３３−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1761656,35.8928846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>商店東側、ごみ集積場先</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字上名栗５０２−５]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗５０２−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1746369,35.8958117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「ひつ沢」東側</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字上名栗８７６−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗８７６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1702265,35.8969323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>諏訪神社先、植込み</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 1<br>ポスター掲示場の設置場所: 大字上名栗１０７０−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗１０７０−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1616555,35.9029182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜居場橋南ガードレール</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 2<br>ポスター掲示場の設置場所: 大字上名栗２５７９−６]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗２５７９−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1593568,35.9046421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「中海戸」先</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 3<br>ポスター掲示場の設置場所: 大字上名栗１２０３−３]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗１２０３−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1577931,35.9059554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「名郷」手前</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 4<br>ポスター掲示場の設置場所: 大字上名栗１１９２−２]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗１１９２−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1487111,35.9106968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふるさと会館入口フェンス</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 5<br>ポスター掲示場の設置場所: 大字上名栗１７３６−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗１７３６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.147863,35.9115785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名栗簡易水道浄水場前ゴミ集積所</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 6<br>ポスター掲示場の設置場所: 大字上名栗１８０４−１先]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗１８０４−１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1451116,35.9120969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神橋先</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 7<br>ポスター掲示場の設置場所: 大字上名栗１６６４−１]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗１６６４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1506624,35.9141867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「湯の沢」先、ごみ集積所脇</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 8<br>ポスター掲示場の設置場所: 大字上名栗１４４３−３]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>大字上名栗１４４３−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1511908,35.9210334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

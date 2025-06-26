@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>川島町ポスター掲示場設置場所一覧</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ポスター掲示場設置場所.csv</name>
+      <Placemark>
+        <name>中山公民館</name>
+        <address>埼玉県川島町大字中山１３１７番地１</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県川島町大字中山１３１７番地１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字中山１３１７番地１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>大野家前自転車置場</name>
+        <address>埼玉県川島町大字中山１４１１番地３</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県川島町大字中山１４１１番地３]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字中山１４１１番地３</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>川島郵便局</name>
+        <address>埼玉県川島町大字中山２１６８番地</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県川島町大字中山２１６８番地]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字中山２１６８番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>小料理屋｢ゆき｣隣 県道端</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県川島町大字中山１２８６番地先]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字中山１２８６番地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4484692,35.9924028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一般国道254号南園部交差点</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県川島町大字吹塚７３２番地６７地先]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字吹塚７３２番地６７地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4549856,35.9953266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北園部集落センター南西</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県川島町大字北園部２９５番地１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字北園部２９５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4555597,35.9999547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県川島町大字正直７３２番地１地先]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字正直７３２番地１地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4392535,36.0016439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長楽氷川神社境内</name>
+        <address>埼玉県川島町大字長楽２５５番地１</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県川島町大字長楽２５５番地１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字長楽２５５番地１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>伊草小学校校庭東側 県道端</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県川島町大字伊草２３８番地１地先]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字伊草２３８番地１地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4672758,35.9674358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊草公民館北</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県川島町大字伊草１８３番地]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字伊草１８３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4657119,35.9671988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鈴木衣料品店南</name>
+        <address>埼玉県川島町大字伊草５番地</address>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県川島町大字伊草５番地]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字伊草５番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>下伊草駐輪場</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県川島町大字下伊草２４７番地４]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字下伊草２４７番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4721675,35.9626434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安塚集落センター前</name>
+        <address>埼玉県川島町大字角泉６８６番地１</address>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県川島町大字角泉６８６番地１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字角泉６８６番地１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>角泉集落センター前</name>
+        <address>埼玉県川島町大字角泉１３２番地２</address>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県川島町大字角泉１３２番地２]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字角泉１３２番地２</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>飯島集落センター北西</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県川島町大字飯島４０６番地７]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字飯島４０６番地７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4774132,35.9724516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>保健センター前</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県川島町大字平沼１１７５番地]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字平沼１１７５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4821187,35.9821239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川島中学校校庭東</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県川島町大字白井沼６００番地２]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字白井沼６００番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4893989,35.9858809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三保谷公民館</name>
+        <address>埼玉県川島町大字白井沼９０７番地</address>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県川島町大字白井沼９０７番地]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字白井沼９０７番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県川島町大字上狢４５１番地１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上狢４５１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4875626,35.9720186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県川島町大字下狢５３０番地１１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字下狢５３０番地１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4945641,35.9667554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>釘無バス停前</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県川島町大字上狢１９３番地１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上狢１９３番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4904315,35.9636495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮原神社前</name>
+        <address>埼玉県川島町大字吉原４０１番地</address>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県川島町大字吉原４０１番地]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字吉原４０１番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>新堀バス停前</name>
+        <address>埼玉県川島町大字表４０２番地３</address>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県川島町大字表４０２番地３]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字表４０２番地３</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>民家南</name>
+        <address>埼玉県川島町大字出丸下郷５４４番地先</address>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県川島町大字出丸下郷５４４番地先]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字出丸下郷５４４番地先</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県川島町大字出丸下郷５０５番地１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字出丸下郷５０５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.514014,35.9697084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出丸二区集会所</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県川島町大字曲師７３０番地５]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字曲師７３０番地５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5084948,35.9667502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>老人福祉センター「やすらぎの郷」</name>
+        <address>埼玉県川島町大字曲師４０２番地１</address>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県川島町大字曲師４０２番地１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字曲師４０２番地１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>埼玉中央農協出丸支店</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県川島町大字出丸中郷２７７７番地３]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字出丸中郷２７７７番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5112922,35.9618146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>出丸公民館跡地</name>
+        <address>埼玉県川島町大字上大屋敷１４４番地</address>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県川島町大字上大屋敷１４４番地]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上大屋敷１４４番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>民家南</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県川島町大字出丸中郷１２６２番地１]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字出丸中郷１２６２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.526967,35.9576505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安藤運送北</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県川島町大字出丸中郷１９４９番地]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字出丸中郷１９４９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.527305,35.9535339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉中央農協川島支店</name>
+        <address>埼玉県川島町大字上八ツ林４１３番地</address>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県川島町大字上八ツ林４１３番地]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上八ツ林４１３番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>上八ツ林氷川神社前</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県川島町大字上八ツ林８５４番地]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上八ツ林８５４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4763982,35.9957408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下八ツ林集落センター</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県川島町大字下八ツ林２３７番地２]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字下八ツ林２３７番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4809501,35.9978901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川島町役場前</name>
+        <address>埼玉県川島町大字下八ツ林８７０番地１</address>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県川島町大字下八ツ林８７０番地１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字下八ツ林８７０番地１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>吉祥寺前</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県川島町大字畑中７６番地２]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字畑中７６番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4959135,35.9939601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県川島町大字三保谷宿３１９番地]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字三保谷宿３１９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5005866,35.9881567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>牛ヶ谷戸集落センター</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県川島町大字牛ケ谷戸６０７番地１]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字牛ケ谷戸６０７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4970267,35.9819297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>諏訪神社前</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県川島町大字牛ケ谷戸６６９番地]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字牛ケ谷戸６６９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5008496,35.9832817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南西</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県川島町大字東大塚６１番地３]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字東大塚６１番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4942826,35.9972492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>虫塚集落センター</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県川島町大字一本木２１番地１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字一本木２１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4643887,36.0012377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県川島町大字上小見野１５１番地１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上小見野１５１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.461519,36.0063075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>芝沼集落センター西</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県川島町大字芝沼２８番地１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字芝沼２８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4951921,36.014942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大辻集落センター</name>
+        <address>埼玉県川島町大字下小見野１２５番地５</address>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県川島町大字下小見野１２５番地５]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字下小見野１２５番地５</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>友二集落センター</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県川島町大字松永６番地２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字松永６番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4741407,36.0178081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小見野公民館</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県川島町大字谷中２５１番地１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字谷中２５１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4725071,36.0057632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一本木バス停北西</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県川島町大字一本木２４６番地１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字一本木２４６番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4686391,35.9971113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鳥羽井集落センター</name>
+        <address>埼玉県川島町大字鳥羽井３５５番地</address>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県川島町大字鳥羽井３５５番地]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字鳥羽井３５５番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>八幡北公園</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県川島町八幡１丁目４番地１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町八幡１丁目４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4396236,35.988932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡中央公園</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県川島町八幡３丁目４番地１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町八幡３丁目４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4422255,35.9881099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡団地集会所</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県川島町八幡３丁目９番地１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町八幡３丁目９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4434612,35.9870544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡緑地公園</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県川島町八幡４丁目１１番地１８]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町八幡４丁目１１番地１８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.441923,35.9853442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡南公園</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県川島町八幡５丁目４番地１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町八幡５丁目４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4433753,35.9856181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡底面グランド北</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県川島町八幡５丁目１０番地３８]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町八幡５丁目１０番地３８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.445179,35.9835696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フラットピア川島</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県川島町八幡６丁目１番地２]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町八幡６丁目１番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.445321,35.9882223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上伊草バス停前</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県川島町大字上伊草８５９番地１]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上伊草８５９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4598639,35.9769753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蔦屋書店川島インター店裏</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県川島町大字上伊草１３１９番地]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上伊草１３１９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4655526,35.976885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さくら保育園</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県川島町大字上伊草２０００番地１]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上伊草２０００番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4652935,35.9736014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県川島町大字上伊草６４１番地]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上伊草６４１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4638137,35.9698001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上中バス停前</name>
+        <address>埼玉県川島町大字上伊草１９９４番地３</address>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県川島町大字上伊草１９９４番地３]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上伊草１９９４番地３</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>金乗院東</name>
+        <address>埼玉県川島町大字上伊草８３０番地</address>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県川島町大字上伊草８３０番地]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上伊草８３０番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>国島歯科医院南西</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県川島町大字上伊草６０９番地１]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県川島町大字上伊草６０９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4663843,35.9691001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>無題のレイヤ</name>
+    </Folder>
+  </Document>
+</kml>

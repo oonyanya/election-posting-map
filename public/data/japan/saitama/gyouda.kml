@@ -1,0 +1,4876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>R7行田市ポスター掲示場位置図</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>R7　グーグルマップ用設置場所一覧①.csv</name>
+      <Placemark>
+        <name>小沼橋西側</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市行田26-9]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市行田26-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4641094,36.1432664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行田市駅南口ロータリー</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市中央10-3]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市中央10-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4592433,36.1430818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢場一丁目子ども広場</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市矢場3-3-16]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市矢場3-3-16</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4531143,36.1423002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行田市商工センター東側</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市忍2-1-8]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市忍2-1-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4578438,36.1404801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉りそな銀行行田支店</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市行田5-16]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市行田5-16</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4596168,36.1407329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央児童公園南側</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市中央6]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市中央6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4600052,36.1416026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡神社</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市行田16-23]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市行田16-23</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4613267,36.1389152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行田市役所前</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市本丸2-5]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市本丸2-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4561113,36.1392454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>矢場こども公園</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市矢場2-2-3]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市矢場2-2-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4527092,36.1400528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>忍第２公園</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市本丸19-48]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市本丸19-48</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4522797,36.1352393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>忍小学校正門左</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市本丸7-20]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市本丸7-20</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4548758,36.1359275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行田市郷土博物館入口</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市本丸17-23]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市本丸17-23</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4526145,36.1380713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本丸児童公園</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市本丸5-10]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市本丸5-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.457434,36.1370055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城西公園</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市城西3-14]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市城西3-14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4461387,36.138768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>剣神社</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市持田5936]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田5936</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4368438,36.1381845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ホテルエルディア北側</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市持田2430-6]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田2430-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4290745,36.1381248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営持田団地</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市持田2097-1]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田2097-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4304744,36.1335147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>持田公民館</name>
+        <address>埼玉県行田市城西5-9-26</address>
+        <description><![CDATA[投票区: 3<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市城西5-9-26]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市城西5-9-26</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>榎本紙工南側</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市持田812-1]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田812-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.448163,36.1318224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城西ポンプ場北側</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市城西5-6-5]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市城西5-6-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4433258,36.1346146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西小学校西門</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市持田3-5-9]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田3-5-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4414555,36.1296089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>菊野台くじら公園</name>
+        <address>埼玉県行田市持田3-18-20</address>
+        <description><![CDATA[投票区: 4<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市持田3-18-20]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田3-18-20</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>東電鉄塔南側</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市持田4-1-5]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田4-1-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4364336,36.1310034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>砂原公園</name>
+        <address>埼玉県行田市持田4-6-28</address>
+        <description><![CDATA[投票区: 4<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市持田4-6-28]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田4-6-28</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第２砂原北公園</name>
+        <address>埼玉県行田市持田4-13-16</address>
+        <description><![CDATA[投票区: 4<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市持田4-13-16]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田4-13-16</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>寿司駒南</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市持田474-1]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田474-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4480177,36.1272349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>棚田砂原公園</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市棚田町3-8]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市棚田町3-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.438199,36.1270857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ほくさい農協行田西支店</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県行田市持田836]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田836</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4439942,36.1278802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＪＲ行田駅西口前</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市清水町6-10]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市清水町6-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4318725,36.1137552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＪＲ行田駅東口（キャッシュコーナー側）</name>
+        <address>埼玉県行田市壱里山町18-8</address>
+        <description><![CDATA[投票区: 5<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市壱里山町18-8]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市壱里山町18-8</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>県営門井団地Ａ棟北側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市押上町17]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市押上町17</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4374224,36.1167489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太井公民館</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市棚田町1-58-9]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市棚田町1-58-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4347787,36.1204121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真福寺東側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市棚田町1-29-7]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市棚田町1-29-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4327465,36.122579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>棚田中央公園北側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市棚田町1-2]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市棚田町1-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4350056,36.1240897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美容室すずらんパート南側</name>
+        <address>埼玉県行田市棚田町2-4-6</address>
+        <description><![CDATA[投票区: 5<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市棚田町2-4-6]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市棚田町2-4-6</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>水道庁舎</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市前谷1-1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市前谷1-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4540352,36.1261289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>門井球場北側</name>
+        <address>埼玉県行田市門井町23</address>
+        <description><![CDATA[投票区: 6<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市門井町23]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市門井町23</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>泉小学校北側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市持田70]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田70</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4467258,36.1217687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>那須野秋蕎麦庵南側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市前谷1643]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市前谷1643</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.45085,36.1202692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>深水公園</name>
+        <address>埼玉県行田市深水町5</address>
+        <description><![CDATA[投票区: 6<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市深水町5]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市深水町5</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>エステートサイトウＡ棟北側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市門井町3-4]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市門井町3-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4410574,36.1245192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴土井公園南側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市門井町3-8]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市門井町3-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4429725,36.1240425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高源寺東側</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市佐間1-4-25]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市佐間1-4-25</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4633757,36.1340516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>幼児公園18号</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市佐間1-14-36]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市佐間1-14-36</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4625479,36.1316018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南小学校正門</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市佐間1-25-4]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市佐間1-25-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4604018,36.1316624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>忍・行田公民館前</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市佐間1-22-11]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市佐間1-22-11</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4593842,36.1327763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>カネコリース行田営業所</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市駒形2-1-7]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市駒形2-1-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4645245,36.1306296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白鳩保育園南側</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市駒形2-7-7]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市駒形2-7-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4540188,36.1312428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>持田南交差点東</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市持田1094-3]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市持田1094-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4524243,36.1290159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古田整形外科</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市緑町8-6]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市緑町8-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4672109,36.1356032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川端酒造側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市佐間2-11-2]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市佐間2-11-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4670302,36.1296812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐間公民館</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市佐間3-1-37]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市佐間3-1-37</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4701137,36.1297947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行田市斎場南側</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市佐間1751]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市佐間1751</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4733204,36.124488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いげた製菓南側</name>
+        <address>埼玉県行田市佐間3-10-5</address>
+        <description><![CDATA[投票区: 8<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市佐間3-10-5]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市佐間3-10-5</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>栄文堂裏</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市佐間3-8-5]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市佐間3-8-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.46773,36.1287389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>教育文化センター前</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市佐間3-24-7]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市佐間3-24-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4687208,36.1248357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清善寺</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市忍2-8-18]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市忍2-8-18</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4597721,36.1368828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営住宅佐間団地北側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市向町12-28]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市向町12-28</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4651237,36.1336674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>向町公園
+(元埼玉県繊維工業試験場跡地)　</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市向町4-14]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市向町4-14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4633782,36.1369088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>向町浄水場</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市向町28-4]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市向町28-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4684766,36.1379418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>シルバー人材センター</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市旭町13-24]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市旭町13-24</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4668526,36.1391431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>�椛蜻ｺミシン南側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市向町1-2]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市向町1-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4617226,36.1383525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コミュニティセンターみずしろ分館
+（旧婦人ホーム）</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市向町5-3]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市向町5-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.463018,36.1387607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つるまき公園</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市長野5-6]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野5-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4794252,36.1354861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堀の内公園北東側</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市長野4-20-1]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野4-20-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.47885,36.1388997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天神公園北側</name>
+        <address>埼玉県行田市長野4676</address>
+        <description><![CDATA[投票区: 10<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市長野4676]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野4676</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>白山姫神社南側</name>
+        <address>埼玉県行田市長野5963</address>
+        <description><![CDATA[投票区: 10<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市長野5963]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野5963</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>東小学校</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市長野2-26-8]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野2-26-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4728148,36.1383417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>保健センター南東側</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市長野2-3-17]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野2-3-17</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4689446,36.1407462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中斉公園</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市長野3-24]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野3-24</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.476021,36.1400581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長野公民館</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市長野1-4-8]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野1-4-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4689244,36.1432523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田幡公園南側</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市長野1-17-32]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野1-17-32</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4717,36.1447725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ほくさい農協行田中央支店前</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市富士見町1-8-1]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市富士見町1-8-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.476614,36.1477834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹の花子供広場（一桜公園）</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市桜町1-12-21]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市桜町1-12-21</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4656885,36.1435586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵公園北側</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市富士見町2-22]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市富士見町2-22</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4765311,36.1496603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行田市富士見児童交通公園前</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市富士見町2-9]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市富士見町2-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4716609,36.1491475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長野ロータリー</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市桜町2-29-18]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市桜町2-29-18</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.469469,36.1451101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二桜第一子ども広場</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市桜町2-10-14]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市桜町2-10-14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4672927,36.1468978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久伊豆神社北側</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市桜町2-20-35]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市桜町2-20-35</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4689637,36.1490956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜ヶ丘公民館</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市長野1812-1]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野1812-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4700084,36.1517385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東台公園</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市長野709-3]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野709-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.466766,36.1554992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>長野中学校正門</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市桜町2-1]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市桜町2-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4666297,36.1496664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行田県土整備事務所前</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市長野943]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野943</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4709973,36.1539948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>進修館高等学校北側</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市長野1048-1]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市長野1048-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4677831,36.1533094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>星河公民館</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷2082]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷2082</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4626356,36.1561468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>谷郷幼稚園入口</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷2-5-1]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷2-5-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4617871,36.1532593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新東会館前</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷1-16-37]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷1-16-37</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4622556,36.1488428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行田税務署入口</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市栄町17-15]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市栄町17-15</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4613787,36.1454668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>谷郷ポンプ場入口</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市栄町21]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市栄町21</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4634064,36.1447332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平成歯科医院西側</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷1-7-17]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷1-7-17</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4591664,36.1497194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>マミーマート駐車場前</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷2-13-24]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷2-13-24</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4620844,36.1517005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>谷郷小橋団地集会所前</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷3-5-10]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷3-5-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4561767,36.149675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宝積寺西側</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷1-1-31]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷1-1-31</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4581457,36.1467806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯倉子ども広場</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷3-3-49]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷3-3-49</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4574927,36.1484227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行田市総合体育館駐輪場前</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市和田1242]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市和田1242</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4516301,36.1521915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三谷郷子供広場</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷3-8-32]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷3-8-32</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4557764,36.1486788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>薬師堂東側</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷1508]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷1508</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4532872,36.1474729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>春日神社</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷395-1]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷395-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4528874,36.1460914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行田北河原電話交換センター前</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市斎条1439]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市斎条1439</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4575744,36.1740239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宝泉寺前十字路</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市斎条727]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市斎条727</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4585924,36.1681559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伸栄シート工業東側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市斎条377]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市斎条377</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4656853,36.1663448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営斎条住宅入口</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市斎条501-1]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市斎条501-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4619301,36.1638996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上和田バス停前</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市和田411-1]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市和田411-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4518244,36.1667108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北小学校正門</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市和田94-1]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市和田94-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4619609,36.1609569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一谷郷会館南側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市谷郷2401-2]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市谷郷2401-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4624612,36.1577399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>子安神社前</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市下池守549]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市下池守549</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4438584,36.1627392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有限会社　田中組南側</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市上池守863]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市上池守863</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4371967,36.1591496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天満宮東側</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市上池守740-1]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市上池守740-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4329411,36.1569122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>星宮公民館</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市上池守46]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市上池守46</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4419896,36.1482912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉蔵院南</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市皿尾65-3]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市皿尾65-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4452052,36.1411525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中里集会場西側</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市中里64]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市中里64</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4396359,36.1397008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中里農村センター前</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市中里293]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市中里293</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4375239,36.146137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小敷田農村センター北側</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県行田市小敷田26]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市小敷田26</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4315692,36.1410026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鯨井人形店西側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市北河原546-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市北河原546-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4243551,36.1917122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石川商店南側（羽生妻沼線沿）</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市北河原1143-2]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市北河原1143-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4341218,36.1910066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北河原公民館</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市北河原1378]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市北河原1378</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.438586,36.190195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北河原新田三差路（岡田医院入口バス停）</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市北河原193-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市北河原193-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.438564,36.1844098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>酒巻会館前</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市酒巻1492-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市酒巻1492-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4498221,36.1885198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ローソン行田酒巻店東側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市酒巻1851-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市酒巻1851-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4557628,36.1871261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>やすらぎの里東側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 1<br>ポスター掲示場の設置場所: 下中条1563-1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>下中条1563-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4614028,36.1856139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>見沼元圦公園北側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 2<br>ポスター掲示場の設置場所: 下中条1751-3]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>下中条1751-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4714767,36.1846826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四ツ家自治会集会所</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市須加855]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市須加855</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4742591,36.1764853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須加第５区自治会集会場西側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市須加4488]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市須加4488</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4768322,36.1850452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須加公民館</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市須加4650-2]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市須加4650-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4834339,36.1855594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>緑風苑北側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市須加1563]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市須加1563</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4870781,36.1849053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須加第１０区自治会集会場南側</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市須加341-1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市須加341-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4955432,36.1857996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須加集会所前</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県行田市須加4811]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市須加4811</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4913007,36.1875496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白川戸農村研修センター東側</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 1<br>ポスター掲示場の設置場所: 白川戸491]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>白川戸491</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4695536,36.1610019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>行田保育園西側</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市荒木4966-3]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市荒木4966-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4758675,36.1683057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>見沼中学校</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市荒木4892]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市荒木4892</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4794982,36.1689231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天満宮前</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市荒木2092]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市荒木2092</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4855831,36.1655962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荒木公民館</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市荒木1111]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市荒木1111</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4875021,36.1638531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毘沙門天東側</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市荒木30]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市荒木30</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4933808,36.1535612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>見沼小学校</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市荒木1606]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市荒木1606</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4841667,36.1625844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>真観寺西側</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県行田市小見1123]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市小見1123</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4758883,36.1595969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六本木自治会集会所</name>
+        <address>若小玉3741-1</address>
+        <description><![CDATA[投票区: 20<br>設置番号: 1<br>ポスター掲示場の設置場所: 若小玉3741-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>若小玉3741-1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>八幡山公園</name>
+        <address>藤原町1-27</address>
+        <description><![CDATA[投票区: 20<br>設置番号: 2<br>ポスター掲示場の設置場所: 藤原町1-27]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>藤原町1-27</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>若小玉中央自治会館</name>
+        <address>若小玉2268-1</address>
+        <description><![CDATA[投票区: 20<br>設置番号: 3<br>ポスター掲示場の設置場所: 若小玉2268-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>若小玉2268-1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>勝呂団地西側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市若小玉2666-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市若小玉2666-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4808601,36.1520888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤原町八坂公園</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 5<br>ポスター掲示場の設置場所: 藤原町2-9]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>藤原町2-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4814811,36.1472045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ニッコー（株）前</name>
+        <address>藤原町3-12-3</address>
+        <description><![CDATA[投票区: 20<br>設置番号: 6<br>ポスター掲示場の設置場所: 藤原町3-12-3]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>藤原町3-12-3</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>藤原町中央会館</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 7<br>ポスター掲示場の設置場所: 藤原町2-28-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>藤原町2-28-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4870226,36.1480172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>子ども広場</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市城西3-1-35]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市城西3-1-35</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4485159,36.1372683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ｒ７ポスター掲示場2.csv</name>
+      <Placemark>
+        <name>太田中学校東側</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市下須戸49-1]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市下須戸49-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5087054,36.1380508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古代蓮の里西側</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市小針2375-1]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市小針2375-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4977535,36.1312302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田島工務店西側</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市小針2741-10]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市小針2741-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5002969,36.1367935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田公民館向かい</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市下須戸1256]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市下須戸1256</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5029711,36.1417943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>マスダサッシ販売東側</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市下須戸936]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市下須戸936</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5023521,36.1438537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>地域交流センター</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市下須戸629]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市下須戸629</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5069311,36.150545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下須戸農民センター東側</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市下須戸1901-1]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市下須戸1901-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4976771,36.1517838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須戸橋西側</name>
+        <address>埼玉県行田市小針3519</address>
+        <description><![CDATA[投票区: 21<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県行田市小針3519]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市小針3519</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>万蔵橋西側</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市小針287-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市小針287-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5137259,36.1268955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>万蔵橋東十字路（三ツ家）</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市真名板2317-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市真名板2317-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5169602,36.1283504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新落合橋北側</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市関根899-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市関根899-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.529769,36.1198138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>地域文化センター</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市真名板1173-2]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市真名板1173-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5232427,36.1318925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>全龍寺西側</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市真名板639-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市真名板639-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5277546,36.1287474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>マスダ美容室南側</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市真名板1500-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市真名板1500-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5200578,36.1350295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤間橋東側</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市藤間371-2]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市藤間371-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5145099,36.1310531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さきたま史跡の博物館入口</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市埼玉5202-1]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市埼玉5202-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4769441,36.1257475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上埼玉自治会集会所東側</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市埼玉443]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市埼玉443</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4861059,36.1247793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>心行地蔵尊南側</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市埼玉401]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市埼玉401</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4839073,36.1251273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士山農村センター北側</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市埼玉363]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市埼玉363</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4826582,36.1239492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金沢製菓舗前</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市埼玉5097-1]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市埼玉5097-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4805107,36.124202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下埼玉電話無人中継所</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市埼玉1234-1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市埼玉1234-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4929718,36.1215547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>百塚自治会集会所</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市埼玉4892-3]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市埼玉4892-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4911147,36.1196419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉公民館入口</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市埼玉4600]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市埼玉4600</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4910586,36.1163472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉原会館前</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市埼玉4519]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市埼玉4519</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.492181,36.1103987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>利田農村センター</name>
+        <address>埼玉県行田市利田588</address>
+        <description><![CDATA[投票区: 24<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市利田588]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市利田588</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>埼玉郵便局南側</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市埼玉4962-1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市埼玉4962-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4877505,36.1198193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本性寺東側</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市渡柳501-1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市渡柳501-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4796663,36.1166764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡柳・利田自衛消防団機械器具置場北側</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県行田市渡柳966-2]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市渡柳966-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4818737,36.1135968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松崎ＰＲ工芸社南側</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市野556-1]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市野556-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4943226,36.0974592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野文化センター前</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市野885]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市野885</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4935069,36.1030689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡神社東側</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市野2492]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市野2492</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4913065,36.1009447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天満宮前（上手）</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市野1141-1]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市野1141-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4910663,36.1060141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天理教富士見布教所西側</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市野516-9]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市野516-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4970164,36.0992687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関口モータース西側</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市野8-3]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市野8-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4962494,36.1039632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下忍公民館</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市樋上214]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市樋上214</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4706342,36.1202277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天神社前</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市樋上187]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市樋上187</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4710789,36.1173427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡辺商店前十字路西側</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市堤根679]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市堤根679</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4725813,36.111623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下忍コミュニティ広場</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市下忍1085-1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市下忍1085-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4620157,36.1168117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下忍小学校南側</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市下忍2451]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市下忍2451</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4682441,36.1168852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下忍神社前</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市下忍1160]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市下忍1160</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4655845,36.117147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コスモ・クリーン南側</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市下忍1806-2]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市下忍1806-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4610332,36.1272333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>今村自動車工業西側</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市南河原1720]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市南河原1720</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4272239,36.1816702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白根建設南側</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市南河原1030-1]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市南河原1030-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4294865,36.1809252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河原神社</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市南河原386]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市南河原386</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4283095,36.1738087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北埼ダンボール工業東側</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市南河原870-1]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市南河原870-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4343676,36.1776119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南河原支所北側</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市南河原790]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市南河原790</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4358611,36.1814172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つどいの広場みなみかわら南側</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市南河原2610]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市南河原2610</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4378557,36.1826372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アイル株式会社北</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県行田市南河原570-4]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市南河原570-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4374197,36.1779005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬見塚公園北側</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市馬見塚739]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市馬見塚739</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4409945,36.1681192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬見塚集会所</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県行田市馬見塚801]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市馬見塚801</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4428025,36.1647825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山勝不動産南側</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市南河原625]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市南河原625</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4385178,36.1748175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>犬塚農村公園北側</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市犬塚1406]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市犬塚1406</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4535078,36.1774388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>農協倉庫</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市犬塚1490]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市犬塚1490</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4503826,36.1766422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新島酒店東側</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市犬塚488-3]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県行田市犬塚488-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.447085,36.1767001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

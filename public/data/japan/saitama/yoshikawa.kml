@@ -1,0 +1,4037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>吉川市ポスター掲示場位置図</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Google map用.csv</name>
+      <Placemark>
+        <name>県道越谷流山線
+芳川神社 北側道路植樹帯</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市平沼316番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市平沼316番地]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市平沼316番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市平沼316番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.842361,35.8857545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川小学校正門
+北側フェンス</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市平沼73番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市平沼73番地]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市平沼73番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市平沼73番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8402725,35.8843652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川小学校北側駐車場入口付近フェンス</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市平沼73番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市平沼73番地]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市平沼73番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市平沼73番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8390038,35.8846433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>月の公園西側植栽</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市大字保28番地1付近<br>unnamed (1): 埼玉県吉川市埼玉県吉川市大字保28番地1付近]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市大字保28番地1付近</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市大字保28番地1付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8407269,35.8796525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NTT東日本電話交換センター
+南側フェンス</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市平沼一丁目22番地4<br>unnamed (1): 埼玉県吉川市埼玉県吉川市平沼一丁目22番地4]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市平沼一丁目22番地4</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市平沼一丁目22番地4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.845343,35.8851268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵野銀行正面前
+いちょう通り西側道路植樹帯</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市平沼一丁目16番地8<br>unnamed (1): 埼玉県吉川市埼玉県吉川市平沼一丁目16番地8]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市平沼一丁目16番地8</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市平沼一丁目16番地8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8440468,35.8847016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ローソンストア100前
+いちょう通り東側道路植樹帯</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市平沼一丁目4番地4<br>unnamed (1): 埼玉県吉川市埼玉県吉川市平沼一丁目4番地4]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市平沼一丁目4番地4</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市平沼一丁目4番地4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.844092,35.8824134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>保公園
+東側植栽</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県吉川市保一丁目33番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保一丁目33番地]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保一丁目33番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保一丁目33番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8463842,35.8825516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山一不動産西側
+県道葛飾吉川松伏線
+</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川二丁目34番地5<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川二丁目34番地5]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川二丁目34番地5</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川二丁目34番地5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8398362,35.8962694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>保健センター正面入り口付近</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川二丁目1番地13<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川二丁目1番地13]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川二丁目1番地13</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川二丁目1番地13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8421038,35.8909355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日暮様方西側ブロック塀</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川1568番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川1568番地]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川1568番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川1568番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8395948,35.8866825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二郷半用水路
+さくら通り東側フェンス（香取橋）</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川一丁目79番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川一丁目79番地]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川一丁目79番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川一丁目79番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8454398,35.8904938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木売落し
+西側ガードレール</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川二丁目38番地10<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川二丁目38番地10]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川二丁目38番地10</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川二丁目38番地10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8422618,35.8971919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>おひさま保育園南方交差点植樹帯</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川一丁目14番地21<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川一丁目14番地21]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川一丁目14番地21</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川一丁目14番地21</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.843632,35.8882328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新川橋
+西側T字路ガードレール</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市須賀367番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市須賀367番地1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市須賀367番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市須賀367番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8378343,35.8999189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武輝神社
+南側</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市川藤694番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市川藤694番地1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市川藤694番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市川藤694番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.839714,35.9059185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コミュニティ協議会広報掲示板横ガードレール</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市川藤592番地2付近<br>unnamed (1): 埼玉県吉川市埼玉県吉川市川藤592番地2付近]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市川藤592番地2付近</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市川藤592番地2付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8359877,35.9020708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>よこまちの杜
+西側フェンス</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市川藤518番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市川藤518番地1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市川藤518番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市川藤518番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8388096,35.9018632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>彩凛会南側</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市川藤14番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市川藤14番地1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市川藤14番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市川藤14番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.842012,35.8984851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道川藤野田線飯島不動産
+北側農地西側フェンス</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市川藤3394番地2<br>unnamed (1): 埼玉県吉川市埼玉県吉川市川藤3394番地2]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市川藤3394番地2</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市川藤3394番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8479714,35.9015452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元店舗　東側農地　</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市川藤3252番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市川藤3252番地1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市川藤3252番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市川藤3252番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8522276,35.9037984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯島鋼管入口
+北側ブロック塀</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市拾壱軒538番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市拾壱軒538番地1]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市拾壱軒538番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市拾壱軒538番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8380721,35.9244434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家ブロック塀北側</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市南広島980番地2<br>unnamed (1): 埼玉県吉川市埼玉県吉川市南広島980番地2]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市南広島980番地2</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市南広島980番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8448537,35.9162784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道中井松伏線
+消防団第3分団機材置場東側植栽帯</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市南広島843番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市南広島843番地]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市南広島843番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市南広島843番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8468631,35.918385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭小学校正門
+北側フェンス</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市南広島1490番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市南広島1490番地1]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市南広島1490番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市南広島1490番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8502026,35.9172436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道中井松伏線（川藤北交差点）
+北東植樹帯</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市川藤2529番地付近<br>unnamed (1): 埼玉県吉川市埼玉県吉川市川藤2529番地付近]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市川藤2529番地付近</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市川藤2529番地付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8499492,35.9114355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川市民農園
+北側フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市上内川1605番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市上内川1605番地1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市上内川1605番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市上内川1605番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8511969,35.9282513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>正覚院
+東側空地</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市下内川437番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市下内川437番地]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市下内川437番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市下内川437番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8607115,35.9248391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下内川公会堂
+西側敷地</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市下内川740番地付近<br>unnamed (1): 埼玉県吉川市埼玉県吉川市下内川740番地付近]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市下内川740番地付近</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市下内川740番地付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.858712,35.9235726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家付近　西側水路フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市下内川1649番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市下内川1649番地]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市下内川1649番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市下内川1649番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8575071,35.9209602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>恵鏡庵
+東側水路フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市八子新田357番地2<br>unnamed (1): 埼玉県吉川市埼玉県吉川市八子新田357番地2]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市八子新田357番地2</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市八子新田357番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8641035,35.9167951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>農業集落排水施設八鍋クリーンセンター
+東側水路フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市八子新田589番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市八子新田589番地1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市八子新田589番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市八子新田589番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8653286,35.9136641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道三郷松伏線（鍋小路交差点）
+南西ガードレール</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市上笹塚40番地2<br>unnamed (1): 埼玉県吉川市埼玉県吉川市上笹塚40番地2]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市上笹塚40番地2</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市上笹塚40番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8669193,35.9066872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>防火水槽敷地</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市深井新田2251番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市深井新田2251番地]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市深井新田2251番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市深井新田2251番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8724341,35.904807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東中学校正門
+西側植樹帯</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市上笹塚三丁目136番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市上笹塚三丁目136番地1]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市上笹塚三丁目136番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市上笹塚三丁目136番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8659165,35.903456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屋外市民プール正面入口
+東側フェンス</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市上笹塚一丁目67番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市上笹塚一丁目67番地1]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市上笹塚一丁目67番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市上笹塚一丁目67番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8591359,35.9033574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川市水道課浄化水場西側フェンス</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市会野谷496番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市会野谷496番地]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市会野谷496番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市会野谷496番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8587378,35.8993887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道三郷松伏線
+民家東側フェンス</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市関新田1118番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市関新田1118番地]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市関新田1118番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市関新田1118番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8694306,35.8991329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平方新田集会所
+東側ブロック塀</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市平方新田1369番地2<br>unnamed (1): 埼玉県吉川市埼玉県吉川市平方新田1369番地2]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市平方新田1369番地2</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市平方新田1369番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8751599,35.8986223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＪＡさいかつ三輪野江支店
+東側植樹帯</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市中井二丁目47番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中井二丁目47番地1]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中井二丁目47番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中井二丁目47番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8623843,35.8956468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道加藤平沼線（吉川木材資材置場）
+北側フェンス</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 2<br>ポスター掲示場の設置場所: 中井三丁目263付近<br>unnamed (1): 中井三丁目263付近]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>中井三丁目263付近</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>中井三丁目263付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8706624,35.8904362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>亀田屋商店
+南西側ガードレール</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市中島一丁目426番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中島一丁目426番地]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中島一丁目426番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中島一丁目426番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8717051,35.8809971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東部市民サービスセンター敷地内植樹帯</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市加藤438番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市加藤438番地]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市加藤438番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市加藤438番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8805191,35.88665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浄幽寺入口
+南側ブロック塀</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市吉屋二丁目180番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉屋二丁目180番地]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉屋二丁目180番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉屋二丁目180番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8794966,35.890464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>礎電線入口
+西側水路フェンス</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市吉屋707番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉屋707番地]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉屋707番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉屋707番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8806176,35.8936932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三輪野江小学校正門
+西側フェンス</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市加藤635番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市加藤635番地1]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市加藤635番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市加藤635番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.881991,35.8854436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道三郷松伏線
+東側路肩</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市飯島30番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市飯島30番地1]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市飯島30番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市飯島30番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8874666,35.8800447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土場集会所
+南側フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市土場161番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市土場161番地]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市土場161番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市土場161番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8810939,35.8764588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三輪神社
+東側フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市三輪野江1371番地2<br>unnamed (1): 埼玉県吉川市埼玉県吉川市三輪野江1371番地2]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市三輪野江1371番地2</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市三輪野江1371番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8841802,35.8757099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家付近防災倉庫前</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 4<br>ポスター掲示場の設置場所: 三輪野江1447番地<br>unnamed (1): 三輪野江1447番地]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>三輪野江1447番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>三輪野江1447番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8830492,35.8727486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>定勝寺入口信号
+南東側フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市三輪野江1928番地2<br>unnamed (1): 埼玉県吉川市埼玉県吉川市三輪野江1928番地2]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市三輪野江1928番地2</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市三輪野江1928番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8858612,35.8697076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側ブロック塀</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市三輪野江二丁目153番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市三輪野江二丁目153番地]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市三輪野江二丁目153番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市三輪野江二丁目153番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8762184,35.8684812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二ツ沼集会所
+西側耕作地　　　　　　　　　　</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市二ツ沼二丁目2番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市二ツ沼二丁目2番地]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市二ツ沼二丁目2番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市二ツ沼二丁目2番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8743612,35.875043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川駅南口ロータリー
+</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市木売一丁目6番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市木売一丁目6番地1]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市木売一丁目6番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市木売一丁目6番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8432186,35.8762156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸和運輸機関
+けやき通り東側フェンス</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市高富二丁目1番地3<br>unnamed (1): 埼玉県吉川市埼玉県吉川市高富二丁目1番地3]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市高富二丁目1番地3</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市高富二丁目1番地3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8449192,35.8728839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>観龍院上霊園
+北西側ブロック塀</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市高富一丁目22番地6<br>unnamed (1): 埼玉県吉川市埼玉県吉川市高富一丁目22番地6]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市高富一丁目22番地6</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市高富一丁目22番地6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8416003,35.871862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二郷半緑道内西側植栽
+（木売公園東側）</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市木売三丁目5番地付近<br>unnamed (1): 埼玉県吉川市埼玉県吉川市木売三丁目5番地付近]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市木売三丁目5番地付近</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市木売三丁目5番地付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8469201,35.8745623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高富公園南側植栽</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市高富一丁目16番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市高富一丁目16番地]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市高富一丁目16番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市高富一丁目16番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8443589,35.8709448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美南1丁目公園東側植栽</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市美南一丁目18番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市美南一丁目18番地]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市美南一丁目18番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市美南一丁目18番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8501634,35.8718628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ワンダーランド南側公園内</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市美南5丁目3番地1付近<br>unnamed (1): 埼玉県吉川市美南5丁目3番地1付近]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市美南5丁目3番地1付近</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市美南5丁目3番地1付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8472696,35.8683017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美南一丁目第4公園
+東側植栽</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県吉川市美南一丁目24番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市美南一丁目24番地]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市美南一丁目24番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市美南一丁目24番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8533331,35.8712662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川幼稚園駐車場　東側フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市保429番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保429番地1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保429番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保429番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8484594,35.8837296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南中学校正門　南側フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市保672番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保672番地]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保672番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保672番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8510996,35.8824616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ほのぼの公園
+西側植栽</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市保764番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保764番地]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保764番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保764番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8508145,35.8837614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南中学校
+北側フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市保672番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保672番地]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保672番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保672番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.852898,35.8833102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上第二大場川（保中野北橋）
+東側フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市中野115番地2<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中野115番地2]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中野115番地2</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中野115番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8545305,35.8817338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駐車場東側フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市中野283番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中野283番地1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中野283番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中野283番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8603844,35.8846426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>なまずの里公園
+西側植栽</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市保928番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保928番地1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保928番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保928番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8574644,35.8836229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内川神社バス停
+東側敷地</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市上内川200番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市上内川200番地]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市上内川200番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市上内川200番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8385656,35.93738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭地区センター
+西側植栽</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市旭6番地4<br>unnamed (1): 埼玉県吉川市埼玉県吉川市旭6番地4]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市旭6番地4</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市旭6番地4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8406092,35.9309928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上新堀コミュニティセンター
+北側ブロック塀</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市上内川569番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市上内川569番地1]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市上内川569番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市上内川569番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8433832,35.9355454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家向側水路フェンス</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市上内川620番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市上内川620番地]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市上内川620番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市上内川620番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8457282,35.9333588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新用水路
+東側フェンス</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市上内川1165番地3<br>unnamed (1): 埼玉県吉川市埼玉県吉川市上内川1165番地3]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市上内川1165番地3</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市上内川1165番地3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8514667,35.9327314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旭公園球場
+球場フェンス</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市上内川3021<br>unnamed (1): 埼玉県吉川市埼玉県吉川市上内川3021]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市上内川3021</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市上内川3021</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8443404,35.930994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関小学校正門
+北側フェンス</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川団地1番10号<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川団地1番10号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川団地1番10号</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川団地1番10号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8463833,35.8929401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金田整形外科
+向側植栽</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川団地5番6号<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川団地5番6号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川団地5番6号</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川団地5番6号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8484966,35.8895691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>磯久クリニック
+向側植栽</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川団地2番3号<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川団地2番3号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川団地2番3号</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川団地2番3号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8473371,35.8940095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>よしかわフラワー保育園
+北側フェンス</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川団地5番16号<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川団地5番16号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川団地5番16号</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川団地5番16号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8471394,35.8912089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2番13号
+南側植栽</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川団地2番13号<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川団地2番13号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川団地2番13号</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川団地2番13号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8482972,35.8927985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5番1号
+向側公園広場植栽</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市吉川団地5番2号<br>unnamed (1): 埼玉県吉川市埼玉県吉川市吉川団地5番2号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市吉川団地5番2号</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市吉川団地5番2号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8483064,35.8904089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>老人福祉センター
+西側植樹帯</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市中央三丁目50番地4<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中央三丁目50番地4]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中央三丁目50番地4</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中央三丁目50番地4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8588798,35.8918251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中井沼公園
+南側植栽</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市中央三丁目8番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中央三丁目8番地1]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中央三丁目8番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中央三丁目8番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8631994,35.890017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄町3区町会防犯・防災センター敷地内</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市中央三丁目2番地11<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中央三丁目2番地11]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中央三丁目2番地11</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中央三丁目2番地11</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8597192,35.8888084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄小学校
+北西側植栽帯</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市中央三丁目26番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中央三丁目26番地1]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中央三丁目26番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中央三丁目26番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8559273,35.8915364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ネオポリス第一公園
+北側フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市新栄一丁目2番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市新栄一丁目2番地]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市新栄一丁目2番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市新栄一丁目2番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8601834,35.8943269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄小学校
+南側フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市中央三丁目26番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中央三丁目26番地1]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中央三丁目26番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中央三丁目26番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.857664,35.89069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>テルミック第1倉庫南側駐車場
+東側ガードレール</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市小松川527番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市小松川527番地1]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市小松川527番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市小松川527番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8643406,35.8819812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央中学校正門
+西側フェンス</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市中央二丁目21番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中央二丁目21番地1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中央二丁目21番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中央二丁目21番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8512237,35.8893715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東武バス吉川車庫バス停
+南側フェンス</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市栄町698番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市栄町698番地1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市栄町698番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市栄町698番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.848138,35.8855936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>さくら通り
+セイムス前植樹帯</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市中央一丁目2番地4<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中央一丁目2番地4]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中央一丁目2番地4</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中央一丁目2番地4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8461933,35.8883827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンフィールド吉川遊水池
+向側保緑道植栽</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市栄町876番地5<br>unnamed (1): 埼玉県吉川市埼玉県吉川市栄町876番地5]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市栄町876番地5</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市栄町876番地5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8533158,35.8849165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央中学校
+南側フェンス</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市中央二丁目21番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中央二丁目21番地1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中央二丁目21番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中央二丁目21番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8539327,35.8893574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道加藤平沼線（名倉建設）
+北側フェンス</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市栄町1432番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市栄町1432番地1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市栄町1432番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市栄町1432番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8555507,35.8867354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央中学校
+北側フェンス</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市中央二丁目21番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中央二丁目21番地1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中央二丁目21番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中央二丁目21番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8522697,35.8908969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越谷吉川線　南側道路植樹帯</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県吉川市栄町913番地3付近<br>unnamed (1): 埼玉県吉川市埼玉県吉川市栄町913番地3付近]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市栄町913番地3付近</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市栄町913番地3付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8501317,35.8869169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>けやき通り　西側道路植樹帯
+（みさと吉川教会・シルジャナ付近）</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市高久一丁目9番地22<br>unnamed (1): 埼玉県吉川市埼玉県吉川市高久一丁目9番地22]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市高久一丁目9番地22</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市高久一丁目9番地22</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8451027,35.8703012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>けやき通り（ドラッグセイムス）
+東側道路植樹帯</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市道庭二丁目9番地2<br>unnamed (1): 埼玉県吉川市埼玉県吉川市道庭二丁目9番地2]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市道庭二丁目9番地2</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市道庭二丁目9番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8450208,35.8613886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高久第2公園
+北側フェンス</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市高久一丁目32番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市高久一丁目32番地]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市高久一丁目32番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市高久一丁目32番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8412246,35.8662711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中曽根小学校正門
+北側フェンス</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市中曽根二丁目4番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中曽根二丁目4番地]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中曽根二丁目4番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中曽根二丁目4番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8463321,35.8671358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>けやき通り民家西側ブロック塀</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市中曽根二丁目12番地7<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中曽根二丁目12番地7]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中曽根二丁目12番地7</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中曽根二丁目12番地7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8450948,35.8645695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中曽根公園
+南側植栽</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市中曽根二丁目8番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中曽根二丁目8番地]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中曽根二丁目8番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中曽根二丁目8番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8476705,35.8648731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側ブロック塀</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市中曽根一丁目15番地4<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中曽根一丁目15番地4]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中曽根一丁目15番地4</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中曽根一丁目15番地4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8405457,35.8634701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道庭公園
+西側フェンス</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県吉川市道庭一丁目6番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市道庭一丁目6番地]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市道庭一丁目6番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市道庭一丁目6番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8429239,35.8611337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>久保田製缶
+南側フェンス前</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市中野164番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中野164番地1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中野164番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中野164番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8588019,35.8823434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中野2区会館　北側掲示板</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市中野388番地4<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中野388番地4]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中野388番地4</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中野388番地4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8604862,35.8815642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木売新田交差点北西フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市木売新田208番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市木売新田208番地1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市木売新田208番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市木売新田208番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8561001,35.8777746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>戸張歯科クリニック
+南側農地</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 4<br>ポスター掲示場の設置場所: 木売新田95-3付近<br>unnamed (1): 木売新田95-3付近]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>木売新田95-3付近</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>木売新田95-3付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8587383,35.8763441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川美南駅東口ロータリー入口
+</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市中曽根917番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中曽根917番地1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中曽根917番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中曽根917番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8586997,35.8689897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中新田集会所
+西側フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市中曽根1382番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市中曽根1382番地1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市中曽根1382番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市中曽根1382番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8645046,35.8708206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南配水場
+北側フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市木売新田153番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市木売新田153番地1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市木売新田153番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市木売新田153番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8615701,35.8787706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側ブロック塀</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市保53番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保53番地1]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保53番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保53番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8419304,35.8805855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いちょう通り（保第2公園）
+東側フェンス</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市保一丁目28番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保一丁目28番地]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保一丁目28番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保一丁目28番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8438736,35.8800828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側ブロック塀</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市保68番地1<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保68番地1]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保68番地1</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保68番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8422708,35.8786547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川駅北側ロータリー植樹帯</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市木売一丁目<br>unnamed (1): 埼玉県吉川市埼玉県吉川市木売一丁目]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市木売一丁目</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市木売一丁目</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8436047,35.8767992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＪＡさいかつ吉川支店
+西側植樹帯</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市保611番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保611番地]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保611番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保611番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8471143,35.8793115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>二郷半用水路（一之橋）
+さくら通り西側フェンス</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市保480番地5付近<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保480番地5付近]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保480番地5付近</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保480番地5付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8467284,35.88155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央公民館
+東側植樹帯</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市保577番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市保577番地]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市保577番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市保577番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8517594,35.879538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川駅北口第１自転車駐輪場前
+植樹帯
+</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県吉川市木売一丁目9番地6<br>unnamed (1): 埼玉県吉川市埼玉県吉川市木売一丁目9番地6]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市木売一丁目9番地6</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市木売一丁目9番地6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8459842,35.8768549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川運動公園（吉川運動公園バス停）
+西側植樹帯</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市きよみ野一丁目6番地7<br>unnamed (1): 埼玉県吉川市埼玉県吉川市きよみ野一丁目6番地7]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市きよみ野一丁目6番地7</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市きよみ野一丁目6番地7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8564147,35.8962241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民交流センターおあしす
+北側植樹帯</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市きよみ野一丁目1番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市きよみ野一丁目1番地]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市きよみ野一丁目1番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市きよみ野一丁目1番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8537228,35.8962982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>きよみ野第2公園　北側植樹帯</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市きよみ野一丁目13番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市きよみ野一丁目13番地]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市きよみ野一丁目13番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市きよみ野一丁目13番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8545033,35.8950162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第一保育所　東側植樹帯</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市きよみ野二丁目22番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市きよみ野二丁目22番地]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市きよみ野二丁目22番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市きよみ野二丁目22番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8513716,35.8945646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永田公園
+南側植樹帯</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市きよみ野四丁目10番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市きよみ野四丁目10番地]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市きよみ野四丁目10番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市きよみ野四丁目10番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8528526,35.8979315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東武バス折返し所
+西側植樹帯</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市きよみ野三丁目10番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市きよみ野三丁目10番地]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市きよみ野三丁目10番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市きよみ野三丁目10番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8501593,35.89768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>永田公園
+北側植樹帯</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市きよみ野四丁目10番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市きよみ野四丁目10番地]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市きよみ野四丁目10番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市きよみ野四丁目10番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8522732,35.8998196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>きよみ野東バス停
+植栽帯</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県吉川市きよみ野四丁目4番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市きよみ野四丁目4番地]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市きよみ野四丁目4番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市きよみ野四丁目4番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8544807,35.8990852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ウッドパーク吉川きよみ野
+東側道路植樹帯</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県吉川市きよみ野五丁目8番地9<br>unnamed (1): 埼玉県吉川市埼玉県吉川市きよみ野五丁目8番地9]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市きよみ野五丁目8番地9</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市きよみ野五丁目8番地9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8556478,35.8976768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美南一丁目バス停
+南側植樹帯</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県吉川市美南二丁目13番地6<br>unnamed (1): 埼玉県吉川市埼玉県吉川市美南二丁目13番地6]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市美南二丁目13番地6</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市美南二丁目13番地6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.849942,35.87081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川ムサシノ幼稚園駐車場
+南側フェンス</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県吉川市美南五丁目24番地3<br>unnamed (1): 埼玉県吉川市埼玉県吉川市美南五丁目24番地3]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市美南五丁目24番地3</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市美南五丁目24番地3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.849493,35.8649257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉川美南駅西口周辺</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県吉川市美南二丁目33番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市美南二丁目33番地]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市美南二丁目33番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市美南二丁目33番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8584775,35.8676623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美南地区公民館入口
+東側フェンス</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県吉川市美南四丁目17番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市美南四丁目17番地]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市美南四丁目17番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市美南四丁目17番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8524324,35.8638501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駅南ポンプ場
+南側植栽</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県吉川市美南五丁目17番地4<br>unnamed (1): 埼玉県吉川市埼玉県吉川市美南五丁目17番地4]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市美南五丁目17番地4</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市美南五丁目17番地4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8493785,35.8675796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>イオンタウン吉川美南（アネックス館）
+北側植樹帯</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県吉川市美南三丁目12番地12<br>unnamed (1): 埼玉県吉川市埼玉県吉川市美南三丁目12番地12]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市美南三丁目12番地12</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市美南三丁目12番地12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.855773,35.8659583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美南中央公園
+東側植樹帯</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県吉川市美南二丁目5番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市美南二丁目5番地]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市美南二丁目5番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市美南二丁目5番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8527181,35.8690599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美南2丁目公園
+西側フェンス</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県吉川市美南二丁目26番地<br>unnamed (1): 埼玉県吉川市埼玉県吉川市美南二丁目26番地]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県吉川市美南二丁目26番地</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>埼玉県吉川市埼玉県吉川市美南二丁目26番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.855055,35.8690186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,3843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>羽生市選挙ポスター掲示場１７４か所</name>
+    <description>市内のポスター掲示場１７４か所を掲示しています。</description>
+    <Style id="icon-1899-006064-labelson">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-labelson">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-097138-labelson">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-labelson">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-labelson">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-labelson">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-795548-labelson">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-labelson">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-labelson">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-labelson">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-E65100-labelson">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-labelson">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-labelson">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-labelson">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>ポスター掲示場設置場所一覧表（google map）.xlsx</name>
+      <Placemark>
+        <name>柿沼衣料品工業（株）北東フェンス</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市中央１丁目１７ー１]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市中央１丁目１７ー１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5357585,36.1742341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営駐車場入口フェンス</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市中央１丁目５番２７号]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市中央１丁目５番２７号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5346523,36.1720113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生第二消防センター西フェンス</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市中央２丁目４番３６号]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市中央２丁目４番３６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5365599,36.1716285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市中央公民館北</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市中央２丁目８番１０号地先]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市中央２丁目８番１０号地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5373246,36.1735224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元ＮＴＴ羽生営業所（埼玉縣信用金庫羽生支店西）フェンス</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市中央２丁目１番１号]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市中央２丁目１番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5371682,36.170564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>足利銀行羽生支店駐車場東側フェンス</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市中央４丁目１番１３号]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市中央４丁目１番１３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5387174,36.1735305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葛西用水路右岸城橋南遊歩道</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市中央４丁目１２番１５号]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市中央４丁目１２番１５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.541618,36.1743622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東町団地公園フェンス</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市東２丁目４番３３号地先]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東２丁目４番３３号地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5433444,36.1759268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市立羽生北小学校南水路フェンス</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市中央４丁目４番６号地先]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市中央４丁目４番６号地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5395747,36.1755751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八雲神社北側石柵（鳥居東側）</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市北１丁目５番１７号地先]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市北１丁目５番１７号地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5383587,36.1751909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コイソフラワー南側（民家）塀</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 6<br>ポスター掲示場の場所: 羽生市北１丁目３番４号]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市北１丁目３番４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5345306,36.17464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市立西中学校北東側フェンス</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市大字羽生１２０番地地先]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字羽生１２０番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5321823,36.1765198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大道公園北側フェンス</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市西５丁目８番地]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市西５丁目８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.53026,36.1747109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和町公園東側フェンス</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市北３丁目７番地]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市北３丁目７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5335181,36.1782757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市立西中学校西側フェンス</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字羽生１２０番地]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字羽生１２０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5298411,36.1765605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県立羽生実業高校北側フェンス</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市大字羽生３２３番地]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字羽生３２３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5287402,36.1782225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秩父鉄道西羽生駅北口</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市西５丁目３２番２号]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市西５丁目３２番２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5237401,36.1764875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秩父鉄道西羽生駅南口</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市西５丁目３２番２号]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市西５丁目３２番２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.524188,36.1763316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新田公園北側フェンス</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市西５丁目１７番地]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市西５丁目１７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5274466,36.1749727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民農園南東個人宅塀</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市東４丁目５番地]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市東４丁目５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5449732,36.1792898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木西公園東側</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市東３丁目１３番地]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東３丁目１３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5409019,36.1791722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栃木東公園西側フェンス</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市東３丁目１９番地]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東３丁目１９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.541972,36.1791966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲子前公園南側フェンス</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市東３丁目４５番地]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東３丁目４５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5402413,36.1822166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(有)東宝種苗店駐車場フェンス</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市東３丁目１番３０号]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東３丁目１番３０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5414744,36.176178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大天白公園北</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市北２丁目８番３２号]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市北２丁目８番３２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.538356,36.1793874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生外野栗橋線北二丁目交差点植樹帯</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市北２丁目１４番地]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市北２丁目１４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5362175,36.1805348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市体育館国旗掲揚塔</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市東９丁目１番１号]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東９丁目１番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5539438,36.1734575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（有）植田商店、（株）川崎商事南東植樹帯</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市東６丁目２２番３号地先]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東６丁目２２番３号地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5516344,36.1723124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営羽生城沼住宅３号棟西</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市東７丁目１５番８号]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東７丁目１５番８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5497996,36.1705791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市役所西側入口</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市東６丁目１５番地]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東６丁目１５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5479277,36.1721012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東建設（株）作業所西側ブロック塀</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市東６丁目１１番１号]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東６丁目１１番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5479145,36.1741532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ビッグ・エー羽生東店北側フェンス</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市東６丁目９番１号]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東６丁目９番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5456133,36.174334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市保健センター北側フェンス</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市東７丁目５番２号]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市東７丁目５番２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5468362,36.1700816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葛西用水路右岸あずま橋南遊歩道フェンス</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市中央５丁目５番地地先]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市中央５丁目５番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5434946,36.1724477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンドラッグ南交差点</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市中央５丁目４番３６号地先]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市中央５丁目４番３６号地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5441262,36.1711597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>儘田産業㈱事務所西側フェンス</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市南５丁目３番地２１号]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市南５丁目３番地２１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5408996,36.1695841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河本工業㈱羽生営業所東側フェンス</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市南５丁目１５番１３号]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市南５丁目１５番１３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5442475,36.169859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市立羽生南小学校西側フェンス</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市南６丁目５番地１号]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市南６丁目５番地１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5435001,36.1672051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前谷公園南西（十万石羽生店北側）</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市南６丁目４番地]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市南６丁目４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.543768,36.1656955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮田一号公園南側</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市南７丁目１５番地]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市南７丁目１５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.542553,36.1637555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>セキネ企画印刷駐車場南側塀</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市南４丁目９番１９号地先]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市南４丁目９番１９号地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5397345,36.1669056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈱ヤオコー羽生店西側</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市南４丁目２５５番地]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市南４丁目２５５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.539494,36.1685363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮田三号公園南側</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市南８丁目５番地]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市南８丁目５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5393285,36.1649564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元町会館入口</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市南２丁目１２番地]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市南２丁目１２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5368996,36.1658992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小松道下公園北側フェンス</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市南２丁目２７番地]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市南２丁目２７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5352924,36.1650457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太田整形外科クリニック交差点水路フェンス</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市南２丁目２０番２２号地先]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市南２丁目２０番２２号地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5342127,36.166717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生駅構内自由通路</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市南１丁目６２番地]]></description>
+        <styleUrl>#icon-1899-FFEA00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市南１丁目６２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5338491,36.1704078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>毘沙門堂南</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市西１丁目１３番地]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市西１丁目１３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5335592,36.1725961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>保呂羽堂北</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市西４丁目１番１号地先]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市西４丁目１番１号地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5315098,36.1734574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈲羽生福祉用具東向い塀</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市西４丁目１９番４号地先]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市西４丁目１９番４号地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5286659,36.1702864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生駅西口広場東側フェンス</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市西２丁目１番地]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市西２丁目１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5335423,36.1705404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小松道上公園北側フェンス</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市西３丁目１６番地]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市西３丁目１６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5300624,36.168236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄町公会堂東側塀</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市西４丁目９番２号]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市西４丁目９番２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.529263,36.1720675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈱エーダイニット第３物流センター西側フェンス</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市西４丁目１５番８号]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市西４丁目１５番８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5273899,36.172466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中新田橋北（ゴミ集積所敷地内）</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市大字上新郷７３８番地]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上新郷７３８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5081209,36.1636622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天神社東側石柵</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市大字上新郷１９９６番地]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上新郷１９９６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5094269,36.1711423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新郷公民館西側フェンス</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字上新郷５６３０番地４]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字上新郷５６３０番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5071366,36.174097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道佐野行田線コイン精米所フェンス</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市大字上新郷１２８７－３番地地先]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字上新郷１２８７－３番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.49338,36.1713832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎗田歯科医院東側</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市大字上新郷５５５７番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上新郷５５５７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.504707,36.1760454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛宕神社南天神社東側石柵</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市大字上新郷６７２８番地]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上新郷６７２８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5053237,36.1818315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西新田集会場南側（民家）塀</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 7<br>ポスター掲示場の場所: 羽生市大字上新郷６０７１番地]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字上新郷６０７１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.4987624,36.1868605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>別所集会所東　資源ごみ集積所</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 8<br>ポスター掲示場の場所: 羽生市大字上新郷７１１３番地地先]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字上新郷７１１３番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5090609,36.1883266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅北側路肩掲示板</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市大字下新郷１６９３番地１地先]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下新郷１６９３番地１地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5225295,36.1477182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市立新郷第二小学校正門フェンス</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市大字下新郷７１１番地]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字下新郷７１１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5213555,36.1462777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大光院南（新郷第二区集会所）</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市大字下新郷７２０番地]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字下新郷７２０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5217902,36.1448867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下新郷北（バス停留所）貯水槽</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市大字下新郷１９０８番地地先]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下新郷１９０８番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5207971,36.1536933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧第六保育所フェンス</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市大字下新田１１３番地]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下新田１１３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5194832,36.1548549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下新田県道交差点（バス停留所）</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 6<br>ポスター掲示場の場所: 羽生市大字下新田２５番地４]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下新田２５番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.510799,36.1589717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下新田集会所西側フェンス</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 7<br>ポスター掲示場の場所: 羽生市大字下新田４１８番地]]></description>
+        <styleUrl>#icon-1899-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下新田４１８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5134124,36.1566199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市立須影小学校前フェンス</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市大字須影６６９番地]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字須影６６９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5479978,36.1504734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>風の公園南東側</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市南羽生４丁目１２番３号]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市南羽生４丁目１２番３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5546729,36.1486077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>須影公民館西側塀</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字須影７１４番地]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字須影７１４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5437879,36.1491145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上川崎公園南側緑地</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市川崎２丁目２６７番地地先]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市川崎２丁目２６７番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5362529,36.1445424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下川崎集会所南西個人宅敷地</name>
+        <address>羽生市大字下川崎９７０番地</address>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市大字下川崎９７０番地]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下川崎９７０番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>下川崎公園北側緑地</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市大字下川崎２８１番地３０]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字下川崎２８１番地３０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5457242,36.1423553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営南羽生団地南側フェンス</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 7<br>ポスター掲示場の場所: 羽生市南羽生３丁目２６番２号]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市南羽生３丁目２６番２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.554467,36.1448137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈲メイクアップカーズ東側柵</name>
+        <address>羽生市大字砂山４８３番地地先</address>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市大字砂山４８３番地地先]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字砂山４８３番地地先</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>共愛会第２グリーンハイツ西側資源ごみ集積所</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市大字砂山３０４番地]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字砂山３０４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5310231,36.1465586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鷲宮神社（秀安第一集会所）内</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市大字秀安１５５番地]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字秀安１５５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5467822,36.1550681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ワークヒルズ羽生南側（アパート北）</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市下羽生１０１４番地１]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市下羽生１０１４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5471026,36.1640814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御嶽神社（秀安第二集会所）東側フェンス</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市大字秀安４１１番地地先]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字秀安４１１番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5484957,36.1600003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下羽生集会所東側フェンス</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 6<br>ポスター掲示場の場所: 羽生市大字下羽生６８８番地]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下羽生６８８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5537261,36.1623193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市第二浄水場前フェンス</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市大字下羽生１３４番地]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字下羽生１３４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5547143,36.1644527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩松寺南防火水槽前</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市大字上岩瀬１７４８番地４]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上岩瀬１７４８番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5222195,36.1666587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩瀬公民館前フェンス</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市大字上岩瀬２３６７番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上岩瀬２３６７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5239492,36.1648959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上岩瀬中宿集会所南側フェンス</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字上岩瀬１６７５－１番地地先]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字上岩瀬１６７５－１番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5180968,36.1642575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上岩瀬団地公園北側フェンス</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市大字上岩瀬３１７番地４]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字上岩瀬３１７番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.513854,36.16324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>御霊神社（中妻会館東）</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市大字上岩瀬１３６９番地２]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上岩瀬１３６９番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5136182,36.1709987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美容室 旭 南側フェンス</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市大字桑崎９８７－２番地地先]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字桑崎９８７－２番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.51832,36.1725115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡社道（桑崎集会所）東貯水槽</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 7<br>ポスター掲示場の場所: 羽生市大字桑崎４１１番地地先]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字桑崎４１１番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.512275,36.176657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小松公会堂児童遊園</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市大字小松２８０番地]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字小松２８０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5293894,36.1560912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲荷社（中岩瀬農業研修所）貯水槽前</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市大字中岩瀬１２４番地]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字中岩瀬１２４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5350097,36.1633422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市立岩瀬小学校前フェンス</name>
+        <address>羽生市大字上岩瀬１７５６番地</address>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字上岩瀬１７５６番地]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字上岩瀬１７５６番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>㈲松惣本店西（ゴミ集積所敷地内）</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市大字下岩瀬２１０番地]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字下岩瀬２１０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5205027,36.1590129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下岩瀬東区集会所入口フェンス</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市大字下岩瀬６８３番地１]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字下岩瀬６８３番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5266328,36.1601733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第七保育所南西側フェンス</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市下岩瀬７３１番地２]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市下岩瀬７３１番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5239667,36.1611848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生中継ポンプ場入口</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市大字中岩瀬２１番地３]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字中岩瀬２１番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5419288,36.1627384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川俣小学校前公民館フェンス</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市大字本川俣６３０番地]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字本川俣６３０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5364104,36.1827434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>葛西親水公園南側</name>
+        <address>羽生市本川俣１０１３番地１</address>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市本川俣１０１３番地１]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市本川俣１０１３番地１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>利根川上流河川事務所川俣出張所</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市大字本川俣８４０番地]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字本川俣８４０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5338678,36.1835821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>とねの会こども園東側フェンス</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市大字上川俣87]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字上川俣87</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5193356,36.1835175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧北方用水路水門（幸生会ケアハウス東）</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市大字上川俣１０７９番地３地先]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字上川俣１０７９番地３地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5170009,36.1856859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅北側フェンス</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 6<br>ポスター掲示場の場所: 羽生市大字小須賀９４２番地１]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字小須賀９４２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5146125,36.1817307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渡辺工務店資材置場フェンス</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市大字小須賀７７２番地地先]]></description>
+        <styleUrl>#icon-1899-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字小須賀７７２番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5087219,36.1815976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>光明院南東道路フェンス</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市大字稲子470番地地先]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字稲子470番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5424894,36.1851026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市大字稲子４１３番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字稲子４１３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5447557,36.1873167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲子集会所北側フェンス</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字稲子８３１番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字稲子８３１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5470879,36.1914296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅北水路フェンス</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市大字稲子６７７番地地先]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字稲子６７７番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5442005,36.1912431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新田橋南東（埼玉用水路南）</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市大字稲子９６４番地地先]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字稲子９６４番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5516993,36.192822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前（西寄りＴ字路）</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市大字発戸１６８５番地]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字発戸１６８５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5578942,36.1943471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鷲宮神社東側塀</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市大字発戸１６５３番地]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字発戸１６５３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5612789,36.1955857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤井上組西部公会堂フェンス</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字藤井上組１２６９番地]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字藤井上組１２６９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5482645,36.17941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野本歯科医院南</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市大字藤井上組１３７番地地先]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字藤井上組１３７番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5596991,36.1852968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市立羽生東小学校正門南側フェンス</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市大字藤井下組４９０番地]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字藤井下組４９０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5622665,36.1859837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>藤井上組鶴指２号公園西側フェンス</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市藤井上組９０６番地２３]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市藤井上組９０６番地２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5536905,36.1816701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>尾崎農業研修所西</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市大字尾崎７０５番地]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字尾崎７０５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5543476,36.1917598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡神社南側塀</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市大字今泉２６５番地１]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字今泉２６５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5716976,36.1842015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>前原集会所入口フェンス</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市大字今泉１８３６番地]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字今泉１８３６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5709895,36.1771496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>井泉公民館駐車場フェンス</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市大字藤井上組２７５番地]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字藤井上組２７５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.564778,36.183793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有限会社植竹商店北五差路フェンス</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市大字藤井下組825番地2地先]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字藤井下組825番地2地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5618705,36.177471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日本精工（株）埼玉工場北</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市大沼１丁目１番地]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大沼１丁目１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5681753,36.1742189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営羽生北袋住宅東側フェンス</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市大字北袋４番地１]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字北袋４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.555454,36.1708096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神明神社（稲荷社）北フェンス</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市大字北袋２９２番地１]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字北袋２９２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5570517,36.1695318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ＪＡほくさい手子林支店前フェンス</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市南羽生２丁目１６番地１０]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市南羽生２丁目１６番地１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.564487,36.1500313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上手子林稲荷神社西側フェンス</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市上手子林６６９－３]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市上手子林６６９－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5600194,36.155146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>特定非営利法人だいだいチューリップ東側フェンス</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市大字上手子林４６７番地地先]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上手子林４６７番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5581333,36.157188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根岸被服工業（株）南</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市大字上手子林１０５２番地]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上手子林１０５２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5608931,36.1576673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南羽生駅西広場フェンス</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市南羽生３丁目１番地１]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市南羽生３丁目１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5565605,36.1495415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太陽の公園南側第２調整池フェンス</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市南羽生２丁目２３番地]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市南羽生２丁目２３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5626362,36.1483236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>エイジフリーショップ北埼玉北側フェンス</name>
+        <description><![CDATA[投票区: 第十九投票区<br>設置番号: 7<br>ポスター掲示場の場所: 羽生市大字神戸642-2]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字神戸642-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5594274,36.1382785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(有)八重澤鉄工鉄鋼東側フェンス</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市大字下手子林７５７番地１地先]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字下手子林７５７番地１地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5709458,36.1511715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市立手子林小学校校門西フェンス</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市大字下手子林５５５番地]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下手子林５５５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5724801,36.1534705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市立手子林小学校跡地慰霊塔前フェンス</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字下手子林１３６７番地]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下手子林１３６７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5722333,36.1561908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>飯塚材木店東稲荷社</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市大字下手子林１９５０番地]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下手子林１９５０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5839756,36.1552822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>手子林公民館北フェンス</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市大字下手子林８０５番地]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下手子林８０５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.566322,36.1516667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈱丸運羽生物流センター北側塀</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市大字下手子林２６９４番地]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字下手子林２６９４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5668978,36.1569408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>町屋天神社（ゴミ集積所建屋東）</name>
+        <description><![CDATA[投票区: 第二十投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市大字町屋３１４番地]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字町屋３１４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5688942,36.1452292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中手子林農民センター前フェンス</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市大字中手子林９７１番地]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字中手子林９７１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5746124,36.163519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塩田商店南道路フェンス</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市大字中手子林１６７番地１地先]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字中手子林１６７番地１地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5750299,36.160073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅北</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字中手子林１４１０番地]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字中手子林１４１０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5837715,36.1603738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かなくぼこども園キラリ南フェンス</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市大字北荻島４３０番地１]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字北荻島４３０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5845911,36.1666469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅西（貯水槽東）</name>
+        <address>羽生市大字北荻島８６９番地</address>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市大字北荻島８６９番地]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字北荻島８６９番地</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>長谷川理容所東側フェンス</name>
+        <description><![CDATA[投票区: 第二十一投票区<br>設置番号: 6<br>ポスター掲示場の場所: 羽生市大字中手子林６０９－２番地地先]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字中手子林６０９－２番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5737898,36.1668528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>喜右ヱ門新田八幡神社前</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 1<br>ポスター掲示場の場所: 羽生市大字喜右ヱ門新田１４９８番地]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字喜右ヱ門新田１４９８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5800549,36.1762316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生市立東中学校南東側フェンス</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市大字今泉１４４８番地]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字今泉１４４８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5762103,36.1723089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧第四保育所西側フェンス</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字与兵ヱ新田１１９番地]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字与兵ヱ新田１１９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5952111,36.1778597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田舎教師記念碑</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市大字弥勒１４９３番地３]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字弥勒１４９３番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.589262,36.1829632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鬼平江戸処関係者専用駐車場フェンス</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市大字弥勒１６２５－２番地]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字弥勒１６２５－２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5887371,36.1817195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三田ヶ谷公民館西側フェンス</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市大字弥勒６３４番地１]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字弥勒６３４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5877466,36.1776225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸福運送前植樹帯</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 7<br>ポスター掲示場の場所:  羽生市大字弥勒６６５番地]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字弥勒６６５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5843777,36.177471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弥勒橋無人精米所南</name>
+        <description><![CDATA[投票区: 第二十二投票区<br>設置番号: 8<br>ポスター掲示場の場所:  羽生市弥勒１００９番地地先]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市弥勒１００９番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5833638,36.18397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清掃センター南西フェンス</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市大字三田ケ谷１８６３番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字三田ケ谷１８６３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5992357,36.1670057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡神社前</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市大字三田ヶ谷１６４番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字三田ヶ谷１６４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6007207,36.1825315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三田ヶ谷二区ゴミ集積所</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市大字三田ヶ谷６１０番地１]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字三田ヶ谷６１０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6024148,36.177383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三田ヶ谷農村センター前フェンス</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市大字三田ヶ谷２２７７番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字三田ヶ谷２２７７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6005158,36.1706784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蓮台寺塀</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市大字三田ヶ谷２０１番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字三田ヶ谷２０１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6027807,36.1817723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三田ヶ谷三区機械利用組合北側フェンス</name>
+        <description><![CDATA[投票区: 第二十三投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市大字三田ヶ谷５９番地６]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字三田ヶ谷５９番地６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6021136,36.1850209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松の木共同集荷所西</name>
+        <description><![CDATA[投票区: 第二十四投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市大字下村君８９２番地１]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字下村君８９２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5852392,36.1948063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉用水路五反田上橋</name>
+        <description><![CDATA[投票区: 第二十四投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市大字下村君１７番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下村君１７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5763495,36.1993193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鷲の宮神社北境内</name>
+        <description><![CDATA[投票区: 第二十四投票区<br>設置番号: 3<br>ポスター掲示場の場所:  羽生市大字下村君２２２９番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字下村君２２２９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5811063,36.2025802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅西</name>
+        <address>羽生市大字下村君１８４２番地１</address>
+        <description><![CDATA[投票区: 第二十四投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市大字下村君１８４２番地１]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字下村君１８４２番地１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>旧羽生市立村君小学校前フェンス</name>
+        <description><![CDATA[投票区: 第二十四投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市大字堤１０７番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字堤１０７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5871879,36.2037972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>延命寺入口水路フェンス</name>
+        <description><![CDATA[投票区: 第二十四投票区<br>設置番号: 6<br>ポスター掲示場の場所:  羽生市大字堤５５８番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字堤５５８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.592292,36.2028275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上村君農業研修所フェンス</name>
+        <description><![CDATA[投票区: 第二十五投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市大字上村君４５６番地４]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上村君４５６番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5722445,36.1947143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅北側ブロック塀</name>
+        <description><![CDATA[投票区: 第二十五投票区<br>設置番号: 2<br>ポスター掲示場の場所: 羽生市大字上村君１９２７番地１]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字上村君１９２７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5727121,36.1931298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上村君不燃物置場フェンス</name>
+        <description><![CDATA[投票区: 第二十五投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字上村君５７番地２]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字上村君５７番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5694773,36.1932727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉日清食品（株）西側フェンス</name>
+        <description><![CDATA[投票区: 第二十五投票区<br>設置番号: 4<br>ポスター掲示場の場所:  羽生市大字上村君２７２番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上村君２７２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5722303,36.1979139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大日メタックス㈱北</name>
+        <description><![CDATA[投票区: 第二十五投票区<br>設置番号: 5<br>ポスター掲示場の場所:  羽生市大字上村君８１６番地３]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字上村君８１６番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5782332,36.1941948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽生スカイスポーツ公園西側フェンス</name>
+        <description><![CDATA[投票区: 第二十六投票区<br>設置番号: 1<br>ポスター掲示場の場所:  羽生市大字常木１１７５番地地先]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字常木１１７５番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6013104,36.1960289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>常木共同集荷所前</name>
+        <description><![CDATA[投票区: 第二十六投票区<br>設置番号: 2<br>ポスター掲示場の場所:  羽生市大字常木８０５番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value> 羽生市大字常木８０５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5996174,36.1911898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅東</name>
+        <description><![CDATA[投票区: 第二十六投票区<br>設置番号: 3<br>ポスター掲示場の場所: 羽生市大字常木１３８－１番地地先]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字常木１３８－１番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5955494,36.1936871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅西</name>
+        <description><![CDATA[投票区: 第二十六投票区<br>設置番号: 4<br>ポスター掲示場の場所: 羽生市大字常木６０５番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字常木６０５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5973709,36.1898748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>渋井自動車工業西側水路フェンス</name>
+        <description><![CDATA[投票区: 第二十六投票区<br>設置番号: 5<br>ポスター掲示場の場所: 羽生市大字名１番地地先]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字名１番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6004872,36.1979283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>名集会所北側水路フェンス</name>
+        <description><![CDATA[投票区: 第二十六投票区<br>設置番号: 6<br>ポスター掲示場の場所: 羽生市大字名５７５番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の場所">
+            <value>羽生市大字名５７５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5971314,36.2009336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>無題のレイヤ</name>
+    </Folder>
+  </Document>
+</kml>

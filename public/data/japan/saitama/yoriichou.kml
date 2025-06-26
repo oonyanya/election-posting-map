@@ -1,0 +1,2449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>寄居町ポスター掲示場設置場所一覧</name>
+    <description/>
+    <Style id="icon-1899-0097A7-labelson">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-labelson">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-labelson">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-795548-labelson">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-817717-labelson">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-labelson">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-A52714-labelson">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-labelson">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-labelson">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-labelson">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-labelson">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>寄居町ポスター掲示場設置場所一覧</name>
+      <Placemark>
+        <name>民家ブロック塀</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居７８０番地２]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居７８０番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1995556,36.1155514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄居町勤労福祉センター南</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居９４１番地１]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居９４１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1956735,36.1152425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧寄居町商工会館前</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居１２６７番地１]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居１２６７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1972414,36.1171437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄居駅北口階段西</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居１２１０番地８]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居１２１０番地８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1942093,36.1181448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>タイムズ寄居駅南口駐車場南側フェンス</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居１１３３番地１５]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居１１３３番地１５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1943801,36.1171504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉りそな銀行駐車場フェンス</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居９３２番地１]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居９３２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1954474,36.1145242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居７８８番地１]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居７８８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1987639,36.1156186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雀宮公園北西側フェンス</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居５９８番地１]]></description>
+        <styleUrl>#icon-1899-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居５９８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1972443,36.1125632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>太子様駐車場北東</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居５６１番地１]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居５６１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1952264,36.1128943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居４６２番地１]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居４６２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1921387,36.1120312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花町会館北西道路沿いフェンス</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居１０６２番地４]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居１０６２番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1915973,36.1146681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居１０９１番地１]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居１０９１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1920966,36.1156585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県北都市間路線代替バス「武蔵観光㈱」寄居車庫南</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居２９６番地２]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居２９６番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1877855,36.1139813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄居小学校正門西フェンス</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居２０６番地３]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居２０６番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1870428,36.1166705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧町営住宅跡地東側道路沿い</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居１５４番地１]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居１５４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1885065,36.1182853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>菅原公園南</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居１４９９番地]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居１４９９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1926349,36.1241257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>荻野製作所西</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字寄居１７０６番地３]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字寄居１７０６番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1820857,36.1198955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>はあとの森西</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字末野１６４８番地３]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字末野１６４８番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.174039,36.1190115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東ガードレール</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字末野１３２９番地１]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字末野１３２９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1697798,36.1185996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道広木折原線秩父鉄道踏切北西</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字末野１２７０番地２]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字末野１２７０番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1705831,36.1197609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>末野公園フェンス</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字末野９７１番地]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字末野９７１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1664606,36.1194207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>末野神社北</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字末野４９５番地１]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字末野４９５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.161458,36.120785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>波久礼駅前</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字末野８１番地１]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字末野８１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1577892,36.1261864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金尾公会堂フェンス</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字金尾４２８番地]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字金尾４２８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1546001,36.1259804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東ガードレール</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字金尾４９４番地３]]></description>
+        <styleUrl>#icon-1899-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字金尾４９４番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1551081,36.1227402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字風布８７番地３]]></description>
+        <styleUrl>#icon-1899-4E342E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字風布８７番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1526946,36.1054435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄居町生涯学舎(旧風布小学校)南ガードレール</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字風布２１７番地６]]></description>
+        <styleUrl>#icon-1899-4E342E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字風布２１７番地６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1510691,36.1039288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字折原９９２番地２]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字折原９９２番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1730511,36.1144485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>折原上郷公会堂西</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字折原７９５番地１]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字折原７９５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1769108,36.1129859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>運動公園進入路フェンス</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字折原２８０番地１]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字折原２８０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1842184,36.1097637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>土井の沢川・和田橋付近</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字折原６６番地３]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字折原６６番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1890209,36.1084506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字折原１４１０番地３]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字折原１４１０番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1780561,36.105964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(有)野口工務店東</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字折原２００１番地３]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字折原２００１番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1841179,36.103254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字折原２０９３番地１]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字折原２０９３番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1761732,36.0998321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>カタクリ体育センター北</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字折原１８６７番地１]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字折原１８６７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1842492,36.1059529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>折原小学校北側フェンス（折原コミュニティセンター南）</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字立原３６３番地]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字立原３６３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1876279,36.1032619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>花工房オギワラ南ガードレール</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字三品３２５番地]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字三品３２５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1809806,36.0965913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平倉公会堂前</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字西ノ入４４０番地２]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字西ノ入４４０番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1909754,36.0948049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八高線萩和田踏切南</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字西ノ入５２３番地２]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字西ノ入５２３番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1945949,36.0969085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>波羅比門神社前</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字西ノ入７３８番地]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字西ノ入７３８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1959411,36.0908844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西、栃谷川沿い</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字西ノ入１８６６番地３]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字西ノ入１８６６番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1952439,36.0880676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>橋北側ガードレール</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字西ノ入３１４５番地３]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字西ノ入３１４５番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.200088,36.0913937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字西ノ入２９３４番地２]]></description>
+        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字西ノ入２９３４番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2037463,36.0873972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧エナックス寄居鉢形サービスステーション西</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字鉢形８４８番地１]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字鉢形８４８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1994157,36.1108295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家フェンス</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字鉢形９３８番地４]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字鉢形９３８番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.199432,36.1091195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家フェンス</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字鉢形２５０４番地２]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字鉢形２５０４番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1970719,36.1050795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鉢形小学校東側フェンス</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字鉢形６４５番地１]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字鉢形６４５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2052889,36.1110249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あまがすはら公園東</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字鉢形１４２９番地２]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字鉢形１４２９番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2083485,36.1107535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上ノ原公会堂北</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字鉢形１７１１番地１]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字鉢形１７１１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2105282,36.1053424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口製作所西</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字露梨子５７０番地１]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字露梨子５７０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2161559,36.1027489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふかや農協城南プラザ北東フェンス</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字鉢形９３番地４]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字鉢形９３番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2078923,36.1128626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>町立給食センター西側フェンス</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字鉢形２０８番地１]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字鉢形２０８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2064785,36.1161642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄居町保健福祉総合センター（ユウネス）南</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字保田原３０４番地１]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字保田原３０４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2148994,36.1173894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>消防団第４分団詰所南</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字保田原１０４番地１]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字保田原１０４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2116077,36.1132163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>セントラルモータース南東</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字保田原４０番地２]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字保田原４０番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2154439,36.1148056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青木輪店東</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字露梨子４４２番地２]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字露梨子４４２番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2146302,36.1094941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小園区ゲートボール場北</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字小園１９３番地２]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字小園１９３番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2242649,36.1144095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄居ニュ−タウン入口東ガードレール</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田２５９１番地２]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田２５９１番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2250766,36.0981318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東フェンス</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田２１４２番地１]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田２１４２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2341438,36.0983539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田１１６０番地先]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田１１６０番地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2402686,36.1021031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家塀</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田１７２７番地1]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田１７２７番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2357304,36.1075512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西フェンス</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田４７０番地５]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田４７０番地５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2449022,36.1032127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南フェンス</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田６７２番地５]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田６７２番地５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2455109,36.1009985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田１４４７番地１]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田１４４７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2449773,36.1087115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>男衾中学校南側フェンス</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田３４番地１]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田３４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2510283,36.1076486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田３７６７番地１]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田３７６７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2225748,36.1047134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有限会社ナカムラ装飾西</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田３２４３番地１]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田３２４３番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2256707,36.1084742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈱Beauty Hada南</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田３３４３番地２]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田３３４３番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2242198,36.1104847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田３１９３番地２]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田３１９３番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2259161,36.1068013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上郷南区公会堂（天神社）前</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田３２８３番地２]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田３２８３番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2225097,36.1072997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈱スズヨシ南フェンス</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田２８７７番地３]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田２８７７番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2313919,36.106369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東歩道フェンス</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字富田１８５１番地１２]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字富田１８５１番地１２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2331139,36.1040774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ラーメン三宝軒東、県道沿い</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字赤浜９３３番地４]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字赤浜９３３番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2291983,36.1107526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前、県道沿い</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字赤浜７６６番地２]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字赤浜７６６番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2383203,36.1118948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大浜電子東、県道沿い</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字赤浜７２０番地２]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字赤浜７２０番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2431398,36.1119012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字赤浜１２１５番地１]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字赤浜１２１５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2471386,36.1115011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三嶋神社南</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字赤浜２０１２番地１]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字赤浜２０１２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2608823,36.1120352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>男衾郵便局東、県道沿いフェンス</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字牟礼１４９１番地１]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字牟礼１４９１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2551141,36.1067653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市野川清流会館北交差点フェンス</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字牟礼９８４番地１]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字牟礼９８４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2505597,36.0993787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈲堀口工業西側</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字今市３３７番地１]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字今市３３７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2661429,36.1042343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字今市７６６番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字今市７６６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2672345,36.103511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>今市区民会館フェンス</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字今市６９９番地１]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字今市６９９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2700711,36.1020065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>今市地蔵尊ブロック塀前</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字今市５３２番地]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字今市５３２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2726312,36.1003605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鷹巣橋ガードレール</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字鷹巣１６０番地２]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字鷹巣１６０番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2793002,36.1011293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鷹巣橋東、県道信号機付近</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字西古里１８４番地１]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字西古里１８４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2848077,36.1025878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>メゾングランドール柴崎南</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢５３４番地５]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢５３４番地５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1982516,36.119588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>うずら橋欄干</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢４７１番地４]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢４７１番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1997908,36.1174938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>龍源寺北側道路ブロック塀</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢６２８番地１]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢６２８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.198432,36.1219642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤製陶所西</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢１０５１番地２]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢１０５１番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2022132,36.1233494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上組公会堂前</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢４５１２番地]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢４５１２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1953335,36.1252908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コインランドリー南西河川側</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢６０３番地]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢６０３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1966567,36.12189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄居警察署宿地待機宿舎東</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢２１６８番地]]></description>
+        <styleUrl>#icon-1899-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢２１６８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2050206,36.1255535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢１５４１番地４]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢１５４１番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2155287,36.1242104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中小前田公会堂北</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢１３９４番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢１３９４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2099022,36.1246041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄居警察署長官舎北</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢９３８番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢９３８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2002119,36.1266888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>寄居城北高校南側フェンス</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢２６０１番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢２６０１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2087649,36.1309028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山崎歩道橋北</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢２８２７番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢２８２７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2033152,36.1286159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桜沢小学校入口南フェンス</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢２７４０番地１]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢２７４０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2058095,36.13,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南飯塚南池西</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字桜沢２９６１番地]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字桜沢２９６１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2016858,36.1326626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふかや農協農産物直売センター東</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字用土８１６番地]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字用土８１６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1980901,36.1437954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>用土駅南側フェンス</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字用土１７２１番地２]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字用土１７２１番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2009722,36.1534053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>用土５区公会堂前</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字用土１８１２番地]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字用土１８１２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2025943,36.150433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>用土小学校南側フェンス</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字用土２８５３番地１]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字用土２８５３番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.206358,36.1540084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字用土２４２４番地４]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字用土２４２４番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2034184,36.1535309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧松本商店東、県道沿い</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字用土５０１０番地１]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字用土５０１０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2062038,36.1652422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>井口商店北</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字用土２２１８番地１]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字用土２２１８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.208485,36.1524589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小久保医院北フェンス</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字用土２１７９番地６]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字用土２１７９番地６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2073116,36.150135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>林りくろう診療所東、県道沿いフェンス</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字用土５１０８番地７]]></description>
+        <styleUrl>#icon-1899-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字用土５１０８番地７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2047366,36.1611235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈱埼玉プレシア（旧ｽｲｰﾄｶﾞｰﾃﾞﾝ）入口西、県道沿い</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県大里郡寄居町大字赤浜６４８番地１]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大里郡寄居町大字赤浜６４８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2520414,36.1125415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

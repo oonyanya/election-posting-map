@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ときがわ町ポスター掲示場一覧</name>
+    <description>令和7年5月28日更新</description>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>無題のレイヤ</name>
+    </Folder>
+    <Folder>
+      <name>ポスター設置場所一覧(20250527Google）.xls</name>
+      <Placemark>
+        <name>第一</name>
+        <address>埼玉県比企郡ときがわ町大字五明１１３－２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字五明１１３－２<br>設置場所の目標: 十王堂北側(第一中野原踏切西側県道)]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字五明１１３－２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>十王堂北側(第一中野原踏切西側県道)</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第一</name>
+        <address>埼玉県比企郡ときがわ町大字玉川２７８１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字玉川２７８１<br>設置場所の目標: 根際　個人宅西側]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字玉川２７８１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>根際　個人宅西側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第一</name>
+        <address>埼玉県比企郡ときがわ町大字玉川２４９０</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字玉川２４９０<br>設置場所の目標: 埼玉県比企郡ときがわ町役場本庁舎 ATM付近]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字玉川２４９０</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>埼玉県比企郡ときがわ町役場本庁舎 ATM付近</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第一</name>
+        <address>埼玉県比企郡ときがわ町大字玉川２４５８－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字玉川２４５８－１<br>設置場所の目標: シェアハウス“まちんなか”前]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字玉川２４５８－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>シェアハウス“まちんなか”前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第一</name>
+        <address>埼玉県比企郡ときがわ町大字玉川１５７２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字玉川１５７２<br>設置場所の目標: 旧佐々木印刷西側]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字玉川１５７２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>旧佐々木印刷西側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第一</name>
+        <address>埼玉県比企郡ときがわ町大字玉川１１２１－２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字玉川１１２１－２<br>設置場所の目標: 忍田肉店西側]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字玉川１１２１－２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>忍田肉店西側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第一</name>
+        <address>埼玉県比企郡ときがわ町大字玉川１８７０－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字玉川１８７０－１<br>設置場所の目標: 薬師堂前]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字玉川１８７０－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>薬師堂前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二</name>
+        <address>埼玉県比企郡ときがわ町大字玉川４３５５－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字玉川４３５５－１<br>設置場所の目標: 新玉川橋西交差点南側]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字玉川４３５５－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>新玉川橋西交差点南側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二</name>
+        <address>埼玉県比企郡ときがわ町大字玉川４６１５</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字玉川４６１５<br>設置場所の目標: 春日集落センター前]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字玉川４６１５</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>春日集落センター前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二</name>
+        <address>埼玉県比企郡ときがわ町大字玉川４８６９－２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字玉川４８６９－２<br>設置場所の目標: 和田橋北側]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字玉川４８６９－２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>和田橋北側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二</name>
+        <address>埼玉県比企郡ときがわ町大字玉川３１８－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字玉川３１８－１<br>設置場所の目標: 和田橋南側交差点]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字玉川３１８－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>和田橋南側交差点</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二</name>
+        <address>埼玉県比企郡ときがわ町大字玉川８８２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字玉川８８２<br>設置場所の目標: 埼玉県比企郡ときがわ町玉川運動場西側]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字玉川８８２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>埼玉県比企郡ときがわ町玉川運動場西側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二</name>
+        <address>埼玉県比企郡ときがわ町大字田黒１６１－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字田黒１６１－１<br>設置場所の目標: (有)小野田材木店西側]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字田黒１６１－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>(有)小野田材木店西側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二</name>
+        <address>埼玉県比企郡ときがわ町大字田黒５２４－２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字田黒５２４－２<br>設置場所の目標: 個人宅前]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字田黒５２４－２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第二</name>
+        <address>埼玉県比企郡ときがわ町大字田黒４３８－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 8<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字田黒４３８－１<br>設置場所の目標: ふれあいセンター田黒前]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字田黒４３８－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ふれあいセンター田黒前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第三</name>
+        <address>埼玉県比企郡ときがわ町大字五明１１６７－1</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字五明１１６７－1<br>設置場所の目標: 個人宅入口]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字五明１１６７－1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅入口</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第三</name>
+        <address>埼玉県比企郡ときがわ町大字五明１３２４－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字五明１３２４－１<br>設置場所の目標: 個人宅南側]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字五明１３２４－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅南側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第三</name>
+        <address>埼玉県比企郡ときがわ町大字五明７３０－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字五明７３０－１<br>設置場所の目標: みはし（株）玉川配送センター北側]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字五明７３０－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>みはし（株）玉川配送センター北側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第三</name>
+        <address>埼玉県比企郡ときがわ町大字五明１５３４－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字五明１５３４－１<br>設置場所の目標: （社福）よし乃郷西側]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字五明１５３４－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>（社福）よし乃郷西側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第三</name>
+        <address>埼玉県比企郡ときがわ町大字日影１７8－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字日影１７8－１<br>設置場所の目標: 県道日影信号機南東側]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字日影１７8－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>県道日影信号機南東側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第三</name>
+        <address>埼玉県比企郡ときがわ町大字日影５３７－３</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字日影５３７－３<br>設置場所の目標: 日影分館西１５０メートル先左側]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字日影５３７－３</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>日影分館西１５０メートル先左側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第三</name>
+        <address>埼玉県比企郡ときがわ町大字日影４３５－２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字日影４３５－２<br>設置場所の目標: 小北林道　頂上三叉路]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字日影４３５－２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>小北林道　頂上三叉路</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第三</name>
+        <address>埼玉県比企郡ときがわ町大字日影８９０－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 8<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字日影８９０－１<br>設置場所の目標: 東光寺入口道路へ進行右側畑]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字日影８９０－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東光寺入口道路へ進行右側畑</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第四</name>
+        <address>埼玉県比企郡ときがわ町大字番匠３４８－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字番匠３４８－１<br>設置場所の目標: 個人宅裏]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字番匠３４８－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅裏</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第四</name>
+        <address>埼玉県比企郡ときがわ町大字番匠２３５-1</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字番匠２３５-1<br>設置場所の目標: 個人宅西側]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字番匠２３５-1</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅西側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第四</name>
+        <address>埼玉県比企郡ときがわ町大字番匠７６６－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字番匠７６６－１<br>設置場所の目標: 個人宅裏]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字番匠７６６－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅裏</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第四</name>
+        <address>埼玉県比企郡ときがわ町大字番匠４７６-１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字番匠４７６-１<br>設置場所の目標: 明覚駅前]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字番匠４７６-１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>明覚駅前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第四</name>
+        <address>埼玉県比企郡ときがわ町大字番匠６２８－４</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字番匠６２８－４<br>設置場所の目標: 個人宅前]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字番匠６２８－４</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第四</name>
+        <address>埼玉県比企郡ときがわ町大字番匠７２３－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字番匠７２３－１<br>設置場所の目標: 番匠第２踏切脇]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字番匠７２３－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>番匠第２踏切脇</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第四</name>
+        <address>埼玉県比企郡ときがわ町大字番匠８２４－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字番匠８２４－１<br>設置場所の目標: 子育地蔵前]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字番匠８２４－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>子育地蔵前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第五</name>
+        <address>埼玉県比企郡ときがわ町大字馬場３２７－３</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字馬場３２７－３<br>設置場所の目標: 旧寿し和越生寄り左側]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字馬場３２７－３</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>旧寿し和越生寄り左側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第五</name>
+        <address>埼玉県比企郡ときがわ町大字本郷５７－２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字本郷５７－２<br>設置場所の目標: 個人宅入口]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字本郷５７－２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅入口</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第五</name>
+        <address>埼玉県比企郡ときがわ町大字本郷８９４－２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字本郷８９４－２<br>設置場所の目標: 本田橋交差点西側別所入口]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字本郷８９４－２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>本田橋交差点西側別所入口</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第五</name>
+        <address>埼玉県比企郡ときがわ町大字別所２７８－２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字別所２７８－２<br>設置場所の目標: 別所バス停付近]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字別所２７８－２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>別所バス停付近</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第五</name>
+        <address>埼玉県比企郡ときがわ町大字桃木３２５－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字桃木３２５－１<br>設置場所の目標: 八幡神社鳥居前]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字桃木３２５－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>八幡神社鳥居前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第五</name>
+        <address>埼玉県比企郡ときがわ町大字桃木３２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字桃木３２<br>設置場所の目標: 役場第２庁舎西側　田中交差点付近]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字桃木３２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>役場第２庁舎西側　田中交差点付近</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第五</name>
+        <address>埼玉県比企郡ときがわ町大字桃木３２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字桃木３２<br>設置場所の目標: 都幾川公民館北側]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字桃木３２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>都幾川公民館北側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第五</name>
+        <address>埼玉県比企郡ときがわ町大字関堀２７１－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 8<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字関堀２７１－１<br>設置場所の目標: 個人宅西側]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字関堀２７１－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅西側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第六</name>
+        <address>埼玉県比企郡ときがわ町大字瀬戸元上３０８－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字瀬戸元上３０８－１<br>設置場所の目標: 個人宅前]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字瀬戸元上３０８－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第六</name>
+        <address>埼玉県比企郡ときがわ町大字瀬戸元上２４１－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字瀬戸元上２４１－１<br>設置場所の目標: 旧正木屋酒店北側信号機付近]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字瀬戸元上２４１－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>旧正木屋酒店北側信号機付近</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第六</name>
+        <address>埼玉県比企郡ときがわ町大字瀬戸元下１５８－５</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字瀬戸元下１５８－５<br>設置場所の目標: 瀬戸団地入口]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字瀬戸元下１５８－５</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>瀬戸団地入口</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第六</name>
+        <address>埼玉県比企郡ときがわ町大字瀬戸元下１１５</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字瀬戸元下１１５<br>設置場所の目標: 個人宅脇]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字瀬戸元下１１５</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅脇</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第六</name>
+        <address>埼玉県比企郡ときがわ町大字大附２４８－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字大附２４８－１<br>設置場所の目標: 長谷川金型製作所手前]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字大附２４８－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>長谷川金型製作所手前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第六</name>
+        <address>埼玉県比企郡ときがわ町大字大附４２３－２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字大附４２３－２<br>設置場所の目標: 大附そば道場入口バス停前]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字大附４２３－２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大附そば道場入口バス停前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第七</name>
+        <address>埼玉県比企郡ときがわ町大字西平７５７－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字西平７５７－１<br>設置場所の目標: とき庵西側]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字西平７５７－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>とき庵西側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第七</name>
+        <address>埼玉県比企郡ときがわ町大字西平１８３８</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字西平１８３８<br>設置場所の目標: 西川原バス停脇]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字西平１８３８</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西川原バス停脇</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第七</name>
+        <address>埼玉県比企郡ときがわ町大字西平８１－４</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字西平８１－４<br>設置場所の目標: 関根バス停前]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字西平８１－４</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>関根バス停前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第七</name>
+        <address>埼玉県比企郡ときがわ町大字雲河原３８７－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字雲河原３８７－１<br>設置場所の目標: 雲河原コミュニティセンター入口]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字雲河原３８７－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>雲河原コミュニティセンター入口</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第七</name>
+        <address>埼玉県比企郡ときがわ町大字大野２０９１－１４</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字大野２０９１－１４<br>設置場所の目標: 個人宅前]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字大野２０９１－１４</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第七</name>
+        <address>埼玉県比企郡ときがわ町大字大野１５９－２</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字大野１５９－２<br>設置場所の目標: 個人宅先左側]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字大野１５９－２</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>個人宅先左側</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第七</name>
+        <address>埼玉県比企郡ときがわ町大字大野２２９－１</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字大野２２９－１<br>設置場所の目標: 旧大椚支所前]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字大野２２９－１</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>旧大椚支所前</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第七</name>
+        <address>埼玉県比企郡ときがわ町大字椚平２－９</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 8<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字椚平２－９<br>設置場所の目標: 椚平入口バス停]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字椚平２－９</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>椚平入口バス停</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>第七</name>
+        <address>埼玉県比企郡ときがわ町大字椚平１２５-７</address>
+        <description><![CDATA[unnamed (1): <br>設置  番号: 9<br>ポスター掲示場の設置場所: 埼玉県比企郡ときがわ町大字椚平１２５-７<br>設置場所の目標: 椚平バス停]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="設置  番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡ときがわ町大字椚平１２５-７</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>椚平バス停</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

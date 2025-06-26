@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>滑川町選挙ポスター掲示場設置場所一覧</name>
+    <description/>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ポスター掲示場.csv</name>
+      <Placemark>
+        <name>滑川町役場入口</name>
+        <description><![CDATA[投票区: 第一投票所<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字福田７５０−６]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字福田７５０−６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3599827,36.0660439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かねや食堂北西Ｔ字路</name>
+        <description><![CDATA[投票区: 第一投票所<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字福田４６７６]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字福田４６７６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.347192,36.0774439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下福田ふれあい広場（成安寺前）</name>
+        <description><![CDATA[投票区: 第一投票所<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字福田１１９９−１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字福田１１９９−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3571947,36.0762729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狭さくブロック設置Ｔ字路(ガ−ドフェンス)</name>
+        <description><![CDATA[投票区: 第一投票所<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字福田１５０１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字福田１５０１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3584011,36.0779495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北（道路分）</name>
+        <description><![CDATA[投票区: 第一投票所<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字山田１８２８−１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字山田１８２８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3672778,36.068846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北（道路分）</name>
+        <description><![CDATA[投票区: 第一投票所<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字山田１４６４]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字山田１４６４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3705488,36.0721814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊古田尻橋南（ガ−ドフェンス）</name>
+        <description><![CDATA[投票区: 第一投票所<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字伊古７０５−１　]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字伊古７０５−１　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3402685,36.0781461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊古集会所前</name>
+        <description><![CDATA[投票区: 第一投票所<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字伊古５８６−１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字伊古５８６−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3431505,36.0752856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堀口商店南（ガ−ドフェンス）</name>
+        <description><![CDATA[投票区: 第二投票所<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字福田３７０２−５]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字福田３７０２−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3517491,36.096319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福田歩道橋</name>
+        <description><![CDATA[投票区: 第二投票所<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字福田２７１７−８]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字福田２７１７−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3618315,36.0867346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石川美容室南（谷津の里入口Ｔ字路）</name>
+        <description><![CDATA[投票区: 第二投票所<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字福田２０６７−５]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字福田２０６７−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3538278,36.0847426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東</name>
+        <description><![CDATA[投票区: 第二投票所<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字山田４４６−２]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字山田４４６−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3773624,36.0883479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山田交差点西</name>
+        <description><![CDATA[投票区: 第二投票所<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字山田８１３−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字山田８１３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3744461,36.0853702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>カトレア美容室前（道路分）</name>
+        <description><![CDATA[投票区: 第二投票所<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字土塩４１６]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字土塩４１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3626121,36.0985957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ごみ集積所</name>
+        <description><![CDATA[投票区: 第二投票所<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字土塩１０３７−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字土塩１０３７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3701411,36.0970981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前（道路分）</name>
+        <description><![CDATA[投票区: 第二投票所<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字和泉９１−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字和泉９１−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3387983,36.082229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南（道路分）</name>
+        <description><![CDATA[投票区: 第二投票所<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字和泉９７０−１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字和泉９７０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3292322,36.0853905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中尾駒形十字路（ガードフェンス）</name>
+        <description><![CDATA[投票区: 第三投票所<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字中尾８８５−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字中尾８８５−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3498338,36.0673314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中尾集会所</name>
+        <description><![CDATA[投票区: 第三投票所<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字中尾４８３−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字中尾４８３−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3531584,36.0648055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽尾打越・金光地集会所</name>
+        <description><![CDATA[投票区: 第三投票所<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字羽尾５１８９−３]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字羽尾５１８９−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3786381,36.0536913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>農協直売所前</name>
+        <description><![CDATA[投票区: 第三投票所<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字羽尾１３４８−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字羽尾１３４８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3704561,36.0576555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽尾表集会所西（ガ−ドレ−ル）</name>
+        <description><![CDATA[投票区: 第三投票所<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字羽尾１４６０−２]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字羽尾１４６０−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3634505,36.052307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小久保建設北側（ポケットパーク）</name>
+        <description><![CDATA[投票区: 第三投票所<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字羽尾１７４７−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字羽尾１７４７−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3558917,36.0533146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元消防２分団第１部車庫脇</name>
+        <description><![CDATA[投票区: 第三投票所<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字羽尾４８６０−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字羽尾４８６０−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3563501,36.0591291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コミュニティセンタ−内（社務所前庭）</name>
+        <description><![CDATA[投票区: 第三投票所<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字羽尾４９７２−１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字羽尾４９７２−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3611747,36.0642798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水房集会所先植栽（道路分）</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字水房１０４−８]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字水房１０４−８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3425416,36.0545069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フジミ工研西（道路分）</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字月輪１５７６−２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字月輪１５７６−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3548893,36.0429633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>月輪中央集会所入口　</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字月輪４１８]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字月輪４１８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3528746,36.0489321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北（防火貯水槽脇）</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字月輪２７７−２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字月輪２７７−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3567466,36.0480806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字月輪１０１−３]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字月輪１０１−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.361527,36.046846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>消防２分団第２部車庫脇</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字月輪１５２２−５８]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字月輪１５２２−５８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.35441,36.0459527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フランサ公園</name>
+        <description><![CDATA[投票区: 第四投票所<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町月の輪２−９−５]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町月の輪２−９−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3478212,36.0431316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字月輪９８４−１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字月輪９８４−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3319174,36.0433681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東（道路分）</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字月輪１００７−４]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字月輪１００７−４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3303269,36.0425428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六軒集会所（ガードフェンス）</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町月の輪５−２０−３]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町月の輪５−２０−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3349166,36.0428771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>児童公園（防火水槽脇）旧六軒集会所側</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字月輪１０２９−１０４]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字月輪１０２９−１０４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3338085,36.0424534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>げんき公園</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町月の輪５−１０−７]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町月の輪５−１０−７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3372369,36.0421409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヘア−サロンユミ西（駐車場）</name>
+        <description><![CDATA[投票区: 第五投票所<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字月輪９４８−１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字月輪９４８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.335981,36.0457688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営住宅前</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字都１０−１１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字都１０−１１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3717178,36.0422948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>森林公園駅南口広場</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町みなみ野２−２]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町みなみ野２−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3740811,36.044545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神楽南側（防火貯水槽用地）</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町みなみ野４−６−１３]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町みなみ野４−６−１３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3790686,36.0422284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>森林公園駅北口広場</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字羽尾３８８０−２]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字羽尾３８８０−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3747047,36.0461264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西（ガ−ドフェンス）</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字羽尾５３５−３]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字羽尾５３５−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3675792,36.0478877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>羽尾一区集会所前</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字羽尾１０９８−１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字羽尾１０９８−１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3734768,36.0487651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>スカイタウン飯塚西側（道路分）</name>
+        <description><![CDATA[投票区: 第六投票所<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町大字羽尾１９７−２]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町大字羽尾１９７−２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3790783,36.0489219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つきのわ駅北口広場　</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町月の輪４−２３]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町月の輪４−２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.344983,36.0437452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つきのわ駅南口広場　</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町月の輪１−３４]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町月の輪１−３４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3456134,36.0428887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中丸集会所南</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町月の輪６−２−５]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町月の輪６−２−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3432796,36.0450458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>なかまる公園</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町月の輪３−１５]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町月の輪３−１５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3470672,36.0451701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>つきのわ公園</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町月の輪６−１８−１３]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町月の輪６−１８−１３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3399322,36.0462427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ひだまり公園</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町月の輪１−１２−５]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町月の輪１−１２−５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3426177,36.041376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>月の輪小学校校庭南</name>
+        <description><![CDATA[投票区: 第七投票所<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県比企郡滑川町月の輪６−１５−３]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票所</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県比企郡滑川町月の輪６−１５−３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3399701,36.0438846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

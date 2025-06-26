@@ -1,0 +1,5991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>新座市ポスター掲示場設置場所一覧</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>niizamap.csv</name>
+      <Placemark>
+        <name>新座駅南口公園</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目２番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5578039,35.8027377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家ブロック塀</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目３番３１号]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目３番３１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5575919,35.806152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新座駅北口土地区画整理事務所ガードレール</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目４番３４号]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目４番３４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5584222,35.8040658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新座マレットゴルフ場北寄り</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目１１番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目１１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5585874,35.8081371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止五丁目第４ポケットパーク南側植え込み</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目１５番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目１５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5617695,35.8071602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈱髙藤園駐車場フェンス</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目３番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5556331,35.8044796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止上北ふれあい公園植え込み</name>
+        <description><![CDATA[投票区: 第1投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目３３番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第1投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目３３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5597329,35.8089682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家隣畑</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市野火止三丁目４番１２号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止三丁目４番１２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5554647,35.7930054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新座野火止宿舎前畑</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市野火止三丁目６番]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止三丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5590559,35.7967627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家ブロック塀</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市野火止三丁目１３番３号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止三丁目１３番３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5515897,35.7927093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止小学校正門横フェンス</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市野火止四丁目９番１号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止四丁目９番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5575608,35.801011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止四丁目集会所フェンス</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市野火止四丁目１９番６号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止四丁目１９番６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5550969,35.8026881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前フェンス</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市菅沢一丁目１番２号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市菅沢一丁目１番２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5551287,35.7969797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>十文字学園女子大学駐車場側フェンス</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市菅沢二丁目１番２８号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市菅沢二丁目１番２８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5515091,35.7986505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止小学校志木街道側フェンス</name>
+        <description><![CDATA[投票区: 第2投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県新座市野火止四丁目９番１号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第2投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止四丁目９番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5577808,35.8002931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>セブンイレブン横畑</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市堀ノ内二丁目９番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市堀ノ内二丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5578344,35.7707133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>殿山運動場フェンス</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市堀ノ内三丁目４番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市堀ノ内三丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5586304,35.7754338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新座病院横畑</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市堀ノ内三丁目１３番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市堀ノ内三丁目１３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5551036,35.7729652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第六中学校北側フェンス</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市堀ノ内三丁目１１番１号]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市堀ノ内三丁目１１番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5558374,35.776946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神小学校馬喰橋通り側フェンス</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市石神一丁目１０番２０号]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市石神一丁目１０番２０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5522089,35.7746504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北原第三児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市石神五丁目２番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市石神五丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5501195,35.7734684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家の駐車場</name>
+        <description><![CDATA[投票区: 第3投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市石神五丁目２番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第3投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市石神五丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5488159,35.7728634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家裏側ブロック塀</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市馬場一丁目６番１８号]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市馬場一丁目６番１８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5712151,35.7832696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代田橋前畑</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市畑中二丁目１４番]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中二丁目１４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5783893,35.7851019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬場第一公園フェンス</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市馬場二丁目１２番]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市馬場二丁目１２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5755395,35.7835826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畑中ふれあい遊園フェンス</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市畑中一丁目１４番]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中一丁目１４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5745732,35.7882443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畑中公民館前植え込み</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市畑中一丁目１５番５８号]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中一丁目１５番５８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5728878,35.7850584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>調整池西側フェンス（第１）</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市馬場二丁目９番]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市馬場二丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5765433,35.7830275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬場第二公園植え込み</name>
+        <description><![CDATA[投票区: 第4投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市馬場二丁目５番]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第4投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市馬場二丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5767455,35.7814605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>片山小学校東側フェンス</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市片山一丁目８番３１号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市片山一丁目８番３１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5674259,35.7706653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>紳士服コナカ駐車場隣植え込み</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市片山一丁目２０番]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市片山一丁目２０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5649957,35.7698234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大蔵児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市野寺二丁目３番]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺二丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5627932,35.7675303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道場一丁目児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市道場一丁目４番]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市道場一丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5671039,35.7733184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑マンション寄り</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市堀ノ内一丁目５番]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市堀ノ内一丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5654468,35.7754213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈲吉田ピー・オー・サプライフェンス</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市堀ノ内一丁目９番２０号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市堀ノ内一丁目９番２０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5612338,35.7771636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央公民館フェンス</name>
+        <description><![CDATA[投票区: 第5投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市道場二丁目１４番１２号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第5投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市道場二丁目１４番１２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5620528,35.7696409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原公園東側</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市栗原六丁目５番１４号]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原六丁目５番１４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5486074,35.7581511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原五丁目自転車駐車場フェンス</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市栗原五丁目１１番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原五丁目１１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5476768,35.7542369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>一本松児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市栗原五丁目９番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原五丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5466736,35.7567329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原緑地公園南側植え込み</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市栗原六丁目２番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原六丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5479129,35.7586657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家フェンス</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市栗原六丁目５番３号]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原六丁目５番３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5477763,35.7582664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原六丁目集会所前植え込み</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市栗原六丁目５番２２号]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原六丁目５番２２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5483493,35.7577054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ウエストヒルズ隣畑</name>
+        <description><![CDATA[投票区: 第6投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市栗原六丁目１１番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第6投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原六丁目１１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5455829,35.7577639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家横畑ブロックフェンス</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市東北一丁目６番６号]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東北一丁目６番６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.570685,35.8187503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三軒屋公園・公園前自転車駐車場側フェンス</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市東北二丁目２８番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東北二丁目２８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.572423,35.8202462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ウイステリア前畑</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市東北二丁目２番３１号]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東北二丁目２番３１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5706372,35.8160464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市東北二丁目１１番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東北二丁目１１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5731943,35.816837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士塚公園フェンス</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市東北二丁目２５番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東北二丁目２５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.573976,35.8194976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三軒屋公園フェンス</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市東北二丁目２８番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東北二丁目２８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5721601,35.820555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北公園フェンス</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市東北二丁目４番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東北二丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5715294,35.8171214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東武鉄道㈱所有地フェンス</name>
+        <description><![CDATA[投票区: 第7投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県新座市東北二丁目３８番１５号]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第7投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東北二丁目３８番１５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5759783,35.8221387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄公民館前畑</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市栄三丁目３番]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄三丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5822693,35.7781361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>福祉の里駐車場植え込み</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市新塚一丁目４番５号]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新塚一丁目４番５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5828593,35.7781211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄三丁目第二児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市栄三丁目８番]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄三丁目８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5800174,35.7754287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄四丁目商店会駐輪駐車場フェンス</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市栄四丁目２番]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄四丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5864162,35.7755397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四条児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市栄四丁目６番１７号]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄四丁目６番１７号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5841208,35.7752814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家ブロック塀</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市栄四丁目８番１９号]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄四丁目８番１９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5834923,35.7766483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄小学校入口フェンス</name>
+        <description><![CDATA[投票区: 第8投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市新塚一丁目１番１号]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第8投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新塚一丁目１番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5884476,35.7781581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側ブロック塀</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市西堀二丁目１０番３号]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市西堀二丁目１０番３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5391368,35.7730434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(有)新清前</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市西堀二丁目１０番１２号]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市西堀二丁目１０番１２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5381484,35.7719193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西堀二丁目児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市西堀二丁目１０番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市西堀二丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5366465,35.7738305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（仮称）新堀一丁目集会所建設予定地</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市新堀一丁目５番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀一丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5351723,35.7724714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西堀･新堀コミュニティセンターフェンス</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市新堀一丁目５番９号]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀一丁目５番９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5360355,35.7720217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新座市緑地保護区内林</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市新堀一丁目１１番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀一丁目１１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5325809,35.772816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家ブロック塀</name>
+        <description><![CDATA[投票区: 第9投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市新堀一丁目１４番４１号]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第9投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀一丁目１４番４１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52982,35.7719626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「貝沼」前フェンス</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市野寺一丁目１番１１号]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺一丁目１番１１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5585074,35.7672283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野寺公園北側フェンス</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市野寺一丁目８番]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺一丁目８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5546376,35.7658024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野寺集会所フェンス</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市野寺二丁目５番２５号]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺二丁目５番２５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.559388,35.7657443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八石小学校正門横フェンス</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市野寺二丁目８番４５号]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺二丁目８番４５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5568409,35.7657579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八石小学校体育館側入口フェンス</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市野寺二丁目８番４５号]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺二丁目８番４５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5580747,35.76534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家斜め向い畑</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市野寺二丁目１６番]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺二丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5561766,35.764304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第10投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市野寺二丁目１７番]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第10投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺二丁目１７番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5552591,35.762842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北野第二公園フェンス</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市北野二丁目９番　]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市北野二丁目９番　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5618249,35.8154335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北野ふれあいの家駐車場植え込み</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市北野二丁目１５番３２号]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市北野二丁目１５番３２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5637106,35.8172501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家フェンス</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市北野二丁目１７番２号]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市北野二丁目１７番２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5642064,35.8158975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東北小学校正門横フェンス</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市北野三丁目１番１号]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市北野三丁目１番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5683139,35.8164766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北野三丁目憩いの森植え込み</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市北野三丁目８番]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市北野三丁目８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5685236,35.8203112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ミアヘルサオアシス新座フェンス</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市北野三丁目１８番２４号]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市北野三丁目１８番２４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5651859,35.8189159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北野中央公園フェンス</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市北野二丁目１２番]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市北野二丁目１２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5620588,35.8172913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北野保育園フェンス</name>
+        <description><![CDATA[投票区: 第11投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県新座市北野二丁目９番１５号]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第11投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市北野二丁目９番１５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5627427,35.8161651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新座市役所バス停留所脇植樹帯</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市野火止一丁目１番１号]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止一丁目１番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5649935,35.793845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民会館駐車場植え込み</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市野火止一丁目１番２号]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止一丁目１番２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5664849,35.7925288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止ふれあい公園植え込み</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市野火止一丁目１４番]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止一丁目１４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5685122,35.7924421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ひるねの森駐車場フェンス</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市野火止一丁目２０番]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止一丁目２０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.56163,35.7884213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家隣畑</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市野火止二丁目１番１３号]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止二丁目１番１３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5669092,35.7871034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中原・本多集会所入口フェンス</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市野火止二丁目７番１１号]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止二丁目７番１１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5592257,35.7881787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家斜め前畑</name>
+        <description><![CDATA[投票区: 第12投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市畑中一丁目７番３２号]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第12投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中一丁目７番３２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5731702,35.793448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「団地南」フェンス</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市新座三丁目１番９号棟横]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座三丁目１番９号棟横</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.555374,35.8184055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>２-９号棟入口前フェンス</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市新座三丁目２番９号棟横]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座三丁目２番９号棟横</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5581743,35.819082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新座三丁目２番１２号との通路植え込み</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市新座三丁目２番１１号棟横]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座三丁目２番１１号棟横</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5565926,35.8197916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新座小学校正門横フェンス</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市新座三丁目４番１号]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座三丁目４番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5546745,35.8199132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央公園入口横（幼稚園側）</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市新座三丁目５番]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座三丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5560709,35.8213172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三角公園フェンス</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市新座三丁目５番６号棟横]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座三丁目５番６号棟横</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5561798,35.8225144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>６−１号棟入口横駐車場前</name>
+        <description><![CDATA[投票区: 第13投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市新座三丁目６番１号棟]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第13投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座三丁目６番１号棟</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5571657,35.8239927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士見ケ丘児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市新座一丁目２番]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座一丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5587519,35.8182871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新座一丁目第１ポケットパークフェンス</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市新座一丁目５番]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座一丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5593645,35.8181766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山本第１駐車場西側フェンス</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市新座二丁目８番１号先]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座二丁目８番１号先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5597149,35.8198701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>プレイロットフェンス</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市新座二丁目１８番１６号棟横]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座二丁目１８番１６号棟横</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5581105,35.8239816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新座ふれあいの家植え込み</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市新座二丁目１４番６１号]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座二丁目１４番６１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5593259,35.8213783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丸十ベーカリー前フェンス</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市新座三丁目３番６号棟横]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座三丁目３番６号棟横</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5583512,35.8204361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>テスコエクスプレス新座店裏植え込み</name>
+        <description><![CDATA[投票区: 第14投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市新座三丁目３番１９号]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第14投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新座三丁目３番１９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5577047,35.8216567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家隣駐車場フェンス</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市栄二丁目９番１８号]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄二丁目９番１８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5757906,35.7724558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄五丁目児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市栄五丁目２番]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄五丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5813294,35.7735253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家宅植え込み</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市栄五丁目２番３９号]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄五丁目２番３９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5831613,35.7741214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄二丁目ふれあい公園フェンス</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市栄二丁目９番地]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄二丁目９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5769331,35.7728525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家宅裏側畑（樹木）</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市池田三丁目４番]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市池田三丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5732671,35.7710836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>池田小学校南側入口手前畑</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市池田四丁目３１８６番地１]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市池田四丁目３１８６番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5759216,35.7705799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家フェンス</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市池田五丁目２番２１号]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市池田五丁目２番２１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5767483,35.7688743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>池田三丁目児童遊園</name>
+        <description><![CDATA[投票区: 第15投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県新座市池田三丁目３番地]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第15投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市池田三丁目３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5738183,35.7725039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神三丁目緑地フェンス</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市石神三丁目１２番]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市石神三丁目１２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.548959,35.7664462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神二丁目第二児童遊園入口横北側</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市石神二丁目１０番]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市石神二丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5559368,35.7685724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家ブロック塀</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市石神二丁目１２番４０号]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市石神二丁目１２番４０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5538126,35.7683896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神第一児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市石神四丁目５番]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市石神四丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5506846,35.7682177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家入口横フェンス</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市石神四丁目２番３号]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市石神四丁目２番３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5532402,35.7708521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>石神四丁目第４ミニパーク横フェンス</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市石神四丁目１２番]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市石神四丁目１２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5507436,35.7705992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島村商店前栗畑</name>
+        <description><![CDATA[投票区: 第16投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市石神三丁目１６番]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第16投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市石神三丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5478932,35.7666325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野寺三丁目児童遊園</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市野寺三丁目８−１７番地先]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺三丁目８−１７番地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5606615,35.7635868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野寺小学校校庭道路横フェンス</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市野寺五丁目１番２４号]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺五丁目１番２４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5561975,35.7592756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第五中学校体育館東側フェンス</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市野寺四丁目８番１号]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺四丁目８番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5613844,35.7629198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第五中学校体育館北側フェンス（武野通り側）</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市野寺四丁目８番１号]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺四丁目８番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5607648,35.7629416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>片山浄水場入口フェンス</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市野寺四丁目１０番６号]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺四丁目１０番６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5600962,35.7599932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野寺小学校正門横フェンス</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市野寺五丁目１番２４号]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺五丁目１番２４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5565247,35.7601549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野寺四丁目児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第17投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市野寺四丁目１１番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第17投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野寺四丁目１１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5584567,35.761031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>niizamap2.csv</name>
+      <Placemark>
+        <name>野火止六丁目１１番１９号先畑</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市野火止六丁目１１番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止六丁目１１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5658099,35.8066182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>郵政宿舎向かい植え込み</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市野火止六丁目１９番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止六丁目１９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5663713,35.8100586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東野緑地西側植え込み中央</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市野火止六丁目２２番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止六丁目２２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5673481,35.8088343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第二中学校校庭道路側フェンス</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市野火止七丁目１７番１０番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止七丁目１７番１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5698968,35.8064296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東野小学校西門フェンス</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市野火止六丁目２２番１２号]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止六丁目２２番１２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5667083,35.8078498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止浄水場フェンス</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市野火止七丁目１９番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止七丁目１９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5705055,35.8081607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止六丁目第６ポケットパークフェンス</name>
+        <description><![CDATA[投票区: 第18投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市野火止六丁目１６番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第18投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止六丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5639013,35.8062005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営新座野火止南団地２号棟前</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市野火止三丁目１６番５２号]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止三丁目１６番５２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5508355,35.7891048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>総合運動公園入口駐輪場側植え込み</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市本多二丁目８番１６号]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市本多二丁目８番１６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5500642,35.7868486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西堀浄水場高架水槽側フェンス</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市本多一丁目４番２６号]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市本多一丁目４番２６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5560921,35.7796496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「本多一丁目」前畑</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市本多一丁目３番]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市本多一丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5581885,35.7812043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家宅横畑</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市本多一丁目６番５号]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市本多一丁目６番５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5531277,35.7776988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「西屋敷」植え込み</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市本多一丁目１０番]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市本多一丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5538091,35.7819492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市民総合体育館駐車場フェンス</name>
+        <description><![CDATA[投票区: 第19投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市本多二丁目１番２０号]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第19投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市本多二丁目１番２０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5536907,35.7861111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>菅沢一丁目児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市菅沢一丁目８番]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市菅沢一丁目８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5469097,35.7940611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あたご緑地（あたご三丁目２番先）</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市あたご三丁目２番]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市あたご三丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5430814,35.7946309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あたご緑地（あたご三丁目１番先）</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市あたご三丁目１番]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市あたご三丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5425361,35.7953117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あたご第二児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市あたご三丁目１１番]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市あたご三丁目１１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5418825,35.7905404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あたご児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市あたご三丁目１３番]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市あたご三丁目１３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5398627,35.7926947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）ヤブウチ商会物置隣畑</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市菅沢一丁目８番]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市菅沢一丁目８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5478968,35.7932779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あたご緑地（あたご三丁目３番先）</name>
+        <description><![CDATA[投票区: 第20投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市あたご三丁目３番]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第20投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市あたご三丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5438575,35.7936116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家横ぶどう園空地</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市片山二丁目２番１８号]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市片山二丁目２番１８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5707722,35.7682114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>エトワール片山Ａフェンス</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市片山三丁目８番２２号]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市片山三丁目８番２２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5689352,35.7646813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>片山集会所横空地</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市片山二丁目１２番]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市片山二丁目１２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5658938,35.7665289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サングリーンタケシノ前畑フェンス</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市片山三丁目１３番]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市片山三丁目１３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5652198,35.7649177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家横畑</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市片山三丁目６番]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市片山三丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5700442,35.7668584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新座ローンテニスクラブ横植木畑</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市片山三丁目７番]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市片山三丁目７番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5684683,35.7668082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サミットストア新座片山店駐車場フェンス</name>
+        <description><![CDATA[投票区: 第21投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市片山三丁目１０番５０号]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第21投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市片山三丁目１０番５０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5670555,35.7641013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家ブロック塀</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市大和田一丁目１４番５号]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市大和田一丁目１４番５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5536557,35.808573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新開小学校東門フェンス</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市大和田一丁目２２番１０号]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市大和田一丁目２２番１０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5565195,35.8112611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和田公民館フェンス</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市大和田一丁目２６番１６号]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市大和田一丁目２６番１６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5544578,35.8123799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家ブロック塀</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市大和田四丁目７番５号]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市大和田四丁目７番５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5510742,35.8110107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東武バスウエスト　新座営業事務所フェンス</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市大和田四丁目１５番６号]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市大和田四丁目１５番６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.554966,35.8147973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>カインズ新座店舗前砂利駐車場</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市大和田三丁目２番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市大和田三丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5468543,35.806236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大和田集会所フェンス</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市大和田五丁目１２番２５号]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市大和田五丁目１２番２５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5598244,35.8144271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東裏公園フェンス</name>
+        <description><![CDATA[投票区: 第22投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県新座市大和田一丁目２３番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第22投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市大和田一丁目２３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5540323,35.8103618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原小学校北側フェンス</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市栗原一丁目５番１号]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原一丁目５番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5516082,35.7632612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側竹林</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市栗原一丁目１，０９４番地]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原一丁目１，０９４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5500194,35.765163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原小学校正門東側フェンス</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市栗原一丁目５番１号]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原一丁目５番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5509725,35.7637596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原小学校グランド入口フェンス</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市栗原一丁目５番１号]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原一丁目５番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5504361,35.763024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家裏ブロック塀</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市栗原一丁目１３番１５号]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原一丁目１３番１５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5483731,35.7628421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原一丁目児童遊園北側</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市栗原一丁目１６番]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原一丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5497244,35.7636251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原一丁目第２児童遊園北側</name>
+        <description><![CDATA[投票区: 第23投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市栗原一丁目１０番]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第23投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原一丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5485226,35.7646556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新堀三丁目第２ポケットパーク</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市新堀三丁目５番]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀三丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5215722,35.7680846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中島第２ハイツ隣畑</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市新堀三丁目９番]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀三丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5200347,35.7682138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ハイグレイスB横ビニールハウス前</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市新堀三丁目１番３号]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀三丁目１番３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5238639,35.7695051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新堀三丁目集会所フェンス</name>
+        <address>埼玉県新座市新堀三丁目１番１７号</address>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市新堀三丁目１番１７号]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀三丁目１番１７号</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>民家宅前畑</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市新堀三丁目１０番２６号]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀三丁目１０番２６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5213527,35.7686627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ジーエスパーク清瀬駐車場向側フェンス</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市新堀三丁目９番]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀三丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5206033,35.7691278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第24投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市新堀三丁目１１番２２号]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第24投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀三丁目１１番２２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5224186,35.7688498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>跡見学園女子大学裏茶畑</name>
+        <description><![CDATA[投票区: 第25投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市中野一丁目１０番]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第25投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市中野一丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5422269,35.8177398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東邦観光バス�蒲ﾗ畑</name>
+        <description><![CDATA[投票区: 第25投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市中野二丁目１３番]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第25投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市中野二丁目１３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5420032,35.81971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前空地</name>
+        <description><![CDATA[投票区: 第25投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市中野二丁目７番?５号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第25投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市中野二丁目７番?５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5464557,35.8155347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>跡見学園女子大学向民家フェンス</name>
+        <description><![CDATA[投票区: 第25投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市中野二丁目１１番２１号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第25投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市中野二丁目１１番２１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5440009,35.8181532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中野集会所前民家ブロック塀</name>
+        <description><![CDATA[投票区: 第25投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市中野一丁目３番１３号]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第25投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市中野一丁目３番１３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5453337,35.814568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家宅ブロック塀</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市畑中三丁目5番17号先]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中三丁目5番17号先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5767796,35.7942571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畑中三丁目第１ポケットパークフェンス</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市畑中三丁目１番]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中三丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5755144,35.7951355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止八丁目第１ポケットパークフェンス</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市野火止八丁目１２番３０号]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止八丁目１２番３０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5740967,35.7974135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ひかわ児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市野火止八丁目４番]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止八丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5721798,35.7967377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前生け垣</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市野火止八丁目１６番２号]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止八丁目１６番２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5714604,35.8001079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止八丁目集会所フェンス</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市野火止八丁目７番２８号]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止八丁目７番２８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5736296,35.7965515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止大門公園フェンス</name>
+        <description><![CDATA[投票区: 第26投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市野火止八丁目１５番]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第26投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止八丁目１５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5691389,35.7996888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東一丁目第３ポケットパークフェンス</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市東一丁目８番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東一丁目８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5682775,35.8102451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神田コーポ横駐車場フェンス</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市東一丁目７番３５号]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東一丁目７番３５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5706883,35.809129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヴェルドミール新座向い畑</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市東二丁目１番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東二丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5689945,35.8116872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上東公園フェンス（北側）</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市東二丁目４番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東二丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5697749,35.812237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仲好荘向い畑</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市東二丁目９番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東二丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5736905,35.8123403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家隣畑</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市東三丁目１番３６号先]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東三丁目１番３６号先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5695782,35.8140548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「東三丁目」植え込み</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市東三丁目４番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東三丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5712469,35.8146206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中東公園フェンス</name>
+        <description><![CDATA[投票区: 第27投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県新座市東三丁目１番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第27投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市東三丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5698754,35.8138389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄集会所入口</name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市栄一丁目２番２４号]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄一丁目２番２４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5765595,35.7763443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>妙音沢特別緑地北側植え込み</name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市栄一丁目９番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄一丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5759071,35.7761818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>妙音沢特別緑地南側植え込み</name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市栄一丁目１０番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄一丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5746425,35.7746822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第三中学校正門横ネットフェンス</name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市池田一丁目１番１号]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市池田一丁目１番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.572659,35.7756999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンシティ佐々木はす向い畑</name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市栄二丁目６番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄二丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5781656,35.7751192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家裏生け垣</name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市栄二丁目１０番１８号]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栄二丁目１０番１８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5750899,35.7730822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県立新座高等学校テニスコート南側フェンス</name>
+        <description><![CDATA[投票区: 第28投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市池田一丁目１番２号]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第28投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市池田一丁目１番２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5728371,35.7743106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原公民館駐車場フェンス</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市栗原三丁目８番３４号]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原三丁目８番３４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5507454,35.7607422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家隣畑</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市栗原四丁目２番]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原四丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5525141,35.758988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武野集会所フェンス</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市栗原三丁目７番７号]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原三丁目７番７号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5519342,35.7596583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原二丁目児童遊園東側フェンス
+</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市栗原二丁目４番]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原二丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5548996,35.7615474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗原公民館前植え込み</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市栗原三丁目８番３４号]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原三丁目８番３４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5505968,35.7613656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅間上児童遊園東側フェンス</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市栗原四丁目３番]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原四丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5533687,35.7565489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅間上児童遊園南側フェンス</name>
+        <description><![CDATA[投票区: 第29投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市栗原四丁目３番]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第29投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市栗原四丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5530469,35.755983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬場三丁目児童遊園地フェンス</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市馬場三丁目３番]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市馬場三丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5736637,35.7805782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家ブロックフェンス</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市馬場三丁目７番１３号]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市馬場三丁目７番１３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5752107,35.7786134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市馬場四丁目４番２４号]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市馬場四丁目４番２４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5680785,35.7796598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(株)アイ企画倉庫斜め前畑</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市馬場四丁目７番３０号]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市馬場四丁目７番３０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5696831,35.7794893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬場四丁目児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市馬場四丁目３番３６号]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市馬場四丁目３番３６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5673597,35.7805366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第四小学校北側フェンス</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市馬場三丁目６番]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市馬場三丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.57652,35.7797003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬場運動場入口西側植え込み</name>
+        <description><![CDATA[投票区: 第30投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市馬場四丁目８番]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第30投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市馬場四丁目８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5687914,35.7770498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東福寺入口脇ブロック塀</name>
+        <description><![CDATA[投票区: 第31投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市畑中二丁目５番２２号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第31投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中二丁目５番２２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5774826,35.7886592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畑中一丁目第４ポケットパークフェンス</name>
+        <description><![CDATA[投票区: 第31投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市畑中一丁目１１番２号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第31投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中一丁目１１番２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5728373,35.7897097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畑中一丁目第５ポケットパークフェンス</name>
+        <description><![CDATA[投票区: 第31投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市畑中一丁目８番４３号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第31投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中一丁目８番４３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5752726,35.7927323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>並利駐車場フェンス</name>
+        <description><![CDATA[投票区: 第31投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市畑中一丁目１３番]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第31投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中一丁目１３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5739619,35.7886413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畑中一丁目第１ポケットパークフェンス</name>
+        <description><![CDATA[投票区: 第31投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市畑中一丁目１０番８号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第31投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中一丁目１０番８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5741961,35.7913386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>畑中黒目川公園</name>
+        <description><![CDATA[投票区: 第31投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市畑中二丁目１７番１９号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第31投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中二丁目１７番１９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5788746,35.7912982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈱並木運輸生垣</name>
+        <address>埼玉県新座市畑中二丁目６番３１号</address>
+        <description><![CDATA[投票区: 第31投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市畑中二丁目６番３１号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第31投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市畑中二丁目６番３１号</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第32投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市新堀二丁目６番２４号]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第32投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀二丁目６番２４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5294385,35.7690982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第32投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市新堀二丁目７番]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第32投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀二丁目７番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5277644,35.7712217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新堀二丁目ミニパーク</name>
+        <description><![CDATA[投票区: 第32投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市新堀二丁目１７番２０号]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第32投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀二丁目１７番２０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.529666,35.770886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新堀二丁目第二児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第32投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市新堀二丁目６番１号]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第32投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀二丁目６番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5297445,35.7702849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新堀ふれあいの家横畑</name>
+        <description><![CDATA[投票区: 第32投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市新堀二丁目７番２９号]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第32投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀二丁目７番２９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5277701,35.7704732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新堀保育園前畑</name>
+        <description><![CDATA[投票区: 第32投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市新堀二丁目１４番]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第32投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀二丁目１４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5263966,35.7703569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新堀二丁目ふれあい公園</name>
+        <description><![CDATA[投票区: 第32投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市新堀二丁目３番１５号]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第32投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市新堀二丁目３番１５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5309959,35.7703821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>グリーンランド児童遊園フェンス</name>
+        <description><![CDATA[投票区: 第33投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目１４番]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第33投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目１４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5607545,35.8080413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止五丁目第２ポケットパークフェンス</name>
+        <description><![CDATA[投票区: 第33投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目１７番２１号]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第33投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目１７番２１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5648027,35.8112703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>かつみ不動産㈱レンタルボックスフェンス</name>
+        <description><![CDATA[投票区: 第33投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目２５番]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第33投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目２５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5613917,35.8124175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営新座野火止北住宅東側フェンス</name>
+        <description><![CDATA[投票区: 第33投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目２９番２６号]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第33投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目２９番２６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5604236,35.8125291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営新座野火止北住宅北側フェンス</name>
+        <description><![CDATA[投票区: 第33投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目２９番２６号]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第33投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目２９番２６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5603002,35.8127684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止五丁目第６ポケットパークフェンス</name>
+        <description><![CDATA[投票区: 第33投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目１８番]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第33投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目１８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5629588,35.8093643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>すぎのこ保育園横クリエール志木駐車場フェンス</name>
+        <description><![CDATA[投票区: 第33投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市野火止五丁目１８番]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第33投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止五丁目１８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5639458,35.8103888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家隣畑</name>
+        <description><![CDATA[投票区: 第34投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市野火止六丁目４番５号]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第34投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止六丁目４番５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5603968,35.8031768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止ふるさと広場南側</name>
+        <description><![CDATA[投票区: 第34投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市野火止六丁目１番４８号]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第34投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止六丁目１番４８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5622633,35.8002565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ほっともっと野火止七丁目店駐車場脇</name>
+        <description><![CDATA[投票区: 第34投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市野火止七丁目９番１１号]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第34投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止七丁目９番１１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5699672,35.8031755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>凸版印刷（株）新座中央通側フェンス</name>
+        <description><![CDATA[投票区: 第34投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市野火止七丁目１０番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第34投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止七丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5700317,35.8038688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止六丁目ふれあい公園東側フェンス</name>
+        <description><![CDATA[投票区: 第34投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市野火止六丁目４番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第34投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止六丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.562218,35.8031415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふるさと新座館第二駐車場通線側フェンス</name>
+        <description><![CDATA[投票区: 第34投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市野火止六丁目１番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第34投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止六丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5626696,35.8013437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>野火止中ふれあい広場集会所側フェンス</name>
+        <description><![CDATA[投票区: 第34投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市野火止七丁目７番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第34投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市野火止七丁目７番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5662859,35.8008518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西堀一丁目児童遊園横畑</name>
+        <description><![CDATA[投票区: 第35投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県新座市西堀一丁目１１番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第35投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市西堀一丁目１１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5447782,35.7758253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑</name>
+        <description><![CDATA[投票区: 第35投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県新座市西堀二丁目２番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第35投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市西堀二丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5436518,35.773884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西堀小学校入口フェンス</name>
+        <description><![CDATA[投票区: 第35投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県新座市西堀二丁目１８番３号]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第35投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市西堀二丁目１８番３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5390112,35.7763879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停「西堀」横芝畑</name>
+        <description><![CDATA[投票区: 第35投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県新座市西堀三丁目３番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第35投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市西堀三丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5435016,35.776204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西堀一丁目ふれあい広場東寄り</name>
+        <description><![CDATA[投票区: 第35投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県新座市西堀一丁目９番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第35投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市西堀一丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5464671,35.7742528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西堀一丁目ふれあい広場西寄り</name>
+        <description><![CDATA[投票区: 第35投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県新座市西堀一丁目９番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第35投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市西堀一丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5441712,35.7733519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アイ・ウォッシュ・パーク西堀駐車場横畑</name>
+        <description><![CDATA[投票区: 第35投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県新座市西堀三丁目３番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第35投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県新座市西堀三丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5447301,35.7768481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

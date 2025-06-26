@@ -1,0 +1,3187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>和光市</name>
+    <description/>
+    <Style id="icon-1899-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-757575-normal">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-757575-highlight">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-757575">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-757575-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-757575-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>無題のレイヤ</name>
+    </Folder>
+    <Folder>
+      <name>和光市</name>
+      <Placemark>
+        <name>　駐車場　フェンス</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　2-23]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　2-23</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6227838,35.7801477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　駐車場　フェンス</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　2-14-57]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　2-14-57</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.620283,35.7806237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　メゾン和光台入口　フェンス</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　2-15-1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　2-15-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6215642,35.782265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　整形外科　フェンス</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　2-15-66]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　2-15-66</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6222367,35.781001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　白子川沿い　植込み</name>
+        <description><![CDATA[投票区: 第１投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　2-21]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　2-21</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6253774,35.7817147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　白子小学校裏門　ブロック塀</name>
+        <description><![CDATA[投票区: 第２投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　3-2-10]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　3-2-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6254049,35.7851042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　白子学童クラブ　フェンス</name>
+        <description><![CDATA[投票区: 第２投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　3-3-40]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　3-3-40</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6261216,35.7848418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　谷中児童遊園地　フェンス</name>
+        <description><![CDATA[投票区: 第２投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 　埼玉県和光市下新倉　3-23]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市下新倉　3-23</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.623787,35.7864321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　畑</name>
+        <description><![CDATA[投票区: 第２投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 　埼玉県和光市下新倉　3-17]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第２投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市下新倉　3-17</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6245011,35.7878271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　桜坂公園</name>
+        <description><![CDATA[投票区: 第３投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 　埼玉県和光市下新倉　2-33]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市下新倉　2-33</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6191752,35.7909455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　朝霞装文社方　フェンス</name>
+        <description><![CDATA[投票区: 第３投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 　埼玉県和光市新倉　3-1-30]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市新倉　3-1-30</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.620845,35.7931098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　柿ノ木坂歩道　フェンス</name>
+        <description><![CDATA[投票区: 第３投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 　埼玉県和光市新倉　2-1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市新倉　2-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6179451,35.7926695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　大正通り　植込み</name>
+        <description><![CDATA[投票区: 第３投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 　埼玉県和光市新倉　2-26-30]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市新倉　2-26-30</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6210456,35.7942948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　新倉坂下バス停脇駐車場　ブロック塀</name>
+        <description><![CDATA[投票区: 第３投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 　埼玉県和光市新倉　3-6-35]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市新倉　3-6-35</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6249492,35.7954263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　坂下公民館入口脇　フェンス</name>
+        <description><![CDATA[投票区: 第３投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　3-4-18]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　3-4-18</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6240933,35.7937671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　天神ヶ谷戸公園</name>
+        <description><![CDATA[投票区: 第３投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 　埼玉県和光市下新倉　4-1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市下新倉　4-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.622193,35.7931951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　チビッコ公園</name>
+        <description><![CDATA[投票区: 第４投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 　埼玉県和光市丸山台　1-3]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市丸山台　1-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.614382,35.7871208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　第三小学校裏門　フェンス</name>
+        <description><![CDATA[投票区: 第４投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 　埼玉県和光市中央　1-1-4]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市中央　1-1-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6117958,35.7854112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　第三小学校正門　フェンス</name>
+        <description><![CDATA[投票区: 第４投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 　埼玉県和光市中央　1-1-4]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市中央　1-1-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6115906,35.7839022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　民家　ブロック塀</name>
+        <description><![CDATA[投票区: 第４投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 　埼玉県和光市本町　12-39]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市本町　12-39</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6103682,35.7870471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　民家　ブロック塀</name>
+        <description><![CDATA[投票区: 第４投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 　埼玉県和光市本町　17-13]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市本町　17-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6076774,35.7846227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　イトーヨーカドー立体駐車場　フェンス</name>
+        <description><![CDATA[投票区: 第４投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 　埼玉県和光市丸山台　1-9-3]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市丸山台　1-9-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6134006,35.7863735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　中央公民館前　植込み</name>
+        <description><![CDATA[投票区: 第４投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 　埼玉県和光市中央　1-7-27]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市中央　1-7-27</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6110468,35.7835677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　南滝河原児童公園</name>
+        <description><![CDATA[投票区: 第５投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　2-24]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　2-24</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6237244,35.7789759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　浩乃湯脇　ブロック塀</name>
+        <description><![CDATA[投票区: 第５投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　1-24-41]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　1-24-41</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6242369,35.7727362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　しらこ南リトルスター保育園駐車場　フェンス</name>
+        <description><![CDATA[投票区: 第５投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　1-25-1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　1-25-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6228066,35.7726795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　牛房コミュニティセンター</name>
+        <description><![CDATA[投票区: 第５投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　2-28-13]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　2-28-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6224108,35.7738542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　本田技術工業（株）白子ビル正門横植込</name>
+        <description><![CDATA[投票区: 第５投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　2-25-3]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第５投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　2-25-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6234605,35.7768377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駅北口バスターミナル　フェンス</name>
+        <description><![CDATA[投票区: 第６投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　1-1]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　1-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6130915,35.7884729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　ブロック塀</name>
+        <description><![CDATA[投票区: 第６投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　1-3-33]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　1-3-33</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6103353,35.7898657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柿ノ木坂湧水公園　フェンス</name>
+        <description><![CDATA[投票区: 第６投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　1-16-34]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　1-16-34</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6149229,35.7919923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　北原小学校体育館前　ブロック塀</name>
+        <description><![CDATA[投票区: 第６投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 　埼玉県和光市新倉　1-5-27]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市新倉　1-5-27</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6065545,35.7919576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　新倉高齢者福祉センター　フェンス</name>
+        <description><![CDATA[投票区: 第６投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 　埼玉県和光市新倉　1-20-39]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市新倉　1-20-39</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6102686,35.7933974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　旧駅北口土地区画整理事務所　フェンス</name>
+        <description><![CDATA[投票区: 第６投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 　埼玉県和光市新倉　1-11-16]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市新倉　1-11-16</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6129111,35.7893001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　和光バーディゴルフクラブ駐車場　フェンス</name>
+        <description><![CDATA[投票区: 第６投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　1-3]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　1-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6091627,35.7910733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　上谷津公園　フェンス</name>
+        <description><![CDATA[投票区: 第６投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 　埼玉県和光市新倉　1-28]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市新倉　1-28</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6137401,35.7955416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　和光市駅北口立体自転車駐車場前</name>
+        <description><![CDATA[投票区: 第６投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 　埼玉県和光市新倉　1-10-78]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市新倉　1-10-78</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6127141,35.7899276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　広沢原児童公園　フェンス</name>
+        <description><![CDATA[投票区: 第７投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市広沢　1-1]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市広沢　1-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6091838,35.7827751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　第二中学校正面入口脇　ブロック塀</name>
+        <description><![CDATA[投票区: 第７投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 　埼玉県和光市広沢　1-4]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市広沢　1-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.608733,35.7817064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　西大和団地１−２横　フェンス</name>
+        <description><![CDATA[投票区: 第７投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 　埼玉県和光市西大和団地1街区]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市西大和団地1街区</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6084311,35.7799985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　西大和団地バス停付近</name>
+        <description><![CDATA[投票区: 第７投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 　埼玉県和光市西大和団地4街区]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市西大和団地4街区</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6069344,35.779052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　広沢小学校給食室裏　フェンス</name>
+        <description><![CDATA[投票区: 第７投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 　埼玉県和光市広沢　1-5]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市広沢　1-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6074635,35.7818432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　旧保健センター　フェンス</name>
+        <description><![CDATA[投票区: 第７投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 　埼玉県和光市広沢　1-5]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市広沢　1-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6056504,35.7821304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　国設公務員宿舎駐車場入口　ガードレール</name>
+        <description><![CDATA[投票区: 第７投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 　埼玉県和光市広沢　1]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市広沢　1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6035877,35.7808823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　和光市役所庁舎正面入口前</name>
+        <description><![CDATA[投票区: 第７投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 　埼玉県和光市広沢　1-5]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市広沢　1-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6058113,35.7808248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　自衛隊官舎国道254号側出口</name>
+        <description><![CDATA[投票区: 第７投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 　埼玉県和光市広沢　1]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市広沢　1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6054706,35.7836892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　和光樹林公園</name>
+        <description><![CDATA[投票区: 第７投票区<br>設置番号: 10<br>ポスター掲示場の設置場所: 　埼玉県和光市広沢　3]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第７投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>10.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市広沢　3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6048598,35.7789804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　総合福祉会館　北側フェンス</name>
+        <description><![CDATA[投票区: 第８投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市南　1-23-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市南　1-23-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6033218,35.7727055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　南大和団地管理事務所脇　ブロック塀</name>
+        <description><![CDATA[投票区: 第８投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県和光市南　2-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市南　2-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6084817,35.7725989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　南大和団地東側　フェンス</name>
+        <description><![CDATA[投票区: 第８投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 　埼玉県和光市南　2-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市南　2-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.612902,35.7726338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　南公民館入口脇　フェンス</name>
+        <description><![CDATA[投票区: 第８投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県和光市南　2-3-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市南　2-3-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6132852,35.7748158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　民家　ブロック塀</name>
+        <description><![CDATA[投票区: 第８投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 　埼玉県和光市南　1-29-8]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市南　1-29-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6005845,35.7713956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　第三中学校　フェンス</name>
+        <description><![CDATA[投票区: 第８投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県和光市南　2-2-1]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市南　2-2-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6147056,35.7729177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　二軒新田バス停裏　フェンス</name>
+        <description><![CDATA[投票区: 第８投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 　埼玉県和光市南　1-25]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市南　1-25</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6022071,35.7717199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　越後山中央公園</name>
+        <description><![CDATA[投票区: 第８投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 　埼玉県和光市南　1-16]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市南　1-16</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6091798,35.7716271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　二軒新田児童遊園地</name>
+        <description><![CDATA[投票区: 第８投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 　埼玉県和光市南　1-28]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第８投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市南　1-28</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5999328,35.771941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　やまと幼稚園　フェンス</name>
+        <description><![CDATA[投票区: 第９投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市白子　3-12-1]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　3-12-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.633531,35.7917792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　民家　ブロック塀</name>
+        <description><![CDATA[投票区: 第９投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　3-12-39]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　3-12-39</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6316825,35.7911495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧メディアパーク向い側　坂道フェンス</name>
+        <description><![CDATA[投票区: 第９投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県和光市白子　3-14]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　3-14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6344699,35.7909181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白子吹上コミュニティセンター</name>
+        <description><![CDATA[投票区: 第９投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県和光市白子　3-8-21]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　3-8-21</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6282812,35.7887588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　レオパレス21城山　階段側擁壁</name>
+        <description><![CDATA[投票区: 第９投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県和光市白子　3-7-39]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第９投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　3-7-39</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6262984,35.7868507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　あけぼの公園　植込み</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市下新倉　2-45]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市下新倉　2-45</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6221442,35.7869816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　民家　フェンス</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県和光市下新倉　2-38-37]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市下新倉　2-38-37</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6218359,35.7889306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　谷戸島駐車場　フェンス</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県和光市下新倉　2-14]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市下新倉　2-14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6192301,35.78718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　せせらぎ公園　フェンス</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県和光市丸山台　2-1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市丸山台　2-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6154498,35.7862621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　大和中学校正門脇　フェンス</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県和光市丸山台　2-8-8]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市丸山台　2-8-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6187161,35.7855509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　大和中学校校庭側門脇　フェンス</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 　埼玉県和光市丸山台　2-8-8]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市丸山台　2-8-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6186195,35.7842715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　駅北口土地区画整理事務所　フェンス</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県和光市下新倉　1-5-55]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市下新倉　1-5-55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6177189,35.7893388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　ひだまり公園</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県和光市下新倉　2-27]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市下新倉　2-27</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6207471,35.7886944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　緑の公園　フェンス</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県和光市丸山台　2-23]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市丸山台　2-23</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6158805,35.7847573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　ワンパク公園　フェンス</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 10<br>ポスター掲示場の設置場所: 埼玉県和光市丸山台　3-2]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>10.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市丸山台　3-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6206947,35.784788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　あさかわ公園</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 11<br>ポスター掲示場の設置場所: 埼玉県和光市中央　2-4]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>11.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市中央　2-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6203006,35.7816385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　駐車場ブロック塀</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 12<br>ポスター掲示場の設置場所: 埼玉県和光市中央　2-7-50]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>12.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市中央　2-7-50</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.617885,35.7813592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　外環丸山台広場農協通り沿い入口付近</name>
+        <description><![CDATA[投票区: 第１０投票区<br>設置番号: 13<br>ポスター掲示場の設置場所: 埼玉県和光市丸山台　2-29-1]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１０投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>13.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市丸山台　2-29-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6128971,35.784367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　第四小学校機関車前　ブロック塀</name>
+        <description><![CDATA[投票区: 第１１投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市諏訪　3-20]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市諏訪　3-20</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6163029,35.7766871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　DIKマンション調整池　フェンス</name>
+        <description><![CDATA[投票区: 第１１投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県和光市白子　2-9]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　2-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6201017,35.7775883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　南越ノ上児童公園　フェンス</name>
+        <description><![CDATA[投票区: 第１１投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県和光市白子　2-9]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　2-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6220329,35.7761739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　DIKマンションD棟角　生け垣</name>
+        <description><![CDATA[投票区: 第１１投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県和光市白子　2-9]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　2-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6210942,35.7755036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　諏訪原団地西口バス停脇　フェンス</name>
+        <description><![CDATA[投票区: 第１１投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県和光市諏訪原団地　2]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１１投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市諏訪原団地　2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6163152,35.7740891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　本町児童公園　フェンス</name>
+        <description><![CDATA[投票区: 第１２投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市本町　31]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市本町　31</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6043088,35.7869243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　本町小学校正門脇　花壇</name>
+        <description><![CDATA[投票区: 第１２投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県和光市本町　31-17]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市本町　31-17</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6039296,35.7859278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　本町小学校運動場入口　フェンス</name>
+        <description><![CDATA[投票区: 第１２投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県和光市本町　31-17]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市本町　31-17</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6058017,35.78588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　CIハイツサミットストアー　入口付近花壇</name>
+        <description><![CDATA[投票区: 第１２投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県和光市本町　31]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市本町　31</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.608139,35.7871375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　土橋児童遊園地　フェンス</name>
+        <description><![CDATA[投票区: 第１２投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県和光市本町　29]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１２投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市本町　29</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6019302,35.7870571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ビアセンテワコーⅡ　フェンス</name>
+        <description><![CDATA[投票区: 第１３投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　2-7-73]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　2-7-73</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.616614,35.7947112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　赤池通り沿い　駐車場</name>
+        <description><![CDATA[投票区: 第１３投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　2-11]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　2-11</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6157073,35.7971113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新倉ふれあいの森</name>
+        <description><![CDATA[投票区: 第１３投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　2-17]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　2-17</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6151515,35.8002912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　新倉北地域センター</name>
+        <description><![CDATA[投票区: 第１３投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　2-9-10]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　2-9-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6174325,35.7980643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>プリムヴェール１横　植込み</name>
+        <description><![CDATA[投票区: 第１３投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　2-8-10]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　2-8-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.618484,35.796683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　駐車場　ブロック塀</name>
+        <description><![CDATA[投票区: 第１３投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　2-5-37]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　2-5-37</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6193477,35.7949751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　民家　ブロック塀</name>
+        <description><![CDATA[投票区: 第１３投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　2-29-35]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　2-29-35</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6222018,35.796112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹の下通り　畑</name>
+        <description><![CDATA[投票区: 第１３投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　2-31]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　2-31</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6220106,35.7979779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　アクシス入口脇　フェンス</name>
+        <description><![CDATA[投票区: 第１３投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　7-10-7]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　7-10-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.623251,35.8032271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　よつば公園　植込み</name>
+        <description><![CDATA[投票区: 第１３投票区<br>設置番号: 10<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　4-6]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１３投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>10.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　4-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6200009,35.7989865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　第五小学校正門脇　ブロック塀</name>
+        <description><![CDATA[投票区: 第１４投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市南　1-5-10]]></description>
+        <styleUrl>#icon-1899-757575</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市南　1-5-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6171014,35.7713864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　第五小学校南門脇　フェンス</name>
+        <description><![CDATA[投票区: 第１４投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 　埼玉県和光市南　1-5-10]]></description>
+        <styleUrl>#icon-1899-757575</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市南　1-5-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6175949,35.7703244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　大和すみれ幼稚園　フェンス</name>
+        <description><![CDATA[投票区: 第１４投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県和光市南　1-2-2]]></description>
+        <styleUrl>#icon-1899-757575</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市南　1-2-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6183729,35.7729347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　第1南荘　ブロック塀</name>
+        <description><![CDATA[投票区: 第１４投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県和光市南　1-11-77]]></description>
+        <styleUrl>#icon-1899-757575</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市南　1-11-77</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6144587,35.7716886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　いどくぼ公園フェンス</name>
+        <description><![CDATA[投票区: 第１４投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県和光市南　1-8-53]]></description>
+        <styleUrl>#icon-1899-757575</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１４投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市南　1-8-53</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6166007,35.7733843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　グランシャリオ・アン前　ガードレール</name>
+        <description><![CDATA[投票区: 第１５投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市白子　3-32]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　3-32</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6276746,35.7848104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　駐車場　フェンス</name>
+        <description><![CDATA[投票区: 第１５投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県和光市白子　3-18]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　3-18</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6376477,35.7919838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　市場下公園　フェンス</name>
+        <description><![CDATA[投票区: 第１５投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県和光市白子　3-64-2]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　3-64-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6307464,35.787791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　しらこ保育園隣　駐車場</name>
+        <description><![CDATA[投票区: 第１５投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 　埼玉県和光市白子　3-29]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市白子　3-29</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6294457,35.7873551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　旧白子川児童遊園地　フェンス</name>
+        <description><![CDATA[投票区: 第１５投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県和光市白子　3-37]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１５投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　3-37</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6261985,35.7823424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　向山地域センター</name>
+        <description><![CDATA[投票区: 第１６投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市白子　1-33-20]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　1-33-20</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.622179,35.768229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　倉庫　ブロック塀</name>
+        <description><![CDATA[投票区: 第１６投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県和光市白子　1-12-1]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　1-12-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6176255,35.7695849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　西むかいやま公園</name>
+        <description><![CDATA[投票区: 第１６投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県和光市白子　1-10]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　1-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.61746,35.7678832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バス停(向山地域センター入口)付近フェンス</name>
+        <description><![CDATA[投票区: 第１６投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県和光市白子　1-28]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　1-28</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6217397,35.7696656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　極楽湯和光店駐車場　フェンス</name>
+        <description><![CDATA[投票区: 第１６投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県和光市白子　1-7-6]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　1-7-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6199153,35.7689702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　ENEOS和光白子店横　植込み</name>
+        <description><![CDATA[投票区: 第１６投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県和光市白子　1-6]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１６投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　1-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6200368,35.7675481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　福祉の里　フェンス</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　8-23-1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　8-23-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6318837,35.801198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　練田児童遊園地</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　3-12]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　3-12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6250458,35.7975854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　民家　ブロック塀</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県和光市下新倉　5-8-1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市下新倉　5-8-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6328866,35.7936165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　民家隣　ブロック塀</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県和光市下新倉　5-16-80]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市下新倉　5-16-80</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6318842,35.7947556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　大島公園</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県和光市下新倉　5-8]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市下新倉　5-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6332017,35.7945791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　野川公園　フェンス</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県和光市白子　4-4]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市白子　4-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6393404,35.7938851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　下新倉小学校東側入口歩道</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県和光市下新倉　5-21-1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市下新倉　5-21-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6336666,35.7968582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　和光高校　フェンス</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県和光市新倉　3-22-1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市新倉　3-22-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6282154,35.79799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　西本村さくら公園</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県和光市下新倉　4-10]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市下新倉　4-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6273879,35.7920552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　民家　ブロック塀</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 10<br>ポスター掲示場の設置場所: 埼玉県和光市下新倉　4-14-12]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>10.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県和光市下新倉　4-14-12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6296,35.7912145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　宮ノ台児童遊園地</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 11<br>ポスター掲示場の設置場所: 　埼玉県和光市下新倉4-11-8]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>11.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市下新倉4-11-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6263435,35.790439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>　民家　ブロック塀</name>
+        <description><![CDATA[投票区: 第１第７投票区投票区<br>設置番号: 12<br>ポスター掲示場の設置場所: 　埼玉県和光市下新倉4-7-63]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第１第７投票区投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>12.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>　埼玉県和光市下新倉4-7-63</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6260727,35.7899943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

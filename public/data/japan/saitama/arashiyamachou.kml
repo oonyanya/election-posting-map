@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>嵐山町ポスター掲示場設置場所</name>
+    <description/>
+    <Style id="icon-1899-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>嵐山町ポスター掲示場設置場所</name>
+      <Placemark>
+        <name>嵐山町ふれあい交流センター前</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 1<br>設置場所: 埼玉県比企郡嵐山町大字菅谷４４５番地１]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字菅谷４４５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3247252,36.043303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嵐山郵便局西側交差点信号付近</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 2<br>設置場所: 埼玉県比企郡嵐山町大字菅谷６番地２]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字菅谷６番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.32281,36.0435356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>菅谷公園東側</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 3<br>設置場所: 埼玉県比企郡嵐山町大字菅谷４７１番地２]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字菅谷４７１番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3230601,36.0408333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嵐山バイパス、美容院付近</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 4<br>設置場所: 埼玉県比企郡嵐山町大字菅谷６６２番地３]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字菅谷６６２番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.324318,36.0377615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>学習塾南隣雑種地</name>
+        <address>埼玉県比企郡嵐山町大字菅谷１９５番地６</address>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 5<br>設置場所: 埼玉県比企郡嵐山町大字菅谷１９５番地６]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字菅谷１９５番地６</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>武蔵嵐山駅西口ロータリー</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 6<br>設置場所: 埼玉県比企郡嵐山町大字菅谷１００番地１４]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字菅谷１００番地１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3286275,36.0438694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>町営駐車場（整体院横）</name>
+        <description><![CDATA[投票区: 第一投票区<br>番号: 7<br>設置場所: 埼玉県比企郡嵐山町大字菅谷１５５番地]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字菅谷１５５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3282503,36.0413551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住宅脇（町道敷）</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 1<br>設置場所: 埼玉県比企郡嵐山町大字川島２３４２番地１]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字川島２３４２番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3332872,36.0459215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住宅前</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 2<br>設置場所: 埼玉県比企郡嵐山町大字川島１７７７番地５]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字川島１７７７番地５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3384401,36.0493985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天沼東側ごみ集積場脇</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 3<br>設置場所: 埼玉県比企郡嵐山町大字川島１８７１番地]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字川島１８７１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3354359,36.0495622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アパート(グリーンコーポ)向側</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 4<br>設置場所: 埼玉県比企郡嵐山町大字川島１８６３番地７]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字川島１８６３番地７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3328902,36.0491562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川島自治会館前</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 5<br>設置場所: 埼玉県比企郡嵐山町大字川島１５３７番地]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字川島１５３７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3303772,36.0508153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ドラックストア東側</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 6<br>設置場所: 埼玉県比企郡嵐山町大字川島２３０８番地１４]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字川島２３０８番地１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3307519,36.0457604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嵐山エンジニアリング裏側(町有地)</name>
+        <description><![CDATA[投票区: 第二投票区<br>番号: 7<br>設置場所: 埼玉県比企郡嵐山町大字川島２３２７番地１]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字川島２３２７番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3315187,36.0468811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>河川堤防付近</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 1<br>設置場所: 埼玉県比企郡嵐山町大字杉山１０８５番地]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字杉山１０８５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3224541,36.0528993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志賀２区自治会館前</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 2<br>設置場所: 埼玉県比企郡嵐山町大字志賀２２２番地２０]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字志賀２２２番地２０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3236867,36.0514288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住宅前</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 3<br>設置場所: 埼玉県比企郡嵐山町大字志賀２７４番地３７]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字志賀２７４番地３７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3276064,36.0516302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住宅前ガードレール付近</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 4<br>設置場所: 埼玉県比企郡嵐山町大字志賀３１６番地９４]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字志賀３１６番地９４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.32471,36.0533282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嵐山ガス横</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 5<br>設置場所: 埼玉県比企郡嵐山町大字川島１４８０番地１１　　]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字川島１４８０番地１１　　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.329319,36.0506712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志賀駐在所跡地県道側</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 6<br>設置場所: 埼玉県比企郡嵐山町大字川島１４７７番地２９]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字川島１４７７番地２９</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3286214,36.0522257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高圧線下緑地帯</name>
+        <description><![CDATA[投票区: 第三投票区<br>番号: 7<br>設置場所: 埼玉県比企郡嵐山町大字志賀１９２番地６]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字志賀１９２番地６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3234544,36.0490729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>美容院交差点付近</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 1<br>設置場所: 埼玉県比企郡嵐山町大字平沢２５７６番地]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字平沢２５７６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3164494,36.043714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平沢地区コミュニティセンター右側</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 2<br>設置場所: 埼玉県比企郡嵐山町大字平沢６５１番地１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字平沢６５１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3146585,36.0450215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平沢バイパス交差点信号西側</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 3<br>設置場所: 埼玉県比企郡嵐山町大字平沢６３３番地１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字平沢６３３番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3108919,36.045655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平沢歩道橋脇小公園側道路方面</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 4<br>設置場所: 埼玉県比企郡嵐山町大字平沢８４番地１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字平沢８４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3183403,36.0432946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>平沢２区集会所</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 5<br>設置場所: 埼玉県比企郡嵐山町大字平沢２５９番地１]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字平沢２５９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3169006,36.045705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千手堂２区集会所</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 6<br>設置場所: 埼玉県比企郡嵐山町大字千手堂２２番地４４]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字千手堂２２番地４４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3181817,36.0408789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>遠山集会所町道側</name>
+        <description><![CDATA[投票区: 第四投票区<br>番号: 7<br>設置場所: 埼玉県比企郡嵐山町大字遠山１４４番地]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字遠山１４４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2956572,36.0355926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>工業会社向側</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 1<br>設置場所: 埼玉県比企郡嵐山町大字志賀７９６番地８]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字志賀７９６番地８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3138168,36.0531134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>志賀１区集会所前</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 2<br>設置場所: 埼玉県比企郡嵐山町大字志賀６０４番地３]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字志賀６０４番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3177435,36.0517084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>保育園付近交差点</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 3<br>設置場所: 埼玉県比企郡嵐山町大字太郎丸３８２番地２]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字太郎丸３８２番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3283717,36.0552364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関越ボックス脇</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 4<br>設置場所: 埼玉県比企郡嵐山町大字廣野４４８番地１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字廣野４４８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.319745,36.0660141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広野２区自治会館付近沼の脇</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 5<br>設置場所: 埼玉県比企郡嵐山町大字廣野７８０番地]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字廣野７８０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3262198,36.0646395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>役場進入路入り口北側</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 6<br>設置場所: 埼玉県比企郡嵐山町大字杉山１０３０番地１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字杉山１０３０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3232032,36.0570816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉山公民館前</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 7<br>設置場所: 埼玉県比企郡嵐山町大字杉山７５０番地１]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字杉山７５０番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3174269,36.0640689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住宅前町道南側</name>
+        <description><![CDATA[投票区: 第五投票区<br>番号: 8<br>設置場所: 埼玉県比企郡嵐山町大字杉山４７１番地]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字杉山４７１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3088358,36.0645199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千手堂バイパス交差点コンビニ前</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 1<br>設置場所: 埼玉県比企郡嵐山町大字千手堂３５番地１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字千手堂３５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3179841,36.0394287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千手堂構造改善センター前</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 2<br>設置場所: 埼玉県比企郡嵐山町大字千手堂１１５番地]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字千手堂１１５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3139806,36.0363205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎌形北集会所前</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 3<br>設置場所: 埼玉県比企郡嵐山町大字鎌形２１８９番地３]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字鎌形２１８９番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3093174,36.0252194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嵐山渓谷バーベキュー場駐車場入口</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 4<br>設置場所: 埼玉県比企郡嵐山町大字鎌形２８７５番地１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字鎌形２８７５番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3136506,36.0321077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鎌形駐在所付近交差点</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 5<br>設置場所: 埼玉県比企郡嵐山町大字鎌形１１９１番地１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字鎌形１１９１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3179768,36.0202283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住宅脇カーブミラー付近</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 6<br>設置場所: 埼玉県比企郡嵐山町大字大蔵１３番地１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字大蔵１３番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3314654,36.0291794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日吉神社入口</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 8<br>設置場所: 埼玉県比企郡嵐山町大字将軍沢４２４番地１]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字将軍沢４２４番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3290602,36.0223281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住宅北側</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 1<br>設置場所: 埼玉県比企郡嵐山町大字越畑６２３番地２]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字越畑６２３番地２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3100328,36.0756392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>嵐山町北部交流センター入口</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 2<br>設置場所: 埼玉県比企郡嵐山町大字吉田１９５１番地１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字吉田１９５１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.309879,36.0813495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住宅向側</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 3<br>設置場所: 埼玉県比企郡嵐山町大字吉田８９８番地１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字吉田８９８番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3117273,36.0930074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>１-４号線と１-２号線交差点南側</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 4<br>設置場所: 埼玉県比企郡嵐山町大字吉田１４５７番地３]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字吉田１４５７番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3218928,36.0848598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勝田交差点北東側</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 5<br>設置場所: 埼玉県比企郡嵐山町大字勝田６１番地１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字勝田６１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3260964,36.0828809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古里コミュニティ消防センター前</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 6<br>設置場所: 埼玉県比企郡嵐山町大字古里４３０番地]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字古里４３０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3047558,36.0961883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>馬内公会堂前</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 7<br>設置場所: 埼玉県比企郡嵐山町大字古里１５３１番地１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字古里１５３１番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2923304,36.1043577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萩山商店脇</name>
+        <description><![CDATA[投票区: 第七投票区<br>番号: 8<br>設置場所: 埼玉県比企郡嵐山町大字古里８３９番地１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町大字古里８３９番地１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3010737,36.0960145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>知識の森 図書館前</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 1<br>設置場所: 埼玉県比企郡嵐山町むさし台３丁目１０番地１０]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町むさし台３丁目１０番地１０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.326138,36.0483621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新田沼公園東側</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 2<br>設置場所: 埼玉県比企郡嵐山町むさし台１丁目６番地]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町むさし台１丁目６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3285499,36.0473844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吹上公園北側</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 3<br>設置場所: 埼玉県比企郡嵐山町むさし台２丁目３０番地]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町むさし台２丁目３０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3237336,36.0471043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東側公園付近駅側</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 4<br>設置場所: 埼玉県比企郡嵐山町むさし台２丁目１４番地１５]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町むさし台２丁目１４番地１５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.326771,36.0459967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>武蔵嵐駅東口駐車場フェンス</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 5<br>設置場所: 埼玉県比企郡嵐山町むさし台２丁目１７番地４]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町むさし台２丁目１７番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3276561,36.0447779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴巻運動公園東側</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 6<br>設置場所: 埼玉県比企郡嵐山町むさし台３丁目４番地]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町むさし台３丁目４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3281387,36.0506881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東側公園下側緑地</name>
+        <description><![CDATA[投票区: 第八投票区<br>番号: 7<br>設置場所: 埼玉県比企郡嵐山町むさし台２丁目６番地４]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>埼玉県比企郡嵐山町むさし台２丁目６番地４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.325859,36.0467774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>観音堂道路入口</name>
+        <description><![CDATA[投票区: 第六投票区<br>番号: 7<br>設置場所: 大埼玉県比企郡嵐山町大字根岸６０番地３]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所">
+            <value>大埼玉県比企郡嵐山町大字根岸６０番地３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.3333518,36.0283173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,3873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>八潮市ポスター掲示場設置場所</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-BDBDBD-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-BDBDBD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-BDBDBD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-BDBDBD-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>★ポスター掲示場位置Googleマップ.csv</name>
+      <Placemark>
+        <name>阿弥陀堂前道路東側フェンス</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條4020]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條4020</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8391296,35.8534019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條3984-1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條3984-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8391292,35.8508843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八條北小学校入口付近植込み</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條1172-2]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條1172-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8341719,35.8508492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側塀</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條1101]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條1101</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8350764,35.849896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側塀</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條3906]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條3906</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8403279,35.8484992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（有）ゼスト埼玉営業所北側フェンス</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條1509]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條1509</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8379044,35.8471581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側塀</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條3838]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條3838</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8407286,35.8461819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>住宅団地前バス停</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條1567八潮団地内]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條1567八潮団地内</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8356725,35.8455017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八潮団地10号棟北側</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條1567八潮団地内]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條1567八潮団地内</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.833237,35.8452255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八条保育所入口</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條1567八潮団地内]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條1567八潮団地内</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8353613,35.8438971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八潮団地19号棟西側</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條1567八潮団地内]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條1567八潮団地内</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8347069,35.8436884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>バスターミナル付近植込み</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條1567八潮団地内]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條1567八潮団地内</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8356081,35.8433318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北公園東側フェンス</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県大字新町30]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大字新町30</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8337045,35.8388474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北公園西側駐車場入口付近植込み</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県大字新町30]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県大字新町30</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8325619,35.8399216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊草西児童公園南側</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字小作田908]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字小作田908</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8270768,35.830031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>倉田包装(株)北側塀</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字伊草910-5]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字伊草910-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8310911,35.832014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字伊草172]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字伊草172</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8301617,35.8308347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊草団地１号棟東側</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字伊草377伊草団地内]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字伊草377伊草団地内</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8272823,35.8290774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊草団地５号棟西側</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字伊草377伊草団地内]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字伊草377伊草団地内</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8257133,35.8278748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊草団地管理組合集会所前</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字伊草377伊草団地内]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字伊草377伊草団地内</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8275654,35.827778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊草団地１０号棟西側</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字伊草377伊草団地内]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字伊草377伊草団地内</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8271027,35.82677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南側駐車場</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條2483-1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條2483-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8360856,35.8392691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>幸之宮児童遊園</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條2678-1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條2678-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8388386,35.8370694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広瀬病院北側駐車場フェンス</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條2838-1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條2838-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8361496,35.8361257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八條小学校東側フェンス</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字鶴ヶ曽根1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字鶴ヶ曽根1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8390469,35.835909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>幸之宮第三幼児公園東側フェンス</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字八條2753-25]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字八條2753-25</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8338857,35.8373829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八條小橋交差点北側</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字鶴ヶ曽根901-2]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字鶴ヶ曽根901-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8317509,35.8324722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コジマデンキ南側フェンス</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字鶴ヶ曽根58-2]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字鶴ヶ曽根58-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8375314,35.8341677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンナップ（株）物流センター東側フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字鶴ヶ曽根167]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字鶴ヶ曽根167</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.838837,35.8313805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側塀</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字鶴ヶ曽根191]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字鶴ヶ曽根191</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8406973,35.8308005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側塀</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字鶴ヶ曽根1816-2]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字鶴ヶ曽根1816-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8428025,35.8285967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>やしお生涯楽習館駐車場北側</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字鶴ヶ曽根420-2]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字鶴ヶ曽根420-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8376604,35.8269554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>富士産業（株）東側フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字鶴ヶ曽根419]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字鶴ヶ曽根419</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8395306,35.8276002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>エイトアリーナ西側植込み</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字鶴ヶ曽根1535-1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字鶴ヶ曽根1535-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8418857,35.8254717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>直売所駐車場西側フェンス</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字鶴ヶ曽根1422-1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字鶴ヶ曽根1422-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8382257,35.8244042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松之木公園西側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市緑町三丁目19]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市緑町三丁目19</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8299769,35.8264706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側塀</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市緑町三丁目11-1]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市緑町三丁目11-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8309619,35.8276366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中井掘児童公園南側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市緑町一丁目10-1]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市緑町一丁目10-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8340026,35.8267211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>グリーンパーク第３八潮北側フェンス</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市緑町二丁目8-2]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市緑町二丁目8-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8298207,35.8253689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小作田教職員住宅北側フェンス</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市緑町四丁目1-13]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市緑町四丁目1-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8282786,35.8251008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小作田児童公園南側</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市緑町二丁目14]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市緑町二丁目14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8314199,35.8235222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡中学校西側フェンス</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市緑町四丁目19-1]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市緑町四丁目19-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8273031,35.8223135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側塀</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字二丁目36]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字二丁目36</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.843537,35.8239641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>細谷製作所(株)西側塀</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字二丁目171]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字二丁目171</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8457265,35.8217194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島倉鉄工所(株)草加工場西側塀</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字木曽根906]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字木曽根906</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8514724,35.8215674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上木曽根会館西側フェンス</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字木曽根1092]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字木曽根1092</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8550514,35.8199218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(株)原田製作所埼玉工場塀</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字二丁目1122]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字二丁目1122</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8562329,35.8192685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側塀</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字二丁目1195]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字二丁目1195</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8587807,35.8210029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>テクノフロント(株)南側塀</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字木曽根682-1]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字木曽根682-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8497608,35.8174755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田中商店南側塀</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字二丁目1005-1]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字二丁目1005-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8474892,35.8147419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>潮止小学校西口フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南川崎822]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南川崎822</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8522389,35.814312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南川崎740]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南川崎740</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8548089,35.8116734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>区画整理施工者管理地　単管パイプ</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南川崎563-3外]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南川崎563-3外</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8574076,35.8128517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南側塀</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字伊勢野50]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字伊勢野50</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8586917,35.810068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐藤医院北側交差点付近水路フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字伊勢野110]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字伊勢野110</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8564842,35.8097901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京特殊精線（株）向側水路フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南川崎867-3]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南川崎867-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8514858,35.811585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中馬場児童公園南側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市中央二丁目14]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市中央二丁目14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8370442,35.8189997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側塀</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮二丁目8-5]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮二丁目8-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8383893,35.8168117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>若柳児童公園東側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮一丁目8]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮一丁目8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.840786,35.8176214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮一丁目22-4]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮一丁目22-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.841358,35.8152423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木曽根児童公園西側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮四丁目3]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮四丁目3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8410837,35.8122286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八潮車庫向側</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮一丁目27]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮一丁目27</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8429425,35.8133192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（有）ワーム前ガードレール</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字木曽根435]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字木曽根435</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8425395,35.8159566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬小学校北側入口フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大瀬三丁目9-1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大瀬三丁目9-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8499969,35.8093589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八潮駅北側フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大瀬六丁目5-1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大瀬六丁目5-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8449266,35.8079573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>やしお駅前公園南側フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大瀬六丁目3-1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大瀬六丁目3-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8440964,35.8055226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側水路フェンス</name>
+        <address>埼玉県八潮市大字大瀬393-4</address>
+        <description><![CDATA[投票区: 10<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大瀬393-4]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大瀬393-4</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>老人福祉センター寿楽荘西側フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字木曽根322]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字木曽根322</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8466284,35.8116717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側塀</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大瀬263]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大瀬263</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8525136,35.8046679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大瀬974-1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大瀬974-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8523702,35.8026359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大瀬小学校南側入口フェンス</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県八潮市大瀬三丁目9-1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大瀬三丁目9-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8499352,35.8084192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家脇フェンス(旧下大瀬公民館南側フェンス)</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大瀬1542-2]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大瀬1542-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8561174,35.7981986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側水路フェンス</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字古新田236-2]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字古新田236-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8518275,35.7973436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大瀬1407-30]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大瀬1407-30</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8570956,35.7982136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中川小学校北側フェンス</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大瀬1516]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大瀬1516</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8546423,35.7982786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側塀</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字古新田1126]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字古新田1126</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8521958,35.7944341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加藤建設工業(株)南側塀</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大瀬1623]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大瀬1623</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8558967,35.7960516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大瀬1832]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大瀬1832</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8571566,35.7949826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）ジョイフル観光北側フェンス</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字浮塚248-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字浮塚248-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8239615,35.7990307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀(氷川神社前)</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字浮塚223-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字浮塚223-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8229939,35.7975238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浮塚公民館前塀（民家西側塀）</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字浮塚488]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字浮塚488</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8258823,35.7952138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>メゾンパーク南八潮入口フェンス</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字浮塚626-8]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字浮塚626-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8274682,35.796898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ルネ綾瀬入口</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字浮塚717-1]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字浮塚717-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8267844,35.7934485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田原工務店北側道路フェンス</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字浮塚1048]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字浮塚1048</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8329815,35.7980411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八潮診療所前南側フェンス</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字浮塚723]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字浮塚723</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8282929,35.7941883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八潮南部中央地区葛西調整池フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市茜町一丁目5-4]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市茜町一丁目5-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8407743,35.8045385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大曽根小学校入口フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字垳408-5]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字垳408-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8359368,35.8042625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大曽根保育所東側フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大曽根1518]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大曽根1518</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8306631,35.8004649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ふれあい桜橋バス停横水路フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字垳392]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字垳392</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8386508,35.801454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前南側フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字垳143-1]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字垳143-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8409238,35.8011991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側フェンス</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字垳225]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字垳225</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8439006,35.8001483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>垳川沿い</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字垳513]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字垳513</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8359546,35.7993241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>蓮台寺南側塀</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大曽根343]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大曽根343</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8285388,35.8081272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大曽根360]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大曽根360</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8269326,35.8076919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>豊田不動産北側塀</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大曽根1105]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大曽根1105</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.82606,35.806105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大曽根中公民館西側</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大曽根827]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大曽根827</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8280847,35.8057182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南側塀</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大曽根1182]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大曽根1182</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8231367,35.8042459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白山印刷(株)東側水路前フェンス</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大曽根1322-1]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大曽根1322-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8230162,35.8028117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東塀</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大曽根886]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大曽根886</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8271737,35.8030295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第６児童公園向いフェンス（ﾏﾝﾊｲﾑ八潮前）</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大曽根57-21]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大曽根57-21</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.829403,35.8107266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>諏訪児童公園西側フェンス</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市中央三丁目27]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市中央三丁目27</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8298106,35.8185466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前畑内</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市中央三丁目18-11]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市中央三丁目18-11</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8319966,35.8183509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中馬場児童交通公園南側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮三丁目５番地]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮三丁目５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8351961,35.8171495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大原児童公園東側</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮七丁目14]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮七丁目14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.831975,35.8166575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家南側塀</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮七丁目 31-3]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮七丁目 31-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8340952,35.8147549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大原小学校入口フェンス</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮七丁目 42-1]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮七丁目 42-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8318296,35.8142645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西袋汚水中継ポンプ場西側フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮八丁目23]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮八丁目23</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8284339,35.8119365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡小学校北側フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市中央四丁目21-16]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市中央四丁目21-16</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8272676,35.8181552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳之宮バス停前北側フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字西袋1296-14]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字西袋1296-14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8237835,35.818306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字上馬場427-3]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字上馬場427-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8240779,35.8195691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>おざわスイミングスクール北側フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字上馬場1402]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字上馬場1402</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.824819,35.8170755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡小学校南側フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市中央四丁目21-16]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市中央四丁目21-16</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8274446,35.8173505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八潮市立保健センター入口フェンス</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮八丁目10-1]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮八丁目10-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.828714,35.8154087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西袋陣屋公園西側</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字西袋625]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字西袋625</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8170156,35.8199414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(株)南千住エンジニアリング西側畑</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字西袋77-1]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字西袋77-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8212979,35.8186677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南後谷837]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南後谷837</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8223582,35.8247104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>レンゴー(株)守衛室向い水路フェンス</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字西袋333]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字西袋333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8154614,35.8179304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側塀</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南後谷865]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南後谷865</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8222008,35.823932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柳之宮小学校入口フェンス（正門）</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字柳之宮140]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字柳之宮140</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8224092,35.8232267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アイダドミール西側フェンス</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字柳之宮211-3]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字柳之宮211-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8230229,35.821466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側フェンス</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮三丁目19-3]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮三丁目19-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.836014,35.8155956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮六丁目10-3]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮六丁目10-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8320481,35.8119502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>文化スポーツセンター北側塀</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮三丁目31]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮三丁目31</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8365962,35.8130039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大曽根教職員住宅西側フェンス</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大曽根122]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大曽根122</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8328669,35.8094375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>モリタハイツ東側塀</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字大曽根230-1]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字大曽根230-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8315239,35.8090256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大原中学校体育館北側フェンス</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮五丁目9-1]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮五丁目9-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8370295,35.8098009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市営大原団地２号棟南側フェンス</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市八潮六丁目27-5]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市八潮六丁目27-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8347496,35.8100647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下木曽根会館入口フェンス</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字木曽根1425-9]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字木曽根1425-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8617267,35.8179045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家北側塀</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南川崎116]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南川崎116</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8627016,35.8156296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>そば「やぶ富」西側フェンス</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市大字木曽根1274]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字木曽根1274</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8558222,35.8161289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ゆまにて(勤労青少年ホーム)入口</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南川崎523]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南川崎523</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.857104,35.8145329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>専稱寺東側水路フェンス</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南川崎870]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南川崎870</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8607784,35.8147383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側塀</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南川崎337-1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南川崎337-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8619508,35.8134946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>特別養護老人ホーム前バス停フェンス</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南川崎210-1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南川崎210-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8604109,35.8118493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上馬場児童公園東側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市中央三丁目5]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市中央三丁目5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8314279,35.8211435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側塀</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市緑町一丁目23-20]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市緑町一丁目23-20</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8359574,35.825403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八潮中学校入口東側植込み</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市中央一丁目1-2]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市中央一丁目1-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8374095,35.8237601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ルミナス八潮西側葛西用水フェンス</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市緑町二丁目20-1]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市緑町二丁目20-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8291861,35.8229423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小作田東児童公園南側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市緑町一丁目42]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市緑町一丁目42</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8343593,35.8240701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八潮市役所東側</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市中央一丁目2-1]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市中央一丁目2-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8402904,35.8220457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央公園入口</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市中央一丁目9]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市中央一丁目9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.838757,35.8214324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>山口証券印刷(株)埼玉工場南側フェンス</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南後谷425-1]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南後谷425-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8183153,35.828306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南後谷緑の広場西側(資料館北側）</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南後谷678]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南後谷678</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8204821,35.8268568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>後谷東児童公園西側</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県八潮市緑町五丁目37]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市緑町五丁目37</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8246616,35.8260967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東武紙工(株)フェンス(ライオンズマンション草加東向かい）</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南後谷898]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南後谷898</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8194886,35.8258647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>オートバックス八潮店南側塀</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南後谷477]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南後谷477</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8197437,35.8280622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(株)フルートこうよう館南側フェンス</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南後谷450]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南後谷450</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.819465,35.830074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>共栄クリーンサービス向いフェンス</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県八潮市大字南後谷58]]></description>
+        <styleUrl>#icon-1899-BDBDBD</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県八潮市大字南後谷58</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8162211,35.8280634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>無題のレイヤ</name>
+    </Folder>
+  </Document>
+</kml>

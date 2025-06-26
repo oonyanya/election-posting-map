@@ -1,0 +1,5042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>参議院議員通常選挙ポスター掲示場設置場所</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>コピー市長選　ポスター掲示場　Ｒ７(最新) - コピー.xls</name>
+      <Placemark>
+        <name>シャトーレセリズィエール向かい</name>
+        <description><![CDATA[unnamed (1): 2<br>投票区: 第一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市溝沼3-1-39]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>2.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市溝沼3-1-39</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.585906,35.8009466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第一小学校体育館裏</name>
+        <description><![CDATA[unnamed (1): 3<br>投票区: 第一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町4-11-7]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>3.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町4-11-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5832717,35.8012811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第一小学校東側門脇</name>
+        <description><![CDATA[unnamed (1): 4<br>投票区: 第一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町4-11-7]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>4.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町4-11-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5829847,35.8001912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北浦公園</name>
+        <description><![CDATA[unnamed (1): 5<br>投票区: 第一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町4-2]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>5.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町4-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5842264,35.7987727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東京電力㈱膝折変電所</name>
+        <description><![CDATA[unnamed (1): 6<br>投票区: 第一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町4-4-33]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>6.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町4-4-33</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5818701,35.7977483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞装文社膝折センター倉庫向かい畑</name>
+        <description><![CDATA[unnamed (1): 7<br>投票区: 第一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町5-8]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>7.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町5-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5867824,35.7988644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉橋脇</name>
+        <description><![CDATA[unnamed (1): 8<br>投票区: 第一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字溝沼地番不明]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>8.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字溝沼地番不明</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5829669,35.8033266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前畑</name>
+        <description><![CDATA[unnamed (1): 9<br>投票区: 第二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市岡1-17-2]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>9.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市岡1-17-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5995359,35.8071713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡浄水場</name>
+        <description><![CDATA[unnamed (1): 10<br>投票区: 第二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市岡2-2-43]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>10.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市岡2-2-43</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5975786,35.8094347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市道２号線城山公園前</name>
+        <description><![CDATA[unnamed (1): 11<br>投票区: 第二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市岡3-380-5]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>11.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市岡3-380-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6023072,35.8132544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第二小学校　氷川神社側フェンス</name>
+        <description><![CDATA[unnamed (1): 12<br>投票区: 第二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市岡3-16-13]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>12.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市岡3-16-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6035098,35.8088826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城山公園　幼児の広場</name>
+        <description><![CDATA[unnamed (1): 13<br>投票区: 第二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市岡3-461-1]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>13.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市岡3-461-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6026385,35.8118797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根岸台市民センター脇</name>
+        <description><![CDATA[unnamed (1): 14<br>投票区: 第二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台2-15-12]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>14.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台2-15-12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6049125,35.8068507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[unnamed (1): 15<br>投票区: 第二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台3-1-23]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>15.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台3-1-23</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6076159,35.804177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>笹橋脇</name>
+        <description><![CDATA[unnamed (1): 16<br>投票区: 第二投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市岡3-18]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>16.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市岡3-18</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6067105,35.8102596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下内間木児童遊園地</name>
+        <description><![CDATA[unnamed (1): 17<br>投票区: 第三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字下内間木35]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>17.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字下内間木35</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6174733,35.815549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>消防団第8分団詰所</name>
+        <description><![CDATA[unnamed (1): 18<br>投票区: 第三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字上内間木318-1]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>18.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字上内間木318-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6097945,35.8220024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>難波製本㈱前</name>
+        <description><![CDATA[unnamed (1): 19<br>投票区: 第三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字上内間木685]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>19.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字上内間木685</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6086505,35.8288763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[unnamed (1): 20<br>投票区: 第三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市田島1-8-5]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>20.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市田島1-8-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6061374,35.813229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道ふじみ野朝霞線歩道</name>
+        <description><![CDATA[unnamed (1): 21<br>投票区: 第三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字浜崎１６０－３]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>21.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字浜崎１６０－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6046143,35.8191982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田島児童遊園地</name>
+        <description><![CDATA[unnamed (1): 22<br>投票区: 第三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市田島2-7-5]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>22.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市田島2-7-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6079319,35.8140156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内間木支所前</name>
+        <description><![CDATA[unnamed (1): 23<br>投票区: 第三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字浜崎231-1]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>23.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字浜崎231-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6011371,35.8198604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>わくわくどーむ向かい</name>
+        <description><![CDATA[unnamed (1): 24<br>投票区: 第三投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字浜崎43]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>24.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字浜崎43</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5989549,35.8169884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（株）菊水向かい</name>
+        <description><![CDATA[unnamed (1): 25<br>投票区: 第四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市幸町1-11]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>25.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市幸町1-11</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5884204,35.797268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第四小学校裏門脇</name>
+        <description><![CDATA[unnamed (1): 26<br>投票区: 第四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市幸町1-6-9]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>26.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市幸町1-6-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5873461,35.7943764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第四小学校前</name>
+        <description><![CDATA[unnamed (1): 27<br>投票区: 第四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市幸町1-6-9]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>27.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市幸町1-6-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5885491,35.7942415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第四小学校横</name>
+        <description><![CDATA[unnamed (1): 28<br>投票区: 第四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市幸町1-6-9]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>28.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市幸町1-6-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5884699,35.7948963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>緑ヶ丘北児童遊園地</name>
+        <description><![CDATA[unnamed (1): 29<br>投票区: 第四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市幸町2-1]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>29.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市幸町2-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5888011,35.7929547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>緑ヶ丘児童遊園地</name>
+        <description><![CDATA[unnamed (1): 30<br>投票区: 第四投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市幸町2-12-18]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>30.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市幸町2-12-18</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5867563,35.7918791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧膝折浄水場</name>
+        <description><![CDATA[unnamed (1): 31<br>投票区: 第四投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市幸町2-17]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>31.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市幸町2-17</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5863904,35.7930076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[unnamed (1): 32<br>投票区: 第五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原1-1-22]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>32.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原1-1-22</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5763578,35.8081431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[unnamed (1): 33<br>投票区: 第五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原1-15-3]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>33.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原1-15-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.578591,35.8110073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞県税事務所前</name>
+        <description><![CDATA[unnamed (1): 34<br>投票区: 第五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原1-3-1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>34.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原1-3-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.578624,35.808867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ホンダ専用駐車場そば　個人宅脇畑</name>
+        <description><![CDATA[unnamed (1): 35<br>投票区: 第五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市泉水3-10]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>35.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市泉水3-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5790425,35.8076995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下の原児童遊園地</name>
+        <description><![CDATA[unnamed (1): 36<br>投票区: 第五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原5-6]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>36.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原5-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5739247,35.8104504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第五小学校前</name>
+        <description><![CDATA[unnamed (1): 37<br>投票区: 第五投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市泉水3-16-1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>37.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市泉水3-16-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5803923,35.8107349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第五小学校裏門脇</name>
+        <description><![CDATA[unnamed (1): 38<br>投票区: 第五投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市泉水3-16-1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>38.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市泉水3-16-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5818407,35.8109655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三原５丁目児童遊園地</name>
+        <description><![CDATA[unnamed (1): 39<br>投票区: 第五投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原5-13]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>39.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原5-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5764679,35.8140299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>レオネクストラッポラ脇畑</name>
+        <description><![CDATA[unnamed (1): 40<br>投票区: 第六投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市岡1-5]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>40.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市岡1-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5997573,35.8044369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第２わたや駐車場</name>
+        <description><![CDATA[unnamed (1): 41<br>投票区: 第六投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市溝沼6-2]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>41.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市溝沼6-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5907536,35.8052752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅裏</name>
+        <description><![CDATA[unnamed (1): 42<br>投票区: 第六投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市溝沼6-4-33]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>42.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市溝沼6-4-33</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.591935,35.807011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岡（東洋大）児童遊園地</name>
+        <description><![CDATA[unnamed (1): 43<br>投票区: 第六投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市岡2-729-5]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>43.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市岡2-729-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.595402,35.8103043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>㈱プロジェクトセンター前</name>
+        <description><![CDATA[unnamed (1): 44<br>投票区: 第六投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町1-19-41]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>44.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町1-19-41</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5959757,35.801503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第六小学校前</name>
+        <description><![CDATA[unnamed (1): 45<br>投票区: 第六投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町1-25-1]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>45.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町1-25-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5963116,35.8043676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中道公園</name>
+        <description><![CDATA[unnamed (1): 46<br>投票区: 第六投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町1-38]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>46.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町1-38</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5956167,35.8062987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本町ずい道側道</name>
+        <description><![CDATA[unnamed (1): 47<br>投票区: 第六投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町2-27]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>47.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町2-27</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5984962,35.8022461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上の原公園</name>
+        <description><![CDATA[unnamed (1): 48<br>投票区: 第七投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市幸町3-1152-1]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>48.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市幸町3-1152-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5887142,35.7892474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第一中学校南側</name>
+        <description><![CDATA[unnamed (1): 49<br>投票区: 第七投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字膝折2-31]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>49.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字膝折2-31</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5906811,35.7909389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞保健所</name>
+        <description><![CDATA[unnamed (1): 50<br>投票区: 第七投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市青葉台1-10-5]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>50.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市青葉台1-10-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5929243,35.7894593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞警察署跡地</name>
+        <description><![CDATA[unnamed (1): 51<br>投票区: 第七投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市幸町3-1110-18]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>51.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市幸町3-1110-18</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5863271,35.7898936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浅井梱包第２駐車場</name>
+        <description><![CDATA[unnamed (1): 52<br>投票区: 第七投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市幸町2-96]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>52.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市幸町2-96</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5855868,35.7911405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>幸町３丁目児童遊園地</name>
+        <description><![CDATA[unnamed (1): 53<br>投票区: 第七投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市幸町3-2]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>53.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市幸町3-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5900483,35.7900685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第一中学校正門脇</name>
+        <description><![CDATA[unnamed (1): 54<br>投票区: 第七投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字膝折2-31]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>54.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字膝折2-31</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5901232,35.791559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>まぼり南公園</name>
+        <description><![CDATA[unnamed (1): 55<br>投票区: 第八投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台5-5]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>55.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台5-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6032515,35.8003833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東朝霞公民館入口脇畑</name>
+        <description><![CDATA[unnamed (1): 56<br>投票区: 第八投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台6-8]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>56.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台6-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6054193,35.7980293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根岸台６丁目児童遊園地</name>
+        <description><![CDATA[unnamed (1): 57<br>投票区: 第八投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台6-8]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>57.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台6-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6042606,35.7969981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞駅東口大型自転車臨時駐車場</name>
+        <description><![CDATA[unnamed (1): 58<br>投票区: 第八投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台6-3]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>58.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台6-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6020817,35.7968447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コンフォール東朝霞脇</name>
+        <description><![CDATA[unnamed (1): 59<br>投票区: 第八投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市仲町2-4]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>59.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市仲町2-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6020892,35.7955938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あけぼの公園</name>
+        <description><![CDATA[unnamed (1): 60<br>投票区: 第八投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市仲町2-9]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>60.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市仲町2-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6033023,35.7930237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅脇畑</name>
+        <description><![CDATA[unnamed (1): 61<br>投票区: 第八投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市仲町2-6-12]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>61.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市仲町2-6-12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6027117,35.795363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>仲町保留地鉄塔下擁壁</name>
+        <description><![CDATA[unnamed (1): 62<br>投票区: 第八投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市仲町2-8]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>62.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市仲町2-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6048824,35.7937243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄町市民センター</name>
+        <description><![CDATA[unnamed (1): 63<br>投票区: 第九投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市栄町4-4-26]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>63.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市栄町4-4-26</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5979915,35.7866892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄町第三児童遊園地</name>
+        <description><![CDATA[unnamed (1): 64<br>投票区: 第九投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市栄町3-1]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>64.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市栄町3-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5984535,35.7891917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第八小学校</name>
+        <description><![CDATA[unnamed (1): 65<br>投票区: 第九投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市栄町5-1-41]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>65.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市栄町5-1-41</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5955857,35.7906399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第四中学校正門脇</name>
+        <description><![CDATA[unnamed (1): 66<br>投票区: 第九投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市栄町5-1]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>66.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市栄町5-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5964476,35.789407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>図書館横</name>
+        <description><![CDATA[unnamed (1): 67<br>投票区: 第九投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市青葉台1-7-26]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>67.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市青葉台1-7-26</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5964764,35.7934392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞中央公園（陸上競技場脇）</name>
+        <description><![CDATA[unnamed (1): 68<br>投票区: 第九投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市青葉台1-9]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>68.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市青葉台1-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5943505,35.7927576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第四中学校横</name>
+        <description><![CDATA[unnamed (1): 69<br>投票区: 第九投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市栄町5-1-60]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>69.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市栄町5-1-60</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5950447,35.7889678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞浄水場西交差点脇畑</name>
+        <description><![CDATA[unnamed (1): 70<br>投票区: 第十投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸1-1]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>70.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸1-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5869092,35.8224534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮戸市民センター前</name>
+        <description><![CDATA[unnamed (1): 71<br>投票区: 第十投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸1-2-60]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>71.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸1-2-60</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5894896,35.8250991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮戸ハケタ公園</name>
+        <description><![CDATA[unnamed (1): 72<br>投票区: 第十投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸4-6]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>72.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸4-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5920601,35.8259803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮戸児童遊園地</name>
+        <description><![CDATA[unnamed (1): 73<br>投票区: 第十投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸3-1]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>73.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸3-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5886958,35.8275987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前畑</name>
+        <description><![CDATA[unnamed (1): 74<br>投票区: 第十投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸4-12-9]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>74.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸4-12-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5940137,35.8225767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜崎橋脇</name>
+        <description><![CDATA[unnamed (1): 75<br>投票区: 第十投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸4-13]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>75.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸4-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5983584,35.8219946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮戸長塚児童遊園地</name>
+        <description><![CDATA[unnamed (1): 76<br>投票区: 第十投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸4-14]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>76.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸4-14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.59755,35.8230171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>道合児童遊園地</name>
+        <description><![CDATA[unnamed (1): 77<br>投票区: 第十投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸2-2002-2]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>77.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸2-2002-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5864759,35.8241357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第一高橋コーポ前（境久保バス停前）</name>
+        <description><![CDATA[unnamed (1): 78<br>投票区: 第十一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原2-17-21]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>78.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原2-17-21</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5767322,35.8166044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三原・東上線歩道トンネル</name>
+        <description><![CDATA[unnamed (1): 79<br>投票区: 第十一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原3-1519-2]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>79.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原3-1519-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5774173,35.8205911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六道第二児童遊園地</name>
+        <description><![CDATA[unnamed (1): 80<br>投票区: 第十一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原2-20]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>80.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原2-20</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5773215,35.8183414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>六道児童遊園地</name>
+        <description><![CDATA[unnamed (1): 81<br>投票区: 第十一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原2-22]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>81.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原2-22</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5794356,35.8161654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東武鉄道フェンス（三原）</name>
+        <description><![CDATA[unnamed (1): 82<br>投票区: 第十一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原3-19]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>82.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原3-19</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5820087,35.8176993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>星の森児童遊園地</name>
+        <description><![CDATA[unnamed (1): 83<br>投票区: 第十一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原3-35]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>83.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原3-35</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5798148,35.818409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>境久保児童遊園地</name>
+        <description><![CDATA[unnamed (1): 84<br>投票区: 第十一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原4-13　]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>84.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原4-13　</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5757104,35.8173933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北朝霞陸橋高架下（三原）</name>
+        <description><![CDATA[unnamed (1): 85<br>投票区: 第十一投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原3-16]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>85.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原3-16</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.583117,35.8160105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北朝霞陸橋高架下</name>
+        <description><![CDATA[unnamed (1): 86<br>投票区: 第十二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市朝志ヶ丘1-1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>86.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市朝志ヶ丘1-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5837606,35.817032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北朝霞保育園前</name>
+        <description><![CDATA[unnamed (1): 87<br>投票区: 第十二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市朝志ヶ丘1-3-26]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>87.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市朝志ヶ丘1-3-26</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.584334,35.8180201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>慶應志木高校フェンス</name>
+        <description><![CDATA[unnamed (1): 88<br>投票区: 第十二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市朝志ヶ丘2-11]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>88.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市朝志ヶ丘2-11</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.57761,35.8217057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北朝霞公民館前</name>
+        <description><![CDATA[unnamed (1): 89<br>投票区: 第十二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市朝志ヶ丘1-4-1]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>89.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市朝志ヶ丘1-4-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5843511,35.8197661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東武鉄道脇フェンス（朝志ヶ丘）</name>
+        <description><![CDATA[unnamed (1): 90<br>投票区: 第十二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市朝志ヶ丘1-6]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>90.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市朝志ヶ丘1-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5797304,35.8194871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>村山クリニック先 東武鉄道フェンス（朝志ヶ丘）</name>
+        <description><![CDATA[unnamed (1): 91<br>投票区: 第十二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市朝志ヶ丘1-7]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>91.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市朝志ヶ丘1-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5773173,35.8210924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝志ヶ丘東児童遊園地</name>
+        <description><![CDATA[unnamed (1): 92<br>投票区: 第十二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市朝志ヶ丘3-9]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>92.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市朝志ヶ丘3-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5830062,35.8220084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜崎団地裏</name>
+        <description><![CDATA[unnamed (1): 93<br>投票区: 第十二投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市朝志ヶ丘1-2]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>93.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市朝志ヶ丘1-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5829942,35.819024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅ビニールハウス向かい</name>
+        <description><![CDATA[unnamed (1): 94<br>投票区: 第十三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台2-1059-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>94.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台2-1059-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.601623,35.8053809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東朝霞保育園裏</name>
+        <description><![CDATA[unnamed (1): 95<br>投票区: 第十三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台1-5-27]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>95.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台1-5-27</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6022395,35.8025912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅裏</name>
+        <description><![CDATA[unnamed (1): 96<br>投票区: 第十三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台4-2-36]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>96.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台4-2-36</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6048879,35.8030218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[unnamed (1): 97<br>投票区: 第十三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台5-18-6]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>97.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台5-18-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6058576,35.8017148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞駅東口原動機付自転車駐車場</name>
+        <description><![CDATA[unnamed (1): 98<br>投票区: 第十三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市仲町1-1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>98.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市仲町1-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6001817,35.7983054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>まぼり東公園（西側）</name>
+        <description><![CDATA[unnamed (1): 99<br>投票区: 第十三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台5-15]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>99.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台5-15</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.60466,35.8013897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>本町隧道</name>
+        <description><![CDATA[unnamed (1): 100<br>投票区: 第十三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市岡1-3]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>100.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市岡1-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5989743,35.8029863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>まぼり東公園（東側）</name>
+        <description><![CDATA[unnamed (1): <br>投票区: 第十三投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台5-15]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台5-15</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6052568,35.8013603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越戸公園</name>
+        <description><![CDATA[unnamed (1): 101<br>投票区: 第十四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市栄町1-5]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>101.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市栄町1-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.600645,35.7909492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南の風公園</name>
+        <description><![CDATA[unnamed (1): 102<br>投票区: 第十四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町3-6]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>102.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町3-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5986102,35.7926265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栄町第７児童遊園地</name>
+        <description><![CDATA[unnamed (1): 103<br>投票区: 第十四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市栄町2-12]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>103.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市栄町2-12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5999764,35.7873408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>はなみずき公園</name>
+        <description><![CDATA[unnamed (1): 104<br>投票区: 第十四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市栄町1-7]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>104.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市栄町1-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6017827,35.7917111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>原畑随道上交差道路フェンス</name>
+        <description><![CDATA[unnamed (1): 105<br>投票区: 第十四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町3-2]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>105.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町3-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6008101,35.7944764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>図書館駐車場フェンス</name>
+        <description><![CDATA[unnamed (1): 106<br>投票区: 第十四投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町3-5]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>106.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町3-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5964994,35.7930862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前駐車場</name>
+        <description><![CDATA[unnamed (1): 107<br>投票区: 第十四投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町3-6]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>107.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町3-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5992713,35.7925895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広沢公園</name>
+        <description><![CDATA[unnamed (1): 108<br>投票区: 第十四投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町3-2]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>108.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町3-2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6001235,35.7943502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青葉台公園</name>
+        <description><![CDATA[unnamed (1): 109<br>投票区: 第十五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字膝折2]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>109.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字膝折2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5905176,35.7968093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>青葉台公園</name>
+        <description><![CDATA[unnamed (1): 110<br>投票区: 第十五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字膝折2]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>110.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字膝折2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5917354,35.7963155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所駐輪場網フェンス</name>
+        <description><![CDATA[unnamed (1): 111<br>投票区: 第十五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町1-1-1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>111.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町1-1-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5943678,35.7974973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>保健センター</name>
+        <description><![CDATA[unnamed (1): 112<br>投票区: 第十五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町1-7-3]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>112.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町1-7-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5932467,35.7984877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>カネコビル向かいフェンス</name>
+        <description><![CDATA[unnamed (1): 113<br>投票区: 第十五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町2-13]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>113.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町2-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5996143,35.797578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>あかね公園</name>
+        <description><![CDATA[unnamed (1): 114<br>投票区: 第十五投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町2-3]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>114.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町2-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5983043,35.7956289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞駅南口ロータリーバス降車場先
+（東武鉄道フェンス）</name>
+        <description><![CDATA[unnamed (1): 115<br>投票区: 第十五投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町2-13]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>115.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町2-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6001481,35.7962009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞市消防団第５分団隣</name>
+        <description><![CDATA[unnamed (1): 116<br>投票区: 第十五投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市本町2-1858]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>116.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市本町2-1858</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5971412,35.7964524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>向原公園</name>
+        <description><![CDATA[unnamed (1): 117<br>投票区: 第十六投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台7-48]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>117.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台7-48</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6076924,35.7984087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水久保公園</name>
+        <description><![CDATA[unnamed (1): 118<br>投票区: 第十六投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台7-16]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>118.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台7-16</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6099588,35.7950137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>郷戸緑地北側フェンス</name>
+        <description><![CDATA[unnamed (1): 119<br>投票区: 第十六投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台8-9]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>119.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台8-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6113406,35.8023862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前畑</name>
+        <description><![CDATA[unnamed (1): 120<br>投票区: 第十六投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台7-1034-1]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>120.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台7-1034-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6079425,35.7966769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東かすみ台児童遊園地</name>
+        <description><![CDATA[unnamed (1): 121<br>投票区: 第十六投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台7-31]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>121.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台7-31</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6115775,35.7959336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>根岸台保育園</name>
+        <description><![CDATA[unnamed (1): 122<br>投票区: 第十六投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台8-2-41]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>122.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台8-2-41</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6105412,35.7991012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅入口脇</name>
+        <description><![CDATA[unnamed (1): 123<br>投票区: 第十六投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市根岸台8-2-8]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>123.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市根岸台8-2-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6097253,35.8011075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三原公園</name>
+        <description><![CDATA[unnamed (1): 124<br>投票区: 第十七投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市三原1-24]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>124.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市三原1-24</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5795138,35.8129202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>溝沼浄水場跡地前</name>
+        <description><![CDATA[unnamed (1): 125<br>投票区: 第十七投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市西弁財1-7-3]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>125.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市西弁財1-7-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5835491,35.8143073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南割公園</name>
+        <description><![CDATA[unnamed (1): 126<br>投票区: 第十七投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市西弁財1-12]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>126.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市西弁財1-12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.584531,35.8149624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ドリームパレス前</name>
+        <description><![CDATA[unnamed (1): 127<br>投票区: 第十七投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市西弁財2-2-18]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>127.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市西弁財2-2-18</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5815719,35.8127914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞台駅南口第一自転車駐車場</name>
+        <description><![CDATA[unnamed (1): 128<br>投票区: 第十七投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市東弁財1-8-26]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>128.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市東弁財1-8-26</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5854726,35.8141032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西久保公園</name>
+        <description><![CDATA[unnamed (1): 129<br>投票区: 第十七投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市東弁財2-13]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>129.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市東弁財2-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5871508,35.812985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>弁財公園</name>
+        <description><![CDATA[unnamed (1): 130<br>投票区: 第十七投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市東弁財3-12]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>130.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市東弁財3-12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5833233,35.81196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞台駅南口第一自転車駐車場北側</name>
+        <description><![CDATA[unnamed (1): 131<br>投票区: 第十七投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市東弁財1-8-26]]></description>
+        <styleUrl>#icon-1899-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>131.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市東弁財1-8-26</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5851521,35.8142381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北割公園</name>
+        <description><![CDATA[unnamed (1): 132<br>投票区: 第十八投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市西原2-6]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>132.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市西原2-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5848638,35.8172251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道沿い果樹園（梅）</name>
+        <description><![CDATA[unnamed (1): 133<br>投票区: 第十八投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市朝志ヶ丘4-10]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>133.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市朝志ヶ丘4-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5836628,35.8241577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北朝霞駅東口第一原動機付自転車駐車場北側</name>
+        <description><![CDATA[unnamed (1): 134<br>投票区: 第十八投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市浜崎1-8]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>134.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市浜崎1-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5889229,35.8166538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>浜崎公園</name>
+        <description><![CDATA[unnamed (1): 135<br>投票区: 第十八投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市浜崎3-7]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>135.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市浜崎3-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5911111,35.8165189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北朝霞公園</name>
+        <description><![CDATA[unnamed (1): 136<br>投票区: 第十八投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市北原1-3]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>136.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市北原1-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5887192,35.817931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第七小学校体育館裏</name>
+        <description><![CDATA[unnamed (1): 137<br>投票区: 第十八投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市北原2-6]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>137.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市北原2-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5872172,35.8201239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第七小学校前</name>
+        <description><![CDATA[unnamed (1): 138<br>投票区: 第十八投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市北原2-6]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>138.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市北原2-6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5863482,35.8192627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>北朝霞駅東口第一原動機付自転車駐車場</name>
+        <description><![CDATA[unnamed (1): 139<br>投票区: 第十八投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市浜崎1-8-17]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>139.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市浜崎1-8-17</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5890195,35.8164777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅裏</name>
+        <description><![CDATA[unnamed (1): 140<br>投票区: 第十九投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町2-10-26]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>140.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町2-10-26</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5815341,35.7918019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>膝折団地３号棟東側</name>
+        <description><![CDATA[unnamed (1): 141<br>投票区: 第十九投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町2-1615-4]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>141.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町2-1615-4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5798264,35.7931478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[unnamed (1): 142<br>投票区: 第十九投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町2-6-48]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>142.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町2-6-48</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5811677,35.794626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>膝折団地　集会所前</name>
+        <description><![CDATA[unnamed (1): 143<br>投票区: 第十九投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町2-9]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>143.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町2-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5805203,35.7931814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>膝折団地　1号棟脇</name>
+        <description><![CDATA[unnamed (1): 144<br>投票区: 第十九投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町2-9]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>144.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町2-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.581223,35.7927898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>膝折第二市街地住宅１号棟裏</name>
+        <description><![CDATA[unnamed (1): 145<br>投票区: 第十九投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町2-9]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>145.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町2-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5800294,35.7939233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県道朝霞蕨線歩道（旧朝霞警察署西側）</name>
+        <description><![CDATA[unnamed (1): 146<br>投票区: 第十九投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町2-1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>146.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第十九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町2-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5851714,35.7901137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東林橋脇</name>
+        <description><![CDATA[unnamed (1): 147<br>投票区: 第二十投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字溝沼441]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>147.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字溝沼441</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5886432,35.8105942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>溝沼市民センター</name>
+        <description><![CDATA[unnamed (1): 148<br>投票区: 第二十投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字溝沼1057-3]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>148.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字溝沼1057-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5873403,35.8077068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>マルエツ朝霞溝沼店駐車場</name>
+        <description><![CDATA[unnamed (1): 149<br>投票区: 第二十投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市溝沼4-1-9]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>149.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市溝沼4-1-9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.585545,35.8029162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>溝沼団地児童遊園地</name>
+        <description><![CDATA[unnamed (1): 150<br>投票区: 第二十投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市溝沼5-16]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>150.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市溝沼5-16</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5893147,35.8046223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[unnamed (1): 151<br>投票区: 第二十投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市溝沼5-20-16]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>151.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市溝沼5-20-16</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5880835,35.805187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞第三中学校第二グラウンド</name>
+        <description><![CDATA[unnamed (1): 153<br>投票区: 第二十投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字溝沼511]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>153.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字溝沼511</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5850893,35.8087171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>溝沼学校給食センター</name>
+        <description><![CDATA[unnamed (1): 154<br>投票区: 第二十投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字溝沼1029-8]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>154.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字溝沼1029-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5855068,35.805062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[unnamed (1): 155<br>投票区: 第二十一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市泉水3-1-5]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>155.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市泉水3-1-5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5817448,35.8042241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コープデリ朝霞センター</name>
+        <description><![CDATA[unnamed (1): 156<br>投票区: 第二十一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町4-20-15]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>156.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町4-20-15</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5769365,35.8007341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>島の上バス停後ろ</name>
+        <description><![CDATA[unnamed (1): 157<br>投票区: 第二十一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市泉水1-8]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>157.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市泉水1-8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5764061,35.8043184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉水公園</name>
+        <description><![CDATA[unnamed (1): 158<br>投票区: 第二十一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市泉水2-12]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>158.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市泉水2-12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5786382,35.8047995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西朝霞公民館駐車場</name>
+        <description><![CDATA[unnamed (1): 160<br>投票区: 第二十一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町4-19-1]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>160.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町4-19-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5795505,35.8015729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>いずみ公園</name>
+        <description><![CDATA[unnamed (1): 161<br>投票区: 第二十一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市泉水1-3]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>161.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市泉水1-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5755266,35.8005625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>シャルマンコーポ第２朝霞　斜め向かい徳生駐車場</name>
+        <description><![CDATA[unnamed (1): 162<br>投票区: 第二十二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町1-10]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>162.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町1-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5832612,35.7954046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>膝折市民センター前</name>
+        <description><![CDATA[unnamed (1): 163<br>投票区: 第二十二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町1-7-40]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>163.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町1-7-40</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5847532,35.7944937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>膝折町1-559-1　アパート向かいの塀</name>
+        <description><![CDATA[unnamed (1): 164<br>投票区: 第二十二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町1-559]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>164.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町1-559</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5841412,35.7928515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アルファスポーツ向かいの畑</name>
+        <description><![CDATA[unnamed (1): 165<br>投票区: 第二十二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町1-639-3]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>165.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町1-639-3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5860992,35.7977248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>よしくにパーキング</name>
+        <description><![CDATA[unnamed (1): 166<br>投票区: 第二十二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町1-597]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>166.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町1-597</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5836852,35.7956058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳生第３駐車場</name>
+        <description><![CDATA[unnamed (1): 167<br>投票区: 第二十二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町1-625]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>167.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町1-625</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5839615,35.7967132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徳生第４駐車場（末無川交差点付近）</name>
+        <description><![CDATA[unnamed (1): 168<br>投票区: 第二十二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町1-589]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>168.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町1-589</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5837389,35.7951272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮戸高橋第２駐車場</name>
+        <description><![CDATA[unnamed (1): 169<br>投票区: 第二十三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸3-18]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>169.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸3-18</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.585915,35.8294831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>（仮称）宮戸２丁目公園</name>
+        <description><![CDATA[unnamed (1): 170<br>投票区: 第二十三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸2-13]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>170.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸2-13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5864326,35.8263898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮戸大山公園</name>
+        <description><![CDATA[unnamed (1): 171<br>投票区: 第二十三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸3-7]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>171.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸3-7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5838844,35.8287321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝霞たちばな幼稚園前</name>
+        <description><![CDATA[unnamed (1): 172<br>投票区: 第二十三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸3-7-1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>172.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸3-7-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5837401,35.827084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮戸３丁目新河岸川付近道路フェンス</name>
+        <description><![CDATA[unnamed (1): 173<br>投票区: 第二十三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸3-20-30]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>173.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸3-20-30</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5879755,35.8301696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮戸３丁目児童遊園地</name>
+        <description><![CDATA[unnamed (1): 174<br>投票区: 第二十三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸3-18]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>174.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸3-18</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5859807,35.8302877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>やつじ公園</name>
+        <description><![CDATA[unnamed (1): 175<br>投票区: 第二十三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県朝霞市宮戸3-10]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>175.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市宮戸3-10</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.580791,35.8286361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サングループ朝霞工場西側</name>
+        <description><![CDATA[unnamed (1): 159<br>投票区: 第二十一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県朝霞市膝折町4-17-26]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>159.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市膝折町4-17-26</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5777748,35.7989739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>溝沼市民センター駐車場</name>
+        <description><![CDATA[unnamed (1): 152<br>投票区: 第二十投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県朝霞市大字溝沼1058-1]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="unnamed (1)">
+            <value>152.0</value>
+          </Data>
+          <Data name="投票区">
+            <value>第二十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県朝霞市大字溝沼1058-1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5874608,35.8073056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>無題のレイヤ</name>
+    </Folder>
+  </Document>
+</kml>

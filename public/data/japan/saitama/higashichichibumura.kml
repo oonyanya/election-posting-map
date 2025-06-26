@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>東秩父村ポスター掲示場設置場所一覧</name>
+    <description/>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>04 マイマップ作成用.xlsx</name>
+      <Placemark>
+        <name> 鶴川次作氏宅敷地内</name>
+        <address>埼玉県東秩父村安戸３３</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県東秩父村安戸３３]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村安戸３３</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name> 野沢昇氏駐車場</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県東秩父村安戸５８－１]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村安戸５８－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2258397,36.0493735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 高齢者生きがいセンター前</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県東秩父村安戸４３４－１]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村安戸４３４－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2219012,36.0499605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 鷹野武士氏宅脇</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県東秩父村安戸２７５－１先]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村安戸２７５－１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.221236,36.0532219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ ＮailＳalon R"mコバヤシ裏]]></name>
+        <address>埼玉県東秩父村安戸４４０</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県東秩父村安戸４４０]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村安戸４４０</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name> 東秩父消防団１－１（安戸）詰所脇</name>
+        <address>埼玉県東秩父村安戸６２７－１</address>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県東秩父村安戸６２７－１]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村安戸６２７－１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name> 旧滝沢工務所資材置場脇（鷹野氏土地）</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県東秩父村安戸５２６－１]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村安戸５２６－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2156571,36.0500472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 帯沢消防車庫脇（護守克行氏畑）</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県東秩父村安戸８８０－５]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村安戸８８０－５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2122238,36.0460569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 嶋田幸江氏宅前畑</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県東秩父村御堂４７－１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村御堂４７－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2107291,36.0504317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川下農村文化センター村道向い側地</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県東秩父村御堂２１６－５]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村御堂２１６－５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2101405,36.0490159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 陣川橋起点の植え込み</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県東秩父村御堂３７４－１先]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村御堂３７４－１先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2057723,36.0517414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 江原節子氏宅県道向い側畑</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県東秩父村奥沢１３]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村奥沢１３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.2038998,36.0547522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 役場敷地内</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県東秩父村御堂６３４]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村御堂６３４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1948544,36.0580013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 植松裕司氏宅前</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県東秩父村奥沢２１４]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村奥沢２１４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1950354,36.0588659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> 江原弘氏宅前畑</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県東秩父村奥沢３６４－２]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村奥沢３６４－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1891398,36.0612155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フイッシングセンター跡地前</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県東秩父村御堂１３９９－２]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村御堂１３９９－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1898508,36.0388074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萩平集荷所(常光寺下)</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県東秩父村御堂１１３９－１]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村御堂１１３９－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1866536,36.0363435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萩帯林道起点付近</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 10<br>ポスター掲示場の設置場所: 埼玉県東秩父村御堂１３０２－４先]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>10.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村御堂１３０２－４先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1885633,36.0343827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高田 一氏宅前畑</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県東秩父村坂本９２－１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村坂本９２－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1859949,36.0637371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高田浩貴氏駐車場</name>
+        <address>埼玉県東秩父村坂本５８－１</address>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県東秩父村坂本５８－１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村坂本５８－１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>上ノ山入口(案内板脇)</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県東秩父村坂本１１９９－１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村坂本１１９９－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.180683,36.0618964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>保泉時計店駐車場</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県東秩父村坂本１２１５－１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村坂本１２１５－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1790093,36.0601618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東秩父村保健センター内</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県東秩父村坂本１２８４－１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村坂本１２８４－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1792038,36.0577317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東秩父村ふれあいセンター槻川入口</name>
+        <address>埼玉県東秩父村坂本１５６１先</address>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県東秩父村坂本１５６１先]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村坂本１５６１先</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>柴入口（福島芳氏畑）</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県東秩父村坂本１３９３－１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村坂本１３９３－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.178387,36.0550097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大内沢みかん園駐車場</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県東秩父村大内沢３－１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村大内沢３－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1797198,36.0714053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>居用橋際(野口英夫氏畑)</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県東秩父村大内沢２１８－１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村大内沢２１８－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1788829,36.0746658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東秩父村ふるさと館入口（恒木甫哉氏畑）</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県東秩父村大内沢６８９－４]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村大内沢６８９－４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1779816,36.0775447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>モーターハウスのぐち前（恒木剛氏畑）</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県東秩父村大内沢７３３－１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村大内沢７３３－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1760826,36.0796605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>井戸センター敷地内</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県東秩父村大内沢１２２２－１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村大内沢１２２２－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1750419,36.0818369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上ノ貝戸入口（神田義光氏畑）</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県東秩父村大内沢１３０１－４]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村大内沢１３０１－４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1728962,36.0841693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大宝入口（吉沢正利氏畑）</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県東秩父村大内沢１３１１－１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村大内沢１３１１－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1722167,36.0852286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>栗和田入口（橋場）</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県東秩父村皆谷１－１]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村皆谷１－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1781487,36.0512052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>関口真琴氏車庫脇</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県東秩父村皆谷８－３]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村皆谷８－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1779579,36.0491192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小安戸入口（関口博司氏畑）</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県東秩父村皆谷３７－３]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村皆谷３７－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.178492,36.0452198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>皆谷集落農業センター駐車場</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県東秩父村皆谷８３－２]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村皆谷８３－２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1779341,36.0418018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヤマメの里公園駐車場脇</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県東秩父村皆谷１２７－３]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村皆谷１２７－３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.177505,36.0384879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>吉沢三恵子氏宅入口上（吉田實氏倉庫）</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県東秩父村皆谷７２６－２６]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村皆谷７２６－２６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1759317,36.0356913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧朝日根飼育所前（礒田博安氏田）</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県東秩父村皆谷５４１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村皆谷５４１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1713252,36.0339938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>故渡辺源蔵氏宅前畑</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県東秩父村白石１６－１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村白石１６－１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1711475,36.0246839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>児童遊園地</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県東秩父村白石２２０]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村白石２２０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.1694952,36.0219766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白石農村センター敷地内</name>
+        <address>埼玉県東秩父村白石７６８－１</address>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 9<br>ポスター掲示場の設置場所: 埼玉県東秩父村白石７６８－１]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>9.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村白石７６８－１</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>鈴木茂氏駐車場</name>
+        <address>埼玉県東秩父村白石７１８</address>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 10<br>ポスター掲示場の設置場所: 埼玉県東秩父村白石７１８]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>10.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県東秩父村白石７１８</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

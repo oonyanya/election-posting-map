@@ -1,0 +1,3349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>桶川市ポスター掲示場設置場所一覧</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>桶川市ポスター掲示場設置場所一覧</name>
+      <Placemark>
+        <name>スクールＩＥ桶川東口校脇駐車場</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市東１丁目１番１０脇]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市東１丁目１番１０脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5672091,36.0004716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中山道桶川中央マンション向</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市東２丁目４番２４号]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市東２丁目４番２４号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5698312,35.9965876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駅東口市内循環バス乗場</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市南１丁目１番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市南１丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5648681,35.9980897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駅東口自転車駐輪場フェンス（東側）</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市南１丁目１番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市南１丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5657318,35.9973302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駅東口自転車駐輪場フェンス（南側）</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市南１丁目１番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市南１丁目１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5657479,35.9972261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ことぶき広場（東側）</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市寿１丁目８番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市寿１丁目８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5645165,36.0004011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ことぶき広場（西側）</name>
+        <description><![CDATA[投票区: 第一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市寿１丁目８番]]></description>
+        <styleUrl>#icon-1899-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市寿１丁目８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5643234,35.9997805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲荷神社（南西側）</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市寿２丁目１４番２３号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市寿２丁目１４番２３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5655384,36.0038458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稲荷通り民家際</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市北１丁目１２番１０号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市北１丁目１２番１０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5633054,36.0056438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川消防署（南東側）（国道１７号線側）</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市北１丁目２５番２３号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市北１丁目２５番２３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.564485,36.008278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧大寿司前駐車場</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市北１丁目２２番]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市北１丁目２２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5659708,36.0049164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>勤労福祉会館（東側）</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市北１丁目１２番１０号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市北１丁目１２番１０号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5638006,36.0056724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第二細谷マンション脇</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市北２丁目７番]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市北２丁目７番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5590543,36.0095852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家西側駐車場</name>
+        <description><![CDATA[投票区: 第二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市北２丁目１番５号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市北２丁目１番５号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5605842,36.0058324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川小学校北東（西一郵便局側）</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市西１丁目４番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市西１丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5606816,36.0046445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川小学校（南西側）</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市西１丁目４番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市西１丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5605851,36.0029563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>べにばな陸橋下駐車場</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市西２丁目３番]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市西２丁目３番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5592662,36.0042976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>マメトラショッピングパーク（北東側）</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市西２丁目９番地の３６]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市西２丁目９番地の３６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5577656,36.008185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県央病院西側</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市大字坂田１７２６番地]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田１７２６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5608039,36.0111198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サイクルベースあさひ脇民家際</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市大字加納３７番地の１]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字加納３７番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5558437,36.0104035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川武蔵野台文化村公園</name>
+        <description><![CDATA[投票区: 第三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市大字加納８６番地の５]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字加納８６番地の５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5549783,36.0141752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝日中央公園第５分団器具置場際</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市朝日１丁目２２番]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市朝日１丁目２２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5663659,35.9916319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝日公園（北側）</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市朝日１丁目２９番]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市朝日１丁目２９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5652911,35.9898784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝日南公園（西側）</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市朝日２丁目６番]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市朝日２丁目６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.572433,35.9890773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝日小学校（正門側）</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市朝日２丁目１８番]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市朝日２丁目１８番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5707092,35.9897817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝日３丁目会館前</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市朝日３丁目４番１１号]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市朝日３丁目４番１１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5682311,35.9894164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神明１丁目会館入口際駐車場</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市神明１丁目１番１号]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市神明１丁目１番１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5689951,35.9944336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>神明公園（北側）</name>
+        <description><![CDATA[投票区: 第四投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市神明２丁目９番]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市神明２丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5738776,35.9895248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川駅西口広場（北側）</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市若宮１丁目２番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市若宮１丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5634865,35.9989113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川駅西口広場（南側）</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市若宮１丁目２番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市若宮１丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5639479,35.9984382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>駅西口公園（北側）</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市若宮１丁目５番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市若宮１丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5609144,35.9976394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川市民ホール西側</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市若宮１丁目５番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市若宮１丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5601742,35.9959468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>若宮東公園（東側）</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市若宮２丁目３５番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市若宮２丁目３５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.567324,35.9953434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>若宮西公園（南側）</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市若宮２丁目１１番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市若宮２丁目１１番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5647948,35.9953147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家向駐車場(民家脇)</name>
+        <description><![CDATA[投票区: 第五投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市若宮２丁目１６番]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市若宮２丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5662069,35.9956511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市泉１丁目１５番３２号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市泉１丁目１５番３２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5557758,35.9987293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市鴨川１丁目１番３２号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市鴨川１丁目１番３２号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5549878,35.9972955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川郵便局向民家際</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市鴨川１丁目１番５１号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市鴨川１丁目１番５１号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5573429,35.9986966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>商工会館（南側）</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市鴨川１丁目４番３号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市鴨川１丁目４番３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5588597,35.9966264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川公園（東側）</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市鴨川２丁目１６番]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市鴨川２丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5579744,35.9924975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鴨川公園（西側）</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市鴨川２丁目１６番]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市鴨川２丁目１６番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5573695,35.9924997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>保健センター（東側）</name>
+        <description><![CDATA[投票区: 第六投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市鴨川１丁目４番３号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市鴨川１丁目４番３号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5588704,35.9971732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市役所来客用駐車場際</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市泉１丁目２番１０号脇]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市泉１丁目２番１０号脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5589047,36.0028995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市泉１丁目８番２６号]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市泉１丁目８番２６号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5571956,36.0005641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川中学校（東側）（市役所前通り側）</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市泉１丁目５番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市泉１丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5605867,36.0010339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川中学校（正門側）</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市泉１丁目５番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市泉１丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5594709,36.0000054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三共理化学㈱（南東側）</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市泉２丁目２番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市泉２丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5562586,36.0048214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JRアパート児童公園（桶川ビレッジ東側）</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市泉２丁目１２番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市泉２丁目１２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5547314,36.0025041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第七投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市泉２丁目５番]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市泉２丁目５番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5568186,36.0026457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市大字上日出谷４５３番地の１]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字上日出谷４５３番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5381156,36.009663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>殿山団地自治会館脇</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市大字上日出谷８３１番地の８]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字上日出谷８３１番地の８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5444567,36.0091684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日出谷小学校正門向</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市大字上日出谷３２７番地の１]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字上日出谷３２７番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5399757,36.0070523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家脇</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市上日出谷南２丁目２９番地の１６]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市上日出谷南２丁目２９番地の１６</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5396501,36.0057602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日出谷小学校（東側）（プール側）</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市大字上日出谷８８５番地]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字上日出谷８８５番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5417812,36.0081656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川市役所旧分庁舎（南側）</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市上日出谷南３丁目４番地の１]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市上日出谷南３丁目４番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5434676,36.0054558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛宕幼稚園脇十字路際駐車場</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市上日出谷南１丁目３４番地の１]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市上日出谷南１丁目３４番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5405459,36.0003358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上日出谷宮公園（東側）</name>
+        <description><![CDATA[投票区: 第八投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 桶川市上日出谷南１丁目４２番地]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市上日出谷南１丁目４２番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5392048,36.001846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上日出谷原公園（北側）</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市上日出谷南１丁目４４番地]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市上日出谷南１丁目４４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5459103,36.003148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ガソリンスタンド前ポケットパーク</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市大字上日出谷１２４４番地の１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字上日出谷１２４４番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5495774,36.0049961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上日出谷原新田広場(西側)</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市上日出谷南１丁目４番]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市上日出谷南１丁目４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5479541,36.0024753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日出谷団地北入口際調整池</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市大字下日出谷９６９番地の３４]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字下日出谷９６９番地の３４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5502717,36.0038051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日出谷団地南児童公園</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市大字下日出谷９４３番地の７７]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字下日出谷９４３番地の７７</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5519726,36.0016685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下日出谷中央公園（西側）</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市下日出谷東３丁目４]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市下日出谷東３丁目４</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5502286,35.9994411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西小学校（北側）（プール側）</name>
+        <description><![CDATA[投票区: 第九投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市大字下日出谷８３６番地の１]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第九投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字下日出谷８３６番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5478838,36.0007075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西小学校（西側）</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市大字下日出谷８４１番地]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字下日出谷８４１番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5473176,35.9987957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東観団地児童遊園地</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市大字下日出谷７２５番地の１]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字下日出谷７２５番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5446154,35.9988759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下日出谷第３公園（南側）</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市下日出谷西１丁目３０番地]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市下日出谷西１丁目３０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5478522,35.9951363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下日出谷東記念碑公園（南側）</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市下日出谷東１丁目９番]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市下日出谷東１丁目９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.553105,35.9956042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下日出谷第２公園（南西側）</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市下日出谷西１丁目４番地]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市下日出谷西１丁目４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.55047,35.9927925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川サン・アリーナ北東側</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市下日出谷西２丁目４番地の１]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市下日出谷西２丁目４番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5458905,35.9940869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>下日出谷第１公園（南側）</name>
+        <description><![CDATA[投票区: 第十投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市下日出谷西３丁目４番地]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市下日出谷西３丁目４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.543725,35.9955971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ヨークマート向十字路際駐車場</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市末広１丁目２番]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市末広１丁目２番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5707588,36.0023407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>総合福祉センター東側入口際</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市末広２丁目８番２９号]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市末広２丁目８番２９号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5715439,36.0063912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>末広二丁目児童遊園地（東側）</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市末広２丁目１０番]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市末広２丁目１０番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5727699,36.0065916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>総合福祉センターバス停留所側駐車場</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市末広２丁目８番１５号脇]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市末広２丁目８番１５号脇</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5701315,36.006771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東中学校西側（校門脇）</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市末広３丁目１９番]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市末広３丁目１９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5703858,36.0090052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>旧桶川市東部市民サービスセンター際</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市末広３丁目１９番８号]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市末広３丁目１９番８号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5707078,36.0098452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東中学校（南側）（校庭側）</name>
+        <description><![CDATA[投票区: 第十一投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市末広３丁目１９番]]></description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十一投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市末広３丁目１９番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5717966,36.0080809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小松住宅（１）児童遊園地（南側）</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市大字坂田６０９番地の２３]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田６０９番地の２３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5735651,36.014788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東小学校（西側）</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市大字坂田２４３番地の１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田２４３番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5723302,36.0106088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東小学校（正門側）</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市大字坂田２３６番地の１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田２３６番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5739127,36.0099232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加藤マンション十字路際</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市坂田東１丁目２８番地の１]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市坂田東１丁目２８番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5759567,36.0109421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂田原南公園（北側）</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市坂田東１丁目４４番地]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市坂田東１丁目４４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5791368,36.0105823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂田弁天公園（北東側）</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市坂田東２丁目４番地]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市坂田東２丁目４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5749745,36.0131916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂田宮前公園（西側）</name>
+        <description><![CDATA[投票区: 第十二投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市坂田東３丁目１９番地]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十二投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市坂田東３丁目１９番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5760899,36.01521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>おけがわ団地(3)公園（加納中テニスコート向）</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市大字坂田９７１番地の２６８]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田９７１番地の２６８</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5708611,36.0206263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>おけがわ団地(2)公園（東側）</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市大字坂田９７１番地の２５０]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田９７１番地の２５０</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5715048,36.0175024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>おけがわ団地(1)公園（北西側）</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市大字坂田１２１４番地の１８３]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田１２１４番地の１８３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5673615,36.0174528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂田みどり公園（民家脇）</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市坂田西３丁目１４番]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市坂田西３丁目１４番</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5675147,36.0141747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市大字坂田１５０６番地の２５]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田１５０６番地の２５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5624083,36.0140445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ニトリ裏斜め向かい</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市大字坂田１５４６番地の１]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田１５４６番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5640397,36.0110237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>坂田保育所</name>
+        <description><![CDATA[投票区: 第十三投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市大字坂田１５５９番地の１]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十三投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田１５５９番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5678189,36.0120012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>べに花ふるさと館</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市大字加納４１９番地の１]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字加納４１９番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5620165,36.0172952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家脇十字路</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市大字加納５８３番地]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字加納５８３番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5627826,36.0208405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家東側</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市大字加納６７６番地]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字加納６７６番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5599586,36.025714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城跡団地入口丁字路際</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市大字加納２１１９番地の１]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字加納２１１９番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5686379,36.0260815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>後谷公園（北西側）</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市赤堀二丁目５番地の１]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市赤堀二丁目５番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5651111,36.0308466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>多気比売神社際</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市大字篠津５４番地の１]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字篠津５４番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5704339,36.0316885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第十四投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市大字五丁台１１４番地]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十四投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字五丁台１１４番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5809879,36.029928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加納小学校（南側）（プール側）</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市大字坂田８８４番地の１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田８８４番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5791829,36.0172624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川子ども公園わんぱく村（南西側）</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市大字坂田９８２番地の１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田９８２番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5725821,36.0188709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小針領家バス停留所脇</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市大字小針領家７２番地の１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字小針領家７２番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5833485,36.0097276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上尾桶川伊奈衛生組合入口際</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市大字小針領家１１６０番地]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字小針領家１１６０番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5874736,36.0271554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桶川ローヤルテニスクラブ入口際</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市大字倉田２９４番地の１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字倉田２９４番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5860651,36.0157835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>加納小学校（東側）（正門脇）</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市大字坂田８８４番地の１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字坂田８８４番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5797945,36.0179849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第十五投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市大字舎人新田７３４番地の１]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十五投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字舎人新田７３４番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5796424,36.0264993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央電工㈱入口交差点際</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市大字川田谷９７７番地]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷９７７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5356117,35.985236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田崎商店前十字路際</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市大字川田谷１１９２番地の５]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷１１９２番地の５</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.534217,35.9805393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>薬師堂自治会館西側児童遊園地際</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市大字川田谷８６１番地の２]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷８６１番地の２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5363435,35.9814082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市大字川田谷１７０８番地の１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷１７０８番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5283372,35.9816587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家脇丁字路際</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市大字川田谷１３２６番地の１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷１３２６番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5289884,35.9784713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家向丁字路際</name>
+        <description><![CDATA[投票区: 第十六投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市大字川田谷７２番地の１]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十六投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷７２番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5342706,35.974414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>愛宕神社際</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市大字川田谷３３６８番地]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷３３６８番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5336128,35.9920031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川田谷小学校（南側）（校庭側）</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市大字川田谷４２１５番地の３]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷４２１５番地の３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5308085,35.9981522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>第１０分団器具置場脇</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市大字川田谷４６８３番地の１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷４６８３番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5221137,35.9957892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>川田谷生涯学習センター入口際</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市大字川田谷３６８０番地の１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷３６８０番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5346396,36.0005377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>狐塚団地子供広場（西側）</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市大字川田谷２８８７番地]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷２８８７番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5282482,35.9894554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城山公園県道側入口際</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市大字川田谷２６１７番地の１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷２６１７番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5256768,35.9890037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三ツ木バス停留所際</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市大字川田谷２２２５番地の１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷２２２５番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5227854,35.9883049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>柏原バス停留所際</name>
+        <description><![CDATA[投票区: 第十七投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 桶川市大字川田谷２３８８番地の１]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十七投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷２３８８番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5186967,35.9876383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天沼商店脇丁字路際</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 1<br>ポスター掲示場の設置場所: 桶川市大字川田谷７３８１番地の２]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷７３８１番地の２</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5172903,35.9933413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 2<br>ポスター掲示場の設置場所: 桶川市大字川田谷７３４４番地の１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷７３４４番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5146257,35.996714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 3<br>ポスター掲示場の設置場所: 桶川市大字川田谷７３４６番地の１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷７３４６番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5163061,35.9969379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>市場自治会館（南側）</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 4<br>ポスター掲示場の設置場所: 桶川市大字川田谷６６９７番地の３]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷６６９７番地の３</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5215731,36.0055782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家際</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 5<br>ポスター掲示場の設置場所: 桶川市大字川田谷５７１７番地の１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷５７１７番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5257627,36.0048275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>諏訪神社（東側）</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 6<br>ポスター掲示場の設置場所: 桶川市大字川田谷６７１０番地の１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷６７１０番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5245093,36.0062942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前十字路際</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 7<br>ポスター掲示場の設置場所: 桶川市大字川田谷６１９０番地の１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷６１９０番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.52852,36.0099654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家前</name>
+        <description><![CDATA[投票区: 第十八投票区<br>設置番号: 8<br>ポスター掲示場の設置場所: 桶川市大字川田谷５９２７番地の１]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>第十八投票区</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>桶川市大字川田谷５９２７番地の１</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5349985,36.0044129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>無題のレイヤ</name>
+    </Folder>
+  </Document>
+</kml>
