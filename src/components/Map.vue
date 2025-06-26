@@ -11,6 +11,7 @@
     LTileLayer,
     LControlLayers,
     LTooltip,
+    LControl,
   } from "@vue-leaflet/vue-leaflet";
 
   const showModal = ref(false);
@@ -118,7 +119,10 @@
       city = url.get("city");
     if (url.has("status"))
       status = url.get("status");
-    pins.value = await fetchBoardPinsFromJson(region, state, city, status);
+    if (region != null && state != null && city != null)
+    {
+      pins.value = await fetchBoardPinsFromJson(region, state, city, status);
+    }
   }
 
   async function onCloseRestoreModal(uri_param) {
@@ -140,6 +144,7 @@
       LCircleMarker,
       LTooltip,
       Modal,
+      LControl,
     },
     setup() {
       return { showModal, user_input_for_state, pins };
@@ -159,8 +164,6 @@
   };
 </script>
 <template>
-  <button @click="clickCopyStateButton">状態をコピーする</button>
-  <button @click="onShowRestoreModal">復元する</button>
   <modal :show="showModal" @close="onCloseRestoreModal(user_input_for_state)">
     <template #body>
       <p>復元するにはここにペーストしてOKを押してください。</p>
@@ -182,6 +185,21 @@
           <a :href='"https://www.google.com/maps/search/" +pin.lat +","+pin.long' target="_blank" rel="noopener noreferrer">({{pin.lat}}, {{pin.long}})</a>
         </l-tooltip>
       </l-circle-marker>
+      <l-control class="leaflet-control leaflet-demo-control" position="bottomleft" @click="clickCopyStateButton">
+        コピーする
+      </l-control>
+      <l-control class="leaflet-control leaflet-demo-control" position="bottomleft" @click="onShowRestoreModal">
+        復元する
+      </l-control>
     </l-map>
   </div>
 </template>
+<style>
+  .leaflet-demo-control {
+    background: white;
+    border: 1px solid steelblue;
+    padding: 1em;
+    font-size: large;
+    font-style: italic;
+  }
+</style>
