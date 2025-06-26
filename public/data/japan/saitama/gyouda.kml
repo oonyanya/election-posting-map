@@ -1170,7 +1170,12 @@
             <value>埼玉県行田市城西5-9-26</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		  <Point>
+			  <coordinates>
+				  139.442169,36.133602,0
+			  </coordinates>
+		  </Point>
+	  </Placemark>
       <Placemark>
         <name>榎本紙工南側</name>
         <description><![CDATA[投票区: 3<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市持田812-1]]></description>
@@ -1250,7 +1255,12 @@
             <value>埼玉県行田市持田3-18-20</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		  <Point>
+			  <coordinates>
+				  139.439285,36.130653,0
+			  </coordinates>
+		  </Point>
+	  </Placemark>
       <Placemark>
         <name>東電鉄塔南側</name>
         <description><![CDATA[投票区: 4<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市持田4-1-5]]></description>
@@ -1288,7 +1298,12 @@
             <value>埼玉県行田市持田4-6-28</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.436371,36.129162,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>第２砂原北公園</name>
         <address>埼玉県行田市持田4-13-16</address>
@@ -1305,7 +1320,12 @@
             <value>埼玉県行田市持田4-13-16</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.434662,36.128979,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>寿司駒南</name>
         <description><![CDATA[投票区: 4<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市持田474-1]]></description>
@@ -1405,7 +1425,12 @@
           <Data name="ポスター掲示場の設置場所">
             <value>埼玉県行田市壱里山町18-8</value>
           </Data>
-        </ExtendedData>
+		<Point>
+			<coordinates>
+				139.432661,36.114284,0
+			</coordinates>
+		</Point>
+		</ExtendedData>
       </Placemark>
       <Placemark>
         <name>県営門井団地Ａ棟北側</name>
@@ -1507,7 +1532,12 @@
             <value>埼玉県行田市棚田町2-4-6</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.436127,36.12495,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>水道庁舎</name>
         <description><![CDATA[投票区: 6<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市前谷1-1]]></description>
@@ -1545,7 +1575,12 @@
             <value>埼玉県行田市門井町23</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.438629,36.120518,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>泉小学校北側</name>
         <description><![CDATA[投票区: 6<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県行田市持田70]]></description>
@@ -1604,7 +1639,12 @@
             <value>埼玉県行田市深水町5</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.442139,36.126183,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>エステートサイトウＡ棟北側</name>
         <description><![CDATA[投票区: 6<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市門井町3-4]]></description>
@@ -1894,7 +1934,12 @@
             <value>埼玉県行田市佐間3-10-5</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.469284,36.126099,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>栄文堂裏</name>
         <description><![CDATA[投票区: 8<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市佐間3-8-5]]></description>
@@ -2144,7 +2189,12 @@
             <value>埼玉県行田市長野4676</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.476059,36.131039,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>白山姫神社南側</name>
         <address>埼玉県行田市長野5963</address>
@@ -2161,7 +2211,12 @@
             <value>埼玉県行田市長野5963</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.482956,36.132599,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>東小学校</name>
         <description><![CDATA[投票区: 10<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県行田市長野2-26-8]]></description>
@@ -3606,7 +3661,12 @@
             <value>若小玉3741-1</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.496811,36.14798,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>八幡山公園</name>
         <address>藤原町1-27</address>
@@ -3623,7 +3683,12 @@
             <value>藤原町1-27</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.486877,36.142738,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>若小玉中央自治会館</name>
         <address>若小玉2268-1</address>
@@ -3640,7 +3705,12 @@
             <value>若小玉2268-1</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.486908,36.149487,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>勝呂団地西側</name>
         <description><![CDATA[投票区: 20<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県行田市若小玉2666-1]]></description>
@@ -3699,7 +3769,12 @@
             <value>藤原町3-12-3</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.486298,36.145573,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>藤原町中央会館</name>
         <description><![CDATA[投票区: 20<br>設置番号: 7<br>ポスター掲示場の設置場所: 藤原町2-28-1]]></description>
@@ -3908,7 +3983,12 @@
             <value>埼玉県行田市小針3519</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.500381,36.144566,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>万蔵橋西側</name>
         <description><![CDATA[投票区: 22<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県行田市小針287-1]]></description>
@@ -4261,7 +4341,12 @@
             <value>埼玉県行田市利田588</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+		<Point>
+			<coordinates>
+				139.482086,36.112114,0
+			</coordinates>
+		</Point>
+	  </Placemark>
       <Placemark>
         <name>埼玉郵便局南側</name>
         <description><![CDATA[投票区: 24<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県行田市埼玉4962-1]]></description>

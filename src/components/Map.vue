@@ -3,7 +3,7 @@
   import Modal from './Modal.vue';
   import { forEachChild } from "typescript";
   import { Suspense, onMounted } from 'vue'
-  import { compressToEncodedURIComponent, decompressFromEncodedURIComponent } from 'lz-string'
+  import { Pin, BoardPins } from './boardpins.ts'
   import "leaflet/dist/leaflet.css";
   import {
     LMap,
@@ -19,118 +19,21 @@
   const pins = ref(null);
   const statusMessage = ref("");
 
-    class Pin {
-    name: String;
-    lat: int;
-    long: int;
-    status: Boolean;
-    color() { return this.status ? "#FF0000" : "#0000FF"; }
-  }
-
   class Map {
     region: String;
     state: String;
     city: String;
     type: String;
   }
+
   let current_map = new Map();
 
-  function serialize(pins) {
-    let s = "";
-    for (let pin of pins) {
-      s += pin.name + "=" + pin.status + ":";
-    }
-    return compressToEncodedURIComponent(s);
-  }
-
-  function deserialize(compressedStr) {
-    let s = decompressFromEncodedURIComponent(compressedStr);
-    let tokens = s.split(":");
-    let result = {};
-    for (let token of tokens) {
-      let pair = token.split("=");
-      result[pair[0]] = (pair[1] == "true");
-    }
-    return result;
-  }
-
-  async function fetchBoardPinsFromJson(region, state, city, status) {
-    current_map.region = region;
-    current_map.state = state;
-    current_map.city = city;
-    current_map.type = "json";
-
-    let status_list = null;
-    if (status != null) {
-      status_list = await deserialize(status);
-    }
-
-    let response = await fetch(`../data/${current_map.region}/${current_map.state}/${current_map.city}.json`)
-    const data = await response.json();
-    return data.map((v) => {
-      let pin = new Pin();
-      pin.name = v.dispname;
-      pin.long = v.geom.coordinates[0];
-      pin.lat = v.geom.coordinates[1];
-      if (status_list)
-        pin.status = status_list[v.dispname];
-      else
-        pin.status = false;
-      return pin;
-    });
-  }
-
-  async function fetchBoardPinsFromKml(region, state, city, status) {
-    current_map.region = region;
-    current_map.state = state;
-    current_map.city = city;
-    current_map.type = "kml";
-
-    let status_list = null;
-    if (status != null) {
-      status_list = await deserialize(status);
-    }
-
-    let response = await fetch(`../data/${current_map.region}/${current_map.state}/${current_map.city}.kml`);
-    const text = await response.text();
-    const parser = new DOMParser();
-    const data = parser.parseFromString(text, "text/xml");
-    const Placemarks = data.querySelectorAll("Placemark");
-    const items = [];
-    Placemarks.forEach((v) => {
-      let pin = new Pin();
-      let nameselector = v.querySelector("name");
-      if (nameselector != null)
-        pin.name = nameselector.textContent;
-      else
-        pin.name = "";
-      let coordinatesselector = v.querySelector("coordinates");
-      let coordinatesText = "";
-      if (coordinatesselector != null)
-      {
-        coordinatesText = coordinatesselector.textContent;
-      }
-      else
-      {
-        console.log("must be have coordinates in " + nameselector.textContent);
-        return;
-      }
-      let coordinates = coordinatesText.split(",");
-      pin.long = Number(coordinates[0]);
-      pin.lat = Number(coordinates[1]);
-      if (status_list)
-        pin.status = status_list[pin.name];
-      else
-        pin.status = false;
-      items.push(pin);
-    });
-    return items;
-  }
+  let borad_pins = new BoardPins();
 
   async function clickCopyStateButton() {
     if (pins.value == null)
       return;
-    let str = serialize(pins.value);
+    let str = borad_pins.serialize(pins.value);
     let newurl = "region=" + current_map.region + "&state=" + current_map.state + "&city=" + current_map.city + "&type=" + current_map.type + "&status=" + str;
     navigator.clipboard.writeText(newurl);
   }
@@ -162,10 +65,15 @@
     if (region != null && state != null && city != null && type != null)
     {
       try {
-        if (type == "json")
-          pins.value = await fetchBoardPinsFromJson(region, state, city, status);
-        else if (type == "kml")
-          pins.value = await fetchBoardPinsFromKml(region, state, city, status);
+        current_map.region = region;
+        current_map.state = state;
+        current_map.city = city;
+        if (type == "json") {
+          pins.value = await borad_pins.fetchBoardPinsFromJson(region, state, city, status);
+        }else if (type == "kml") {
+          current_map.type = "kml";
+          pins.value = await borad_pins.fetchBoardPinsFromKml(region, state, city, status);
+        }
         statusMessage.value = "success";
       } catch (error) {
         statusMessage.value = error;
