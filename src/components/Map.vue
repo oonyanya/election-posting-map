@@ -1,4 +1,6 @@
-<script lang="ts">
+<script lang="ts" >
+  import { ref } from 'vue';
+  import Modal from './Modal.vue';
   import { forEachChild } from "typescript";
   import { Suspense, onMounted } from 'vue'
   import { compressToEncodedURIComponent, decompressFromEncodedURIComponent } from 'lz-string'
@@ -11,7 +13,11 @@
     LTooltip,
   } from "@vue-leaflet/vue-leaflet";
 
-  class Pin {
+  const showModal = ref(false);
+  const user_input_for_state = ref("")
+  const pins = ref(null);
+
+    class Pin {
     name: String;
     lat: int;
     long: int;
@@ -24,10 +30,9 @@
     state: String;
     city: String;
   }
-
   let current_map = new Map();
 
-function serialize(pins) {
+  function serialize(pins) {
     let s = "";
     for (let pin of pins) {
       s += pin.name + "=" + pin.status + ":";
@@ -35,7 +40,7 @@ function serialize(pins) {
     return compressToEncodedURIComponent(s);
   }
 
-function deserialize(compressedStr) {
+  function deserialize(compressedStr) {
     let s = decompressFromEncodedURIComponent(compressedStr);
     let tokens = s.split(":");
     let result = {};
@@ -86,9 +91,8 @@ function deserialize(compressedStr) {
   }
 
   async function clickCopyStateButton() {
-    let str = serialize(pins);
-    const oldurl = new URLSearchParams(window.location.search);
-    let newurl = window.location.host + "?region=" + current_map.region + "&state="+ current_map.state + "&city=" + current_map.city + "&status=" + str;
+    let str = serialize(pins.value);
+    let newurl = "region=" + current_map.region + "&state=" + current_map.state + "&city=" + current_map.city + "&status=" + str;
     navigator.clipboard.writeText(newurl);
   }
 
@@ -103,17 +107,31 @@ function deserialize(compressedStr) {
     mapObject.locate({ setView: true, maxZoom: 16 });
   }
 
-  const url = new URLSearchParams(window.location.search);
-  let region,state,city, status;
-  if (url.has("region"))
-    region = url.get("region");
-  if (url.has("state"))
-    state = url.get("state");
-  if (url.has("city"))
-    city = url.get("city");
-  if (url.has("status"))
-    status = url.get("status");
-  const pins = await fetchBoardPinsFromJson(region, state, city, status);
+  async function loadBorardPin(uri_param) {
+    const url = new URLSearchParams(uri_param);
+    let region, state, city, status;
+    if (url.has("region"))
+      region = url.get("region");
+    if (url.has("state"))
+      state = url.get("state");
+    if (url.has("city"))
+      city = url.get("city");
+    if (url.has("status"))
+      status = url.get("status");
+    pins.value = await fetchBoardPinsFromJson(region, state, city, status);
+  }
+
+  async function onCloseRestoreModal(uri_param) {
+    showModal.value = false;
+    await loadBorardPin(uri_param);
+  }
+
+  function onShowRestoreModal() {
+    showModal.value = true;
+  }
+
+  //スタートアップ処理
+  await loadBorardPin(window.location.search);
 
   export default {
     components: {
@@ -121,22 +139,34 @@ function deserialize(compressedStr) {
       LTileLayer,
       LCircleMarker,
       LTooltip,
+      Modal,
+    },
+    setup() {
+      return { showModal, user_input_for_state, pins };
     },
     data() {
       return {
         zoom: 15,
         center: [35.6769883, 139.7588499],
         subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
-        pins: pins,
         dblClickMarker: dblClickMarker,
         clickCopyStateButton: clickCopyStateButton,
         onReady: onMapReady,
+        onCloseRestoreModal: onCloseRestoreModal,
+        onShowRestoreModal: onShowRestoreModal,
       };
     },
   };
 </script>
 <template>
   <button @click="clickCopyStateButton">状態をコピーする</button>
+  <button @click="onShowRestoreModal">復元する</button>
+  <modal :show="showModal" @close="onCloseRestoreModal(user_input_for_state)">
+    <template #body>
+      <p>復元するにはここにペーストしてOKを押してください。</p>
+      <textarea v-model="user_input_for_state" />
+    </template>
+  </modal>
   <div style="height:1080px;">
     <l-map @ready="onReady" v-model:zoom="zoom" :use-global-leaflet="false" :center="center">
       <l-tile-layer url="https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}"
