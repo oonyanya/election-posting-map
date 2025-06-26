@@ -174,7 +174,7 @@
                     layer-type="base"
                     name="GoogleStreetMap">
       </l-tile-layer>
-      <l-circle-marker v-for="pin in pins" @click="dblClickMarker(pin)" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="8" :weight="1" :border="1">
+      <l-circle-marker v-for="pin in pins" @click="dblClickMarker(pin)" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
         <l-tooltip>
           <b>{{pin.name}}</b>
           <p v-if="pin.status">処理</p>
