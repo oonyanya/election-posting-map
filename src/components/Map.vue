@@ -154,7 +154,7 @@
       <textarea v-model="user_input_for_state" />
     </template>
   </modal>
-  <div style="height:1080px;">
+  <div id="map">
     <l-map @ready="onReady" v-model:zoom="zoom" :use-global-leaflet="false" :center="center">
       <l-tile-layer url="https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}"
                     v-model:subdomains="subdomains"
@@ -169,7 +169,7 @@
           <a :href='"https://www.google.com/maps/search/" +pin.lat +","+pin.long' target="_blank" rel="noopener noreferrer">({{pin.lat}}, {{pin.long}})</a>
         </l-tooltip>
       </l-circle-marker>
-      <l-control class="leaflet-control" position="bottomleft">
+      <l-control class="leaflet-control leaflet-control-attribution" position="bottomright">
         {{statusMessage}}
       </l-control>
       <l-control class="leaflet-control leaflet-demo-control" position="bottomleft" @click="clickCopyStateButton">
@@ -183,7 +183,8 @@
 </template>
 <style>
   .leaflet-demo-control {
-    background: white;
+    color: var(--color-text);
+    background: var(--color-background);
     border: 1px solid steelblue;
     padding: 1em;
     font-size: large;
