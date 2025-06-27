@@ -24,6 +24,12 @@
     state: String;
     city: String;
     type: String;
+    constructor() {
+      this.region = "";
+      this.state = "";
+      this.city = "";
+      this.type = "";
+    }
   }
 
   let current_map = new Map();
@@ -38,18 +44,18 @@
     navigator.clipboard.writeText(newurl);
   }
 
-  function dblClickMarker(pin) {
+  function dblClickMarker(pin : Pin) {
     if (pin.status)
       pin.status = false;
     else
       pin.status = true;
   }
 
-  function onMapReady(mapObject) {
+  function onMapReady(mapObject : any) {
     mapObject.locate({ setView: true, maxZoom: 16 });
   }
 
-  async function loadBorardPin(uri_param) {
+  async function loadBorardPin(uri_param : string) {
     const url = new URLSearchParams(uri_param);
     let region, state, city, status, type;
     if (url.has("region"))
@@ -81,7 +87,7 @@
     }
   }
 
-  async function onCloseRestoreModal(uri_param) {
+  async function onCloseRestoreModal(uri_param : string) {
     showModal.value = false;
     await loadBorardPin(uri_param);
   }
