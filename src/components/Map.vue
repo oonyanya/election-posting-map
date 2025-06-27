@@ -15,6 +15,8 @@
     LControl,
   } from "@vue-leaflet/vue-leaflet";
 
+  const STATE_NAME = "leaestState";
+
   const showModal = ref(false);
   const user_input_for_state = ref("")
   const pins = ref(null);
@@ -37,15 +39,25 @@
 
   let borad_pins = new BoardPins();
 
-  async function clickCopyStateButton() {
+  function serializeState() {
     if (pins.value == null)
       return;
     let str = borad_pins.serialize(pins.value);
     let newurl = "region=" + current_map.region + "&state=" + current_map.state + "&city=" + current_map.city + "&type=" + current_map.type + "&status=" + str;
-    navigator.clipboard.writeText(newurl);
+    return newurl;
   }
 
-  function dblClickMarker(pin : Pin) {
+  async function clickCopyStateButton() {
+    navigator.clipboard.writeText(serializeState());
+  }
+
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState != 'visible') {
+      localStorage.setItem(STATE_NAME, serializeState());
+    }
+  });
+
+  function dblClickMarker(pin: Pin) {
     if (pin.status)
       pin.status = false;
     else
@@ -129,7 +141,12 @@
     setup() {
       onMounted(async () => {
         const route = useRoute();
-        await loadBorardPin(route.query);
+        var previousState = localStorage.getItem(STATE_NAME);
+        if (previousState == null) {
+          await loadBorardPin(route.query);
+        } else if (route.query != null) {
+          await loadBorardPinFromString(previousState);
+        }
       })
       return { showModal, user_input_for_state, pins, statusMessage };
     },
