@@ -170,13 +170,13 @@
       <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'sugi:tochou',type:'kml' }}">杉戸町</RouterLink>
     </li>
     <li>
-      <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:':toda',type:'kml' }}">戸田市</RouterLink>
+      <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'toda',type:'kml' }}">戸田市</RouterLink>
     </li>
     <li>
-      <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:':tokigawachou',type:'kml' }}">ときがわ町</RouterLink>
+      <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'tokigawachou',type:'kml' }}">ときがわ町</RouterLink>
     </li>
     <li>
-      <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:':tokorozawa',type:'kml' }}">所沢市</RouterLink>
+      <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'tokorozawa',type:'kml' }}">所沢市</RouterLink>
     </li>
     <li>
       <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'tsurugashima',type:'kml' }}">鶴ヶ島市</RouterLink>
