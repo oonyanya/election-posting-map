@@ -3,6 +3,7 @@
   import Modal from './Modal.vue';
   import { forEachChild } from "typescript";
   import { Suspense, onMounted } from 'vue'
+  import { useRoute } from 'vue-router';
   import { Pin, BoardPins } from './boardpins.ts'
   import "leaflet/dist/leaflet.css";
   import {
@@ -55,33 +56,22 @@
     mapObject.locate({ setView: true, maxZoom: 16 });
   }
 
-  async function loadBorardPin(uri_param : string) {
-    const url = new URLSearchParams(uri_param);
-    let region, state, city, status, type;
-    if (url.has("region"))
-      region = url.get("region");
-    if (url.has("state"))
-      state = url.get("state");
-    if (url.has("city"))
-      city = url.get("city");
-    if (url.has("type"))
-      type = url.get("type");
-    if (url.has("status"))
-      status = url.get("status");
-    if (region != null && state != null && city != null && type != null)
+  async function loadBorardPin(query) {
+    if (query.region != null && query.state != null && query.city != null && query.type != null)
     {
       try {
-        current_map.region = region;
-        current_map.state = state;
-        current_map.city = city;
-        if (type == "json") {
-          pins.value = await borad_pins.fetchBoardPinsFromJson(region, state, city, status);
-        }else if (type == "kml") {
+        current_map.region = query.region;
+        current_map.state = query.state;
+        current_map.city = query.city;
+        if (query.type == "json") {
+          pins.value = await borad_pins.fetchBoardPinsFromJson(query.region, query.state, query.city, query.status);
+        } else if (query.type == "kml") {
           current_map.type = "kml";
-          pins.value = await borad_pins.fetchBoardPinsFromKml(region, state, city, status);
+          pins.value = await borad_pins.fetchBoardPinsFromKml(query.region, query.state, query.city, query.status);
         }
         statusMessage.value = "success";
       } catch (error) {
+        debugger;
         statusMessage.value = error;
       }
     }
@@ -96,9 +86,6 @@
     showModal.value = true;
   }
 
-  //スタートアップ処理
-  await loadBorardPin(window.location.search);
-
   export default {
     components: {
       LMap,
@@ -109,6 +96,10 @@
       LControl,
     },
     setup() {
+      onMounted(async () => {
+        const route = useRoute();
+        await loadBorardPin(route.query);
+      })
       return { showModal, user_input_for_state, pins, statusMessage };
     },
     data() {
