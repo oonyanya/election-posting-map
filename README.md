@@ -11,6 +11,17 @@
 「状態をコピーする」ボタンを押すとクリップボードに処理状況を含めた文字列がコピーされます。
 「復元する」ボタンを押して、文字列を貼り付け、「OK」を押すと、前の状態が復元されます。
 
+## 選挙ポスター掲示場所の配置の仕方
+
+public/dataにkmlを配置してください。例えば、埼玉県さいたま市大宮区だとpublic/data/japan/saitama/saitama_oomiya.kmlみたいな形で配置します。
+配置後はMapList.vueに適宜追加してください。先ほどのやつですと、
+
+```
+<RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'saitama_oomiya',type:'kml' }}">さいたま市大宮区</RouterLink>
+```
+
+みたいになります。
+
 ## 動作確認の仕方
 
 「復元する」ボタンを押して、以下の文字列を貼り付けると動作確認ができます。
