@@ -13,6 +13,7 @@
     LControlLayers,
     LTooltip,
     LControl,
+    LPopup,
   } from "@vue-leaflet/vue-leaflet";
 
   const STATE_NAME = "leaestState";
@@ -64,7 +65,7 @@
       pin.status = true;
   }
 
-  function onMapReady(mapObject : any) {
+  function onMapReady(mapObject: any) {
     mapObject.locate({ setView: true, maxZoom: 16 });
   }
 
@@ -137,6 +138,7 @@
       LTooltip,
       Modal,
       LControl,
+      LPopup,
     },
     setup() {
       onMounted(async () => {
@@ -172,19 +174,19 @@
     </template>
   </modal>
   <div id="map">
-    <l-map @ready="onReady" v-model:zoom="zoom" :use-global-leaflet="false" :center="center">
+    <l-map @ready="onReady" v-model:zoom="zoom" :use-global-leaflet="false" :center="center" :options="{doubleClickZoom:false}">
       <l-tile-layer url="https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}"
                     v-model:subdomains="subdomains"
                     layer-type="base"
                     name="GoogleStreetMap">
       </l-tile-layer>
-      <l-circle-marker v-for="pin in pins" @click="dblClickMarker(pin)" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
-        <l-tooltip>
-          <b>{{pin.name}}</b>
-          <p v-if="pin.status">処理</p>
-          <p v-else>未処理</p>
+      <l-circle-marker v-for="pin in pins" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
+        <l-popup>
+          <b>{{pin.name}}</b></br>
+          <button v-if="pin.status" @click.prevent.stop="dblClickMarker(pin)">処理済</button></br>
+          <button v-else @click.prevent.stop="dblClickMarker(pin)">未処理</button></br>
           <a :href='"https://www.google.com/maps/search/" +pin.lat +","+pin.long' target="_blank" rel="noopener noreferrer">({{pin.lat}}, {{pin.long}})</a>
-        </l-tooltip>
+        </l-popup>
       </l-circle-marker>
       <l-control class="leaflet-control leaflet-control-attribution" position="bottomright">
         {{statusMessage}}
