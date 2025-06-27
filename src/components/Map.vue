@@ -77,9 +77,40 @@
     }
   }
 
-  async function onCloseRestoreModal(uri_param : string) {
+  async function loadBorardPinFromString(uri_param: string) {
+    const url = new URLSearchParams(uri_param);
+    let region, state, city, status, type;
+    if (url.has("region"))
+      region = url.get("region");
+    if (url.has("state"))
+      state = url.get("state");
+    if (url.has("city"))
+      city = url.get("city");
+    if (url.has("type"))
+      type = url.get("type");
+    if (url.has("status"))
+      status = url.get("status");
+    if (region != null && state != null && city != null && type != null) {
+      try {
+        current_map.region = region;
+        current_map.state = state;
+        current_map.city = city;
+        if (type == "json") {
+          pins.value = await borad_pins.fetchBoardPinsFromJson(region, state, city, status);
+        } else if (type == "kml") {
+          current_map.type = "kml";
+          pins.value = await borad_pins.fetchBoardPinsFromKml(region, state, city, status);
+        }
+        statusMessage.value = "success";
+      } catch (error) {
+        statusMessage.value = error;
+      }
+    }
+  }
+
+  async function onCloseRestoreModal(uri_param: string) {
     showModal.value = false;
-    await loadBorardPin(uri_param);
+    await loadBorardPinFromString(uri_param);
   }
 
   function onShowRestoreModal() {
