@@ -8,6 +8,7 @@
   import "leaflet/dist/leaflet.css";
   import {
     LMap,
+    LCircle,
     LCircleMarker,
     LTileLayer,
     LControlLayers,
@@ -22,6 +23,8 @@
   const user_input_for_state = ref("")
   const pins = ref(null);
   const statusMessage = ref("");
+  const current_postion = ref([0,0]);
+  const accuracy = ref(0);
 
   class Map {
     region: String;
@@ -65,8 +68,15 @@
       pin.status = true;
   }
 
+  function onLocationFound(e) {
+    current_postion.value = e.latlng;
+    accuracy.value = e.accuracy / 2;
+    let mapObject = e.target;
+    mapObject.setView(e.latlng, 16);
+  }
+
   function onMapReady(mapObject: any) {
-    mapObject.locate({ setView: true, maxZoom: 16 });
+    mapObject.locate();
   }
 
   async function loadBorardPin(query) {
@@ -134,6 +144,7 @@
     components: {
       LMap,
       LTileLayer,
+      LCircle,
       LCircleMarker,
       LTooltip,
       Modal,
@@ -150,7 +161,7 @@
           await loadBorardPinFromString(previousState);
         }
       })
-      return { showModal, user_input_for_state, pins, statusMessage };
+      return { showModal, user_input_for_state, pins, statusMessage, onLocationFound, current_postion, accuracy };
     },
     data() {
       return {
@@ -174,7 +185,7 @@
     </template>
   </modal>
   <div id="map">
-    <l-map @ready="onReady" v-model:zoom="zoom" :use-global-leaflet="false" :center="center" :options="{doubleClickZoom:false}">
+    <l-map @ready="onReady" @locationfound="onLocationFound" v-model:zoom="zoom" :use-global-leaflet="false" :center="center" :options="{doubleClickZoom:false}">
       <l-tile-layer url="https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}"
                     v-model:subdomains="subdomains"
                     layer-type="base"
@@ -188,6 +199,7 @@
           <a :href='"https://www.google.com/maps/search/" +pin.lat +","+pin.long' target="_blank" rel="noopener noreferrer">({{pin.lat}}, {{pin.long}})</a>
         </l-popup>
       </l-circle-marker>
+      <l-circle :lat-lng="current_postion" :radius="accuracy"></l-circle>
       <l-control class="leaflet-control leaflet-control-attribution" position="bottomright">
         {{statusMessage}}
       </l-control>
