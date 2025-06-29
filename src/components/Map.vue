@@ -58,7 +58,10 @@
 
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState != 'visible') {
-      localStorage.setItem(STATE_NAME, serializeState());
+      let state = serializeState();
+      if (state != null) {
+        localStorage.setItem(STATE_NAME, state);
+      }
     }
   });
 
@@ -158,11 +161,18 @@
       onMounted(async () => {
         const route = useRoute();
         var previousState = localStorage.getItem(STATE_NAME);
-        if (previousState == null) {
-          await loadBorardPin(route.query);
-        } else if (route.query != null) {
-          await loadBorardPinFromString(previousState);
+        if (route.query != null) {
+          if (route.query.restore_state != null) {
+            if (route.query.restore_state == "true" && previousState != null && previousState != "undefined") {
+              await loadBorardPinFromString(previousState);
+            } else {
+              await loadBorardPin(route.query);
+            }
+          } else {
+            await loadBorardPin(route.query);
+          }
         }
+        return;
       })
       return { showModal, user_input_for_state, pins, statusMessage, onLocationFound, current_postion, accuracy };
     },
