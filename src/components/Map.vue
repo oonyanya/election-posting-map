@@ -83,13 +83,13 @@
   function onLocationFound(e) {
     current_postion.value = e.latlng;
     accuracy.value = e.accuracy / 2;
-    globalMapObject.setView(e.latlng, 16);
+    globalMapObject.setView(e.latlng);
   }
 
   function onLocationError()
   {
     statusMessage.value = "failed to get location";
-    globalMapObject.setView([35.6769883, 139.7588499], 16);
+    globalMapObject.setView([35.6769883, 139.7588499]);
   }
 
   function onMapReady(map: any) {
