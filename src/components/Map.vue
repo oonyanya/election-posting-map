@@ -229,14 +229,18 @@
   </modal>
   <div id="map">
     <l-map @ready="onReady" @locationfound="onLocationFound" @locationerror="onLocationError" v-model:zoom="zoom" :center="center" :use-global-leaflet="false" :options="{doubleClickZoom:false}">
+      <l-tile-layer url="https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png"
+                    layer-type="base"
+                    name="国土地理院">
+      </l-tile-layer>
       <l-tile-layer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                     layer-type="base"
                     name="OpenStreetMap">
-        <l-tile-layer url="https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}"
-                      v-model:subdomains="subdomains"
-                      layer-type="base"
-                      name="GoogleStreetMap">
-        </l-tile-layer>
+      </l-tile-layer>
+      <l-tile-layer url="https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}"
+                    v-model:subdomains="subdomains"
+                    layer-type="base"
+                    name="GoogleStreetMap">
       </l-tile-layer>
       <l-layer-group name="ポスター掲示板一覧（処理済）" layer-type="overlay" :visible="true">
         <l-circle-marker v-for="pin in pins_only_processed" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
