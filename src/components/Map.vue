@@ -1,6 +1,7 @@
 <script lang="ts" >
   import { ref } from 'vue';
   import Modal from './Modal.vue';
+  import PopupInPin from './PopupInPin.vue'
   import { forEachChild } from "typescript";
   import { Suspense, onMounted } from 'vue'
   import { useRoute } from 'vue-router';
@@ -172,6 +173,7 @@
       LPopup,
       LLayerGroup,
       LControlLayers,
+      PopupInPin
     },
     setup() {
       onMounted(async () => {
@@ -222,12 +224,7 @@
       </l-tile-layer>
       <l-layer-group name="ポスター掲示板一覧" layer-type="overlay" :visible="true">
         <l-circle-marker v-for="pin in pins" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
-          <l-popup>
-            <b>{{pin.name}}</b></br>
-            <button v-if="pin.status" @click.prevent.stop="dblClickMarker(pin)">処理済</button></br>
-            <button v-else @click.prevent.stop="dblClickMarker(pin)">未処理</button></br>
-            <a :href='"https://www.google.com/maps/search/" +pin.lat +","+pin.long' target="_blank" rel="noopener noreferrer">({{pin.lat}}, {{pin.long}})</a>
-          </l-popup>
+          <PopupInPin :pin="pin" @changeStatus="dblClickMarker(pin)"/>
         </l-circle-marker>
       </l-layer-group>
       <l-control-layers />
