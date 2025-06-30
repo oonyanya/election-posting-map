@@ -62,14 +62,16 @@
   }
 
   document.addEventListener("visibilitychange", () => {
-    if (document.visibilityState != 'visible') {
-      globalMapObject.stopLocate();
-      let state = serializeState();
-      if (state != null) {
-        localStorage.setItem(STATE_NAME, state);
+    if (globalMapObject) {
+      if (document.visibilityState != 'visible') {
+        globalMapObject.stopLocate();
+        let state = serializeState();
+        if (state != null) {
+          localStorage.setItem(STATE_NAME, state);
+        }
+      } else {
+        globalMapObject.locate({ watch: true, maximumAge: LOCATION_REFRASH_TIMING });
       }
-    } else if (globalMapObject != null) {
-      globalMapObject.locate({ watch: true, maximumAge: LOCATION_REFRASH_TIMING });
     }
   });
 
