@@ -58,8 +58,33 @@ export class BoardPins
     return result;
 }
 
+  cached_address: { [key: string]: string[] } = {};
+;
+  public async fetchAddressList(cache_path: string) {
+
+    if (cache_path != null) {
+      const response = await fetch(cache_path);
+      try {
+        const data = await response.text();
+        const lines = data.split('\r\n');
+        for (const line of lines) {
+          const items = line.split(",");
+          this.cached_address[items[0]] = [items[1], items[2]];
+        }
+      } catch {
+        //何もしなくていい
+      }
+    }
+  }
+
+
   public async fetchLatLongFormAddress(address: string | null): Promise<Array<string>> {
     if (address != null) {
+      /*
+      if (this.cached_address != null && this.cached_address[address] != null) {
+        return this.cached_address[address];
+      }
+      */
       // 国土地理院API
       // https://elsammit-beginnerblg.hatenablog.com/entry/2021/07/11/122916
       //で変換をかけてる
@@ -74,68 +99,85 @@ export class BoardPins
     return [];
   }
 
+  public fetchKml(text:string)
+  {
+    const parser = new DOMParser();
+    const data = parser.parseFromString(text, "text/xml");
+    const Placemarks = data.querySelectorAll("Placemark");
+    const items = [];
+    for (const v of Placemarks) {
+      const nameselector = v.querySelector("name");
+      let name: string | null = "";
+      if (nameselector != null)
+        name = nameselector.textContent;
+
+      const coordinatesselector = v.querySelector("coordinates");
+      let coordinatesText: string | null = "";
+      let coordinates = null;
+      if (coordinatesselector != null) {
+        coordinatesText = coordinatesselector.textContent;
+        if (coordinatesText != null)
+          coordinates = coordinatesText.split(",");
+      }
+
+      const addressselector = v.querySelector("address");
+      let address: string | null = "";
+      if (addressselector != null) {
+        address = addressselector.textContent;
+      }
+
+      items.push({ name: name, coordinates:coordinates, address:address});
+    }
+    return items;
+  }
+
   public async fetchBoardPinsFromKml(region:string , state:string, city:string, status:string) : Promise<Array<Pin>> {
     let status_list = null;
     if (status != null) {
       status_list = await this.deserialize(status);
     }
 
+    if (Object.keys(this.cached_address).length == 0) {
+      this.fetchAddressList(`../data/${region}/${state}/${city}.kml.geo_cache`);
+    }
+
+    const items = [];
     const response = await fetch(`../data/${region}/${state}/${city}.kml`);
     const text = await response.text();
-    const parser = new DOMParser();
-    const data = parser.parseFromString(text, "text/xml");
-    const Placemarks = data.querySelectorAll("Placemark");
-    const items = [];
-    for (const v of Placemarks) {
+    const kml_items = this.fetchKml(text);
+    for (const item of kml_items) {
       const pin = new Pin();
+      pin.name = item.name;
 
-      const nameselector = v.querySelector("name");
-      let name: string | null = "";
-      if (nameselector != null)
-        name = nameselector.textContent;
-      else
-        name = "";
-      pin.name = name;
-
-      const coordinatesselector = v.querySelector("coordinates");
-      let coordinatesText: string | null = "";
-      let coordinates;
-      if (coordinatesselector != null) {
-        coordinatesText = coordinatesselector.textContent;
-        if (coordinatesText != null)
-          coordinates = coordinatesText.split(",");
-      } else {
-        const addressselector = v.querySelector("address");
-        if (addressselector != null) {
-          const address: string | null = addressselector.textContent;
-          coordinates = await this.fetchLatLongFormAddress(address);
-          if (coordinates == null) {
-            console.log("faild to reslove " + address + " in " + name);
-            continue;
-          } else {
-            console.log("sucess to reslove " + coordinates[0] + "," + coordinates[1] + " in " + name + " from " + address);
-          }
-        } else {
-          console.log("must be have coordinates or address in " + name);
+      if (item.coordinates != null) {
+        pin.long = Number(item.coordinates[0]);
+        pin.lat = Number(item.coordinates[1]);
+      } else if (item.address != null) {
+        const coordinates = await this.fetchLatLongFormAddress(item.address);
+        if (coordinates == null) {
+          console.log("faild to reslove " + item.address + " in " + item.name);
           continue;
+        } else {
+          if (coordinates.length == 2) {
+            pin.long = Number(coordinates[0]);
+            pin.lat = Number(coordinates[1]);
+            //console.log("sucess to reslove " + coordinates[0] + "," + coordinates[1] + " in " + item.name + " from " + item.address);
+          } else {
+            console.log("failed to reslove  in " + item.name + " from " + item.address);
+          }
         }
-      }
-      if (coordinates != undefined) {
-        pin.long = Number(coordinates[0]);
-        pin.lat = Number(coordinates[1]);
       } else {
-        console.log("coordinates is undefind in " + name);      
+        console.log("address or  coordinates must be require in " + item.name);
         continue;
       }
 
       if (status_list && pin.name != null)
         pin.status = status_list[pin.name];
       else
-        pin.status = false;
+        pin.status = false;        
 
-      items.push(pin);
+      items.push(pin);      
     }
-
     return items;
   }
 
