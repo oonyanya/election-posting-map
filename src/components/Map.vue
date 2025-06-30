@@ -1,5 +1,5 @@
 <script lang="ts" >
-  import { ref } from 'vue';
+  import { computed, ref } from 'vue';
   import Modal from './Modal.vue';
   import PopupInPin from './PopupInPin.vue'
   import { forEachChild } from "typescript";
@@ -30,6 +30,18 @@
   const statusMessage = ref("");
   const current_postion = ref([0,0]);
   const accuracy = ref(0);
+  const pins_only_processed = computed(() => {
+    if (pins.value != null)
+      return pins.value.filter((p) => { return p.status == true; });
+    else
+      return null;
+  });
+  const pins_only_non_processed = computed(() => {
+    if (pins.value != null)
+      return pins.value.filter((p) => { return p.status == false; })
+    else
+      return null;
+  });
 
   class Map {
     region: String;
@@ -192,7 +204,7 @@
         }
         return;
       })
-      return { showModal, user_input_for_state, pins, statusMessage, onLocationFound, current_postion, accuracy, onLocationError };
+      return { showModal, user_input_for_state, pins, statusMessage, onLocationFound, current_postion, accuracy, onLocationError, pins_only_processed, pins_only_non_processed };
     },
     data() {
       return {
@@ -222,9 +234,14 @@
                     layer-type="base"
                     name="GoogleStreetMap">
       </l-tile-layer>
-      <l-layer-group name="ポスター掲示板一覧" layer-type="overlay" :visible="true">
-        <l-circle-marker v-for="pin in pins" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
-          <PopupInPin :pin="pin" @changeStatus="dblClickMarker(pin)"/>
+      <l-layer-group name="ポスター掲示板一覧（処理済）" layer-type="overlay" :visible="true">
+        <l-circle-marker v-for="pin in pins_only_processed" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
+          <PopupInPin :pin="pin" @changeStatus="dblClickMarker(pin)" />
+        </l-circle-marker>
+      </l-layer-group>
+      <l-layer-group name="ポスター掲示板一覧（未処理）" layer-type="overlay" :visible="true">
+        <l-circle-marker v-for="pin in pins_only_non_processed" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
+          <PopupInPin :pin="pin" @changeStatus="dblClickMarker(pin)" />
         </l-circle-marker>
       </l-layer-group>
       <l-control-layers />
