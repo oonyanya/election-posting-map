@@ -18,6 +18,9 @@
     LLayerGroup,    
   } from "@vue-leaflet/vue-leaflet";
 
+  // 位置情報を更新する間隔
+  const LOCATION_REFRASH_TIMING = 1000;
+
   const STATE_NAME = "leaestState";
 
   const showModal = ref(false);
@@ -44,6 +47,8 @@
 
   let borad_pins = new BoardPins();
 
+  let globalMapObject;
+
   function serializeState() {
     if (pins.value == null)
       return;
@@ -58,10 +63,13 @@
 
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState != 'visible') {
+      globalMapObject.stopLocate();
       let state = serializeState();
       if (state != null) {
         localStorage.setItem(STATE_NAME, state);
       }
+    } else if (globalMapObject != null) {
+      globalMapObject.locate({ watch: true, maximumAge: LOCATION_REFRASH_TIMING });
     }
   });
 
@@ -75,12 +83,18 @@
   function onLocationFound(e) {
     current_postion.value = e.latlng;
     accuracy.value = e.accuracy / 2;
-    let mapObject = e.target;
-    mapObject.setView(e.latlng, 16);
+    globalMapObject.setView(e.latlng, 16);
   }
 
-  function onMapReady(mapObject: any) {
-    mapObject.locate();
+  function onLocationError()
+  {
+    statusMessage.value = "failed to get location";
+    globalMapObject.setView([35.6769883, 139.7588499], 16);
+  }
+
+  function onMapReady(map: any) {
+    globalMapObject = map;
+    map.locate({ watch: true, maximumAge: LOCATION_REFRASH_TIMING });
   }
 
   async function loadBorardPin(query) {
@@ -174,7 +188,7 @@
         }
         return;
       })
-      return { showModal, user_input_for_state, pins, statusMessage, onLocationFound, current_postion, accuracy };
+      return { showModal, user_input_for_state, pins, statusMessage, onLocationFound, current_postion, accuracy, onLocationError };
     },
     data() {
       return {
@@ -198,7 +212,7 @@
     </template>
   </modal>
   <div id="map">
-    <l-map @ready="onReady" @locationfound="onLocationFound" v-model:zoom="zoom" :use-global-leaflet="false" :center="center" :options="{doubleClickZoom:false}">
+    <l-map @ready="onReady" @locationfound="onLocationFound" @locationerror="onLocationError" v-model:zoom="zoom" :center="center" :use-global-leaflet="false" :options="{doubleClickZoom:false}">
       <l-tile-layer url="https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}"
                     v-model:subdomains="subdomains"
                     layer-type="base"
