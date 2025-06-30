@@ -1,7 +1,7 @@
 <template>
   <div class="text_view">
     <h1>選挙マップ</h1>
-    <p>前の状態を復元するにはマップをクリックし、「復元する」を押してください</p>
+    <p>他の端末で前の状態を復元するにはマップをクリックし、「復元する」を押してください。同じ端末であれば、「復元をする」を押さなくても前の状態に復元できます。</p>
     <RouterLink :to="{path:'/map', query:{restore_state:'true'} }">マップ</RouterLink>
     <h2>埼玉県</h2>
     <ul>
