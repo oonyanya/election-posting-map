@@ -17,14 +17,16 @@ https://ss749137.stars.ne.jp/
 
 ## 選挙ポスター掲示場所の配置の仕方
 
-public/dataにkmlを配置してください。例えば、埼玉県さいたま市大宮区だとpublic/data/japan/saitama/saitama_oomiya.kmlみたいな形で配置します。
-配置後はMapList.vueに適宜追加してください。先ほどのやつですと、
+public/dataにkmlを配置してください。
+例えば、埼玉県さいたま市大宮区だとpublic/data/japan/saitama/saitama_oomiya.kmlみたいな形で配置します。
+配置後はMapList.vueに適宜追加してください。
+先ほどのやつですと、
 
 ```
 <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'saitama_oomiya',type:'kml' }}">さいたま市大宮区</RouterLink>
 ```
 
-みたいになります。
+みたいに書きます。
 
 ## 動作確認の仕方
 
@@ -32,42 +34,20 @@ public/dataにkmlを配置してください。例えば、埼玉県さいたま
 
 ```
 region=japan&state=saitama&city=test&type=json
+```
+
+```
 region=japan&state=saitama&city=test&type=kml
 ```
 
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+## ビルドの仕方
 
 ```sh
-npm install
+npm run build-only
 ```
 
-### Compile and Hot-Reload for Development
+でビルドしてください。buildだとエラーを吐きます。
 
-```sh
-npm run dev
-```
+## 開発環境
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+VisualStudio 2022
