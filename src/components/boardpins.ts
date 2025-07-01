@@ -182,4 +182,27 @@ export class BoardPins
     return items;
   }
 
+  public async mergeBoardPins(targetpins: Array<Pin>, status: string)
+  {
+    let status_list = null;
+    if (status != null) {
+      status_list = await this.deserialize(status);
+    }
+
+    const items = [];
+    for (const oldpin of targetpins)
+    {
+      const pin = new Pin();
+      pin.name = oldpin.name;
+      pin.lat = oldpin.lat;
+      pin.long = oldpin.long;
+      if (status_list && pin.name != null && oldpin.status == false)
+        pin.status = status_list[pin.name];
+      else
+        pin.status = oldpin.status;
+      items.push(pin);
+    }
+    return items;
+  }
+
 }
