@@ -3,7 +3,7 @@
   import Modal from './Modal.vue';
   import PopupInPin from './PopupInPin.vue'
   import { forEachChild } from "typescript";
-  import { Suspense, onMounted } from 'vue'
+  import { Suspense, onMounted, onUnmounted } from 'vue'
   import { useRoute } from 'vue-router';
   import { Pin, BoardPins } from './boardpins.ts'
   import "leaflet/dist/leaflet.css";
@@ -203,6 +203,9 @@
           }
         }
         return;
+      })
+      onUnmounted(() => {
+        pins.value = null;
       })
       return { showModal, user_input_for_state, pins, statusMessage, onLocationFound, current_postion, accuracy, onLocationError, pins_only_processed, pins_only_non_processed };
     },
