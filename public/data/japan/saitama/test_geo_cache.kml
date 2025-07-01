@@ -1,0 +1,6090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>上尾市ポスター掲示場設置場所（283）</name>
+    <description/>
+    <Style id="icon-1899-0000FF-labelson">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0071FF-labelson">
+      <IconStyle>
+        <color>ffff7100</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-00E3FF-labelson">
+      <IconStyle>
+        <color>ffffe300</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-00FF39-labelson">
+      <IconStyle>
+        <color>ff39ff00</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-00FFAA-labelson">
+      <IconStyle>
+        <color>ffaaff00</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-39FF00-labelson">
+      <IconStyle>
+        <color>ff00ff39</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-7100FF-labelson">
+      <IconStyle>
+        <color>ffff0071</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-AAFF00-labelson">
+      <IconStyle>
+        <color>ff00ffaa</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-E300FF-labelson">
+      <IconStyle>
+        <color>ffff00e3</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF0000-labelson">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF7100-labelson">
+      <IconStyle>
+        <color>ff0071ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFE300-labelson">
+      <IconStyle>
+        <color>ff00e3ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>ポスター掲示場設置場所一覧（googleMAP用）.xlsx</name>
+      <Placemark>
+        <name>埼玉県上尾市本町三丁目１番１号</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 1<br>設置場所の目標: 上尾市役所東側駐車場南側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾市役所東側駐車場南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5939918,35.9775657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市本町三丁目１番１号</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 2<br>設置場所の目標: 上尾市役所東側駐車場東側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾市役所東側駐車場東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5938953,35.9778783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市本町五丁目４番２７号</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 3<br>設置場所の目標: 上尾市営再開発住宅東側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾市営再開発住宅東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5898796,35.981605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市本町五丁目２３７番</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 4<br>設置場所の目標: 本町自治会館南側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>本町自治会館南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5899132,35.9853148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市本町四丁目８１０番１号</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 5<br>設置場所の目標: 根貝戸団地５号棟自治会館東側]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>根貝戸団地５号棟自治会館東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.597008,35.9801269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市本町二丁目８４０番５号</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 6<br>設置場所の目標: 根貝戸団地１３号棟南公園北側]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>根貝戸団地１３号棟南公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5985294,35.9776532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市本町一丁目８５４番２号</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 7<br>設置場所の目標: 本町一丁目子供広場南側]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>本町一丁目子供広場南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5978046,35.9752791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上尾村１１７１番地２</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 1<br>設置場所の目標: 東小学校北校門フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東小学校北校門フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5951499,35.9862218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上尾村１１７１番地２</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 2<br>設置場所の目標: 東小学校東側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東小学校東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5961102,35.9850118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上尾村４７９番地</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 3<br>設置場所の目標: 東中学校南側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東中学校南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5948752,35.9880468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市二ツ宮１０３０番地</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 4<br>設置場所の目標: ゴルフ練習場西側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ゴルフ練習場西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.601332,35.9829674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市二ツ宮７０９番地</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 5<br>設置場所の目標: 上尾二ツ宮前教職員住宅東側中央５号井戸フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾二ツ宮前教職員住宅東側中央５号井戸フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6019314,35.9776365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市二ツ宮７５０番地</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 6<br>設置場所の目標: 上尾市文化センター西側芝川沿い]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾市文化センター西側芝川沿い</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5975228,35.9793064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上尾村１１５７番地</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 7<br>設置場所の目標: 水道部庁舎南側植込み]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>水道部庁舎南側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5965963,35.9820534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市二ツ宮８５８番地</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 8<br>設置場所の目標: 二ツ宮中央公園東側]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>二ツ宮中央公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6025054,35.9797465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上町一丁目１５番４号</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 1<br>設置場所の目標: 中央小学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中央小学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5900194,35.9782221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上町一丁目１５番４号</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 2<br>設置場所の目標: 中央小学校南側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中央小学校南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5911795,35.977553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市柏座一丁目６６１番１５</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 3<br>設置場所の目標: 柏座一丁目東公園フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>柏座一丁目東公園フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5871626,35.9755957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市宮本町２番１号</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 4<br>設置場所の目標: アリコベール上尾サロン館東側植込み]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>アリコベール上尾サロン館東側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5892419,35.9741897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上町一丁目７番１号</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 5<br>設置場所の目標: 図書館南側植込み]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>図書館南側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5887247,35.9769409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上町二丁目１４番１９号</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 6<br>設置場所の目標: 青少年センター東側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>青少年センター東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5893602,35.9803138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上町二丁目４１３番３号</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 7<br>設置場所の目標: 税理士事務所前駐車場フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>税理士事務所前駐車場フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5865336,35.9791898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上町一丁目４番</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 8<br>設置場所の目標: 民間駐車場東側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民間駐車場東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5888199,35.9759468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市仲町一丁目１１番４６号</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 1<br>設置場所の目標: 上尾小学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾小学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5932113,35.9727136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市仲町一丁目１１番４６号</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 2<br>設置場所の目標: 上尾小学校東側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾小学校東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.594663,35.972852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市仲町一丁目１１番４６号</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 3<br>設置場所の目標: 上尾小学校南側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾小学校南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.595695,35.9724813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市仲町一丁目３５２番１号</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 4<br>設置場所の目標: 氷川鍬神社南側駐車場フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>氷川鍬神社南側駐車場フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5906563,35.9728097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市仲町二丁目１番１４号</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 5<br>設置場所の目標: 幼稚園西側フェンス]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>幼稚園西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5927224,35.9741459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市仲町一丁目３２０番１号</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 6<br>設置場所の目標: 医院北側一方通行路北側植込み]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>医院北側一方通行路北側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5903109,35.9718439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市愛宕二丁目１５８番２号</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 7<br>設置場所の目標: 愛宕歩道橋北側下]]></description>
+        <styleUrl>#icon-1899-FF0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>愛宕歩道橋北側下</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5974241,35.968843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市愛宕三丁目２３番３４号</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 1<br>設置場所の目標: 上尾中学校西側正門脇フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾中学校西側正門脇フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5990188,35.9663324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市愛宕三丁目２３番３４号</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 2<br>設置場所の目標: 上尾中学校北側ブロック]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾中学校北側ブロック</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5987774,35.9671399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市愛宕三丁目２３番３４号</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 3<br>設置場所の目標: 上尾中学校東側テニスコート脇フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾中学校東側テニスコート脇フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6009687,35.9670553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市愛宕三丁目８番１号</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 4<br>設置場所の目標: ショッピングモール上尾西側植込み]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ショッピングモール上尾西側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5984882,35.964121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市愛宕一丁目１３７番</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 5<br>設置場所の目標: 内科医院西側駐車場北側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>内科医院西側駐車場北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.595943,35.9698772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市愛宕三丁目２８番３０号</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 6<br>設置場所の目標: 上尾運動公園北側]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾運動公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6003854,35.9702817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市栄町６番</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 7<br>設置場所の目標: 栄町公園北側]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>栄町公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6008469,35.9605851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市愛宕三丁目２８番３０号</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 8<br>設置場所の目標: 上尾運動公園西側]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾運動公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5989598,35.9693238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市東町三丁目１９４７番</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 1<br>設置場所の目標: 東町小学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東町小学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6049922,35.9737866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市東町三丁目１９４７番</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 2<br>設置場所の目標: 東町小学校北側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東町小学校北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6047837,35.9744807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市東町三丁目１６７９番</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 3<br>設置場所の目標: スポーツ総合センター出入口東側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>スポーツ総合センター出入口東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.608014,35.9719935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市東町一丁目１４７７番</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 4<br>設置場所の目標: 東町公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東町公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6015098,35.9739956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市東町三丁目２０２０番１</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 5<br>設置場所の目標: 芝川ポンプ場東側]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>芝川ポンプ場東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6055143,35.9756975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上尾下９０９番地１</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 6<br>設置場所の目標: 陣屋公民館南側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>陣屋公民館南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6106433,35.9716003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市日の出三丁目１９８番</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 7<br>設置場所の目標: 日の出公民館フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>日の出公民館フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6083528,35.9647077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市東町三丁目１９４７番</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 8<br>設置場所の目標: 東町小学校東側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東町小学校東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6065425,35.9740704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市緑丘二丁目３番１９号</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 1<br>設置場所の目標: 緑丘保育所南側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>緑丘保育所南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5831754,35.9836847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市原新町４番６号</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 2<br>設置場所の目標: 原新町南公園東側]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原新町南公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5797976,35.9834431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市原新町２７番１号</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 3<br>設置場所の目標: 桃寿苑東側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>桃寿苑東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5775374,35.9879658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市原新町２４番４号</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 4<br>設置場所の目標: 原新町北公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原新町北公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5766596,35.9877091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市緑丘二丁目１番２７号</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 5<br>設置場所の目標: 東保健センター南側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東保健センター南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5833927,35.9822729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市緑丘二丁目１５７番２号</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 6<br>設置場所の目標: 緑丘スポーツ広場西側フェンス]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>緑丘スポーツ広場西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5838459,35.9831341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市原新町１００番２３</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 7<br>設置場所の目標: 北上尾駅東口ロータリー]]></description>
+        <styleUrl>#icon-1899-FF7100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北上尾駅東口ロータリー</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5773417,35.9860133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市谷津二丁目１２３番７８</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 1<br>設置場所の目標: 谷津公園西側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>谷津公園西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5878056,35.9708516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市谷津二丁目１番１号</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 2<br>設置場所の目標: ソフィア上尾Ｂ棟北側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ソフィア上尾Ｂ棟北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5884681,35.9713087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市谷津一丁目１５番１</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 3<br>設置場所の目標: 民間駐車場南側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民間駐車場南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5908694,35.968703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市柏座一丁目６７８番地８</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 4<br>設置場所の目標: 民間駐車場フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民間駐車場フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5856512,35.975351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市谷津二丁目１２３番５８</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 5<br>設置場所の目標: 上尾駅西口宏栄橋南側植込み]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾駅西口宏栄橋南側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5872759,35.9735683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市谷津二丁目３番２３号</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 6<br>設置場所の目標: 谷津観音東側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>谷津観音東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5867261,35.9717694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市谷津一丁目９９番２</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 7<br>設置場所の目標: 上尾郵便局東側植込み]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾郵便局東側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5900962,35.9711261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市柏座四丁目３番８号</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 1<br>設置場所の目標: 富士見小学校北側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見小学校北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5802964,35.9715498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市柏座三丁目５８７番１３</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 2<br>設置場所の目標: パーク上尾壱番館北側緑地帯]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>パーク上尾壱番館北側緑地帯</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5834093,35.9763099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市柏座二丁目１４番２号</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 3<br>設置場所の目標: 春日神社]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>春日神社</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5827312,35.9709511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市柏座四丁目３番８号</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 4<br>設置場所の目標: 富士見小学校南側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見小学校南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5816039,35.969905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市柏座三丁目１番４８号</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 5<br>設置場所の目標: パーク上尾管理事務所脇フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>パーク上尾管理事務所脇フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5844117,35.9751638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市柏座四丁目２番３号</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 6<br>設置場所の目標: コミュニティセンター北側植込み]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>コミュニティセンター北側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5791289,35.97194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市柏座四丁目９番２３号</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 7<br>設置場所の目標: 柏座ポンプ場西側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>柏座ポンプ場西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5782693,35.9684981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平方１３４６番地１</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 1<br>設置場所の目標: 平方幼稚園北側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>平方幼稚園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5568204,35.9477593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平方１３４６番地１</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 2<br>設置場所の目標: 平方小学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>平方小学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5561994,35.9468886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平方２６７０番地１</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 3<br>設置場所の目標: 上宿地蔵尊西側]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上宿地蔵尊西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.54777,35.9443617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平方９０５番地１</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 4<br>設置場所の目標: 平方公民館正面玄関右側]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>平方公民館正面玄関右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5513578,35.9420202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平方４０７２番地</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 5<br>設置場所の目標: 平方新田集落センター東側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>平方新田集落センター東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5543709,35.9512623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平方３３２６番地</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 6<br>設置場所の目標: 上尾丸山公園南入口]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾丸山公園南入口</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5494196,35.9534909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平方３６５７番地</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 7<br>設置場所の目標: 平方北小学校北側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>平方北小学校北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5562436,35.9579209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上野本郷１５１番地２</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 1<br>設置場所の目標: 上野本郷公民館西側フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上野本郷公民館西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5615312,35.9361248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平方領々家１３２番地２</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 2<br>設置場所の目標: 平方領々家公民館東側フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>平方領々家公民館東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5688091,35.9469216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上野４５３番地</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 3<br>設置場所の目標: 上野集落センター東側フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上野集落センター東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.561166,35.9449614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上野８３番地７１</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 4<br>設置場所の目標: 三塚公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>三塚公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5587194,35.9493197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上野４８２番地１</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 5<br>設置場所の目標: 平方スポーツ広場北側入口フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>平方スポーツ広場北側入口フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5581398,35.9454348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上野４８２番地１</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 6<br>設置場所の目標: 平方スポーツ広場南側入口フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>平方スポーツ広場南側入口フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5578387,35.9400603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字西貝塚１７番地１</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 7<br>設置場所の目標: 健康プラザわくわくランド玄関右側]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>健康プラザわくわくランド玄関右側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5553594,35.9373371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷８１５番地３</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 1<br>設置場所の目標: 家電量販店北側フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>家電量販店北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5654939,35.9591027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷７７番地１</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 2<br>設置場所の目標: 西上尾第二団地２街区２０号棟西側]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西上尾第二団地２街区２０号棟西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5604011,35.9531785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷７７番地１</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 3<br>設置場所の目標: 西上尾第二団地１街区１２号棟南側駐車場フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西上尾第二団地１街区１２号棟南側駐車場フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5614215,35.9563889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷７０３番地１</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 4<br>設置場所の目標: 西部浄水場フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西部浄水場フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5633909,35.9573288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷７７番地１</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 5<br>設置場所の目標: 西上尾第二団地１街区２５号棟北側フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西上尾第二団地１街区２５号棟北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5643752,35.9559135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷２番地３</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 6<br>設置場所の目標: 太平中学校東側フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>太平中学校東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5657499,35.9546575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷７７番地１</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 7<br>設置場所の目標: 西上尾第二団地２街区１６号棟東側フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西上尾第二団地２街区１６号棟東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5637469,35.9529671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２７１６番地</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 1<br>設置場所の目標: 尾山台団地１街区１号棟南側]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>尾山台団地１街区１号棟南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6376289,35.9562286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２７１６番地</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 2<br>設置場所の目標: 尾山台団地２街区４号棟西側]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>尾山台団地２街区４号棟西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6388902,35.9567497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２７１６番地</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 3<br>設置場所の目標: 尾山台団地３街区１号棟西側]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>尾山台団地３街区１号棟西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.639381,35.9573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２７１６番地</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 4<br>設置場所の目標: 尾山台団地５街区７号棟西側]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>尾山台団地５街区７号棟西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6397291,35.9618804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２７１６番地</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 5<br>設置場所の目標: 尾山台団地５街区１４号棟東側の向い（フェンス）]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>尾山台団地５街区１４号棟東側の向い（フェンス）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6418212,35.9625198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２７１６番地</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 6<br>設置場所の目標: 尾山台団地５街区２５号棟南側]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>尾山台団地５街区２５号棟南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6412405,35.9592801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２７１６番地</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 7<br>設置場所の目標: 尾山台団地自治会西側フェンス]]></description>
+        <styleUrl>#icon-1899-AAFF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>尾山台団地自治会西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.640458,35.9584616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市１４４３番地</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 1<br>設置場所の目標: 運送会社西側フェンス]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>運送会社西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6148185,35.9758405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市原市北一丁目４番地</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 2<br>設置場所の目標: 沼南公園西側]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>沼南公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6218492,35.9709775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市１７９５番地</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 3<br>設置場所の目標: はらいち台公園南側フェンス]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>はらいち台公園南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6223413,35.9752185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市原市北一丁目１０１番地</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 4<br>設置場所の目標: ふとん店東側道路植込み]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ふとん店東側道路植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.619741,35.9742612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市原市北一丁目２４番地</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 5<br>設置場所の目標: 長久公園西側]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>長久公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6193829,35.9729062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市１００６番地１</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 6<br>設置場所の目標: 原市一区ゲートボール場フェンス]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市一区ゲートボール場フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6168701,35.9720574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市原市北一丁目８番地１</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 7<br>設置場所の目標: メゾン・セフィア東側道路植込み]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>メゾン・セフィア東側道路植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6222438,35.9718459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３３３６番地</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 1<br>設置場所の目標: 原市団地集会所西公園南側植込み]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市団地集会所西公園南側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6293768,35.9655849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３３３６番地</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 2<br>設置場所の目標: 原市団地４街区１５号棟南西側]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市団地４街区１５号棟南西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.630612,35.9656859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３３３６番地</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 3<br>設置場所の目標: 原市団地５街区２号棟東側]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市団地５街区２号棟東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6281249,35.9671529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３３３６番地</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 4<br>設置場所の目標: 原市団地１街区８号棟西側]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市団地１街区８号棟西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6330689,35.9656989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３３３６番地</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 5<br>設置場所の目標: 原市団地２街区５号棟南側]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市団地２街区５号棟南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.632686,35.96469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３３３６番地</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 6<br>設置場所の目標: 原市団地３街区３号棟西側]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市団地３街区３号棟西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6302251,35.9647464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３８７３番地２５</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 7<br>設置場所の目標: 東大宮ハウス内遊水池フェンス]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東大宮ハウス内遊水池フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6279572,35.9644693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市４１６６番地</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 1<br>設置場所の目標: 原市南保育所北側フェンス]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市南保育所北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6298813,35.9578159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３９５０番地</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 2<br>設置場所の目標: 白山公園北側]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>白山公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6307259,35.9609122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３番地</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 3<br>設置場所の目標: 原市１番耕地公園西側]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市１番耕地公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6303545,35.9545322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市４１４１番地１</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 4<br>設置場所の目標: 原市六区会館隣神明神社東側フェンス]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市六区会館隣神明神社東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6283761,35.959939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市４１６６番地</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 5<br>設置場所の目標: 原市南保育所西側フェンス]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市南保育所西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6297043,35.9574577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３９９０番地</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 6<br>設置場所の目標: 原市南小学校東側]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市南小学校東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6340203,35.959764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市４３３５番地５</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 7<br>設置場所の目標: 民家西側駐車場フェンス]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家西側駐車場フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6342155,35.9558075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３９９０番地</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 8<br>設置場所の目標: 原市南小学校プール西側フェンス]]></description>
+        <styleUrl>#icon-1899-39FF00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市南小学校プール西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6322246,35.9597369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺５０９番地１</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 1<br>設置場所の目標: 尾山台小学校校門左側植込み]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>尾山台小学校校門左側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6399065,35.9626499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺６６２番地２７</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 2<br>設置場所の目標: 秩父山公園南側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>秩父山公園南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6371868,35.9619097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺１６３番地</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 3<br>設置場所の目標: 瓦葺中学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>瓦葺中学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6407204,35.9673818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺１１３４番地４</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 4<br>設置場所の目標: 民家東側塀]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家東側塀</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.636286,35.9666703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺１０３５番地</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 5<br>設置場所の目標: 瓦葺氷川神社塀]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>瓦葺氷川神社塀</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6366411,35.9654545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺１２９５番地</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 6<br>設置場所の目標: 民家北側塀]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家北側塀</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6344422,35.9628464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺１５２５番地５</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 7<br>設置場所の目標: むじなや公園東側]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>むじなや公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6363826,35.956921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２２６０番地</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 1<br>設置場所の目標: 瓦葺小学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>瓦葺小学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6463585,35.9592707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺１９３４番地９</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 2<br>設置場所の目標: 民家北側畑]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家北側畑</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6431416,35.9574068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２１１７番地４５</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 3<br>設置場所の目標: 稲荷八ッ山公園東側]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>稲荷八ッ山公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6458238,35.9572042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺３２１５番地</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 4<br>設置場所の目標: 前原公園東側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>前原公園東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6450625,35.9543702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺３１０３番地１</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 5<br>設置場所の目標: 民家西側水路フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家西側水路フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6466862,35.9565403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２２４８番地</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 6<br>設置場所の目標: かわらぶき保育所南側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>かわらぶき保育所南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6464089,35.9578798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２２６０番地</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 7<br>設置場所の目標: 瓦葺小学校東側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>瓦葺小学校東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6476359,35.959484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字瓦葺２１３４番地</name>
+        <description><![CDATA[投票区: 18<br>設置番号: 8<br>設置場所の目標: 民家南側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>18.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6480334,35.9564985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市浅間台一丁目６番地</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 1<br>設置場所の目標: 上尾高等学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾高等学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5759211,35.9830862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市浅間台二丁目６番地</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 2<br>設置場所の目標: 浅間台第二公園南側]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>浅間台第二公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5758411,35.9802017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市浅間台三丁目１３番地</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 3<br>設置場所の目標: 浅間台第三公園西側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>浅間台第三公園西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5743166,35.9757942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市浅間台三丁目３５番地</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 4<br>設置場所の目標: 浅間台大公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>浅間台大公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5698333,35.9774362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市浅間台四丁目１３番地</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 5<br>設置場所の目標: 浅間台第四公園西側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>浅間台第四公園西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5677302,35.9804564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中妻二丁目１４番地</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 6<br>設置場所の目標: 中妻第二公園南側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中妻第二公園南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5705069,35.9822507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中妻一丁目４番地</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 7<br>設置場所の目標: 中妻第一公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>中妻第一公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.574905,35.985841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中妻一丁目１番地３５</name>
+        <description><![CDATA[投票区: 19<br>設置番号: 8<br>設置場所の目標: 北上尾駅西口駅前広場植込み]]></description>
+        <styleUrl>#icon-1899-00FF39-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>19.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北上尾駅西口駅前広場植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5768107,35.9856885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市井戸木四丁目２３番地</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 1<br>設置場所の目標: 大石北小学校北側フェンス]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大石北小学校北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5611584,35.9859907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市井戸木四丁目２３番地</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 2<br>設置場所の目標: 大石北小学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大石北小学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5608969,35.9851606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市泉台三丁目８番地</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 3<br>設置場所の目標: おさらぎ公園東側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>おさらぎ公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5548484,35.9896162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市井戸木一丁目１２番地</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 4<br>設置場所の目標: 山王公園南側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>山王公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5639051,35.9897606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市泉台二丁目９番地</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 5<br>設置場所の目標: 梅田公園東側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>梅田公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.558441,35.9856189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市井戸木二丁目４２番地</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 6<br>設置場所の目標: 新田公園北側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>新田公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5603035,35.9913145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市井戸木二丁目１２番地</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 7<br>設置場所の目標: 東公園北側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5636348,35.9933957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市井戸木四丁目３５番地</name>
+        <description><![CDATA[投票区: 20<br>設置番号: 8<br>設置場所の目標: 井戸木公園東側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>20.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>井戸木公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5599387,35.9875609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市小泉九丁目２８番地２</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 1<br>設置場所の目標: 大石小学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大石小学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5585948,35.9750083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市小泉九丁目２８番地２</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 2<br>設置場所の目標: 大石小学校北側フェンス]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大石小学校北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5592533,35.9765255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中分一丁目８番地</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 3<br>設置場所の目標: 大久保公園東側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大久保公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5596521,35.9684328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中分三丁目７６番地</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 4<br>設置場所の目標: 北部浄水場南側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北部浄水場南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5493056,35.9774538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市藤波一丁目２８２番地</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 5<br>設置場所の目標: 藤波公民館東側フェンス]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>藤波公民館東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5450494,35.9875757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中分二丁目１９４番地</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 6<br>設置場所の目標: 下芝水辺公園駐車場東側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>下芝水辺公園駐車場東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5570963,35.9733194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市小泉三丁目１４番地</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 7<br>設置場所の目標: 神明公園南側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>神明公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5696437,35.9741792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市小泉八丁目１番地</name>
+        <description><![CDATA[投票区: 21<br>設置番号: 8<br>設置場所の目標: 氷川山公園東側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>21.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>氷川山公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5655191,35.9742091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字畔吉１３３３番地</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 1<br>設置場所の目標: 大石南小学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大石南小学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5534542,35.9687811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字畔吉１３３３番地</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 2<br>設置場所の目標: 大石南小学校南側フェンス]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大石南小学校南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5547276,35.9688544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷８８０番地１１４</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 3<br>設置場所の目標: 三井Ｃ地区（三井サニータウン）公園東側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>三井Ｃ地区（三井サニータウン）公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5622089,35.9666311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字畔吉１２１９番地１</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 4<br>設置場所の目標: 畔吉集会所フェンス]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>畔吉集会所フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5534284,35.9675528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字畔吉１２５０番地１</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 5<br>設置場所の目標: あぜよし公園]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>あぜよし公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.552655,35.9687833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字畔吉１７８番地</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 6<br>設置場所の目標: 自然学習館駐車場東側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>自然学習館駐車場東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5493534,35.9608264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字領家３２０番地３</name>
+        <description><![CDATA[投票区: 22<br>設置番号: 7<br>設置場所の目標: 電気設備会社南側山林]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>22.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>電気設備会社南側山林</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5418207,35.9680771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市向山三丁目４２番地</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 1<br>設置場所の目標: さくら公園南側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>さくら公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5801194,35.9632922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市向山三丁目２番地６</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 2<br>設置場所の目標: 神明神社南側フェンス]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>神明神社南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5848133,35.9633368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市川一丁目４番地</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 3<br>設置場所の目標: あじさい公園東側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>あじさい公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5832336,35.9659323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市向山一丁目４２番地</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 4<br>設置場所の目標: さつき公園西側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>さつき公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5807918,35.9596291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市向山一丁目４３番地８</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 5<br>設置場所の目標: 向山自治センター西側フェンス]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>向山自治センター西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5802516,35.9610891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市向山一丁目２０番地</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 6<br>設置場所の目標: もみじ公園東側]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>もみじ公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5839964,35.9621811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市向山一丁目３番地３</name>
+        <description><![CDATA[投票区: 23<br>設置番号: 7<br>設置場所の目標: 本山ポンプ場東側フェンス]]></description>
+        <styleUrl>#icon-1899-00FFAA-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>23.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>本山ポンプ場東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5869288,35.9620454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷８４５番地１</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 1<br>設置場所の目標: 西上尾第一団地集会所西側]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西上尾第一団地集会所西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5640981,35.9644987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷８４５番地１</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 2<br>設置場所の目標: 西上尾第一団地１街区７号棟北側]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西上尾第一団地１街区７号棟北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5662311,35.9667782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷８４５番地１</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 3<br>設置場所の目標: 西上尾第一団地１街区９号棟東側]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西上尾第一団地１街区９号棟東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5678008,35.9666696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷８４５番地１</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 4<br>設置場所の目標: 西上尾第一団地２街区１８号棟南側]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西上尾第一団地２街区１８号棟南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5660185,35.9626914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷８４５番地１</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 5<br>設置場所の目標: 西上尾第一団地２街区２６号棟南側]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西上尾第一団地２街区２６号棟南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5635241,35.9627739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷８４５番地１</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 6<br>設置場所の目標: 西上尾第一団地３街区１７号棟南側]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西上尾第一団地３街区１７号棟南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5625209,35.9636944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷８４５番地１</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 7<br>設置場所の目標: 西上尾第一団地３街区２５号棟南側]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西上尾第一団地３街区２５号棟南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5592379,35.9645498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小敷谷４９９番地３</name>
+        <description><![CDATA[投票区: 24<br>設置番号: 8<br>設置場所の目標: 西部４号井戸東側フェンス]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>24.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西部４号井戸東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5587848,35.9608699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市今泉一丁目７番地２</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 1<br>設置場所の目標: 西小学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西小学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5734751,35.969887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市小泉一丁目６番地</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 2<br>設置場所の目標: どんぐり山公園北側]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>どんぐり山公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5701435,35.9693719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市今泉一丁目３２番</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 3<br>設置場所の目標: こぶし公園南側]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>こぶし公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5718165,35.9680328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小泉３５番地１４</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 4<br>設置場所の目標: 小泉中央公園南側フェンス]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>小泉中央公園南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5649498,35.9681465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小泉３５番地１５３</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 5<br>設置場所の目標: 三井住宅遊水池北側フェンス]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>三井住宅遊水池北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5631594,35.96715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市小泉二丁目６番地</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 6<br>設置場所の目標: 寺東公園南側]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>寺東公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5683918,35.9711729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字小泉３７８番地</name>
+        <description><![CDATA[投票区: 25<br>設置番号: 7<br>設置場所の目標: 宮山公園西側]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>25.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>宮山公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.562243,35.9696084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字南１０２番地</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 1<br>設置場所の目標: 上平小学校北側フェンス]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上平小学校北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5853951,35.9967136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字南１０２番地</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 2<br>設置場所の目標: 上平小学校南校門フェンス]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上平小学校南校門フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5853918,35.9954528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上１５７３番地１</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 3<br>設置場所の目標: 上尾市消防署上平分署東側フェンス]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾市消防署上平分署東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5776483,35.9995076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上６８６番地５</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 4<br>設置場所の目標: 新梨子公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>新梨子公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5802461,36.0002338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上１６２５番地１</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 5<br>設置場所の目標: 民家南側畑]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家南側畑</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5749876,36.001638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上１４８１番地７５</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 6<br>設置場所の目標: 長浪（上尾第一団地集会所）公園東側フェンス]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>長浪（上尾第一団地集会所）公園東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5787259,36.0016848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字西門前４９８番地１</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 7<br>設置場所の目標: 上平保育所西側フェンス]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上平保育所西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.585848,35.9981419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上平中央三丁目４２番</name>
+        <description><![CDATA[投票区: 26<br>設置番号: 8<br>設置場所の目標: べにばな公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-00E3FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>26.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>べにばな公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5858358,35.9939341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上３７４番地１</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 1<br>設置場所の目標: シラコバト団地１８号棟東側]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>シラコバト団地１８号棟東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5771641,35.9953834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上３４０番地</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 2<br>設置場所の目標: シラコバト団地４号棟南側]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>シラコバト団地４号棟南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5769431,35.9942245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上１０２番地３８</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 3<br>設置場所の目標: シラコバト団地３３号棟北側植込み]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>シラコバト団地３３号棟北側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.575302,35.9978328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字久保４６番地１</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 4<br>設置場所の目標: 民間駐車場フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民間駐車場フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5783909,35.9897199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字久保２８３番地</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 5<br>設置場所の目標: シラコバト団地９号棟南側]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>シラコバト団地９号棟南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5793161,35.9934351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上１７番地１３</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 6<br>設置場所の目標: 町谷第一公園西側フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>町谷第一公園西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5734889,35.9916869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上３７０番地</name>
+        <description><![CDATA[投票区: 27<br>設置番号: 7<br>設置場所の目標: シラコバト団地３２号棟東側]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>27.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>シラコバト団地３２号棟東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5756533,35.9975276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字菅谷１２１番地</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 1<br>設置場所の目標: 上平中学校北側フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上平中学校北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5921606,35.9961706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字菅谷１２１番地</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 2<br>設置場所の目標: 上平中学校東側フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上平中学校東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5935902,35.9960242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字南１６０番地１</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 3<br>設置場所の目標: 上平中学校第二グラウンド南側フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上平中学校第二グラウンド南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5915023,35.9935425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市菅谷三丁目３０番地</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 4<br>設置場所の目標: 新田公民館東側フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>新田公民館東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5922526,36.0007248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平塚３００９番地</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 5<br>設置場所の目標: つばき公園北側]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>つばき公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6008882,35.996339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市須ケ谷二丁目１１１番地</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 6<br>設置場所の目標: 第六天神社西側フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>第六天神社西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5979076,36.0038101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市菅谷二丁目３２番地</name>
+        <description><![CDATA[投票区: 28<br>設置番号: 7<br>設置場所の目標: 北中地公民館東側フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>28.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>北中地公民館東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5962407,36.001697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字南２８７番地</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 1<br>設置場所の目標: 上平北小学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上平北小学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5866081,36.0031805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字南２８７番地</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 2<br>設置場所の目標: 上平北小学校南側フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上平北小学校南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5876723,36.0025003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上１０５２番地５</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 3<br>設置場所の目標: ポニー公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ポニー公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5764518,36.0078587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上１１３４番地２０</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 4<br>設置場所の目標: 上郷遊園地東側フェンス]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上郷遊園地東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.574512,36.0069437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上９０３番地２</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 5<br>設置場所の目標: 歯科医院北側]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>歯科医院北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5816803,36.0059836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字上７２３番地１</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 6<br>設置場所の目標: 上新梨子集会所西側]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上新梨子集会所西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5818404,36.0009867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市菅谷四丁目２５番地</name>
+        <description><![CDATA[投票区: 29<br>設置番号: 7<br>設置場所の目標: 氷川神社東側]]></description>
+        <styleUrl>#icon-1899-0071FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>29.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>氷川神社東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5934295,36.0033636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上平中央三丁目４番地</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 1<br>設置場所の目標: こうしん山公園西側]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>こうしん山公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5879377,35.9902562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上平中央一丁目８番地１</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 2<br>設置場所の目標: 芝川小学校北側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>芝川小学校北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5831761,35.9903562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市錦町１１番地</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 3<br>設置場所の目標: 錦町西公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>錦町西公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5869185,35.9893715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市錦町７番地</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 4<br>設置場所の目標: 錦町中央公園東側]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>錦町中央公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5894417,35.9882235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市本町六丁目２７３番地４</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 5<br>設置場所の目標: 上尾東団地第二公園北側]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾東団地第二公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5918934,35.9867644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上平中央一丁目３番地</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 6<br>設置場所の目標: やまの下公園東側]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>やまの下公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5834406,35.9888454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上平中央二丁目４番地</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 7<br>設置場所の目標: なかはら公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>なかはら公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5853374,35.9907928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市上平中央一丁目２０番地</name>
+        <description><![CDATA[投票区: 30<br>設置番号: 8<br>設置場所の目標: 上平ぼうの下調整池西側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>30.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上平ぼうの下調整池西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5819178,35.9907519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平塚９５１番地２</name>
+        <description><![CDATA[投票区: 31<br>設置番号: 1<br>設置場所の目標: イコス上尾東側植込み]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>イコス上尾東側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6127411,35.9844792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平塚５３６番地１</name>
+        <description><![CDATA[投票区: 31<br>設置番号: 2<br>設置場所の目標: 上尾市サッカー場西側]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾市サッカー場西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6152662,35.9810967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市１３８０番地４</name>
+        <description><![CDATA[投票区: 31<br>設置番号: 3<br>設置場所の目標: 柳通り北区自治会館西側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>柳通り北区自治会館西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6077003,35.9803214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平塚１２１２番地</name>
+        <description><![CDATA[投票区: 31<br>設置番号: 4<br>設置場所の目標: 平塚公園西側]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>平塚公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6084427,35.9865105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平塚２０２５番地</name>
+        <description><![CDATA[投票区: 31<br>設置番号: 5<br>設置場所の目標: ビレッジハウス上尾１号棟西側]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ビレッジハウス上尾１号棟西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6000508,35.9897032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平塚２１４６番地１</name>
+        <description><![CDATA[投票区: 31<br>設置番号: 6<br>設置場所の目標: 東部浄水場北側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>東部浄水場北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6024326,35.9938249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字平塚１２８１番地</name>
+        <description><![CDATA[投票区: 31<br>設置番号: 7<br>設置場所の目標: 上尾かしの木特別支援学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>31.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>上尾かしの木特別支援学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.611397,35.9863086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字大谷本郷５２８番地</name>
+        <description><![CDATA[投票区: 32<br>設置番号: 1<br>設置場所の目標: 大谷小学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>32.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大谷小学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5830518,35.9548898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字堤崎３２６番地２</name>
+        <description><![CDATA[投票区: 32<br>設置番号: 2<br>設置場所の目標: 堤崎自治会館西側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>32.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>堤崎自治会館西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.578962,35.9453082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字地頭方４２１番地９</name>
+        <description><![CDATA[投票区: 32<br>設置番号: 3<br>設置場所の目標: 地頭方公園北側フェンス（病院北側）]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>32.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>地頭方公園北側フェンス（病院北側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5716286,35.9533915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字地頭方１１４番地</name>
+        <description><![CDATA[投票区: 32<br>設置番号: 4<br>設置場所の目標: 氷川神社東側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>32.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>氷川神社東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5743438,35.9486696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字大谷本郷９４９番地１</name>
+        <description><![CDATA[投票区: 32<br>設置番号: 5<br>設置場所の目標: 大谷公民館入口南側]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>32.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大谷公民館入口南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5854864,35.9585924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字戸崎１番地１１９</name>
+        <description><![CDATA[投票区: 32<br>設置番号: 6<br>設置場所の目標: 戸崎公園（大学前）]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>32.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>戸崎公園（大学前）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5973375,35.9383199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字戸崎８０１番地１</name>
+        <description><![CDATA[投票区: 32<br>設置番号: 7<br>設置場所の目標: 戸崎児童遊園地西側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>32.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>戸崎児童遊園地西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.594224,35.9441309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字大谷本郷９８２番地</name>
+        <description><![CDATA[投票区: 32<br>設置番号: 8<br>設置場所の目標: 旧ＪＡ大谷支店南側フェンス]]></description>
+        <styleUrl>#icon-1899-0000FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>32.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>旧ＪＡ大谷支店南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5863215,35.959229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市西宮下四丁目４００番地</name>
+        <description><![CDATA[投票区: 33<br>設置番号: 1<br>設置場所の目標: 鴨川小学校北側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>33.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鴨川小学校北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5874093,35.9641206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市西宮下四丁目４００番地</name>
+        <description><![CDATA[投票区: 33<br>設置番号: 2<br>設置場所の目標: 鴨川小学校南側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>33.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鴨川小学校南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5876762,35.9631116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市富士見一丁目４８０番地６６</name>
+        <description><![CDATA[投票区: 33<br>設置番号: 3<br>設置場所の目標: 富士見団地第三公園東側]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>33.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見団地第三公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5854695,35.9653979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市西宮下四丁目２３７番地１</name>
+        <description><![CDATA[投票区: 33<br>設置番号: 4<br>設置場所の目標: 西宮下公園南側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>33.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西宮下公園南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5897657,35.9669519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市西宮下四丁目３２４番地１</name>
+        <description><![CDATA[投票区: 33<br>設置番号: 5<br>設置場所の目標: 民家南側梅畑]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>33.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>民家南側梅畑</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5905797,35.9649302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市西宮下二丁目８２番地</name>
+        <description><![CDATA[投票区: 33<br>設置番号: 6<br>設置場所の目標: 西宮下第三公園南側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>33.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西宮下第三公園南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5942595,35.9637836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市西宮下三丁目１２番地１</name>
+        <description><![CDATA[投票区: 33<br>設置番号: 7<br>設置場所の目標: 西宮下三丁目シゲル公園西側]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>33.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西宮下三丁目シゲル公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5956362,35.9642757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市西宮下四丁目３８０番地３</name>
+        <description><![CDATA[投票区: 33<br>設置番号: 8<br>設置場所の目標: 大谷保育所東側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>33.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大谷保育所東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5880228,35.9629409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市東今泉５番地１</name>
+        <description><![CDATA[投票区: 34<br>設置番号: 1<br>設置場所の目標: 西中学校北側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>34.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西中学校北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.576858,35.9669506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市東今泉５番地１</name>
+        <description><![CDATA[投票区: 34<br>設置番号: 2<br>設置場所の目標: 西中学校南側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>34.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西中学校南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5778021,35.966664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市今泉三丁目４番地</name>
+        <description><![CDATA[投票区: 34<br>設置番号: 3<br>設置場所の目標: ４号公園北側フェンス（コープみらい　コープ今泉店北側）]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>34.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>４号公園北側フェンス（コープみらい　コープ今泉店北側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5733248,35.9633098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市今泉三丁目１７番地１</name>
+        <description><![CDATA[投票区: 34<br>設置番号: 4<br>設置場所の目標: 今泉小学校西側フェンス（児童館こどもの城向かい側）]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>34.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>今泉小学校西側フェンス（児童館こどもの城向かい側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5696775,35.9623318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市富士見二丁目６番４６</name>
+        <description><![CDATA[投票区: 34<br>設置番号: 5<br>設置場所の目標: 富士見団地第一公園北側]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>34.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見団地第一公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5837047,35.9688409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市富士見二丁目２０番８３</name>
+        <description><![CDATA[投票区: 34<br>設置番号: 6<br>設置場所の目標: 富士見団地第二公園東側]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>34.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見団地第二公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5835899,35.9681274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市富士見二丁目２６０番８</name>
+        <description><![CDATA[投票区: 34<br>設置番号: 7<br>設置場所の目標: 富士見団地集会所南側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>34.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>富士見団地集会所南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5833178,35.966406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市向山四丁目１０番地</name>
+        <description><![CDATA[投票区: 35<br>設置番号: 1<br>設置場所の目標: 大谷中学校南側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>35.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大谷中学校南側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5760826,35.9598437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市壱丁目東２２番地１</name>
+        <description><![CDATA[投票区: 35<br>設置番号: 2<br>設置場所の目標: 子ども・子育て支援複合施設西側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>35.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>子ども・子育て支援複合施設西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5733681,35.9565379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市向山四丁目１０番地</name>
+        <description><![CDATA[投票区: 35<br>設置番号: 3<br>設置場所の目標: 大谷中学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>35.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大谷中学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5748783,35.959911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市向山二丁目４２番地</name>
+        <description><![CDATA[投票区: 35<br>設置番号: 4<br>設置場所の目標: ならのき公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>35.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>ならのき公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5773499,35.9580516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市壱丁目北１７番地１</name>
+        <description><![CDATA[投票区: 35<br>設置番号: 5<br>設置場所の目標: コミュニティ広場北側]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>35.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>コミュニティ広場北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5684546,35.95906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市壱丁目東１７番１</name>
+        <description><![CDATA[投票区: 35<br>設置番号: 6<br>設置場所の目標: どんぐり公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>35.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>どんぐり公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.572454,35.9594121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市向山四丁目３番地１０</name>
+        <description><![CDATA[投票区: 35<br>設置番号: 7<br>設置場所の目標: 市民体育館北側フェンス]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>35.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>市民体育館北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5755513,35.9628357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市壱丁目北４番１</name>
+        <description><![CDATA[投票区: 35<br>設置番号: 8<br>設置場所の目標: モミノキ公園北側植込み]]></description>
+        <styleUrl>#icon-1899-7100FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>35.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>モミノキ公園北側植込み</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5708822,35.960412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市春日二丁目１０番３３</name>
+        <description><![CDATA[投票区: 36<br>設置番号: 1<br>設置場所の目標: 西保健センター駐車場北側フェンス]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>36.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>西保健センター駐車場北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5784654,35.9753802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市春日一丁目６番２</name>
+        <description><![CDATA[投票区: 36<br>設置番号: 2<br>設置場所の目標: 春日一丁目公園（パーク上尾参番館東側）]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>36.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>春日一丁目公園（パーク上尾参番館東側）</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5829593,35.9751914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市弁財一丁目２７８番１</name>
+        <description><![CDATA[投票区: 36<br>設置番号: 3<br>設置場所の目標: カットサロン向側畑]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>36.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>カットサロン向側畑</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5738802,35.9718657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市春日二丁目１９番</name>
+        <description><![CDATA[投票区: 36<br>設置番号: 4<br>設置場所の目標: 春日第三公園西側フェンス]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>36.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>春日第三公園西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5773826,35.977987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市春日二丁目４番</name>
+        <description><![CDATA[投票区: 36<br>設置番号: 5<br>設置場所の目標: 春日第二公園西側フェンス]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>36.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>春日第二公園西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5790563,35.9767704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市春日一丁目４２番</name>
+        <description><![CDATA[投票区: 36<br>設置番号: 6<br>設置場所の目標: 春日第一公園東側フェンス]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>36.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>春日第一公園東側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5812447,35.9792379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市春日二丁目８番</name>
+        <description><![CDATA[投票区: 36<br>設置番号: 7<br>設置場所の目標: 春日第二公園西側]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>36.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>春日第二公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5798141,35.9771958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市弁財二丁目２８３番１１</name>
+        <description><![CDATA[投票区: 36<br>設置番号: 8<br>設置場所の目標: 昌福寺西鉄塔北側]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>36.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>昌福寺西鉄塔北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.573215,35.972764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３５０８番地１</name>
+        <description><![CDATA[投票区: 37<br>設置番号: 1<br>設置場所の目標: 原市小学校東側防災倉庫前]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>37.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市小学校東側防災倉庫前</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6257727,35.9668098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３５０８番地１</name>
+        <description><![CDATA[投票区: 37<br>設置番号: 2<br>設置場所の目標: 原市小学校西側]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>37.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市小学校西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6234365,35.9674866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市五番町２０番地</name>
+        <description><![CDATA[投票区: 37<br>設置番号: 3<br>設置場所の目標: 五番町第一公園東側]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>37.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>五番町第一公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6201022,35.9641843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市原市中三丁目４番地</name>
+        <description><![CDATA[投票区: 37<br>設置番号: 4<br>設置場所の目標: 原市駅前公園西側]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>37.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市駅前公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6226477,35.9635489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市原市中一丁目４番地２</name>
+        <description><![CDATA[投票区: 37<br>設置番号: 5<br>設置場所の目標: 稲荷公園]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>37.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>稲荷公園</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6224421,35.9691888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３７０５番地</name>
+        <description><![CDATA[投票区: 37<br>設置番号: 6<br>設置場所の目標: 原市五区公民館フェンス]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>37.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>原市五区公民館フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6230199,35.9653675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市大字原市３２３３番地１２９</name>
+        <description><![CDATA[投票区: 37<br>設置番号: 7<br>設置場所の目標: 白樺公園北側フェンス]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>37.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>白樺公園北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.6268337,35.9697898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中妻四丁目１９番地</name>
+        <description><![CDATA[投票区: 38<br>設置番号: 1<br>設置場所の目標: 大石中学校西側フェンス]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>38.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大石中学校西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5646654,35.9813835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中妻四丁目１９番地</name>
+        <description><![CDATA[投票区: 38<br>設置番号: 2<br>設置場所の目標: 大石中学校北側フェンス]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>38.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>大石中学校北側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5649148,35.9820541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中妻五丁目３３番地</name>
+        <description><![CDATA[投票区: 38<br>設置番号: 3<br>設置場所の目標: 鴨川中央公園南側]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>38.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鴨川中央公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5632509,35.9839499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中妻五丁目３３番地</name>
+        <description><![CDATA[投票区: 38<br>設置番号: 4<br>設置場所の目標: 鴨川中央公園西側]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>38.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>鴨川中央公園西側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5619634,35.9841995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市泉台一丁目５番地</name>
+        <description><![CDATA[投票区: 38<br>設置番号: 5<br>設置場所の目標: 水神公園北側]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>38.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>水神公園北側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5637383,35.9812685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中妻三丁目１６番地</name>
+        <description><![CDATA[投票区: 38<br>設置番号: 6<br>設置場所の目標: 宮前公園東側]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>38.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>宮前公園東側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5686299,35.9839939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市中妻五丁目１３番地</name>
+        <description><![CDATA[投票区: 38<br>設置番号: 7<br>設置場所の目標: かえで公園南側]]></description>
+        <styleUrl>#icon-1899-E300FF-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>38.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>かえで公園南側</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.567116,35.9870524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市柏座三丁目１番４８号</name>
+        <address>埼玉県上尾市柏座三丁目１番４８号</address>
+        <description><![CDATA[投票区: 9<br>設置番号: 8<br>設置場所の目標: パーク上尾弐番館西側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>パーク上尾弐番館西側フェンス</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県上尾市柏座三丁目１番４８号</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 8<br>設置場所の目標: パーク上尾弐番館西側フェンス]]></description>
+        <styleUrl>#icon-1899-FFE300-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置場所の目標">
+            <value>パーク上尾弐番館西側フェンス</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.5829399,35.9743088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,3096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>杉戸町選挙ポスター掲示場設置場所</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-795548-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>【杉戸町】ポスター掲示場設置場所一覧表.csv</name>
+      <Placemark>
+        <name>下野集会所際</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字下野897番地 地先]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字下野897番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7030552,36.0571944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高野台小学校</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台西5丁目16番地]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台西5丁目16番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.705473,36.0540281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天神児童公園内</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台西5丁目8番地]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台西5丁目8番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7080051,36.0558149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上新田（かみしんでん）集会所際</name>
+        <address>埼玉県北葛飾郡杉戸町高野台西2丁目7番地13</address>
+        <description><![CDATA[投票区: 1<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台西2丁目7番地13]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台西2丁目7番地13</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>杉戸高野台駅西口前</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台西1丁目1番地]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台西1丁目1番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7142705,36.0513536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西近隣公園内入口前</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台西4丁目1番地3]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台西4丁目1番地3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7069852,36.0508674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高野台ビルPART1 T字路</name>
+        <description><![CDATA[投票区: 1<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台西2丁目1番地13]]></description>
+        <styleUrl>#icon-1899-795548</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>1.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台西2丁目1番地13</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7108561,36.0523404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日光御成街道一里塚</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字下高野329番地]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字下高野329番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.700964,36.0506304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西小学校校庭南側</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台南5丁目1番地2]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台南5丁目1番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7107246,36.047943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西幼稚園</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台南1丁目13番地1]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台南1丁目13番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7102703,36.0495349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>幸手都市ガス倉庫前</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台南3丁目4番地2]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台南3丁目4番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.715912,36.0462783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>凸版印刷（株）総合研究所前</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台南4丁目3番地]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台南4丁目3番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7118591,36.0437788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>後宿児童公園内</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字下高野530番地]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字下高野530番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7046091,36.0429794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>西近隣公園際</name>
+        <description><![CDATA[投票区: 2<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字高野台西4丁目1番地1]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>2.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字高野台西4丁目1番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7080185,36.0489051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸高野台駅東口前</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台東1丁目8番地1]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台東1丁目8番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.714987,36.051501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>東丁張児童公園内</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町高野台東1丁目18番地]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町高野台東1丁目18番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7155044,36.0489106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>将監会館際　鉄塔下</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字茨島745番地1]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字茨島745番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7184742,36.0502914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高野農村センター入口際</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字大島29番地1]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字大島29番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7203943,36.0473341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水路フェンス</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字大島197番地2]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字大島197番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7239971,36.0506436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>カルスタすぎと際</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字大島477番地8]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字大島477番地8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7257898,36.0464504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>小谷堀（こやぼり）集会所際</name>
+        <description><![CDATA[投票区: 3<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字下高野2756番地]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>3.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字下高野2756番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7198629,36.0434218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ファミリーマート高野台南店地先</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字下高野1878番地 地先]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字下高野1878番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7119163,36.0415889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ローソン杉戸下高野店横</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字下高野835番地 地先]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字下高野835番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7127398,36.0378607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>むさし堤団地　集会所際公園内</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字下高野591番地5 地先]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字下高野591番地5 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7086199,36.0373857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大栄団地集会所際</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字下高野623番地131]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字下高野623番地131</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7098903,36.0366401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>白百合幼稚園グラウンド際</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字下高野487番地1]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字下高野487番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7082728,36.0407542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>埼玉県杉戸県土整備事務所横</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字杉戸432番地]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字杉戸432番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.71598,36.0342701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営舎人団地前</name>
+        <description><![CDATA[投票区: 4<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字杉戸848番地2]]></description>
+        <styleUrl>#icon-1899-4E342E</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>4.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字杉戸848番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7184047,36.0342528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ココティすぎと</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町杉戸3丁目9番10号]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町杉戸3丁目9番10号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7293738,36.0274432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>割烹　高橋屋先</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町杉戸3丁目46番地 地先]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町杉戸3丁目46番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7269803,36.0265639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NTT杉戸電話交換局別館</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町杉戸4丁目16番18号]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町杉戸4丁目16番18号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7248106,36.0290913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸町商工会館前</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町杉戸1丁目10番21号]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町杉戸1丁目10番21号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7251709,36.0337478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上田児童公園内</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町杉戸5丁目1107番地]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町杉戸5丁目1107番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7230396,36.0321756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鈴木コーポ横防火水槽前</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町杉戸2丁目15番38号 地先]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町杉戸2丁目15番38号 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7276294,36.0306506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三井住友信託銀行杉戸支店横</name>
+        <description><![CDATA[投票区: 5<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町杉戸2丁目13番12号]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>5.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町杉戸2丁目13番12号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7292233,36.0292431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸中学校</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町内田1丁目1751番地地先]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町内田1丁目1751番地地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7296163,36.0337211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鈴木モータース際</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町杉戸7丁目1番2号 地先]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町杉戸7丁目1番2号 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7258721,36.0336574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八幡神社内</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字杉戸2458番地]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字杉戸2458番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7233406,36.0386765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中央幼稚園前</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字杉戸2199番地]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字杉戸2199番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.728376,36.0387179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フレッシュ会館際</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字杉戸3009番地63 地先]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字杉戸3009番地63 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7279034,36.0428393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フレッシュタウン公園内（�潟Vコー裏）</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字杉戸2828番地39]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字杉戸2828番地39</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7308771,36.0407472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>フレッシュタウン住宅案内看板隣</name>
+        <description><![CDATA[投票区: 6<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字杉戸2820番地1]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>6.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字杉戸2820番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7321242,36.0413061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清地橋際</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地2丁目278番地 地先]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地2丁目278番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7352063,36.0248396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>流灯ふれあい館前</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地1丁目9番19号]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地1丁目9番19号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7313901,36.0266521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鶴牧せんべい店斜前</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地1丁目229番地 地先]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地1丁目229番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7334683,36.0267056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清地第二児童公園際</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地2丁目555番地2]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地2丁目555番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7360765,36.0266985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸町役場内</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地2丁目502番地]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地2丁目502番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7363554,36.0256833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新井板金際</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地3丁目790番地]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地3丁目790番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7390313,36.023655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南側散策道ポケットパーク際</name>
+        <description><![CDATA[投票区: 7<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地3丁目4579番地2]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>7.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地3丁目4579番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7441838,36.0206885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸内田団地裏水路フェンス</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町倉松1丁目297番地1 ]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町倉松1丁目297番地1 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7327648,36.0310223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸内田団地入口際</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町内田2丁目2011番地 地先]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町内田2丁目2011番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7304424,36.0311017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸小学校四ツ角</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町内田2丁目9番28号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町内田2丁目9番28号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7315929,36.0331021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>県営杉戸倉松団地前水路際</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町倉松1丁目321番地 地先]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町倉松1丁目321番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7353451,36.0323646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T字路　個人宅際</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町内田3丁目10番15号]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町内田3丁目10番15号</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7331676,36.0361832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元内田保育園前</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町内田3丁目2301番地1 ]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町内田3丁目2301番地1 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7310029,36.0361229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>細井自動車裏水路際</name>
+        <description><![CDATA[投票区: 8<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字杉戸2617番地 ]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>8.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字杉戸2617番地 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.731329,36.037568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸第二小学校</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字倉松600番地1]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字倉松600番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7465536,36.0336984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>コープみらいコープデリ杉戸センター際</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字倉松702-3付近]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字倉松702-3付近</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7458603,36.0299144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸高校テニスコート際</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地4丁目544番地 地先]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地4丁目544番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7336937,36.0291503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>諏訪田団地、個人宅前</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町倉松3丁目374番地 地先]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町倉松3丁目374番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7395307,36.0327163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>倉松川留八橋際</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字本島2574番地 地先]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字本島2574番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7413455,36.0361234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>倉松公園入口際</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字倉松854番地1 地先]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字倉松854番地1 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7484191,36.0368193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>香取神社境内地</name>
+        <description><![CDATA[投票区: 9<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字清地433番地]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>9.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字清地433番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.752128,36.0323658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>広島中学校</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字堤根4759番地]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字堤根4759番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7447247,36.0254502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高田水道工業所前</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地6丁目925番地 地先]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地6丁目925番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7416085,36.0265435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅際五差路</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地5丁目681番地 地先]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地5丁目681番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7401963,36.027472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三田美容室際</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地5丁目649番地 ]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地5丁目649番地 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7385721,36.0285363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝日バス倉松停留所際</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地5丁目640番地]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地5丁目640番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7404845,36.0300829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>清地児童公園</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町清地5丁目684番地]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町清地5丁目684番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7391769,36.027738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>すぎと幼稚園・すぎと保育園前</name>
+        <description><![CDATA[投票区: 10<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字清地1780番地]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>10.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字清地1780番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7494632,36.0296393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>香取神社前</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字本島636番地]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字本島636番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7502643,36.045851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>民家入口前</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字遠野438番地 ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字遠野438番地 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7489965,36.0523986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>佐左ェ門集会所</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字佐左ヱ門1488番地]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字佐左ヱ門1488番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7560386,36.0440242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>幸手領第3揚水機場際</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字佐左ヱ門319番地2 ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字佐左ヱ門319番地2 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7572697,36.0377285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>松田寺入口際</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字佐左ヱ門1293番地1 ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字佐左ヱ門1293番地1 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7603475,36.0413711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字佐左ヱ門1120番地 ]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字佐左ヱ門1120番地 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7642475,36.0376862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>無量院前</name>
+        <description><![CDATA[投票区: 11<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字遠野174番地]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>11.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字遠野174番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7513076,36.0504706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝日バス藤搦停留所際</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字並塚840番地 地先]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字並塚840番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7578344,36.0314276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝日バス並塚停留所際</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字並塚1116番地 地先]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字並塚1116番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7621446,36.0331295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>田宮農村センター</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字並塚105番地4 地先]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字並塚105番地4 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7673052,36.0310635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>岩田ガソリンスタンド際</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字並塚2089番地1 地先]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字並塚2089番地1 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7724767,36.034395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>内谷（うちや）集会所際</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字才羽758番地 地先]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字才羽758番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7744547,36.0261054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>アグリパークゆめすぎと内</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字才羽823番地]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字才羽823番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.769787,36.0251147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>槐橋際</name>
+        <description><![CDATA[投票区: 12<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字才羽1993番地 地先]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>12.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字才羽1993番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7625779,36.0267215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>安戸落伝平橋際</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字大塚626番地 地先]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字大塚626番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7700146,36.0105572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JA埼玉みずほ農協　元北蓮沼倉庫前</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字北蓮沼253番地1 地先]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字北蓮沼253番地1 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7742933,36.014129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元東小学校</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字北蓮沼345番地1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字北蓮沼345番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7768712,36.0163617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>香取神社前</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字北蓮沼1241番地2 地先]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字北蓮沼1241番地2 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7779078,36.0185989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>八坂神社際</name>
+        <description><![CDATA[投票区: 13<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字大塚358番地 地先]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>13.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字大塚358番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7809279,36.0153656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>上蔵久（かみくらきゅう）集会所</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字堤根4428番地 ]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字堤根4428番地 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7480649,36.0189566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>堤根南交差点際</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字堤根4061番地 地先]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字堤根4061番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7514422,36.015339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>すきすきすぎーと36際</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字本郷1235番地 地先]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字本郷1235番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7522683,36.0016153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>倉松川堤根橋際</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字本郷203番地 地先]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字本郷203番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7659915,36.0072718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>サンポ−食品裏</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字本郷431番地7 地先]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字本郷431番地7 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.755555,36.0052507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸町シルバー人材センター前</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字堤根3856番地13 地先]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字堤根3856番地13 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7555709,36.010504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南公民館テニスコート際</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字堤根4089番地1 地先]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字堤根4089番地1 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7530725,36.01614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮内（くない）集会所際</name>
+        <description><![CDATA[投票区: 14<br>設置番号: 8<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字堤根4853番地]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>14.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>8.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字堤根4853番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7509222,36.0262442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>目沼集会所際</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字目沼198番地 ]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字目沼198番地 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.782102,36.0520891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸町環境センター入口</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字目沼427番地2]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字目沼427番地2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7862608,36.0527375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸町ふれあいセンターエコ・スポいずみ</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字木津内524番地]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字木津内524番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7876368,36.0522437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>竹山百貨店前（元豊岡小学校）</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字目沼407番地1 ]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字目沼407番地1 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7871982,36.0513703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JH株式会社前（元JA豊岡支店）</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字宮前103番地 地先]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字宮前103番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7925545,36.0456634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉保育園駐車場脇</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字宮前80番地1 地先]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字宮前80番地1 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7908983,36.0439025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮前集会所際</name>
+        <description><![CDATA[投票区: 15<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字宮前225番地1]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>15.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字宮前225番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7905568,36.0466067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>泉小学校</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字宮前1番地]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字宮前1番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7924812,36.0420349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>古谷商店前</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字鷲巣747番地 地先]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字鷲巣747番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7942685,36.0450227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木野川団地入口際</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字鷲巣118番地2 地先]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字鷲巣118番地2 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7997563,36.042106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鷲巣集会所際</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字鷲巣644番地3]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字鷲巣644番地3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7945019,36.0403109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝日バス木野川停留所先　個人宅</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字木野川87番地1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字木野川87番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8041287,36.0404941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木野川児童公園前</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字木野川441番地 ]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字木野川441番地 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8023196,36.0384218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>元木野川第二雑排水処理施設</name>
+        <description><![CDATA[投票区: 16<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字木野川315番地1]]></description>
+        <styleUrl>#icon-1899-AFB42B</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>16.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字木野川315番地1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.8007102,36.0368135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>船渡橋際</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 1<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字椿488番地1 地先]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>1.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字椿488番地1 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7755249,36.0344239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鍋田商店前</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 2<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字椿436番地1 地先]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>2.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字椿436番地1 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7814035,36.0353672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屏風フットサル場</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 3<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字屏風200番地3]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>3.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字屏風200番地3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.78292,36.0487159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>個人宅前</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 4<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字屏風349番地 ]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>4.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字屏風349番地 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7851352,36.0441632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>杉戸町消防団第７分団横</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 5<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字椿633番地 地先]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>5.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字椿633番地 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7850253,36.0384408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>給食センター前</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 6<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字椿349番地]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>6.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字椿349番地</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7862819,36.0343259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>深輪産業団地地区センター</name>
+        <description><![CDATA[投票区: 17<br>設置番号: 7<br>ポスター掲示場の設置場所: 埼玉県北葛飾郡杉戸町大字深輪317番地1 地先]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="投票区">
+            <value>17.0</value>
+          </Data>
+          <Data name="設置番号">
+            <value>7.0</value>
+          </Data>
+          <Data name="ポスター掲示場の設置場所">
+            <value>埼玉県北葛飾郡杉戸町大字深輪317番地1 地先</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7917835,36.0392111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

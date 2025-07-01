@@ -66,7 +66,7 @@ export class BoardPins
       const response = await fetch(cache_path);
       try {
         const data = await response.text();
-        const lines = data.split('\r\n');
+        const lines = data.split('\n');
         for (const line of lines) {
           const items = line.split(",");
           this.cached_address[items[0]] = [items[1], items[2]];
@@ -80,18 +80,20 @@ export class BoardPins
 
   public async fetchLatLongFormAddress(address: string | null): Promise<Array<string>> {
     if (address != null) {
-      /*
       if (this.cached_address != null && this.cached_address[address] != null) {
-        return this.cached_address[address];
+        const result = this.cached_address[address];
+        console.log("sucess to reslove to " + result[0] + "," + result[1] + " from " + address + " in cache");
+        return result;
       }
-      */
       // 国土地理院API
       // https://elsammit-beginnerblg.hatenablog.com/entry/2021/07/11/122916
       //で変換をかけてる
       const response = await fetch("https://msearch.gsi.go.jp/address-search/AddressSearch?q=" + encodeURIComponent(address));
       try {
         const data = await response.json();
-        return data[0].geometry.coordinates;
+        const result = data[0].geometry.coordinates;
+        console.log("sucess to reslove to " + result[0] + "," + result[1] + " from " + address);
+        return result;
       } catch {
         return [];
       }
@@ -161,9 +163,8 @@ export class BoardPins
           if (coordinates.length == 2) {
             pin.long = Number(coordinates[0]);
             pin.lat = Number(coordinates[1]);
-            //console.log("sucess to reslove " + coordinates[0] + "," + coordinates[1] + " in " + item.name + " from " + item.address);
           } else {
-            console.log("failed to reslove  in " + item.name + " from " + item.address);
+            console.log("faild to reslove " + item.address + " in " + item.name);
           }
         }
       } else {
