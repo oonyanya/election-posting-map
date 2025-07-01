@@ -2,12 +2,14 @@ import { compressToEncodedURIComponent, decompressFromEncodedURIComponent } from
 
 export class Pin {
   public name: string | null;
+  public description: string | null;
   public lat: number;
   public long: number;
   public status: boolean;
   public color() { return this.status ? "#FF0000" : "#0000FF"; }
   constructor() {
     this.name = "";
+    this.description = "";
     this.lat = 0.0;
     this.long = 0.0;
     this.status = false;
@@ -128,7 +130,13 @@ export class BoardPins
         address = addressselector.textContent;
       }
 
-      items.push({ name: name, coordinates:coordinates, address:address});
+      const descriptionselector = v.querySelector("description");
+      let description: string | null = "";
+      if (descriptionselector != null) {
+        description = descriptionselector.textContent;
+      }
+
+      items.push({ name: name, coordinates: coordinates, address: address, description: description });
     }
     return items;
   }
@@ -150,6 +158,7 @@ export class BoardPins
     for (const item of kml_items) {
       const pin = new Pin();
       pin.name = item.name;
+      pin.description = item.description;
 
       if (item.coordinates != null) {
         pin.long = Number(item.coordinates[0]);
