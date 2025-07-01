@@ -40,6 +40,14 @@ region=japan&state=saitama&city=test&type=json
 region=japan&state=saitama&city=test&type=kml
 ```
 
+```
+region=japan&state=saitama&city=test_no_geo_cache&type=kml
+```
+
+```
+region=japan&state=saitama&city=test_geo_cache&type=kml
+```
+
 ## ビルドの仕方
 
 ```sh
