@@ -9,6 +9,7 @@
   import "leaflet/dist/leaflet.css";
   import {
     LMap,
+    LMarker,
     LCircle,
     LCircleMarker,
     LTileLayer,
@@ -203,6 +204,7 @@
   export default {
     components: {
       LMap,
+      LMarker,
       LTileLayer,
       LCircle,
       LCircleMarker,
@@ -288,6 +290,9 @@
         </l-circle-marker>
       </l-layer-group>
       <l-control-layers />
+      <l-marker :lat-lng="current_postion">
+        <l-popup>現在位置（精度：{{accuracy}}メートル）</l-popup>
+      </l-marker>
       <l-circle :lat-lng="current_postion" :radius="accuracy"></l-circle>
       <l-control class="leaflet-control leaflet-control-attribution" position="bottomright">
         {{statusMessage}}
