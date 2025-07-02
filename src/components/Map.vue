@@ -44,6 +44,7 @@
     else
       return null;
   });
+  const watchCurrentState = ref(false);
 
   class Map {
     region: String;
@@ -77,15 +78,21 @@
   }
 
   document.addEventListener("visibilitychange", () => {
-    if (globalMapObject) {
+    if (globalMapObject != null) {
       if (document.visibilityState != 'visible') {
-        globalMapObject.stopLocate();
+        if (watchCurrentState.value)
+        {
+          globalMapObject.stopLocate();
+        }
         let state = serializeState();
         if (state != null) {
           localStorage.setItem(STATE_NAME, state);
         }
       } else {
-        globalMapObject.locate({ watch: true, maximumAge: LOCATION_REFRASH_TIMING });
+        if (watchCurrentState.value)
+        {
+          globalMapObject.locate({ watch: true, maximumAge: LOCATION_REFRASH_TIMING });
+        }
       }
     }
   });
@@ -98,6 +105,7 @@
   }
 
   function onLocationFound(e) {
+    statusMessage.value = "sucessed to get location";
     current_postion.value = e.latlng;
     accuracy.value = e.accuracy / 2;
     globalMapObject.setView(e.latlng);
@@ -111,7 +119,6 @@
 
   function onMapReady(map: any) {
     globalMapObject = map;
-    map.locate({ watch: true, maximumAge: LOCATION_REFRASH_TIMING });
   }
 
   async function loadBorardPin(query) {
@@ -127,7 +134,7 @@
           current_map.type = "kml";
           pins.value = await borad_pins.fetchBoardPinsFromKml(query.region, query.state, query.city, query.status);
         }
-        statusMessage.value = "success";
+        statusMessage.value = "successed to load pins and state";
       } catch (error) {
         debugger;
         statusMessage.value = error;
@@ -185,7 +192,7 @@
 
         pins.value = temp_pins;
 
-        statusMessage.value = "success";
+        statusMessage.value = "successed to load pins and state";
       } catch (error) {
         statusMessage.value = error;
       }
@@ -203,6 +210,16 @@
 
   function onShowRestoreModal() {
     showModal.value = true;
+  }
+
+  function toggleCurrentPostion() {
+    if (watchCurrentState.value) {
+      watchCurrentState.value = false;
+      globalMapObject.stopLocate();
+    } else {
+      watchCurrentState.value = true;
+      globalMapObject.locate({ watch: true, maximumAge: LOCATION_REFRASH_TIMING });
+    }
   }
 
   export default {
@@ -242,7 +259,7 @@
         user_input_for_state.value = null;
         user_input_for_from_marge.value = null;
       })
-      return { showModal, user_input_for_state, user_input_for_from_marge, pins, statusMessage, onLocationFound, current_postion, accuracy, onLocationError, pins_only_processed, pins_only_non_processed };
+      return { showModal, user_input_for_state, user_input_for_from_marge, pins, statusMessage, onLocationFound, current_postion, accuracy, onLocationError, pins_only_processed, pins_only_non_processed, watchCurrentState };
     },
     data() {
       return {
@@ -255,6 +272,7 @@
         onCloseRestoreModal: onCloseRestoreModal,
         onShowRestoreModal: onShowRestoreModal,
         onCancelModal: onCancelModal,
+        toggleCurrentPostion: toggleCurrentPostion,
       };
     },
   };
@@ -302,6 +320,10 @@
       <l-control class="leaflet-control leaflet-control-attribution" position="bottomright">
         {{statusMessage}}
       </l-control>
+      <l-control class="leaflet-control leaflet-demo-control" position="bottomright" @click="toggleCurrentPostion">
+        <span v-if="watchCurrentState">現在位置：ON</span>
+        <span v-else>現在位置：OFF</span>
+      </l-control>
       <l-control class="leaflet-control leaflet-demo-control" position="bottomleft" @click="clickCopyStateButton">
         コピーする
       </l-control>
@@ -317,7 +339,6 @@
     background: var(--color-background);
     border: 1px solid steelblue;
     padding: 1em;
-    font-size: large;
     font-style: italic;
   }
 </style>
