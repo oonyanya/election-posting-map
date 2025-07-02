@@ -303,12 +303,12 @@
                     name="GoogleStreetMap">
       </l-tile-layer>
       <l-layer-group name="ポスター掲示板一覧（処理済）" layer-type="overlay" :visible="true">
-        <l-circle-marker v-for="pin in pins_only_processed" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
+        <l-circle-marker v-for="pin in pins_only_processed" :key="pin.name" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
           <PopupInPin :pin="pin" @changeStatus="dblClickMarker(pin)" />
         </l-circle-marker>
       </l-layer-group>
       <l-layer-group name="ポスター掲示板一覧（未処理）" layer-type="overlay" :visible="true">
-        <l-circle-marker v-for="pin in pins_only_non_processed" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
+        <l-circle-marker v-for="pin in pins_only_non_processed" :key="pin.name"  :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
           <PopupInPin :pin="pin" @changeStatus="dblClickMarker(pin)" />
         </l-circle-marker>
       </l-layer-group>
