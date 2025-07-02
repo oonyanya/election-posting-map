@@ -20,6 +20,10 @@ a,
   padding: 3px;
 }
 
+button{
+  margin: 1em;
+}
+
 @media (prefers-color-scheme: dark) {
   a,
   .green {

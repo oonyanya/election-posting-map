@@ -17,9 +17,12 @@
     <h3>{{pin.name}}</h3>
     <div v-html="pin.description"></div>
     <div>
+      <span>処理状況</span>
       <button v-if="pin.status" @click.prevent.stop="onChangeStatus">処理済</button>
       <button v-else @click.prevent.stop="onChangeStatus">未処理</button>
     </div>
-    <a :href='"https://www.google.com/maps/search/" +pin.lat +","+pin.long' target="_blank" rel="noopener noreferrer">({{pin.lat}}, {{pin.long}})</a>
+    <div>
+      <a :href='"https://www.google.com/maps/search/" +pin.lat +","+pin.long' target="_blank" rel="noopener noreferrer">({{pin.lat}}, {{pin.long}})</a>
+    </div>
   </l-popup>
 </template>
