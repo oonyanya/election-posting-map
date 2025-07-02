@@ -197,6 +197,10 @@
     await loadBorardPinFromString(uri_param, merge_from_params);
   }
 
+  function onCancelModal() {
+    showModal.value = false;
+  }
+
   function onShowRestoreModal() {
     showModal.value = true;
   }
@@ -250,12 +254,13 @@
         onReady: onMapReady,
         onCloseRestoreModal: onCloseRestoreModal,
         onShowRestoreModal: onShowRestoreModal,
+        onCancelModal: onCancelModal,
       };
     },
   };
 </script>
 <template>
-  <modal :show="showModal" @close="onCloseRestoreModal(user_input_for_state,user_input_for_from_marge)">
+  <modal :show="showModal" @close="onCloseRestoreModal(user_input_for_state,user_input_for_from_marge)" @cancel="onCancelModal">
     <template #body>
       <p>一番最初に復元したいものをペーストしてください。</p>
       <textarea v-model="user_input_for_state" />
