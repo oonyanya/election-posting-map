@@ -31,7 +31,6 @@
   const pins = ref(null);
   const statusMessage = ref("");
   const current_postion = ref([0,0]);
-  const accuracy = ref(0);
   const pins_only_processed = computed(() => {
     if (pins.value != null)
       return pins.value.filter((p) => { return p.status == true; });
@@ -106,9 +105,8 @@
   }
 
   function onLocationFound(e) {
-    statusMessage.value = "sucessed to get location";
     current_postion.value = e.latlng;
-    accuracy.value = e.accuracy / 2;
+    statusMessage.value = "sucessed to get location (accuracy " + e.accuracy / 2 + " meter)";
     globalMapObject.setView(e.latlng);
   }
 
@@ -278,7 +276,7 @@
         user_input_for_from_marge.value = null;
         showModal.value = false;
       })
-      return { showModal, user_input_for_state, user_input_for_from_marge, pins, statusMessage, current_postion, accuracy, pins_only_processed, pins_only_non_processed, watchCurrentState };
+      return { showModal, user_input_for_state, user_input_for_from_marge, pins, statusMessage, current_postion, pins_only_processed, pins_only_non_processed, watchCurrentState };
     },
     data() {
       return {
@@ -336,7 +334,6 @@
       </l-layer-group>
       <l-control-layers />
       <l-marker :lat-lng="current_postion">
-        <l-popup>現在位置（精度：{{accuracy}}メートル）</l-popup>
       </l-marker>
       <l-circle :lat-lng="current_postion" :radius="accuracy"></l-circle>
       <l-control class="leaflet-control leaflet-control-attribution" position="bottomright">
