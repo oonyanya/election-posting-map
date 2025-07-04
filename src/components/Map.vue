@@ -259,7 +259,7 @@
         user_input_for_state.value = null;
         user_input_for_from_marge.value = null;
       })
-      return { showModal, user_input_for_state, user_input_for_from_marge, pins, statusMessage, onLocationFound, current_postion, accuracy, onLocationError, pins_only_processed, pins_only_non_processed, watchCurrentState };
+      return { showModal, user_input_for_state, user_input_for_from_marge, pins, statusMessage, current_postion, accuracy, pins_only_processed, pins_only_non_processed, watchCurrentState };
     },
     data() {
       return {
@@ -273,6 +273,8 @@
         onShowRestoreModal: onShowRestoreModal,
         onCancelModal: onCancelModal,
         toggleCurrentPostion: toggleCurrentPostion,
+        onLocationFound: onLocationFound,
+        onLocationError: onLocationError,
       };
     },
   };
@@ -288,7 +290,7 @@
     </template>
   </modal>
   <div id="map">
-    <l-map @ready="onReady" @locationfound="onLocationFound" @locationerror="onLocationError" v-model:zoom="zoom" :center="center" :use-global-leaflet="false" :options="{doubleClickZoom:false}">
+    <l-map @ready="onReady" @locationfound="onLocationFound" @locationerror="onLocationError" :preferCanvas="true" v-model:zoom="zoom" :center="center" :use-global-leaflet="false" :options="{doubleClickZoom:false}">
       <l-tile-layer url="https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png"
                     layer-type="base"
                     name="国土地理院">
