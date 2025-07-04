@@ -87,6 +87,7 @@
         let state = serializeState();
         if (state != null) {
           localStorage.setItem(STATE_NAME, state);
+          statusMessage.value = "sucess to save state";
         }
       } else {
         if (watchCurrentState.value)
@@ -201,7 +202,24 @@
 
   async function onCloseRestoreModal(uri_param: string,merge_from_params: string) {
     showModal.value = false;
-    await loadBorardPinFromString(uri_param, merge_from_params);
+    if (uri_param != null) {
+      if (uri_param != "") {
+        await loadBorardPinFromString(uri_param, merge_from_params);
+        statusMessage.value = "sucess to restore state";
+      } else {
+        var previousState = localStorage.getItem(STATE_NAME);
+        if (previousState != null) {
+          await loadBorardPinFromString(previousState, null);
+          statusMessage.value = "sucess to restore state";
+        }
+      }
+    } else {
+      var previousState = localStorage.getItem(STATE_NAME);
+      if (previousState != null) {
+        await loadBorardPinFromString(previousState, null);
+        statusMessage.value = "sucess to restore state";
+      }
+    }
   }
 
   function onCancelModal() {
@@ -244,6 +262,7 @@
         if (route.query != null) {
           if (route.query.restore_state != null) {
             if (route.query.restore_state == "true" && previousState != null && previousState != "undefined") {
+              statusMessage.value = "sucess to restore state";
               await loadBorardPinFromString(previousState, null);
             } else {
               await loadBorardPin(route.query);
@@ -258,6 +277,7 @@
         pins.value = null;
         user_input_for_state.value = null;
         user_input_for_from_marge.value = null;
+        showModal.value = false;
       })
       return { showModal, user_input_for_state, user_input_for_from_marge, pins, statusMessage, current_postion, accuracy, pins_only_processed, pins_only_non_processed, watchCurrentState };
     },
@@ -287,6 +307,7 @@
       <p>二番目に復元したいものをペーストしてください。三番目以降は改行することで追加できます。何もない場合は空欄でも問題ありません。</p>
       <textarea v-model="user_input_for_from_marge" />
       <p>「OK」ボタンを押すと前の作業結果を合成したうえで復元できます。</p>
+      <p>両方とも空欄のまま、「OK」ボタンを押した場合、前に保存したやつが復元されます。</p>
     </template>
   </modal>
   <div id="map">
