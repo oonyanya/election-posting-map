@@ -135,7 +135,6 @@
           current_map.type = "kml";
           pins.value = await borad_pins.fetchBoardPinsFromKml(query.region, query.state, query.city, query.status);
         }
-        statusMessage.value = "successed to load pins and state";
       } catch (error) {
         debugger;
         statusMessage.value = error;
@@ -192,8 +191,6 @@
         }
 
         pins.value = temp_pins;
-
-        statusMessage.value = "successed to load pins and state";
       } catch (error) {
         statusMessage.value = error;
       }
@@ -266,9 +263,11 @@
               await loadBorardPinFromString(previousState, null);
             } else {
               await loadBorardPin(route.query);
+              statusMessage.value = "successed to load pins and state";
             }
           } else {
             await loadBorardPin(route.query);
+            statusMessage.value = "successed to load pins and state";
           }
         }
         return;
