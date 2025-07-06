@@ -328,7 +328,7 @@
         </l-circle-marker>
       </l-layer-group>
       <l-layer-group name="ポスター掲示板一覧（未処理）" layer-type="overlay" :visible="true">
-        <l-circle-marker v-for="pin in pins_only_non_processed" :key="pin.name"  :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
+        <l-circle-marker v-for="pin in pins_only_non_processed" :key="pin.name" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
           <PopupInPin :pin="pin" @changeStatus="dblClickMarker(pin)" />
         </l-circle-marker>
       </l-layer-group>
@@ -337,7 +337,17 @@
       </l-marker>
       <l-circle :lat-lng="current_postion" :radius="accuracy"></l-circle>
       <l-control class="leaflet-control leaflet-control-attribution" position="bottomright">
-        {{statusMessage}}
+        <table>
+          <tr>
+            <td>処理済</td>
+            <td>{{pins_only_processed.length}}</td>
+          </tr>
+          <tr>
+            <td>全体</td>
+            <td>{{pins.length}}</td>
+          </tr>
+        </table>
+        <p>{{statusMessage}}</p>
       </l-control>
       <l-control class="leaflet-control leaflet-demo-control" position="bottomright" @click="toggleCurrentPostion">
         <span v-if="watchCurrentState">現在位置：ON</span>
