@@ -26,6 +26,7 @@
   const STATE_NAME = "leaestState";
 
   const showModal = ref(false);
+  const accuracy = ref(0);
   const user_input_for_state = ref("")
   const user_input_for_from_marge = ref("")
   const pins = ref(null);
@@ -106,6 +107,7 @@
 
   function onLocationFound(e) {
     current_postion.value = e.latlng;
+    accuracy.value = e.accuracy / 2;
     statusMessage.value = "sucessed to get location (accuracy " + e.accuracy / 2 + " meter)";
     globalMapObject.setView(e.latlng);
   }
@@ -276,7 +278,7 @@
         user_input_for_from_marge.value = null;
         showModal.value = false;
       })
-      return { showModal, user_input_for_state, user_input_for_from_marge, pins, statusMessage, current_postion, pins_only_processed, pins_only_non_processed, watchCurrentState };
+      return { showModal, user_input_for_state, user_input_for_from_marge, pins, statusMessage, current_postion, accuracy, pins_only_processed, pins_only_non_processed, watchCurrentState };
     },
     data() {
       return {
