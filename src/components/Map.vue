@@ -30,6 +30,7 @@
   const user_input_for_state = ref("")
   const user_input_for_from_marge = ref("")
   const pins = ref(null);
+  const polling_station_pins = ref(null);
   const statusMessage = ref("");
   const current_postion = ref([0,0]);
   const pins_only_processed = computed(() => {
@@ -135,6 +136,7 @@
           current_map.type = "kml";
           pins.value = await borad_pins.fetchBoardPinsFromKml(query.region, query.state, query.city, query.status);
         }
+        polling_station_pins.value = await borad_pins.fetchPollingStationFromCsv(query.region, query.state, query.city);
       } catch (error) {
         debugger;
         statusMessage.value = error;
@@ -191,6 +193,8 @@
         }
 
         pins.value = temp_pins;
+
+        polling_station_pins.value = await borad_pins.fetchPollingStationFromCsv(region, state, city);
       } catch (error) {
         statusMessage.value = error;
       }
@@ -278,7 +282,7 @@
         user_input_for_from_marge.value = null;
         showModal.value = false;
       })
-      return { showModal, user_input_for_state, user_input_for_from_marge, pins, statusMessage, current_postion, accuracy, pins_only_processed, pins_only_non_processed, watchCurrentState };
+      return { showModal, user_input_for_state, user_input_for_from_marge, pins, statusMessage, current_postion, accuracy, pins_only_processed, pins_only_non_processed, polling_station_pins, watchCurrentState };
     },
     data() {
       return {
@@ -333,6 +337,17 @@
         <l-circle-marker v-for="pin in pins_only_non_processed" :key="pin.name" :color="pin.color()" :lat-lng="[pin.lat, pin.long]" :fillOpacity="0.9" :radius="16" :weight="1" :border="1">
           <PopupInPin :pin="pin" @changeStatus="dblClickMarker(pin)" />
         </l-circle-marker>
+      </l-layer-group>
+      <l-layer-group name="投票所" layer-type="overlay" :visible="true">
+        <l-marker v-for="pin in polling_station_pins" :key="pin.name" :lat-lng="[pin.lat, pin.long]">
+          <l-popup>
+            <h3>{{pin.name}}</h3>
+            <div v-html="pin.description"></div>
+            <div>
+              <a :href='"https://www.google.com/maps/search/" +pin.lat +","+pin.long' target="_blank" rel="noopener noreferrer">({{pin.lat}}, {{pin.long}})</a>
+            </div>
+          </l-popup>
+        </l-marker>
       </l-layer-group>
       <l-control-layers />
       <l-marker :lat-lng="current_postion">

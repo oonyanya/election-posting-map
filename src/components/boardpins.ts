@@ -16,6 +16,20 @@ export class Pin {
   }
 }
 
+export class PollingStationPin {
+  public name: string | null;
+  public description: string | null;
+  public lat: number;
+  public long: number;
+
+  constructor() {
+    this.name = "";
+    this.description = "";
+    this.lat = 0.0;
+    this.long = 0.0;
+  }
+}
+
 export class BoardPins
 {
   public serialize(pins : Array<Pin>):string {
@@ -35,6 +49,39 @@ export class BoardPins
       result[pair[0]] = (pair[1] == "true");
     }
     return result;
+  }
+
+  public async fetchPollingStationFromCsv(region: string, state: string, city: string): Promise<Array<PollingStationPin>> {
+    if (Object.keys(this.cached_address).length == 0) {
+      this.fetchAddressList(`../data/polling_place/${region}/${state}/${city}.csv.geo_cache`);
+    }
+
+    const response = await fetch(`../data/polling_place/${region}/${state}/${city}.csv`)
+    const data = (await response.text()).split("\n");
+    const result: Array<PollingStationPin> = [];
+    for (const v of data) {
+      if (v == "")
+        continue;
+      const columns = v.split(",");
+      const pin = new PollingStationPin();
+      pin.name = columns[0];
+      pin.description = columns[1];
+      const coordinates = await this.fetchLatLongFormAddress(pin.description);
+      if (coordinates == null) {
+        console.log("faild to reslove " + pin.description + " in " + pin.name);
+        continue;
+      } else {
+        if (coordinates.length == 2) {
+          pin.long = Number(coordinates[0]);
+          pin.lat = Number(coordinates[1]);
+        } else {
+          console.log("faild to reslove " + pin.description + " in " + pin.name);
+        }
+      }
+      result.push(pin);
+    }
+    return result;
+
   }
 
   public async fetchBoardPinsFromJson(region: string, state: string, city: string, status: string) : Promise<Array<Pin>> {

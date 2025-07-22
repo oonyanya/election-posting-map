@@ -21,12 +21,12 @@ async function fetchLatLongFormAddress(address)
 
 // うまく動かないので、boardpins.ts からコピペ
 async function GenerateCache() {
-  const remove_files = await glob("./public/data/**/*.geo_cache");
+  const remove_files = await glob("./public/data/board/**/*.geo_cache");
   for (const file of remove_files) {
     fs.rm(file);
   }
 
-  const files = await glob("./public/data/**/*.kml");
+  const files = await glob("./public/data/board/**/*.kml");
   for (const file of files) {
     const text = await fs.readFile(file, "utf8");
     const jsdom = new JSDOM();
@@ -77,8 +77,46 @@ async function GenerateCache() {
   }
 }
 
+async function GeneratePollingStationCache()
+{
+  const remove_files = await glob("./public/data/polling_place/**/*.geo_cache");
+  for (const file of remove_files) {
+    fs.rm(file);
+  }
+  const csv_files = await glob("./public/data/polling_place/**/*.csv");
+  for (const file of csv_files) {
+    const text = await fs.readFile(file, "utf8");
+    const lines = text.split("\n");
+    for (const line of lines) {
+      if (line == "")
+        continue;
+      const columns = line.split(",");
+      const name = columns[0];
+      const address = columns[1];
+      const coordinates = await fetchLatLongFormAddress(address);
+      if (coordinates == null) {
+        console.log("faild to reslove " + address + " in " + name);
+        continue;
+      } else {
+        const str = address + "," + coordinates;
+        const write_file_str = file + ".geo_cache";
+        await fs.appendFile(write_file_str, str + "\r\n");
+        if (coordinates.length == 2) {
+          console.log("sucess to reslove " + coordinates[0] + "," + coordinates[1] + " in " + name + " from " + address);
+          console.log("and then saved to " + write_file_str);
+        } else {
+          console.log("faild to reslove " + address + " in " + name);
+        }
+      }
 
-const promise = GenerateCache();
-promise.then(() => {
-  console.log("generated cache");
-});
+    }
+  }
+
+}
+
+Promise.resolve()
+  .then(GenerateCache)
+  .then(GeneratePollingStationCache)
+  .then(() => {
+    console.log("generated cache");
+  });
