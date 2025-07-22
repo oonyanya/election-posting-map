@@ -43,7 +43,7 @@ export class BoardPins
       status_list = await this.deserialize(status);
     }
 
-    const response = await fetch(`../data/${region}/${state}/${city}.json`)
+    const response = await fetch(`../data/board/${region}/${state}/${city}.json`)
     const data = await response.json();
     const result: Array<Pin> = [];
     for (const v of data) {
@@ -148,11 +148,11 @@ export class BoardPins
     }
 
     if (Object.keys(this.cached_address).length == 0) {
-      this.fetchAddressList(`../data/${region}/${state}/${city}.kml.geo_cache`);
+      this.fetchAddressList(`../data/board/${region}/${state}/${city}.kml.geo_cache`);
     }
 
     const items = [];
-    const response = await fetch(`../data/${region}/${state}/${city}.kml`);
+    const response = await fetch(`../data/board/${region}/${state}/${city}.kml`);
     const text = await response.text();
     const kml_items = this.fetchKml(text);
     for (const item of kml_items) {
