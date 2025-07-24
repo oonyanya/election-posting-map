@@ -63,7 +63,7 @@ export class BoardPins
       if (v == "")
         continue;
       const columns = v.split(",");
-      if (columns.length == 3)
+      if (columns.length == 2)
       {
         const pin = new PollingStationPin();
         pin.name = columns[0];
