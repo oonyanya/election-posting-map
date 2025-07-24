@@ -26,14 +26,29 @@ https://ss749137.stars.ne.jp/
 
 ## 選挙ポスター掲示場所の配置の仕方
 
-public/dataにkmlを配置してください。
-例えば、埼玉県さいたま市大宮区だとpublic/data/japan/saitama/saitama_oomiya.kmlみたいな形で配置します。
+public/data/boardにkmlを配置してください。
+kmlファイルの文字コードはUTF-8でないとうまく処理ができません。
+例えば、埼玉県さいたま市大宮区だとpublic/data/board/japan/saitama/saitama_oomiya.kmlみたいな形で配置します。
 配置後はMapList.vueに適宜追加してください。
 先ほどのやつですと、
 
 ```
 <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'saitama_oomiya',type:'kml' }}">さいたま市大宮区</RouterLink>
 ```
+
+みたいに書きます。
+
+## 投票所の配置の仕方
+
+public/data/polling_placeにcsvを配置してください。
+csvは以下の形式で作り、文字コードはUTF-8、改行コードはLFで保存してください。
+
+```
+高齢者生きがい活動センター研修室・講座室,埼玉県さいたま市北区植竹町1-593-1
+```
+
+例えば、埼玉県さいたま市北区だとpublic/data/polling_place/japan/saitama/saitama_kita.csvみたいな形で配置します。
+
 
 みたいに書きます。
 
@@ -72,7 +87,7 @@ node GenerateLatLangCache.js
 こちらはkmlを追加した場合だけ実行してください。
 たまにkmlによっては経度と緯度がかけていることがあります。
 実行しない場合、マップを表示するたびに経度と緯度を取得しようとするため、レスポンスが遅くなります。
-また、これらの取得しているサーバーが二度と使えなくなるかもしれません。
+また、これら情報の取得しているサーバーが特定のユーザーだけ二度と使えなくなるかもしれません。
 
 ## 開発環境
 
