@@ -63,22 +63,25 @@ export class BoardPins
       if (v == "")
         continue;
       const columns = v.split(",");
-      const pin = new PollingStationPin();
-      pin.name = columns[0];
-      pin.description = columns[1];
-      const coordinates = await this.fetchLatLongFormAddress(pin.description);
-      if (coordinates == null) {
-        console.log("faild to reslove " + pin.description + " in " + pin.name);
-        continue;
-      } else {
-        if (coordinates.length == 2) {
-          pin.long = Number(coordinates[0]);
-          pin.lat = Number(coordinates[1]);
-        } else {
+      if (columns.length == 3)
+      {
+        const pin = new PollingStationPin();
+        pin.name = columns[0];
+        pin.description = columns[1];
+        const coordinates = await this.fetchLatLongFormAddress(pin.description);
+        if (coordinates == null) {
           console.log("faild to reslove " + pin.description + " in " + pin.name);
+          continue;
+        } else {
+          if (coordinates.length == 2) {
+            pin.long = Number(coordinates[0]);
+            pin.lat = Number(coordinates[1]);
+          } else {
+            console.log("faild to reslove " + pin.description + " in " + pin.name);
+          }
         }
+        result.push(pin);
       }
-      result.push(pin);
     }
     return result;
 
@@ -134,10 +137,16 @@ export class BoardPins
 
   public async createAddressListCache(region: string, state: string, city: string)
   {
+    if (city == "test_no_geo_cache")
+    {
+      console.log("skip create address cache list because city is " + city);
+      return;
+    }
     if (Object.keys(this.cached_address).length == 0) {
       await this.fetchAddressListFromPath(`../data/board/${region}/${state}/${city}.kml.geo_cache`);
       await this.fetchAddressListFromPath(`../data/polling_place/${region}/${state}/${city}.csv.geo_cache`);
     }
+    return;
   }
 
 
