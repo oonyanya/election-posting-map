@@ -53,7 +53,7 @@ export class BoardPins
 
   public async fetchPollingStationFromCsv(region: string, state: string, city: string): Promise<Array<PollingStationPin>> {
     if (Object.keys(this.cached_address).length == 0) {
-      this.fetchAddressList(`../data/polling_place/${region}/${state}/${city}.csv.geo_cache`);
+      await this.createAddressListCache(region, state, city);
     }
 
     const response = await fetch(`../data/polling_place/${region}/${state}/${city}.csv`)
@@ -109,7 +109,7 @@ export class BoardPins
 
   cached_address: { [key: string]: string[] } = {};
 ;
-  public async fetchAddressList(cache_path: string) {
+  public async fetchAddressListFromPath(cache_path: string) {
 
     if (cache_path != null) {
       const response = await fetch(cache_path);
@@ -117,12 +117,26 @@ export class BoardPins
         const data = await response.text();
         const lines = data.split('\n');
         for (const line of lines) {
+          if (line == "")
+            continue;
           const items = line.split(",");
-          this.cached_address[items[0]] = [items[1], items[2]];
+          //本当は中身もチェックしないといけないが、面倒なので、要素数だけチェックする
+          if (items.length == 3)
+          {
+            this.cached_address[items[0]] = [items[1], items[2]];
+          }
         }
       } catch {
         //何もしなくていい
       }
+    }
+  }
+
+  public async createAddressListCache(region: string, state: string, city: string)
+  {
+    if (Object.keys(this.cached_address).length == 0) {
+      await this.fetchAddressListFromPath(`../data/board/${region}/${state}/${city}.kml.geo_cache`);
+      await this.fetchAddressListFromPath(`../data/polling_place/${region}/${state}/${city}.csv.geo_cache`);
     }
   }
 
@@ -194,9 +208,7 @@ export class BoardPins
       status_list = await this.deserialize(status);
     }
 
-    if (Object.keys(this.cached_address).length == 0) {
-      this.fetchAddressList(`../data/board/${region}/${state}/${city}.kml.geo_cache`);
-    }
+    await this.createAddressListCache(region, state, city);
 
     const items = [];
     const response = await fetch(`../data/board/${region}/${state}/${city}.kml`);

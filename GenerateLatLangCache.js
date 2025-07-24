@@ -64,7 +64,7 @@ async function GenerateCache() {
         } else {
           const str = address + "," + coordinates;
           const write_file_str = file + ".geo_cache";
-          await fs.appendFile(write_file_str, str + "\r\n");
+          await fs.appendFile(write_file_str, str + "\n");
           if (coordinates.length == 2) {
             console.log("sucess to reslove " + coordinates[0] + "," + coordinates[1] + " in " + name + " from " + address);
             console.log("and then saved to " + write_file_str);
@@ -100,7 +100,7 @@ async function GeneratePollingStationCache()
       } else {
         const str = address + "," + coordinates;
         const write_file_str = file + ".geo_cache";
-        await fs.appendFile(write_file_str, str + "\r\n");
+        await fs.appendFile(write_file_str, str + "\n");
         if (coordinates.length == 2) {
           console.log("sucess to reslove " + coordinates[0] + "," + coordinates[1] + " in " + name + " from " + address);
           console.log("and then saved to " + write_file_str);
