@@ -19,6 +19,19 @@ async function fetchLatLongFormAddress(address)
   return [];
 }
 
+async function SaveGeoCache(file, name, address, coordinates)
+{
+  const str = address + "," + coordinates;
+  const write_file_str = file + ".geo_cache";
+  await fs.appendFile(write_file_str, str + "\n");
+  if (coordinates.length == 2) {
+    console.log("sucess to reslove " + coordinates[0] + "," + coordinates[1] + " in " + name + " from " + address);
+    console.log("and then saved to " + write_file_str);
+  } else {
+    console.log("failed to reslove  in " + name + " from " + address);
+  }
+}
+
 // うまく動かないので、boardpins.ts からコピペ
 async function GenerateCache() {
   const remove_files = await glob("./public/data/board/**/*.geo_cache");
@@ -62,15 +75,7 @@ async function GenerateCache() {
           console.log("faild to reslove " + address + " in " + name);
           continue;
         } else {
-          const str = address + "," + coordinates;
-          const write_file_str = file + ".geo_cache";
-          await fs.appendFile(write_file_str, str + "\n");
-          if (coordinates.length == 2) {
-            console.log("sucess to reslove " + coordinates[0] + "," + coordinates[1] + " in " + name + " from " + address);
-            console.log("and then saved to " + write_file_str);
-          } else {
-            console.log("failed to reslove  in " + name + " from " + address);
-          }
+          await SaveGeoCache(file, name, address, coordinates);
         }
       }
     }
@@ -98,15 +103,7 @@ async function GeneratePollingStationCache()
         console.log("faild to reslove " + address + " in " + name);
         continue;
       } else {
-        const str = address + "," + coordinates;
-        const write_file_str = file + ".geo_cache";
-        await fs.appendFile(write_file_str, str + "\n");
-        if (coordinates.length == 2) {
-          console.log("sucess to reslove " + coordinates[0] + "," + coordinates[1] + " in " + name + " from " + address);
-          console.log("and then saved to " + write_file_str);
-        } else {
-          console.log("faild to reslove " + address + " in " + name);
-        }
+        await SaveGeoCache(file, name, address, coordinates);
       }
 
     }
