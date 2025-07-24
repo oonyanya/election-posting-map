@@ -29,21 +29,21 @@
   const accuracy = ref(0);
   const user_input_for_state = ref("")
   const user_input_for_from_marge = ref("")
-  const pins = ref(null);
-  const polling_station_pins = ref(null);
+  const pins = ref([]);
+  const polling_station_pins = ref([]);
   const statusMessage = ref("");
   const current_postion = ref([0,0]);
   const pins_only_processed = computed(() => {
     if (pins.value != null)
       return pins.value.filter((p) => { return p.status == true; });
     else
-      return null;
+      return [];
   });
   const pins_only_non_processed = computed(() => {
     if (pins.value != null)
       return pins.value.filter((p) => { return p.status == false; })
     else
-      return null;
+      return [];
   });
   const watchCurrentState = ref(false);
 
