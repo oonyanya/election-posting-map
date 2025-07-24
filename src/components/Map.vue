@@ -34,13 +34,13 @@
   const statusMessage = ref("");
   const current_postion = ref([0,0]);
   const pins_only_processed = computed(() => {
-    if (pins.value != null)
+    if (pins.value != null && pins.value.length > 0)
       return pins.value.filter((p) => { return p.status == true; });
     else
       return [];
   });
   const pins_only_non_processed = computed(() => {
-    if (pins.value != null)
+    if (pins.value != null && pins.value.length > 0)
       return pins.value.filter((p) => { return p.status == false; })
     else
       return [];
@@ -277,7 +277,7 @@
         return;
       })
       onUnmounted(() => {
-        pins.value = null;
+        pins.value = [];
         user_input_for_state.value = null;
         user_input_for_from_marge.value = null;
         showModal.value = false;
