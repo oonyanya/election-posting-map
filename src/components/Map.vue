@@ -2,7 +2,6 @@
   import { computed, ref } from 'vue';
   import Modal from './Modal.vue';
   import PopupInPin from './PopupInPin.vue'
-  import { forEachChild } from "typescript";
   import { Suspense, onMounted, onUnmounted } from 'vue'
   import { useRoute } from 'vue-router';
   import { Pin, BoardPins } from './boardpins.ts'
