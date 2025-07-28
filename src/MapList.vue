@@ -147,6 +147,9 @@
         <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'oganomachi',type:'kml' }}">小鹿野町</RouterLink>
       </li>
       <li>
+        <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'ogose',type:'kml' }}">越生町</RouterLink>
+      </li>
+      <li>
         <RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'ogawachou',type:'kml' }}">小川町</RouterLink>
       </li>
       <li>
