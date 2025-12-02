@@ -63,8 +63,7 @@ export class BoardPins
       if (v == "")
         continue;
       const columns = v.split(",");
-      if (columns.length == 2)
-      {
+      if (columns.length == 2) {
         const pin = new PollingStationPin();
         pin.name = columns[0];
         pin.description = columns[1];
@@ -80,6 +79,13 @@ export class BoardPins
             console.log("faild to reslove " + pin.description + " in " + pin.name);
           }
         }
+        result.push(pin);
+      } else if (columns.length == 4) {
+        const pin = new PollingStationPin();
+        pin.name = columns[0];
+        pin.description = columns[1];
+        pin.long = Number(columns[2]);
+        pin.lat = Number(columns[3]);
         result.push(pin);
       }
     }

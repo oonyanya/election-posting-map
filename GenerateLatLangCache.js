@@ -102,16 +102,17 @@ async function GeneratePollingStationCache()
       if (line == "")
         continue;
       const columns = line.split(",");
-      const name = columns[0];
-      const address = columns[1];
-      const coordinates = await fetchLatLongFormAddress(address);
-      if (coordinates == null) {
-        console.log("faild to reslove " + address + " in " + name);
-        continue;
-      } else {
-        await SaveGeoCache(file, name, address, coordinates);
+      if (columns.length == 2) {
+        const name = columns[0];
+        const address = columns[1];
+        const coordinates = await fetchLatLongFormAddress(address);
+        if (coordinates == null) {
+          console.log("faild to reslove " + address + " in " + name);
+          continue;
+        } else {
+          await SaveGeoCache(file, name, address, coordinates);
+        }
       }
-
     }
   }
 
