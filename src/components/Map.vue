@@ -77,6 +77,7 @@
 
   async function clickCopyStateButton() {
     navigator.clipboard.writeText(serializeState());
+    statusMessage.value = "sucess to copy state";
   }
 
   document.addEventListener("visibilitychange", () => {
