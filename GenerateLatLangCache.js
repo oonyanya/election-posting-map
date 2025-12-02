@@ -2,6 +2,12 @@ import * as fs from "fs/promises";
 import { glob } from "glob";
 import { JSDOM } from 'jsdom';
 
+//指定の仕方はglobのドキュメントを読むこと
+const geocache_board_place = "./public/data/*/board/**/*.geo_cache";
+const location_board_place = "./public/data/*/board/**/*.kml";
+const geo_cache_polling_place = "./public/data/*/polling_place/**/*.geo_cache";
+const location_polling_place = "./public/data/*/polling_place/**/*.csv";
+
 async function fetchLatLongFormAddress(address)
 {
   if (address != null) {
@@ -34,12 +40,12 @@ async function SaveGeoCache(file, name, address, coordinates)
 
 // うまく動かないので、boardpins.ts からコピペ
 async function GenerateCache() {
-  const remove_files = await glob("./public/data/board/**/*.geo_cache");
+  const remove_files = await glob(geocache_board_place);
   for (const file of remove_files) {
     fs.rm(file);
   }
 
-  const files = await glob("./public/data/board/**/*.kml");
+  const files = await glob(location_board_place);
   for (const file of files) {
     const text = await fs.readFile(file, "utf8");
     const jsdom = new JSDOM();
@@ -84,11 +90,11 @@ async function GenerateCache() {
 
 async function GeneratePollingStationCache()
 {
-  const remove_files = await glob("./public/data/polling_place/**/*.geo_cache");
+  const remove_files = await glob(geo_cache_polling_place);
   for (const file of remove_files) {
     fs.rm(file);
   }
-  const csv_files = await glob("./public/data/polling_place/**/*.csv");
+  const csv_files = await glob(location_polling_place);
   for (const file of csv_files) {
     const text = await fs.readFile(file, "utf8");
     const lines = text.replace("\r","").split("\n");

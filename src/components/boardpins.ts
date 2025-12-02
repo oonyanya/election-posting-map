@@ -51,12 +51,12 @@ export class BoardPins
     return result;
   }
 
-  public async fetchPollingStationFromCsv(region: string, state: string, city: string): Promise<Array<PollingStationPin>> {
+  public async fetchPollingStationFromCsv(election:string, region: string, state: string, city: string): Promise<Array<PollingStationPin>> {
     if (Object.keys(this.cached_address).length == 0) {
-      await this.createAddressListCache(region, state, city);
+      await this.createAddressListCache(election, region, state, city);
     }
 
-    const response = await fetch(`../data/polling_place/${region}/${state}/${city}.csv`)
+    const response = await fetch(`../data/${election}/polling_place/${region}/${state}/${city}.csv`)
     const data = (await response.text()).split("\n");
     const result: Array<PollingStationPin> = [];
     for (const v of data) {
@@ -87,13 +87,13 @@ export class BoardPins
 
   }
 
-  public async fetchBoardPinsFromJson(region: string, state: string, city: string, status: string) : Promise<Array<Pin>> {
+  public async fetchBoardPinsFromJson(election: string, region: string, state: string, city: string, status: string) : Promise<Array<Pin>> {
     let status_list = null;
     if (status != null) {
       status_list = await this.deserialize(status);
     }
 
-    const response = await fetch(`../data/board/${region}/${state}/${city}.json`)
+    const response = await fetch(`../data/${election}/board/${region}/${state}/${city}.json`)
     const data = await response.json();
     const result: Array<Pin> = [];
     for (const v of data) {
@@ -135,7 +135,7 @@ export class BoardPins
     }
   }
 
-  public async createAddressListCache(region: string, state: string, city: string)
+  public async createAddressListCache(election: string, region: string, state: string, city: string)
   {
     if (city == "test_no_geo_cache")
     {
@@ -143,8 +143,8 @@ export class BoardPins
       return;
     }
     if (Object.keys(this.cached_address).length == 0) {
-      await this.fetchAddressListFromPath(`../data/board/${region}/${state}/${city}.kml.geo_cache`);
-      await this.fetchAddressListFromPath(`../data/polling_place/${region}/${state}/${city}.csv.geo_cache`);
+      await this.fetchAddressListFromPath(`../data/${election}/board/${region}/${state}/${city}.kml.geo_cache`);
+      await this.fetchAddressListFromPath(`../data/${election}/polling_place/${region}/${state}/${city}.csv.geo_cache`);
     }
     return;
   }
@@ -211,16 +211,16 @@ export class BoardPins
     return items;
   }
 
-  public async fetchBoardPinsFromKml(region:string , state:string, city:string, status:string) : Promise<Array<Pin>> {
+  public async fetchBoardPinsFromKml(election:string, region:string , state:string, city:string, status:string) : Promise<Array<Pin>> {
     let status_list = null;
     if (status != null) {
       status_list = await this.deserialize(status);
     }
 
-    await this.createAddressListCache(region, state, city);
+    await this.createAddressListCache(election, region, state, city);
 
     const items = [];
-    const response = await fetch(`../data/board/${region}/${state}/${city}.kml`);
+    const response = await fetch(`../data/${election}/board/${region}/${state}/${city}.kml`);
     const text = await response.text();
     const kml_items = this.fetchKml(text);
     for (const item of kml_items) {

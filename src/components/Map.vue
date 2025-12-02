@@ -47,11 +47,13 @@
   const watchCurrentState = ref(false);
 
   class Map {
+    election: String;
     region: String;
     state: String;
     city: String;
     type: String;
     constructor() {
+      this.election = "";
       this.region = "";
       this.state = "";
       this.city = "";
@@ -69,7 +71,7 @@
     if (pins.value == null)
       return;
     let str = borad_pins.serialize(pins.value);
-    let newurl = "region=" + current_map.region + "&state=" + current_map.state + "&city=" + current_map.city + "&type=" + current_map.type + "&status=" + str;
+    let newurl = "election=" + current_map.election + "&region=" + current_map.region + "&state=" + current_map.state + "&city=" + current_map.city + "&type=" + current_map.type + "&status=" + str;
     return newurl;
   }
 
@@ -123,19 +125,20 @@
   }
 
   async function loadBorardPin(query) {
-    if (query.region != null && query.state != null && query.city != null && query.type != null)
+    if (query.election != null && query.region != null && query.state != null && query.city != null && query.type != null)
     {
       try {
+        current_map.election = query.election;
         current_map.region = query.region;
         current_map.state = query.state;
         current_map.city = query.city;
         if (query.type == "json") {
-          pins.value = await borad_pins.fetchBoardPinsFromJson(query.region, query.state, query.city, query.status);
+          pins.value = await borad_pins.fetchBoardPinsFromJson(query.election, query.region, query.state, query.city, query.status);
         } else if (query.type == "kml") {
           current_map.type = "kml";
-          pins.value = await borad_pins.fetchBoardPinsFromKml(query.region, query.state, query.city, query.status);
+          pins.value = await borad_pins.fetchBoardPinsFromKml(query.election, query.region, query.state, query.city, query.status);
         }
-        polling_station_pins.value = await borad_pins.fetchPollingStationFromCsv(query.region, query.state, query.city);
+        polling_station_pins.value = await borad_pins.fetchPollingStationFromCsv(query.election, query.region, query.state, query.city);
       } catch (error) {
         debugger;
         statusMessage.value = error;
@@ -145,7 +148,9 @@
 
   async function loadBorardPinFromString(uri_param: string, merge_from_params: string) {
     const url = new URLSearchParams(uri_param);
-    let region, state, city, status, type;
+    let election, region, state, city, status, type;
+    if (url.has("election"))
+      election = url.get("election");
     if (url.has("region"))
       region = url.get("region");
     if (url.has("state"))
@@ -156,17 +161,18 @@
       type = url.get("type");
     if (url.has("status"))
       status = url.get("status");
-    if (region != null && state != null && city != null && type != null) {
+    if (election != null && region != null && state != null && city != null && type != null) {
       let temp_pins = [];
       try {
+        current_map.election = election;
         current_map.region = region;
         current_map.state = state;
         current_map.city = city;
         if (type == "json") {
-          temp_pins = await borad_pins.fetchBoardPinsFromJson(region, state, city, status);
+          temp_pins = await borad_pins.fetchBoardPinsFromJson(election, region, state, city, status);
         } else if (type == "kml") {
           current_map.type = "kml";
-          temp_pins = await borad_pins.fetchBoardPinsFromKml(region, state, city, status);
+          temp_pins = await borad_pins.fetchBoardPinsFromKml(election, region, state, city, status);
         }
 
         if (merge_from_params != null)
@@ -175,7 +181,9 @@
           for (const uri_param of uri_params)
           {
             const url = new URLSearchParams(uri_param);
-            let region, state, city, status, type;
+            let election, region, state, city, status, type;
+            if (url.has("election"))
+              election = url.get("election");
             if (url.has("region"))
               region = url.get("region");
             if (url.has("state"))
@@ -193,7 +201,7 @@
 
         pins.value = temp_pins;
 
-        polling_station_pins.value = await borad_pins.fetchPollingStationFromCsv(region, state, city);
+        polling_station_pins.value = await borad_pins.fetchPollingStationFromCsv(election, region, state, city);
       } catch (error) {
         statusMessage.value = error;
       }

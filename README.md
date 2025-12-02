@@ -28,26 +28,27 @@ https://ss749137.stars.ne.jp/
 
 public/data/boardにkmlを配置してください。
 kmlファイルの文字コードはUTF-8でないとうまく処理ができません。
-例えば、埼玉県さいたま市大宮区だとpublic/data/board/japan/saitama/saitama_oomiya.kmlみたいな形で配置します。
+例えば、埼玉県さいたま市大宮区だとpublic/data/type1/board/japan/saitama/saitama_oomiya.kmlみたいな形で配置します。
 配置後はMapList.vueに適宜追加してください。
 先ほどのやつですと、
 
 ```
-<RouterLink :to="{ path:'/map',query:{region:'japan',state:'saitama',city:'saitama_oomiya',type:'kml' }}">さいたま市大宮区</RouterLink>
+<RouterLink :to="{ path:'/map',query:{election:'type1',region:'japan',state:'saitama',city:'saitama_oomiya',type:'kml' }}">さいたま市大宮区</RouterLink>
 ```
 
 みたいに書きます。
 
 ## 投票所の配置の仕方
 
-public/data/polling_placeにcsvを配置してください。
+public/data/〇〇/polling_placeにcsvを配置してください。
+〇〇はtype1などが入ります。
 csvは以下の形式で作り、文字コードはUTF-8、改行コードはLFで保存してください。
 
 ```
 高齢者生きがい活動センター研修室・講座室,埼玉県さいたま市北区植竹町1-593-1
 ```
 
-例えば、埼玉県さいたま市北区だとpublic/data/polling_place/japan/saitama/saitama_kita.csvみたいな形で配置します。
+例えば、埼玉県さいたま市北区だとpublic/data/type1/polling_place/japan/saitama/saitama_kita.csvみたいな形で配置します。
 
 
 みたいに書きます。
@@ -57,19 +58,19 @@ csvは以下の形式で作り、文字コードはUTF-8、改行コードはLF�
 「復元する」ボタンを押して、以下の文字列を貼り付けると動作確認ができます。
 
 ```
-region=japan&state=saitama&city=test&type=json
+region=japan&state=saitama&city=test&type=json&election=type1
 ```
 
 ```
-region=japan&state=saitama&city=test&type=kml
+region=japan&state=saitama&city=test&type=kml&election=type1
 ```
 
 ```
-region=japan&state=saitama&city=test_no_geo_cache&type=kml
+region=japan&state=saitama&city=test_no_geo_cache&type=kml&election=type1
 ```
 
 ```
-region=japan&state=saitama&city=test_geo_cache&type=kml
+region=japan&state=saitama&city=test_geo_cache&type=kml&election=type1
 ```
 
 ## ビルドの仕方
