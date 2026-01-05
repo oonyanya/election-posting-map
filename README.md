@@ -7,7 +7,7 @@
 諸般の事情により埼玉県の奴だけテスト用に付属しています。
 
 デモサイト
-https://ss749137.stars.ne.jp/
+https://election.github.io
 
 ## 使い方
 
