@@ -14,6 +14,10 @@ export class Pin {
     this.long = 0.0;
     this.status = false;
   }
+
+  public get_hash(): string {
+    return this.name;
+  }
 }
 
 export class PollingStationPin {
@@ -113,7 +117,7 @@ export class BoardPins
       pin.long = v.geom.coordinates[0];
       pin.lat = v.geom.coordinates[1];
       if (status_list && pin.name != null)
-        pin.status = status_list[pin.name];
+        pin.status = status_list[pin.get_hash()];
       else
         pin.status = false;
       result.push(pin);
@@ -264,7 +268,7 @@ export class BoardPins
       }
 
       if (status_list && pin.name != null)
-        pin.status = status_list[pin.name];
+        pin.status = status_list[pin.get_hash()];
       else
         pin.status = false;        
 
@@ -288,7 +292,7 @@ export class BoardPins
       pin.lat = oldpin.lat;
       pin.long = oldpin.long;
       if (status_list && pin.name != null && oldpin.status == false)
-        pin.status = status_list[pin.name];
+        pin.status = status_list[pin.get_hash()];
       else
         pin.status = oldpin.status;
       items.push(pin);
