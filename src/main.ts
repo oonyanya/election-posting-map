@@ -18,8 +18,9 @@ const routes = [
   { path: '/:notFound(.*)', component: NotFoundComponent },
 ]
 
+// github pagesだとimport.meta.env.BASE_URLで指定しないとうまく動かない
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes,
 })
 

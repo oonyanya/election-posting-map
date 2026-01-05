@@ -66,7 +66,10 @@ export class BoardPins
       await this.createAddressListCache(election, region, state, city);
     }
 
-    const response = await fetch(`../data/${election}/polling_place/${region}/${state}/${city}.csv`)
+    //こうしないとgithub pagesで動かない
+    const response = await fetch(import.meta.env.BASE_URL + `data/${election}/polling_place/${region}/${state}/${city}.csv`)
+    if (response.status == 404)
+      return [];
     const data = (await response.text()).split("\n");
     const result: Array<PollingStationPin> = [];
     for (const v of data) {
@@ -109,7 +112,8 @@ export class BoardPins
       status_list = await this.deserialize(status);
     }
 
-    const response = await fetch(`../data/${election}/board/${region}/${state}/${city}.json`)
+    //こうしないとgithub pagesで動かない
+    const response = await fetch(import.meta.env.BASE_URL + `data/${election}/board/${region}/${state}/${city}.json`)
     const data = await response.json();
     const result: Array<Pin> = [];
     for (const v of data) {
@@ -135,6 +139,8 @@ export class BoardPins
 
     if (cache_path != null) {
       const response = await fetch(cache_path);
+      if (response.status == 404)
+        return;
       try {
         const data = await response.text();
         const lines = data.split('\n');
@@ -162,8 +168,9 @@ export class BoardPins
       return;
     }
     if (Object.keys(this.cached_address).length == 0) {
-      await this.fetchAddressListFromPath(`../data/${election}/board/${region}/${state}/${city}.kml.geo_cache`);
-      await this.fetchAddressListFromPath(`../data/${election}/polling_place/${region}/${state}/${city}.csv.geo_cache`);
+      //こうしないとgithub pagesで動かない
+      await this.fetchAddressListFromPath(import.meta.env.BASE_URL + `data/${election}/board/${region}/${state}/${city}.kml.geo_cache`);
+      await this.fetchAddressListFromPath(import.meta.env.BASE_URL + `data/${election}/polling_place/${region}/${state}/${city}.csv.geo_cache`);
     }
     return;
   }
@@ -239,7 +246,10 @@ export class BoardPins
     await this.createAddressListCache(election, region, state, city);
 
     const items = [];
-    const response = await fetch(`../data/${election}/board/${region}/${state}/${city}.kml`);
+    //こうしないとgithub pagesで動かない
+    const response = await fetch(import.meta.env.BASE_URL + `data/${election}/board/${region}/${state}/${city}.kml`);
+    if (response.status == 404)
+      return [];
     const text = await response.text();
     const kml_items = this.fetchKml(text);
     for (const item of kml_items) {
