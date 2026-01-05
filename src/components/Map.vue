@@ -134,6 +134,7 @@
         current_map.state = query.state;
         current_map.city = query.city;
         if (query.type == "json") {
+          current_map.type = "json";
           pins.value = await borad_pins.fetchBoardPinsFromJson(query.election, query.region, query.state, query.city, query.status);
         } else if (query.type == "kml") {
           current_map.type = "kml";
@@ -170,10 +171,13 @@
         current_map.state = state;
         current_map.city = city;
         if (type == "json") {
+          current_map.type = "json";
           temp_pins = await borad_pins.fetchBoardPinsFromJson(election, region, state, city, status);
         } else if (type == "kml") {
           current_map.type = "kml";
           temp_pins = await borad_pins.fetchBoardPinsFromKml(election, region, state, city, status);
+        } else {
+          throw "invaild type";
         }
 
         if (merge_from_params != null)
@@ -203,6 +207,7 @@
         pins.value = temp_pins;
 
         polling_station_pins.value = await borad_pins.fetchPollingStationFromCsv(election, region, state, city);
+        statusMessage.value = "sucess to restore state";
       } catch (error) {
         statusMessage.value = error;
       }
@@ -214,19 +219,16 @@
     if (uri_param != null) {
       if (uri_param != "") {
         await loadBorardPinFromString(uri_param, merge_from_params);
-        statusMessage.value = "sucess to restore state";
       } else {
         var previousState = localStorage.getItem(STATE_NAME);
         if (previousState != null) {
           await loadBorardPinFromString(previousState, null);
-          statusMessage.value = "sucess to restore state";
         }
       }
     } else {
       var previousState = localStorage.getItem(STATE_NAME);
       if (previousState != null) {
         await loadBorardPinFromString(previousState, null);
-        statusMessage.value = "sucess to restore state";
       }
     }
   }

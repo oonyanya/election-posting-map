@@ -1,7 +1,7 @@
 import { compressToEncodedURIComponent, decompressFromEncodedURIComponent } from 'lz-string'
 
 export class Pin {
-  public name: string | null;
+  public name: string;
   public description: string | null;
   public lat: number;
   public long: number;
@@ -17,8 +17,8 @@ export class Pin {
 }
 
 export class PollingStationPin {
-  public name: string | null;
-  public description: string | null;
+  public name: string;
+  public description: string;
   public lat: number;
   public long: number;
 
@@ -32,7 +32,9 @@ export class PollingStationPin {
 
 export class BoardPins
 {
-  public serialize(pins : Array<Pin>):string {
+  static readonly DUMMY_NAME = "dummy";
+
+  public serialize(pins: Array<Pin>): string {
     let s = "";
     for (const pin of pins) {
       s += pin.name + "=" + pin.status + ":";
@@ -104,11 +106,14 @@ export class BoardPins
     const result: Array<Pin> = [];
     for (const v of data) {
       const pin = new Pin();
-      pin.name = v.dispname;
+      if (v.dispname == null)
+        pin.name = BoardPins.DUMMY_NAME;
+      else
+        pin.name = v.dispname;
       pin.long = v.geom.coordinates[0];
       pin.lat = v.geom.coordinates[1];
-      if (status_list)
-        pin.status = status_list[v.dispname];
+      if (status_list && pin.name != null)
+        pin.status = status_list[pin.name];
       else
         pin.status = false;
       result.push(pin);
@@ -231,7 +236,10 @@ export class BoardPins
     const kml_items = this.fetchKml(text);
     for (const item of kml_items) {
       const pin = new Pin();
-      pin.name = item.name;
+      if (item.name == null)
+        pin.name = BoardPins.DUMMY_NAME;
+      else
+        pin.name = item.name;
       pin.description = item.description;
 
       if (item.coordinates != null) {
