@@ -13,10 +13,14 @@ export class Pin {
     this.lat = 0.0;
     this.long = 0.0;
     this.status = false;
+    this._hash = null;
   }
 
+  private _hash: string | null;
   public get_hash(): string {
-    return this.name;
+    if (this._hash == null)
+      this._hash = this.name + "%20" + this.lat.toString() + "%20" + this.long.toString();
+    return this._hash;
   }
 }
 
@@ -41,7 +45,7 @@ export class BoardPins
   public serialize(pins: Array<Pin>): string {
     let s = "";
     for (const pin of pins) {
-      s += pin.name + "=" + pin.status + ":";
+      s += pin.get_hash() + "=" + pin.status + ":";
     }
     return compressToEncodedURIComponent(s);
   }
