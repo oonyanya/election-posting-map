@@ -14,7 +14,7 @@ import NotFoundComponent from './NotFoundComponent.vue'
 const routes = [
   { path: '/', component: MapList },
   { path: '/map', component: MapView },
-  { path: '/map/:region/:state/:city/:type', component: MapView, props: true },
+  { path: '/map/:election/:region/:state/:city/:type', component: MapView, props: true },
   { path: '/:notFound(.*)', component: NotFoundComponent },
 ]
 
