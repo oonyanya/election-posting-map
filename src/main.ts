@@ -18,7 +18,7 @@ const routes = [
   { path: '/:notFound(.*)', component: NotFoundComponent },
 ]
 
-// github pagesだとimport.meta.env.BASE_URLで指定しないとうまく動かない
+// github pagesだとimport.meta.env.BASE_URLで指定し、ハッシュモードを指定しないとうまく動かない
 const router = createRouter({
   history: createWebHashHistory(import.meta.env.BASE_URL),
   routes,
