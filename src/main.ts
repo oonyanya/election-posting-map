@@ -1,7 +1,7 @@
 import './assets/main.css'
 
 import { createApp } from 'vue'
-import { createWebHistory, createRouter } from 'vue-router'
+import { createWebHashHistory, createRouter } from 'vue-router'
 
 import App from './App.vue'
 import MapView from './MapView.vue'
@@ -20,7 +20,7 @@ const routes = [
 
 // github pagesだとimport.meta.env.BASE_URLで指定しないとうまく動かない
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHashHistory(import.meta.env.BASE_URL),
   routes,
 })
 
