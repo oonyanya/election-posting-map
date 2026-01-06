@@ -7,7 +7,7 @@
 諸般の事情により埼玉県の奴だけテスト用に付属しています。
 
 デモサイト
-https://election.github.io
+https://oonyanya.github.io/election-map
 
 ## 使い方
 
