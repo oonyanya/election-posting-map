@@ -97,7 +97,7 @@ async function GeneratePollingStationCache()
   const csv_files = await glob(location_polling_place);
   for (const file of csv_files) {
     const text = await fs.readFile(file, "utf8");
-    const lines = text.replace("\r","").split("\n");
+    const lines = text.replaceAll("\r","").split("\n");
     for (const line of lines) {
       if (line == "")
         continue;
