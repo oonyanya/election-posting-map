@@ -11,6 +11,12 @@
       </li>
     </ul>
     <h2>参議院選挙</h2>
+    <h3>千葉県</h3>
+    <ul>
+      <li>
+        <RouterLink :to="{ path:'/map',query:{election:'type1',region:'japan',state:'chiba',city:'kashiwa',type:'kml' }}">柏市</RouterLink>
+      </li>
+    </ul>
     <h3>埼玉県</h3>
     <ul>
       <li>
